@@ -1,0 +1,108 @@
+February 25th, 2025
+Operator
+Greetings and welcome to Root Inc. Fourth Quarter 2024 Earnings Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded. It is now my pleasure to introduce Matt LaMalva, Head of Investor Relations and Corporate Development. Please go ahead.
+
+Matt LaMalva
+Thank you for joining us. Root is hosting this call to discuss its fourth quarter and full year 2024 earnings results. Participating on today's call are Alex Timm, Co-Founder and Chief Executive Officer; and Megan Binkley, Chief Financial Officer. Earlier today, Root issued a shareholder letter announcing its financial results. While this call will reflect items discussed within that document, for more complete information about our financial performance, we also encourage you to read our 2024 form 10-K, which was filed with the Securities and Exchange Commission earlier today. Before we begin, I want to remind you that, matters discussed on today's call will include forward-looking statements related to our operating performance, financial goals, and business outlook, which are based on management's current beliefs and assumptions. Please note that these forward-looking statements reflect our opinions as of the date of this call and we undertake no obligation to revise this information, as a result of new developments that may occur. Forward-looking statements are subject to various risks, uncertainties, and other factors that could cause our actual results to differ materially from those expected and described today.
+
+For a more detailed description of our risk factors, please review our most recent 10-K and shareholder letter. A replay of this conference call will be available on our website under the Investor Relations section. I would also like to remind you that during the call, we will discuss some non-GAAP measures, while talking about Root's performance. You can find reconciliations of those historical measures to the nearest comparable GAAP measures in our financial disclosures, all of which are posted on our website at ir.joinroot.com. I will now turn the call over to Alex Timm, Root's Co-Founder and CEO.
+
+Alex Timm
+Thanks Matt. Simply put, 2024 was a landmark year for Root. We delivered in every facet of our operations, culminating in our first full year of net income profitability. We achieved a gross combined ratio of 95 on $1.3 billion of gross premiums written, generating GAAP net income of $31 million and adjusted EBITDA of $112 million all incredible improvements from 2023. Additional accomplishments for the year include growing policies in force, delivering what we believe is one of the best loss ratios in the industry, continued investments in our pricing and underwriting technology, reducing run rate interest expense and making significant strides to diversify our distribution. Best of all, 2024 was just the beginning for Root. We are excited for the year ahead, as we accelerate our growth trajectory, further expand our partnerships channel and reinvest in our business to drive long-term returns. The progress achieved in 2024 was possible due to the foundation we built in previous years.
+
+We believe this foundation will continue to drive momentum in our business for years to come. Specifically, our policies in force grew by 21% year-over-year to more than 414,000 while achieving what we believe is a best-in-class underwriting performance, a gross loss ratio of 59% and a gross combined ratio of 95%. We deployed our latest pricing and underwriting models, further enhancing our predictive power and allowing us to continually offer the best prices to the best drivers. Given our performance, we were able to reduce our run rate interest expense by more than 50% and dramatically reduce our reinsurance costs, further validating our progress to date and providing a tailwind going into the New Year. We continue to expand into new channels within Direct and drive profitable acquisition investment. We have found success in data-rich lower funnel channels and will continue to scale these wins, while leveraging our success expand into mid to upper funnel strategies. While this will take additional time to produce results, it is the right investment to consistently grow this channel over the long-term. Building differentiated access to customers remains a core pillar in our long-term growth strategy through our partnership channel.
+
+We more than doubled our new writings in 2024 and as the fourth quarter new writings through the partnership channel represent roughly a third of our overall new business. Our progress is driven by a proprietary technology stack that can seamlessly integrate into existing partner platforms, all with meeting customers at contextually relevant times. Our partnerships pipeline remains strong across our three channels of automotive, financial services and independent agents. Along with further growing the partnership channel in 2025, we expect to continue to graduate current partners to fully-embedded experiences and eliminate friction from the purchase experience. A great example of that is Carvana Insurance built with Root, which offers a three-click, bondable purchase experience on a partner platform that our customers have come to know and trust. We remain confident in our long-term growth avenues across both channels, while maintaining a focus on national expansion. We are proud to highlight the recent launch of Minnesota, enabling us to now reach 76% of The U.S. population.
+
+We have filings pending in additional states and expect continued progress in the year ahead. Above all, providing customers a delightful experience and a great price, no matter what channel they come through remains our top priority. As we invest in and accelerate our growth, we will maintain our laser-focused mindset on disciplined underwriting, driven by our proprietary tech platform and data science algorithms. Because our gross loss ratio continues to trend below our long-term target of 60% to 65%, we are able to reduce rates in select states, affording our best savings to our best drivers, while achieving our returns. As we've stated, although lower rates can lead to improved renewals in new writings, it is important to note we do not set prices with the primary goal to gain market share. Rather, our goal is to set prices accurately and our data science acumen and high telematics adoption rate enables us to effectively segment and price accordingly. Our pricing platform also allows us to remain nimble and fast, particularly in times of high macroeconomic uncertainty. We are able to leverage our real time actuarial reviews to incorporate changing trends into our pricing algorithms, and continually offer the best prices to our best drivers.
+
+At Root, it's all about the long-term. That means we invest our capital to drive intrinsic value creation, based on an economic framework over the life of the customer, not calendar period results. At times, this framework can be at odds with being a public company. However, we believe this creates a tremendous opportunity for long-term investors. I will now hand the call over to Megan to discuss our fourth quarter operating results in more detail.
+
+Megan Binkley
+Thanks, Alex. We are thrilled to share that for a second consecutive quarter, we delivered net income profitability, capping off a great 2024 for Root. This remains a testament to our data and technology advantage, our disciplined underwriting and our unwavering focus on capital and expense management. For the fourth quarter, we delivered net income of $22 million, a $46 million improvement year-over-year. We also generated operating income of $35 million and adjusted EBITDA of $43 million in the fourth quarter. These metrics improved $47 million and $43 million year-over-year, respectively. Our outstanding results continue to be driven primarily by growth in our net-earned premium, consistently strong loss ratio performance, our closely-managed fixed expense base and responsible deployment of marketing investment. As we've consistently noted, we do not defer the majority of our customer acquisition costs over the life of our customer, which leads to accelerated expense recognition relative to earned premium.
+
+We saw material increases in policies in force, gross written premium and gross earned premium compared to the fourth quarter of 2023. We achieved this growth while delivering a Q4 gross accident period loss ratio of 61%, a 2 point improvement year-over-year, which was driven by our continued investment in data science and technology. We posted a fourth quarter growth combined ratio of 91%, a 19 point improvement year-over-year. In the fourth quarter of 2024, we ceded approximately 9% of our gross earned premium, and the difference between our gross and net loss and LEE ratios was just 1 point for the quarter. Our improvements in reinsurance costs were made possible through our continued improvement in underwriting results. We continue to maintain strong reinsurance protection for tail risk events, including catastrophe and excess of loss covers. The improvement in our operating results enabled the refinancing of our debt facility with Blackrock in October, which we expect to reduce our run rate interest expense in 2025 by approximately 50%. Blackrock has been a great partner to us over the past few years, and we are pleased to continue our relationship with them.
+
+Overall, it was a fantastic 2024 for Root. But as Alex noted, it's still early in our journey. We remain focused on growing in a thoughtful and disciplined manner, through expanding our footprint and distribution channels and investing in opportunities for the business that present high return potential, including measured experiments across the marketing funnel. We believe continued investments in our people and infrastructure, as well as targeted customer acquisition investment to enable profitable growth is the right decision to drive long-term success and shareholder value. Running the business in a lifetime unit economic framework may impact the degree of GAAP profitability in any given quarter, but we believe that will eventually translate to strong calendar year results, just as we saw take place in 2024. We remain excited for our future and appreciate your continued support. With that, we look forward to your questions.
+
+Operator
+[Operator Instructions] And our first question comes from the line of Tommy McJoynt with KBW. Please proceed.
+
+Tommy McJoynt
+Hi, good afternoon. With what you see as some geographies and customer segments allowing for selective rate decreases and mapping that against others still needing rate increases, what do you expect to be the direction of the premium per policy in the year ahead?
+
+Alex Timm
+Yes. I think you are going to see us file and continue to see some modest rate decreases. And so, that you will see apply some pressure to average premiums. Now at the same time, and we've talked about this before, we are still growing our independent agency channel as well as our partnership channel. And those policies, they retain longer. They usually have more vehicles associated with them. And so, they're fatter policies. And so on a per policy basis, you may see it to be relatively flat to modestly increasing.
+
+
+Tommy McJoynt
+Got it. And when we think about modeling the session rate on your premium going forward, is the fourth quarter a good run rate of that mid single-digits number? It doesn't look like you can get much lower than that.
+
+Megan Binkley
+Yes. Thanks, Tommy. Yes, the reinsurance structure has certainly evolved, as you've seen our underwriting results improve over the last 24 months. We've been able to reduce the quota share sessions quite a bit. So yes, going forward, our focus is going to continue to be purchasing the per risk and catastrophe reinsurance covers to continue to protect the business from tail risk events and volatility. So, yes, you saw in Q4 our session levels of earned premium were around 9%. We do expect that, the session levels going forward will be materially consistent with where they were in Q4.
+
+Tommy McJoynt
+Thanks. And then just last one, you gave some commentary about the retention levels on recent cohorts improving. Are there any data points that you guys would be willing to share or disclose around what those retention versus churn metrics actually look like?
+
+Alex Timm
+No. We're not going to share necessarily any data additional data points right now. But what I will say is there's been a couple of things. One on PIF churn, we have seen a lot of the sort of hyper growth penalty that we saw really coming out of 2023 into 2024 abate and normalize. And so that, as we've said before, will be a tailwind to PIF growth. And so, that's certainly beneficial. In terms of those new cohorts, I think our retention is fairly consistent.
+
+Operator
+[Operator Instructions] And the next question will come from the line of Elyse Greenspan with Wells Fargo. Please proceed.
+
+Elyse Greenspan
+Hi, thanks. Good evening. My first question, you guys were talking about in the prepared remarks, right, you guys are going to reduce rates as the loss ratio has kind of been trending below, right, the 60% to 65% target. As we see some rate reductions, which makes sense given the profitability, where would you expect the loss ratio to settle out based on expectations right for some rate declines and what do you see from a loss trend perspective when you think about 2025?
+
+Alex Timm
+Thanks, Elyse. We're really projecting a low-to-mid single-digits loss trend. It's really what we're seeing right now in 2025. There's some uncertainty around that. We're always monitoring that. And if we ever see that change, we would certainly change our rate position. And we think, particularly with our technology stack and our ability to detect those rates very quickly, as you saw in the last inflationary environment, where we reacted very quickly and got the company into a position to grow faster than almost all of our competitors, we think, we could do that again if we see any changes in the macro economic landscape. So I think you're going to see, but right now, we're expecting, like I said, low single digit trends, low- to mid single digit trends and some slight rate decreases.
+
+So that's going to net out to maybe some slight increases in the loss ratio, but nothing material.
+
+Elyse Greenspan
+Okay. That's helpful. And then we've seen a couple quarters in a row, right, of positive earnings. Obviously, right, you guys are growing and there are some trade-offs there. How do you think about, I guess, have we seen it in inflection and could you give us any sense of where you would expect earnings to trend in 2025?
+
+Alex Timm
+We don't manage the company to a quarterly P&L or quarterly earnings basis. We are always looking to manage the company to a life time value basis. And we have seen a favorable growth environment year-to-date. We're continuing to see our loss ratio perform year-to-date as well. And so, we think there's lots of opportunities to actually scale the company and grow. And we're doing that through our partnerships channel and adding additional partnerships. We're doing that through our adding states and getting national. And so, you're going to continue to see state expansion from us.
+
+And then lastly, we're going to continue to push new marketing channels that we're seeing and scaling those new marketing channels. And all of that's going to result in additional growth. Now that may mean in a certain quarter, you will see P&L pressure, because we are investing into the business. And we know that's the right investment to make over the long-term. But in the short-term, you may see that actually reduce earnings in a given quarter.
+
+Elyse Greenspan
+And then, you were saying, right, low-to-mid single-digits loss trend in 2025. How are you thinking about the impact of tariffs? And I guess if there is some kind of impact, would that be something we would expect right in the back half, I guess, as opposed to perhaps the front part of 2025? Any color you could give there? Thank you.
+
+Alex Timm
+Thanks, Elyse. We're not right now predicting any impacts from the tariffs. If those happen, we will be watching that real time. And again, because of our technology platform, when those changes happen through our reserving system that is automated, we can detect those changes real time very quickly. We can respond with rate trend. And that's again what put us in such a good position to grow our PIF materially in 2024 and 2023. And so, we do believe if a disruption like that happens in the macro economic landscape or through tariffs or otherwise, that being on a tech chassis actually positions you better than a lot of our incumbent competitors. And so, we're constantly monitoring that, and we are prepared to act very quickly and swiftly, if anything changes in the environment.
+
+
+Operator
+And the next question comes from the line of Andrew Anderson with Jefferies. Please proceed.
+
+Unidentified Analyst
+Hi, guys. This is Charlie on for Andrew. Congrats on the quarter. My first question is just around ad spend going into 2025. Can you guys talk about whether or not you're shifting the type of ad spend between like brand awareness spend versus performance marketing, or I guess any color around directionally how the bits and pieces in there should be moving this year would be helpful.
+
+Alex Timm
+Yes. On our increased investment in our acquisition spend, we are going more up funnel. It's not brand awareness spend, but it is more up funnel into channels like YouTube and video as well as more into direct mail. And so, we are seeing several channels that you would classify as more up funnel or mid funnel channels are working. That's important though. What we are not doing is just investing our marketing dollars to try to drive brand awareness. What we are doing is, we are taking the same competency and the same technology that we built in lower funnel channels that allows us to take all of the rich data and really assign exactly what an appropriate bid is for a customer and to understand what a customer is worth. We're using that same technology in these data-rich channels that are more mid-to-upper funnel channels so that we can still drive returns.
+
+So we are taking it with the same level of discipline and real rigor around making sure that we are hitting our IRR on all of those dollars that we dollars that we invest. And if we ever see that not the case, we will pull back. But we are seeing meaningful opportunities to continue to invest in the business in our direct channel and in new channels as well. So it will be more mid-to-upper funnel, but that does not mean that it's just going to be brand awareness. We are still rigorously measuring every dollar we spend.
+
+Unidentified Analyst
+Okay. Thanks. And then just a follow-up. Between the direct and the embedded partnership channel, where are you guys seeing better returns going into 2025?
+
+Alex Timm
+I'd say both of those channels really are operating at our target returns. There's some puts and takes for each channel. Certainly, in the direct channel, you have low customer acquisition costs, but you expense a lot of those dollars upfront. In the embedded channel and the partnerships channel, we're continuing to see real momentum. We see longer retention in those channels. We see higher average premiums in those channels. And it's a commission rate, which all in might mean higher customer acquisition costs, but you incur those over a longer period of time. And so, we're actively investing in both channels.
+
+On the embedded side, we're investing in technology and development and continuing to scale our embedded platform. And then on direct, we're really investing again more inside of that data platform, so that we can continue to expand in the mid-to-upper funnel channels.
+
+Unidentified Analyst
+Okay. And then just kind of following up on that specifically. I think over the past couple of quarters, we've talked about competition and how that's ramping as different competitors might be in better positions with their books. Do you expect the dynamics as you see them right now, between the two channels to be consistent going through 2025 or would you expect those dynamics to shift in the back half?
+
+Alex Timm
+I'd say we're really expecting it to stay pretty consistent. We're always monitoring the competitive environment. We did see competition increase a bit in Q4, but I think really we're anticipating it to be fairly stable from here.
+
+Operator
+There are no further questions at this time. I'd like to turn the call back to Alex Timm for closing remarks.
+
+Alex Timm
+Thanks everybody for joining and I want to especially thank the team at Root for delivering what was yet again another tremendous quarter. Thanks everybody.
+
+Operator
+This concludes today's conference. You may disconnect your lines at this time. Enjoy the rest of your day.

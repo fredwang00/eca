@@ -1,0 +1,138 @@
+August 5th, 2025
+Operator
+Ladies and gentlemen, greetings, and welcome to the Root Incorp. 2025 Second Quarter Earnings Conference Call. [Operator Instructions] As a reminder, this conference is being recorded. It is now my pleasure to introduce your host for today, Matt LaMalva, Head of Investor Relations and Corporate Development. Please go ahead.
+
+Matthew Patrick LaMalva
+Thank you for joining us. Root is hosting this call to discuss its second quarter 2025 earnings results. Participating on today's call are Alex Timm, Co-Founder and Chief Executive Officer; and Megan Binkley, Chief Financial Officer. Earlier today, Root issued a shareholder letter announcing its financial results. While this call will reflect items discussed within that document, for more complete information about our financial performance, we also encourage you to read our second quarter 2025 Form 10-Q, which was filed with the Securities and Exchange Commission earlier today. Before we begin, I want to remind you that matters discussed on today's call will include forward-looking statements related to our operating performance, financial goals and business outlook, which are based on management's current beliefs and assumptions. Please note that these forward-looking statements reflect our opinions as of the date of this call, and we are not obligated to revise this information as a result of new developments that may occur. Forward-looking statements are subject to various risks, uncertainties and other factors that could cause our actual results to differ materially from those expected and described today.
+
+For a more detailed description of our risk factors, please review our most recent 10-K, 10-Q and shareholder letter. A replay of this conference call will be available on our website under the Investor Relations section. I would also like to remind you that during the call, we will discuss some non-GAAP measures while talking about Root's performance. You can find reconciliations of these historical measures to the nearest comparable GAAP measures in our financial disclosures, all of which are posted on our website at ir.joinroot.com. I will now turn the call over to Alex Timm, Root's Co-Founder and CEO.
+
+Alexander Edward Timm
+Thanks, Matt. The second quarter was another impressive quarter for Root. We delivered strong financial results, setting a record on revenue with $371 million in gross earned premiums and generated net income of $22 million. These results are the culmination of consistent execution of our strategy, allowing us to create great experiences and great prices for our customers. Beyond financial results, we continue to advance our strategy, releasing our next-gen pricing model, continuing to rapidly grow our partnerships channel and making meaningful progress on our path to becoming national. Building AI and Machine Learning to better price insurance is the bedrock of our strategy. Our new pricing model substantially improves our risk selection, increasing customer lifetime values by 20% on average. This impact could be even larger in some states and allows us to grow faster, collect more data and continue to build even more predictive models.
+
+For context, our last model update was released at the end of 2024. Our foundation in Artificial Intelligence, namely Machine Learning, has allowed us to iterate on our models not only rapidly but also with big improvements to segmentation. These results show the power of this technology and our strategy. Our partnerships channel has seen quarterly new writing nearly triple year-over- year, and we are seeing strong early wins with independent agents, driven by our technology platform that makes it incredibly easy for agents to deliver great prices quickly to their clients. We are now available through the industry's 2 largest comparative raters, EZLynx and PL Rating. Now live in more than 20 states, early traction on these platforms has been strong, and we are working to expand within our geographic footprint by year-end. Through these platforms, Root significantly expands its reach, meeting agents where they are with an embedded technology that provides increased efficiency to their quote and buying process. As anticipated, we saw competition increase in our direct channel and our data science machine reacted exactly as designed, reducing marketing spend when appropriate.
+
+To date, we have largely focused on performance marketing channels. Combining the data-rich nature of these channels with our machine learning prowess allows for a competitive advantage among high-intent customers. We have proven that we can win in this segment and believe the next leg of our growth will come from ongoing R&D investments as we leverage this competitive advantage across additional data-rich marketing channels. Given the size of these untapped marketing channels and the opportunity to build a competitive advantage based on data in these channels, we believe this opportunity is substantial and well worth the wait. As mentioned last quarter, we believe we will react swiftly and appropriately to potential tariffs. To date, we have not seen a meaningful impact from tariffs. Given that our current loss ratios remain below our long-term target of 60% to 65%, we are in position to absorb some impact without raising rates or sacrificing our long-term unit economic targets. We are pleased with our progress in the quarter, but are far from satisfied as our goal remains to be the largest, most profitable personal lines insurance carrier in the United States.
+
+We will continue to invest in our business, technology and growth, which we expect will impact near-term profitability in the back half of 2025. As we have made clear, at Root, it's all about the long term. That means we invest our capital to drive intrinsic value creation, not near-term calendar period results. We believe a disciplined adherence to this framework creates a tremendous opportunity for long-term investors, and we are excited to continue to invest in the opportunity ahead. I will now hand the call over to Megan to discuss our second quarter operating results in more detail.
+
+Megan Nicole Binkley
+Thanks, Alex. Overall, we experienced another quarter of strong performance. In the second quarter, we delivered net income of $22 million, a $30 million improvement year-over-year. We also generated operating income of $27 million and adjusted EBITDA of $38 million, improvements of $24 million and $26 million year-over-year, respectively. In the second quarter, we saw increases in policies in force, gross written premium and gross earned premium when compared to the second quarter of 2024. Our growth in the quarter was driven primarily by our partnership channel as we continue to expand our pipeline with a differentiated insurance offering. We not only grew but did so profitably as evidenced by our gross accident period loss ratio of 60%. We also achieved a net combined ratio of 95% in the quarter, an 8-point improvement on a year-over-year basis, reinforcing the ongoing discipline in how we manage the business and deploy capital.
+
+None of this is possible without continued investment into our business and disciplined execution against our strategy. We remain well capitalized and positioned to pursue the most attractive opportunities ahead of us. At the end of the quarter, we had $314 million in unencumbered capital, and we continue to maintain excess capital across our insurance subsidiaries. This financial flexibility enables us to optimize our operating structure and deploy growth capital dynamically where we see the greatest long-term return potential. Looking ahead to the second half of the year, we plan to continue investing in key strategic areas, expanding our national footprint, enhancing our product suite and deepening our data science and technology capabilities. These investments are foundational to driving long-term growth, scale and sustained value creation. We do expect these investments, combined with typical seasonal loss ratio pressure in H2, to result in increased pressure on net income profitability in the near term. Separately, as we've disclosed, assuming the Carvana short-term warrants expire unexercised on September 1, we would recognize a cumulative warrant expense catch-up.
+
+We expect to incur approximately $16 million to $18 million in noncash expense in Q3 related to the outstanding warrant structure, of which approximately $15.5 million reflects a cumulative catch-up tied to the transition to long-term warrants, which [ best ] based on policy sales. This is expected to result in a net loss for the quarter, but we expect to maintain positive adjusted EBITDA. In short, this reflects the success of our partnership with Carvana and the value we're creating together. Finally, as always, we'll continue to take a disciplined and opportunistic approach to direct marketing investment, adjusting quarter- by-quarter based on performance and competitive dynamics. On the partnership side, while we're still early in scaling this channel, we expect it to continue increasing as a percentage of our overall book in the back half of the year. As we've consistently stated, we've remained focused on growing in a thoughtful and disciplined manner through expanding our footprint and distribution channels and investing in opportunities for the business that present high return potential over the long term. We are excited for our future and appreciate your continued support. With that, Alex and I look forward to your questions.
+
+
+Operator
+[Operator Instructions] The first question comes from Tommy McJoynt with KBW.
+
+Thomas Patrick McJoynt-Griffith
+The first one I want to talk about is just the direction of your expectations for policies in force growth. It seems that we saw a little bit of a deceleration this quarter, and you guys noted some in the commentary around the competitive state of the direct channel of marketing. So can you talk about your appetite to lean into growth on the direct side and what that could mean for your potential PIF growth and your appetite for that going forward?
+
+Alexander Edward Timm
+Yes. Thanks, Tommy. First, I'd note we have seen modest growth in our PIF quarter-to-date in Q3. And so we do believe that there's certainly opportunity to grow the business. We did see in Q2, the direct channel become more competitive, and we're not going to chase a soft market. And so if we're not necessarily expecting that to change in the near term. But we also have been growing our partnership channel very rapidly. That grew 3x year-over-year in new writings.
+
+And we're doing that, and we're still only appointed in fewer than 4% of all independent agents nationwide. So we think that the long-term growth opportunity there is really significant. We also, as you saw in the quarter, just received approval for our product filing in the state of Washington. So that's a meaningful step towards continuing our march to be national, and we believe that, that's also going to add material opportunity for growth in the long term. And then the third thing I'd highlight is we're continuing to test mid- to upper level funnel marketing channels. That is in R&D. It's going to be lumpy. You're going to see some of that expense hit in Q3 as we test more of those channels, and that will be a longer- term growth lever for us.
+
+So again, we've seen modest PIF growth quarter-to-date, and we think that there's a lot of room ahead of us to continue to grow in what is a really massive industry.
+
+Thomas Patrick McJoynt-Griffith
+Got it. And we have seen that partnership channel scale up. Do you have a sense now that it's large enough to enable you to continue growing PIF throughout a soft market even at the time where you might be pulling back on the direct side? Basically, I'm asking, is the partnership channel big enough to offset an intentional pullback in the direct side to still grow through a soft market cycle?
+
+Alexander Edward Timm
+Yes, I think you're going to see modest growth, particularly in the near term as that channel continues to scale. But longer term, particularly after a couple of quarters, I do think that you're going to start to see that channel continue to gain steam and momentum and will be a sizable portion of our business. And that channel, again, because we have really built a lot of -- really a moat around our customers in that business and differentiated access to customers. Even through soft markets, we believe that we can continue to grow. So yes, absolutely, that channel is going to continue to be meaningful.
+
+Thomas Patrick McJoynt-Griffith
+Great. And then just last one around a similar topic. Do you guys have a budget for what you guys plan to spend on growth spend or sales and marketing for at least the rest of this year and however long you're able to think about providing that forecast for?
+
+Megan Nicole Binkley
+Yes. Tommy, it's Megan. That's a good question. As we look at spend throughout the rest of the year, on the direct side, we're going to continue to be opportunistic there. We're going to continue monitoring the competitive environment, and we're really only going to invest there as long as we're meeting our return thresholds. As Alex mentioned, we're also investing in the R&D channels in the back half of the year. And so as I think about just the level of spend overall, I think you can expect it to be slightly elevated compared to where we were in Q2. But that also just depends on the competitive environment and the timing in terms of where we see some of those R&D investments hit.
+
+And keep in mind, those R&D investments are going to be upfront investment, and it's going to take a while for those to really scale through the top line.
+
+Operator
+The next question comes from Andrew Kligerman with TD Securities.
+
+Andrew Scott Kligerman
+My first question is around pricing. Just eyeballing the figures, gross written premium up 12% year-over-year, policies in force up 12% year-over-year. Should I interpret that to mean that pricing was kind of flattish? And maybe from that answer, you could extrapolate a little bit into what types of autos that you're writing the most of? Is it mostly standard? Are you getting any preferred nonstandard? And how is the pricing breaking out there? Maybe even regionally, if you could talk about that.
+
+But the first part is just what's your general pricing? Is it flat?
+
+Alexander Edward Timm
+Yes. Yes. Thanks, Andrew. We are price adequate. I think right now, we are trending a little below our long-term loss ratio targets. And so we are letting trend catch up with us a little bit so that our loss ratio will be more in our target -- our long-term target range of 60% to 65%. But we're very pricing adequate. And so we're not taking a lot of rate.
+
+There's -- we still are seeing some trend. But again, with where our loss ratio is right now, it's in a very strong position. And so we're not looking to take a lot of rate.
+
+Andrew Scott Kligerman
+And maybe just more where are you writing and any segmentation around pricing there?
+
+Alexander Edward Timm
+Yes. I'd say the first big proof point on segmentation, and I think this is hard to overstate, is just the massive advancement that we've taken through our new algorithm that we just shipped that actually has increased. Our expectation is actually over 20% of our -- where we're going to increase LTVs, our customer LTVs by over 20%. And that's material to the business, obviously. And that segmentation really is improving across pretty much virtually every customer segment you can imagine. And so we get a broad swath of the U.S. population. And so we write standard, we write nonstandard, rewrite preferred.
+
+In part of the specialness of Root and what we've built is that our algorithms are able to adequately price across all of those customer segments. There are some areas, of course, that we do better in and some areas that we want to fine-tune and continue to fine-tune, and we think that, that represents upside for us going forward. But we are broadly competitive across the spectrum of different customer segments and across all geographies right now.
+
+Andrew Scott Kligerman
+And Alex, maybe the follow-up is, could you share with us anything about these algorithms that's unique to Root and gives you that competitive advantage to find it a 20% LTV improvement?
+
+Alexander Edward Timm
+I think the most important thing is that we've really -- this company was born in a time of modern quantitative methods that has allowed us to use AI and machine learning in a real native sense since the inception of the company. And that's allowed us to really create a machine that can suck in data from a variety of different sources and rapidly be retrained and continually get better and better at predicting who's going to get into a car accident, what are those car accidents going to cost and how is that going to change over time. And data is only proliferating. And so the ability to continue to ingest this data and quickly respond and understand what it means in terms of matching price to risk, it's fundamental to the industry. And that's exactly why we built the company, and we're seeing a drive, again, the most fundamental of economics in the business in terms of our customer lifetime values increasing by double digits, sheerly through creating better algorithms.
+
+Andrew Scott Kligerman
+That's really interesting. If I could sneak one last one in. Net expense ratio, 29.1% versus 30% year-over-year, 31.6% Q-over-Q. So it's down quite a bit. And in following up on your commentary about investing in R&D and other areas to improve performance and grow. How should we think -- and I know it was asked a different way in the prior question, but how should we think about that 29.1%? Is it more likely to be closer to 31%, 32% like last quarter?
+
+Megan Nicole Binkley
+Yes. Thanks, Andrew. As you look at the gross expense ratio, one thing to keep in mind is that's got your acquisition expense and fixed expense in the quarter. As we think about acquisition expense, we continue to be opportunistic and direct. So that ratio may fluctuate a bit on a quarter-over-quarter basis, just given that when we deploy capital in the direct marketing space, we are expensing all of that upfront. And then when I think about the fixed expense investment, and we've been talking about this for a couple of quarters now, we are making targeted investments in our product and our technology, and we're making those investments to really scale our proprietary pricing models, as Alex talked about, and also our distribution channels. That does not mean that we are not maintaining discipline on fixed expense, but we're also not overly focused on preserving every single point of operating leverage in the near term, especially if it means unlocking meaningful long-term value. And a good example of that is the latest pricing model that Alex just walked through that's already driving more than a 20% lift in customer lifetime value.
+
+So we feel really good about the return on those investments. And in the near term, as a percentage of GEP, you can think about some of these investments that we're making really be just a couple of points of gross earned premium.
+
+Operator
+The next question comes from Hristian Getsov with Wells Fargo.
+
+Hristian Getsov
+You mentioned you're able to absorb some tariff impact if those materialize in the second half. But as we kind of think about premium growth potentially slowing in the back half and earned premium catching up with the written premium slowdown, like technically, that should push loss ratios up. And we have seen a lot of favorable frequency year-to-date, and that could potentially turn, maybe not. But -- so how do you guys balance all of those moving parts when you're pricing products currently and thinking about growth in the second half and onward?
+
+Alexander Edward Timm
+Thanks. We -- I mean, we are constantly monitoring the environment, and we haven't seen any impact yet from the implementation of tariffs. We've got a lot of technology in our claims systems and our reserving functions that really alert us that are very leading indicators as to what's happening with claim costs. And as you saw in 2021, we react very quickly, probably, we believe, the quickest in the industry to those sorts of trends, and it's been a competitive advantage of ours for some time. So when we're looking at that, though, we are not seeing any material signs of increased trend. So we think that it's -- given where our loss ratios are, we definitely are well positioned to absorb that. I'll let Megan talk a little bit about our loss ratio expectations for the back half of the year.
+
+Megan Nicole Binkley
+Yes. Hristian, it's a good question. And on the loss ratio, as Alex mentioned, we have been operating below our long-term target of 60% to 65% for several quarters at this point. And as we look towards the second half of the year, we do expect loss ratios to tick up a couple of points just due to typical seasonality in those periods.
+
+Hristian Getsov
+And then do your writings through your partnership channel, do they have different loss ratios versus on the direct side? Because what I'm trying to understand is if there is a bigger mix towards partnerships versus direct in the short to intermediate term, would that technically drive your loss ratio lower? And then sticking on that, have you ever quantified how much the Carvana partnership accounts for your partnership revenue?
+
+Alexander Edward Timm
+Well, first on the loss ratio, we have channel factors in pricing, and so we actually can make sure that all of our channels are running appropriate loss ratios. And we really price all of our business to the same return. And so we try to make sure that each channel is appropriately priced. And so you shouldn't expect material differences in unit economics really across channels. Second, on Carvana and our partnerships generally, we're very happy with the Carvana partnership. It's been a huge success for us. And we think that, that product is really special in market. That said, there is no single partner that is the majority of our partnership's volume, and that's as much as we disclosed.
+
+
+Hristian Getsov
+Got you. And then just if I could sneak one more in. In terms of the competitive pressures in the direct channel, did that get worse as we kind of went through the Q2? Or it's kind of been spread across since the start of like the year?
+
+Alexander Edward Timm
+I'd say we saw a favorable Q1, and we definitely saw some pull forward, particularly from the tariff announcements. And so we did see some strong demand that was sort of pulled forward from Q2 into Q1. But other than that, we really probably, post April, saw just a pretty competitive environment more broadly. And since then, it's been pretty flat.
+
+Operator
+Our next question comes from Andrew Anderson with Jefferies LLC.
+
+Charlie Rodgers
+This is Charlie on for Andrew. So I have kind of a follow-up question on the loss ratios between the 2 channels. I think in the past, you guys have talked about the partnership channel being a bit more preferred, maybe having a bit more of an impact from severity, but less frequency. What I'm trying to understand is, I guess, number one, what is the difference, if any, between new business penalty in the 2 channels? Just trying to think through as you toggle growth in one versus the other, what we should think about in terms of the loss ratio there? And then number two, just the impact on -- from frequency or severity on the two.
+
+Alexander Edward Timm
+Yes. Thanks, Charlie. Yes, I'd say in terms of the new business penalty, you see a little bit more new business penalty in direct than you do in the partnerships channel. It's not massive, and it is different by partner. It's different for independent agents, for example, than it is for automotive partners. And so there's some variance there, but I wouldn't expect it to be huge. And it's a similar story on severity and frequency. Yes, we are -- the mix coming through the partnership channel is more preferred.
+
+And so you will see slightly elevated severity trends. But again, not something that we would expect to really drive material differences in our blended loss ratio.
+
+Charlie Rodgers
+Okay. And I think you guys just touched on it, but the pull forward in demand that you were seeing in the first quarter related to tariffs, did you see like a material reversal of that in second quarter? Or was it just more steady state?
+
+Alexander Edward Timm
+I'd say we saw some headwinds in the second quarter from that for sure. And so that was partially -- that partially drove Q2.
+
+Charlie Rodgers
+Okay. And then last one, if I could. So you guys are now live in Washington. Could you remind us what other states are pending and what we should look for in terms of announcements there next?
+
+Alexander Edward Timm
+Yes. Just to clarify, we did not launch Washington, we just received our product filing approval. And then there's a host of other states that we currently have filings pending, and they are out there in the public domain.
+
+Operator
+Ladies and gentlemen, this concludes the question-and-answer session and the conference of Root Incorp. Thank you for your participation. You may now disconnect your lines.
