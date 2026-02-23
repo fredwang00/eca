@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: eca
+Version: 0.1.0
+Summary: Earnings Call Analyzer - atomic data pipeline for candor analysis
+Requires-Python: >=3.11
+Requires-Dist: click>=8.0
+Requires-Dist: anthropic>=0.40.0
+Requires-Dist: yfinance>=0.2.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"

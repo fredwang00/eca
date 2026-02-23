@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/eca/__init__.py
+src/eca/cli.py
+src/eca.egg-info/PKG-INFO
+src/eca.egg-info/SOURCES.txt
+src/eca.egg-info/dependency_links.txt
+src/eca.egg-info/entry_points.txt
+src/eca.egg-info/requires.txt
+src/eca.egg-info/top_level.txt
