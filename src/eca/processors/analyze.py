@@ -55,19 +55,49 @@ def build_user_message(transcript: str, metrics: dict | None) -> str:
 def run_analysis(
     system_prompt: str,
     user_message: str,
-    model: str = "claude-sonnet-4-20250514",
+    model: str = "claude-sonnet-4-5",
 ) -> str:
-    """Call Anthropic API to produce the candor analysis."""
-    import anthropic
+    """Call LLM API to produce the candor analysis.
 
-    client = anthropic.Anthropic()
-    message = client.messages.create(
-        model=model,
-        max_tokens=8192,
-        system=system_prompt,
-        messages=[{"role": "user", "content": user_message}],
-    )
-    return message.content[0].text
+    Supports two modes:
+    - Hendrix gateway (Spotify): set ECA_API_KEY and optionally ECA_BASE_URL
+    - Direct Anthropic: set ANTHROPIC_API_KEY
+    """
+    import os
+
+    api_key = os.environ.get("ECA_API_KEY")
+    base_url = os.environ.get("ECA_BASE_URL", "https://hendrix-genai.spotify.net/taskforce/anthropic/v1")
+
+    if api_key:
+        # Hendrix gateway -- OpenAI-compatible endpoint with custom apikey header
+        from openai import OpenAI
+
+        client = OpenAI(
+            api_key=api_key,
+            base_url=base_url,
+            default_headers={"apikey": api_key},
+        )
+        response = client.chat.completions.create(
+            model=model,
+            max_tokens=8192,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_message},
+            ],
+        )
+        return response.choices[0].message.content
+    else:
+        # Direct Anthropic SDK -- uses ANTHROPIC_API_KEY env var
+        import anthropic
+
+        client = anthropic.Anthropic()
+        message = client.messages.create(
+            model=model,
+            max_tokens=8192,
+            system=system_prompt,
+            messages=[{"role": "user", "content": user_message}],
+        )
+        return message.content[0].text
 
 
 def extract_and_update_facts(
