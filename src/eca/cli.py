@@ -53,12 +53,14 @@ def migrate_cmd(dry_run: bool):
 @click.argument("ticker")
 @click.argument("quarter", required=False)
 @click.option("--all", "analyze_all", is_flag=True, help="Analyze all quarters missing analysis")
-@click.option("--model", default="claude-sonnet-4-5", help="Model to use (e.g. claude-sonnet-4-5, claude-opus-4-6)")
-def analyze_cmd(ticker: str, quarter: str | None, analyze_all: bool, model: str):
+@click.option("--model", default="claude-sonnet-4-6", help="Model to use (e.g. claude-sonnet-4-6, claude-opus-4-6)")
+@click.option("--compare-prior", is_flag=True, help="Include prior quarter's analysis as context for longitudinal comparison")
+def analyze_cmd(ticker: str, quarter: str | None, analyze_all: bool, model: str, compare_prior: bool):
     """Run Rittenhouse candor analysis via Anthropic API."""
     from eca.config import data_dir, skills_dir, get_sector, quarter_dir
     from eca.processors.analyze import (
-        build_system_prompt, build_user_message, run_analysis, extract_and_update_facts,
+        build_system_prompt, build_user_message, run_analysis,
+        extract_and_update_facts, find_prior_analysis,
     )
     from eca.schema import load_facts
 
@@ -92,7 +94,16 @@ def analyze_cmd(ticker: str, quarter: str | None, analyze_all: bool, model: str)
 
         facts = load_facts(q_dir / "facts.json")
         metrics = facts.get("metrics")
-        user_message = build_user_message(transcript, metrics)
+
+        prior = None
+        if compare_prior:
+            prior = find_prior_analysis(ticker_upper, q)
+            if prior:
+                click.echo(f"  Including prior analysis for longitudinal comparison")
+            else:
+                click.echo(f"  No prior analysis found")
+
+        user_message = build_user_message(transcript, metrics, prior_analysis=prior)
 
         analysis = run_analysis(system_prompt, user_message, model=model)
 

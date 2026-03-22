@@ -5,6 +5,7 @@ from eca.processors.analyze import (
     build_system_prompt,
     build_user_message,
     extract_and_update_facts,
+    find_prior_analysis,
 )
 
 MOCK_OUTPUT = """# Earnings Call Candor Analysis
@@ -63,6 +64,58 @@ def test_build_user_message_with_metrics():
     assert "Financial ground truth" in msg
     assert "387.8" in msg
     assert "Transcript." in msg
+
+
+def test_build_user_message_with_prior_analysis():
+    prior = "### Composite Grade: C\nPrior quarter was rough."
+    msg = build_user_message("New transcript.", None, prior_analysis=prior)
+    assert "Prior quarter analysis" in msg
+    assert "cross-quarter comparison" in msg
+    assert "Composite Grade: C" in msg
+    assert "New transcript." in msg
+
+
+def test_build_user_message_with_metrics_and_prior():
+    metrics = {"revenue_m": 500.0}
+    prior = "### Composite Grade: B\nGood quarter."
+    msg = build_user_message("Transcript.", metrics, prior_analysis=prior)
+    assert "Prior quarter analysis" in msg
+    assert "Financial ground truth" in msg
+    assert "Transcript." in msg
+    # Prior comes before metrics, metrics before transcript
+    prior_pos = msg.index("Prior quarter")
+    metrics_pos = msg.index("Financial ground truth")
+    transcript_pos = msg.index("Transcript.")
+    assert prior_pos < metrics_pos < transcript_pos
+
+
+def test_find_prior_analysis(tmp_path, monkeypatch):
+    monkeypatch.setattr("eca.config.data_dir", lambda: tmp_path)
+
+    ticker_dir = tmp_path / "root"
+    for q, content in [
+        ("q1-2025", "Q1 analysis"),
+        ("q2-2025", "Q2 analysis"),
+        ("q3-2025", None),  # no analysis yet
+    ]:
+        d = ticker_dir / q
+        d.mkdir(parents=True)
+        if content:
+            (d / "analysis.md").write_text(content)
+
+    # q3 should find q2 as prior
+    assert find_prior_analysis("ROOT", "q3-2025") == "Q2 analysis"
+
+    # q2 should find q1 as prior
+    assert find_prior_analysis("ROOT", "q2-2025") == "Q1 analysis"
+
+    # q1 has no prior
+    assert find_prior_analysis("ROOT", "q1-2025") is None
+
+
+def test_find_prior_analysis_no_data(tmp_path, monkeypatch):
+    monkeypatch.setattr("eca.config.data_dir", lambda: tmp_path)
+    assert find_prior_analysis("MISSING", "q1-2025") is None
 
 
 def test_extract_and_update_facts(tmp_path):

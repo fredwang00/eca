@@ -46,6 +46,7 @@ For each dimension, assign a letter grade (A, B, C, D, or F) with a justificatio
 - Is there meaningful discussion of capital allocation priorities (reinvestment vs. buybacks vs. debt reduction)? Are trade-offs explained, not just listed?
 - Are non-IFRS / non-GAAP metrics clearly contextualized, or are they used to flatter results?
 - Is risk discussed substantively—as a real factor in decision-making, not just a legal disclaimer?
+- **Signed vs. aspirational:** Does management distinguish between executed commitments (signed contracts, named counterparties, disclosed terms) and aspirational pipeline? A "$9.7 billion Microsoft contract" is a receivable; "we see enormous demand" is a hope. Credit the former ruthlessly; discount the latter. When contract values are cited, look for counterparty names, term lengths, and prepayment or penalty structures that indicate the commitment is real.
 
 **Scoring rubric:**
 - **A:** Multiple specific financial metrics cited and linked to prior targets or guidance. Forward outlook includes quantitative benchmarks. Risk discussed as a real business factor. Capital allocation rationale is clear with trade-offs acknowledged.
@@ -65,6 +66,7 @@ For each dimension, assign a letter grade (A, B, C, D, or F) with a justificatio
 - Are positioning actions (investments, restructurings, product launches) connected to the strategy with clear logic, or do they float as disconnected bullet points?
 - When strategy shifts, is the change acknowledged and explained—or silently replaced?
 - Are competitive advantages described with specificity (data, structural moats, evidence) or just asserted?
+- **Constraint under pressure:** How did the CEO behave at the company's worst moments? Judge executives by their decisions when things are falling apart, not when everything is working. A CEO who turns down easy revenue because "it's the easy way out, but it's a bit of a cop-out" when the stock is at 18 cents is revealing deep strategic discipline. Look for evidence of hard decisions made under duress — refused shortcuts, maintained standards during crises, said no to revenue that would compromise long-term architecture. These revealed preferences are stronger signals than any stated intention during good times.
 
 **Scoring rubric:**
 - **A:** Strategy is crisp and repeatable. Specific actions are linked to measurable outcomes. Prior commitments are revisited with honest progress updates. Competitive position is substantiated with evidence.
@@ -106,6 +108,7 @@ Dimensions 1–3 and 5 evaluate the *substance* of what is communicated. This di
 - **Jargon without definition:** Technical or financial terms dropped without explanation, when explaining them would serve the audience. (Industry-standard terms used correctly among an informed audience are fine.)
 - **Orwellian nonsense:** Sentences that parse grammatically but mean nothing on inspection (e.g., "strategically advancing momentum," "accelerating our transformation journey").
 - **Deflection in Q&A:** Answering a different question than the one asked. Pivoting to pre-prepared talking points. Saying "great question" then not answering it. Offering length without substance.
+- **Dismissiveness:** When a CEO responds to pressure or criticism with contempt rather than specifics — dismissing questioners, belittling critics, or mocking skeptics (e.g., "People who couldn't spell GPU two years ago") — that is FOG even if no clichés are present. Dismissiveness substitutes authority for evidence and usually resolves badly within a few quarters.
 - **Contradictions:** Claiming caution and aggression simultaneously without resolving the tension. Claiming problems are both serious and not serious within the same passage.
 
 **Scoring rubric:**
@@ -122,7 +125,7 @@ Dimensions 1–3 and 5 evaluate the *substance* of what is communicated. This di
 **What to evaluate:**
 - Does leadership articulate a forward-looking vision that is *specific enough to be falsifiable*—not just aspirational fluff? ("We aim to be the world's leading platform" is not a vision. "We intend to convert 10–15% of the world's population to subscribers" is.)
 - Is there evidence of genuine long-term thinking (multi-year investments, patient capital allocation, willingness to sacrifice short-term results) vs. quarter-to-quarter optimization?
-- Are problems, mistakes, or setbacks disclosed voluntarily? Rittenhouse calls this "What Went Wrong" reporting, and it is a *strong* positive signal. CEOs who admit errors demonstrate the self-awareness that prevents self-deception.
+- Are problems, mistakes, or setbacks disclosed voluntarily? Rittenhouse calls this "What Went Wrong" reporting, and it is a *strong* positive signal. CEOs who admit errors demonstrate the self-awareness that prevents self-deception. Go further: does the CEO demonstrate *discipline during* the problem, not just disclosure *after* it? A CEO who acknowledges a 23% revenue decline, explains why, and moves on ("That's candor") is stronger than one who reframes it as "strategic transition." Look for zero-excuses patterns across good and bad quarters — consistency of candor when it's costly is the real signal.
 - Does leadership demonstrate dualistic thinking—holding optimism and realism simultaneously, acknowledging both risks and opportunities in the same breath?
 - Is there investor education—helping the audience understand the business model, industry dynamics, or key metrics in a way that builds informed long-term ownership?
 - Are stories or examples used to illustrate strategy, culture, or values concretely? Or are they absent, or purely self-congratulatory?
@@ -245,3 +248,5 @@ next period.]
 7. **Separate confidence from arrogance.** A CEO who says "I am confident because [specific reasons]" is building trust. A CEO who says "I am confident" without reasons is asserting authority. The former earns points; the latter earns FOG.
 
 8. **Watch for the "perishable goal" pattern.** If executives introduce goals or metrics this quarter that were never mentioned before, and last quarter's goals are never revisited, flag this as a negative accountability signal—even if the new goals sound impressive.
+
+9. **Watch for stasis across quarters.** When a prior quarter's analysis is provided as context, compare the two transcripts for evolution. Healthy companies' communications evolve — language tightens, specificity increases, new commitments replace fulfilled ones. If consecutive transcripts show no evolution in specificity, accountability, or strategic framing — if they read like "the same press release over and over" — that is a negative signal, even if no individual call scores badly. Conversely, language that tightens over four consecutive quarters (e.g., from promotional to specific after institutional counterparties demand it) is a strong positive structural shift.

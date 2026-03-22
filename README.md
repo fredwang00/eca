@@ -1,60 +1,87 @@
 # Earnings Call Candor Analyzer
 
-A Claude Code skill that grades earnings call transcripts on executive communication quality using L.J. Rittenhouse's *Investing Between the Lines* framework.
-
-Given a full transcript, it produces a structured report scoring five dimensions: financial candor, strategic clarity, stakeholder balance, linguistic FOG, and long-term vision. Each dimension gets a letter grade with specific transcript evidence. The output is designed to help investors distinguish trustworthy disclosure from corporate obfuscation.
+Grades earnings call transcripts on executive communication quality using L.J. Rittenhouse's *Investing Between the Lines* framework. Given a transcript, it scores five dimensions — financial candor, strategic clarity, stakeholder balance, linguistic FOG, and long-term vision — with letter grades backed by specific transcript evidence. Designed to help investors distinguish trustworthy disclosure from corporate obfuscation.
 
 ## Installation
 
-### As a Claude Code skill
+Requires Python 3.11+.
 
-Add the skill to your Claude Code configuration by including the path to `SKILL.md` in your `~/.claude/settings.json`:
+```bash
+pip install -e .
+```
+
+This installs the `eca` CLI and its dependencies (click, anthropic, openai, yfinance).
+
+You'll need an Anthropic API key (or access to the Hendrix AI gateway) exported as `ANTHROPIC_API_KEY`.
+
+## CLI usage
+
+The `eca` CLI is the primary interface. It implements an atomic data pipeline: ingest transcripts, fetch metrics, run analysis, then query across results.
+
+```bash
+# Ingest a transcript into the data tree
+eca ingest-transcript GOOG q1-2025 ~/Downloads/goog-q1-2025.txt
+
+# Fetch quarterly financial metrics from Yahoo Finance
+eca ingest-metrics GOOG
+
+# Run Rittenhouse candor analysis on a single quarter
+eca analyze GOOG q1-2025
+
+# Analyze all quarters missing analysis for a ticker
+eca analyze GOOG --all
+
+# Include prior quarter context for longitudinal comparison
+eca analyze GOOG q2-2025 --compare-prior
+
+# Use a specific model
+eca analyze GOOG q1-2025 --model claude-opus-4-6
+
+# Query grades across quarters
+eca query "grades GOOG"
+
+# Natural language queries over the full data tree
+eca query "which company improved most between Q1 and Q4 2025?"
+
+# Migrate from the old transcripts/analyses layout to data/
+eca migrate --dry-run
+eca migrate
+```
+
+## Claude Code skill
+
+The analyzer also works as a Claude Code skill for interactive use. Add the skill to `~/.claude/settings.json`:
 
 ```json
 {
-  "skills": [
-    "/path/to/earnings-call-analyzer/SKILL.md"
-  ]
+  "skills": ["/path/to/earnings-call-analyzer/SKILL.md"]
 }
 ```
 
-Or symlink it into your skills directory:
-
-```bash
-ln -s /path/to/earnings-call-analyzer/SKILL.md ~/.claude/skills/analyze-conference-call/SKILL.md
-```
-
-### Usage
-
-Invoke the skill from Claude Code with a path to a transcript file:
+Then invoke it from Claude Code:
 
 ```
 /analyze-conference-call ~/path/to/transcript.txt
 ```
 
-Transcripts should be plain text with speaker names on their own line followed by their remarks. The skill ignores operator/moderator boilerplate automatically.
+## Data layout
 
-## Transcript library
-
-The `transcripts/` directory organizes earnings call transcripts by ticker and year:
+Each ticker gets a directory under `data/` with one subdirectory per quarter:
 
 ```
-transcripts/
-  spot/
-    2025/
-      q1.txt
-      q2.txt
-      q3.txt
-      q4.txt
+data/
   goog/
-    2025/
-      q1.txt
-      q2.txt
-      q3.txt
-      q4.txt
+    q1-2025/
+      transcript.txt    # raw earnings call text
+      analysis.md       # Rittenhouse framework analysis
+      facts.json        # structured grades, metadata, tracking flags
+    q2-2025/
+    q3-2025/
+    q4-2025/
+    metrics-raw.json    # yfinance financial data (ticker-level)
 ```
 
-Add new companies by creating a directory with their ticker symbol. Transcripts are plain `.txt` files sourced from earnings call webcasts or services like Seeking Alpha, The Motley Fool, or company investor relations pages.
+`facts.json` captures the composite grade, per-dimension grades, company metadata, financial metrics, and tracking notes in a machine-readable format for cross-quarter queries.
 
 ## What it grades
 
@@ -63,10 +90,10 @@ Add new companies by creating a directory with their ticker symbol. Transcripts 
 | Capital Stewardship & Financial Candor | 25% | Specificity of financial disclosure, links to prior guidance, capital allocation rationale |
 | Strategic Clarity & Accountability | 25% | Coherence of strategy, measurable milestones, consistency across periods |
 | Stakeholder Balance & Culture Signals | 15% | Whether all stakeholders are addressed meaningfully, authenticity of voice |
-| FOG Index | 20% | Clichés, weasel words, unsupported superlatives, Q&A evasion |
+| FOG Index | 20% | Cliches, weasel words, unsupported superlatives, Q&A evasion |
 | Vision, Leadership & Long-Term Orientation | 15% | Falsifiable vision, problem disclosure, investor education, dualistic thinking |
 
-Grades are composited into a weighted score (A through F) with full arithmetic shown.
+Grades are composited into a weighted score (A through F) with full arithmetic shown. Sector-specific overlays (e.g. insurtech) add domain-relevant criteria.
 
 ## Background
 

@@ -1282,10 +1282,12 @@ def _path_to_quarter_slug(path: Path) -> str | None:
     if re.match(r"q\d-\d{4}", stem):
         return stem
 
-    year_match = re.search(r"(\d{4})", str(path.parent))
+    # Check immediate parent directory name for a year
+    parent_name = path.parent.name
+    year_match = re.match(r"\d{4}$", parent_name)
     quarter_match = re.match(r"(q\d)", stem)
     if year_match and quarter_match:
-        return f"{quarter_match.group(1)}-{year_match.group(1)}"
+        return f"{quarter_match.group(1)}-{parent_name}"
 
     return None
 

@@ -19,37 +19,77 @@ def build_system_prompt(skills_dir: Path, sector: str) -> str:
     return base
 
 
-def build_user_message(transcript: str, metrics: dict | None) -> str:
-    """Construct user message with optional metrics context injection."""
-    if not metrics:
-        return transcript
+def build_user_message(
+    transcript: str,
+    metrics: dict | None,
+    prior_analysis: str | None = None,
+) -> str:
+    """Construct user message with optional metrics and prior analysis context."""
+    sections: list[str] = []
 
-    dollar_millions = {
-        "revenue_m": "Revenue",
-        "gross_profit_m": "Gross Profit",
-        "operating_income_m": "GAAP Operating Income",
-        "free_cash_flow_m": "Free Cash Flow",
-        "operating_cash_flow_m": "Operating Cash Flow",
-        "cash_and_equivalents_m": "Cash & Equivalents",
-        "total_equity_m": "Total Equity",
-    }
-    other_fields = {
-        "shares_outstanding_m": ("Shares Outstanding", "{val}M"),
-        "bvps": ("Book Value Per Share", "${val}"),
-    }
+    if prior_analysis:
+        sections.append(
+            "Prior quarter analysis (use for cross-quarter comparison — "
+            "look for evolution in candor, specificity, and accountability; "
+            "flag stasis or regression):\n\n"
+            + prior_analysis
+        )
 
-    parts = ["Financial ground truth for verification:"]
-    for field, label in dollar_millions.items():
-        val = metrics.get(field)
-        if val is not None:
-            parts.append(f"- {label}: ${val}M")
-    for field, (label, fmt) in other_fields.items():
-        val = metrics.get(field)
-        if val is not None:
-            parts.append(f"- {label}: {fmt.replace('{val}', str(val))}")
+    if metrics:
+        dollar_millions = {
+            "revenue_m": "Revenue",
+            "gross_profit_m": "Gross Profit",
+            "operating_income_m": "GAAP Operating Income",
+            "free_cash_flow_m": "Free Cash Flow",
+            "operating_cash_flow_m": "Operating Cash Flow",
+            "cash_and_equivalents_m": "Cash & Equivalents",
+            "total_equity_m": "Total Equity",
+        }
+        other_fields = {
+            "shares_outstanding_m": ("Shares Outstanding", "{val}M"),
+            "bvps": ("Book Value Per Share", "${val}"),
+        }
 
-    parts.append("\nUse these figures to verify management's claims and flag discrepancies.")
-    return "\n".join(parts) + "\n\n---\n\n" + transcript
+        parts = ["Financial ground truth for verification:"]
+        for field, label in dollar_millions.items():
+            val = metrics.get(field)
+            if val is not None:
+                parts.append(f"- {label}: ${val}M")
+        for field, (label, fmt) in other_fields.items():
+            val = metrics.get(field)
+            if val is not None:
+                parts.append(f"- {label}: {fmt.replace('{val}', str(val))}")
+        parts.append(
+            "\nUse these figures to verify management's claims and flag discrepancies."
+        )
+        sections.append("\n".join(parts))
+
+    sections.append(transcript)
+    return "\n\n---\n\n".join(sections)
+
+
+def find_prior_analysis(ticker: str, current_quarter: str) -> str | None:
+    """Find the most recent analysis.md before current_quarter.
+
+    Quarter slugs are sorted lexically (e.g., q1-2025, q2-2025, q3-2025).
+    Returns the analysis text or None.
+    """
+    from eca.config import data_dir
+
+    ticker_dir = data_dir() / ticker.lower()
+    if not ticker_dir.exists():
+        return None
+
+    quarters = sorted(
+        d.name for d in ticker_dir.iterdir()
+        if d.is_dir() and (d / "analysis.md").exists()
+    )
+
+    prior = [q for q in quarters if q < current_quarter]
+    if not prior:
+        return None
+
+    return (ticker_dir / prior[-1] / "analysis.md").read_text()
 
 
 def run_analysis(
