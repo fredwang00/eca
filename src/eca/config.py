@@ -9,6 +9,13 @@ SECTOR_MAP: dict[str, str] = {
     "SPOT": "base",
     "GOOG": "base",
     "TSLA": "base",
+    "METAPLANET": "base",
+    "IREN": "base",
+    "CIFR": "base",
+    "HUT": "base",
+    "WULF": "base",
+    "NBIS": "base",
+    "CRWV": "base",
 }
 
 COMPANY_NAMES: dict[str, str] = {
@@ -18,6 +25,13 @@ COMPANY_NAMES: dict[str, str] = {
     "SPOT": "Spotify Technology S.A.",
     "GOOG": "Alphabet Inc.",
     "TSLA": "Tesla, Inc.",
+    "METAPLANET": "Metaplanet Inc.",
+    "IREN": "IREN (formerly Iris Energy)",
+    "CIFR": "Cipher Digital (formerly Cipher Mining)",
+    "HUT": "Hut 8 Corp.",
+    "WULF": "TeraWulf Inc.",
+    "NBIS": "Nebius Group N.V.",
+    "CRWV": "CoreWeave, Inc.",
 }
 
 
