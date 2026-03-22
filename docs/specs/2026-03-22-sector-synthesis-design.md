@@ -15,7 +15,7 @@ ECA analyzes transcripts one at a time. After grading 10 IREN quarters and 2 CIF
 ## Command Interface
 
 ```bash
-eca synthesize --sector "Digital Infrastructure & Power"
+eca synthesize --sector infra
 eca synthesize --sector all
 eca synthesize --list-sectors
 eca build-index          # rebuild SQLite from facts.json files
@@ -27,17 +27,17 @@ New `WATCHLIST_SECTORS` mapping in config.py, mirroring the macro watchlist cate
 
 ```python
 WATCHLIST_SECTORS = {
-    "AI Infrastructure": ["NVDA", "MSFT", "GOOG", "META", "AMZN", "AAPL", "TSLA", "PLTR"],
-    "Digital Infrastructure & Power": ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
-    "Crypto & Digital Assets": ["MSTR", "BMNR", "COIN", "CRCL"],
-    "Space Economy": ["RKLB", "ASTS"],
-    "Consumer & Real Economy": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT"],
-    "High Variance / Venture": ["EOSE"],
-    "Employer & Correlated": ["SPOT", "HIMS"],
+    "ai":       ["NVDA", "MSFT", "GOOG", "META", "AMZN", "AAPL", "TSLA", "PLTR"],
+    "infra":    ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
+    "crypto":   ["MSTR", "BMNR", "COIN", "CRCL"],
+    "space":    ["RKLB", "ASTS"],
+    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT"],
+    "venture":  ["EOSE"],
+    "employer": ["SPOT", "HIMS"],
 }
 ```
 
-**Relationship to `SECTOR_MAP`:** These serve different purposes. `SECTOR_MAP` controls which analysis skill prompt is used (e.g., `"ROOT": "insurtech"` adds insurance-specific grading criteria). `WATCHLIST_SECTORS` groups tickers for cross-company synthesis by investment thesis. A ticker can be in both — ROOT uses the insurtech skill for analysis but belongs to "Consumer & Real Economy" for synthesis. `--list-sectors` prints sector names with their ticker lists.
+**Relationship to `SECTOR_MAP`:** These serve different purposes. `SECTOR_MAP` controls which analysis skill prompt is used (e.g., `"ROOT": "insurtech"` adds insurance-specific grading criteria). `WATCHLIST_SECTORS` groups tickers for cross-company synthesis by investment thesis. A ticker can be in both — ROOT uses the insurtech skill for analysis but belongs to "consumer" for synthesis. `--list-sectors` prints sector names with their ticker lists.
 
 ## Data Flow
 
@@ -192,8 +192,9 @@ Timestamped markdown files in `data/synthesis/`:
 
 ```
 data/synthesis/
-    digital-infrastructure-power-2026-03-22.md
-    ai-infrastructure-2026-03-22.md
+    infra-2026-03-22.md
+    ai-2026-03-22.md
+    crypto-2026-03-22.md
     ...
 ```
 
