@@ -83,3 +83,82 @@ def ticker_brief(ticker: str, model: str) -> Path | None:
     out_path = data_dir() / ticker.lower() / "brief.md"
     out_path.write_text(brief)
     return out_path
+
+
+def build_sector_input(sector: str, conn) -> str:
+    """Assemble ticker briefs + aggregated metrics for a sector."""
+    from eca.db import query_sector_financials, query_grade_trajectory, query_flag_frequency
+
+    tickers = WATCHLIST_SECTORS.get(sector, [])
+    sections: list[str] = [f"# Sector: {sector}\n"]
+
+    # Ticker briefs
+    for ticker in tickers:
+        brief_path = data_dir() / ticker.lower() / "brief.md"
+        if brief_path.exists():
+            sections.append(brief_path.read_text())
+        else:
+            sections.append(f"## {ticker}\nNo analysis data available.\n")
+
+    def fmt(v):
+        return f"${v:.0f}M" if v else "—"
+
+    # Aggregated financial metrics table
+    financials = query_sector_financials(conn, tickers)
+    if financials:
+        table_lines = ["## Financial Summary\n",
+                       "| Ticker | Quarters | Revenue | CapEx | FCF |",
+                       "|--------|----------|---------|-------|-----|"]
+        for row in financials:
+            table_lines.append(
+                f"| {row['ticker']} | {row['quarter_count']} "
+                f"| {fmt(row['total_revenue'])} | {fmt(row['total_capex'])} "
+                f"| {fmt(row['total_fcf'])} |"
+            )
+        sections.append("\n".join(table_lines))
+
+    # Grade trajectory
+    grades = query_grade_trajectory(conn, tickers)
+    if grades:
+        grade_lines = ["## Grade Trajectory\n",
+                       "| Ticker | Quarter | Grade | Score |",
+                       "|--------|---------|-------|-------|"]
+        for row in grades:
+            grade_lines.append(
+                f"| {row['ticker']} | {row['quarter']} "
+                f"| {row['composite_grade']} | {row['composite_score'] or '—'} |"
+            )
+        sections.append("\n".join(grade_lines))
+
+    # Flag frequency
+    flags = query_flag_frequency(conn, tickers)
+    if flags:
+        flag_lines = ["## Flag Frequency\n"]
+        for row in flags:
+            flag_lines.append(f"- {row['flag']}: {row['cnt']} occurrences")
+        sections.append("\n".join(flag_lines))
+
+    return "\n\n---\n\n".join(sections)
+
+
+def sector_synthesis(sector: str, model: str) -> Path | None:
+    """Generate a sector synthesis via LLM. Returns path to output or None."""
+    from eca.llm import run_analysis
+    from eca.db import connect_db
+
+    db_path = data_dir() / "eca.db"
+    if not db_path.exists():
+        return None
+
+    conn = connect_db(db_path)
+    user_input = build_sector_input(sector, conn)
+    conn.close()
+
+    system_prompt = (skills_dir() / "synthesis-sector.md").read_text()
+    result = run_analysis(system_prompt, user_input, model=model)
+
+    out_dir = data_dir() / "synthesis"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{sector}-{date.today().isoformat()}.md"
+    out_path.write_text(result)
+    return out_path

@@ -58,3 +58,58 @@ def test_ticker_brief_writes_output(tmp_path, monkeypatch):
     assert result is not None
     assert result.name == "brief.md"
     assert result.read_text() == "# Mock Brief"
+
+
+from eca.processors.synthesize import build_sector_input, sector_synthesis
+
+
+def test_build_sector_input(tmp_path, monkeypatch):
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+
+    for ticker in ["iren", "cifr"]:
+        d = tmp_path / "data" / ticker
+        d.mkdir(parents=True)
+        (d / "brief.md").write_text(f"# {ticker.upper()} Brief\nSome analysis.")
+        q = d / "q1-2025"
+        q.mkdir()
+        (q / "facts.json").write_text(json.dumps({
+            "ticker": ticker.upper(),
+            "metrics": {"revenue_m": 100.0, "capital_expenditure_m": 50.0},
+        }))
+
+    from eca.db import rebuild_index, connect_db
+    db_path = tmp_path / "data" / "eca.db"
+    rebuild_index(db_path)
+
+    conn = connect_db(db_path)
+    result = build_sector_input("infra", conn)
+    conn.close()
+
+    assert "IREN Brief" in result
+    assert "CIFR Brief" in result
+    assert "Financial Summary" in result
+
+
+def test_sector_synthesis_writes_output(tmp_path, monkeypatch):
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+    monkeypatch.setattr("eca.llm.run_analysis", lambda sys, usr, model="": "# Infra Synthesis")
+
+    d = tmp_path / "data" / "iren"
+    d.mkdir(parents=True)
+    (d / "brief.md").write_text("# IREN Brief")
+    q = d / "q1-2025"
+    q.mkdir()
+    (q / "facts.json").write_text(json.dumps({"ticker": "IREN", "metrics": {"revenue_m": 240.0}}))
+
+    from eca.db import rebuild_index
+    db_path = tmp_path / "data" / "eca.db"
+    rebuild_index(db_path)
+
+    skills = tmp_path / "skills"
+    skills.mkdir()
+    (skills / "synthesis-sector.md").write_text("You are a macro analyst.")
+
+    result = sector_synthesis("infra", model="test-model")
+    assert result is not None
+    assert "infra-" in result.name
+    assert result.read_text() == "# Infra Synthesis"
