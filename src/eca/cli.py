@@ -144,7 +144,7 @@ def query_cmd(query_text: str, ticker: str | None):
 
     # Fallback: natural language query via Claude
     import json
-    from eca.processors.analyze import run_analysis
+    from eca.llm import run_analysis
 
     all_facts = load_all_facts()
     if not all_facts:

@@ -22,10 +22,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
 from eca.config import data_dir, skills_dir, get_sector, quarter_dir, quarter_sort_key, COMPANY_NAMES
+from eca.llm import run_analysis
 from eca.processors.analyze import (
     build_system_prompt,
     build_user_message,
-    run_analysis,
     extract_and_update_facts,
     find_prior_analysis,
 )
