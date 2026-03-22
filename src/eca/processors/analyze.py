@@ -71,31 +71,36 @@ def build_user_message(
 def find_prior_analysis(ticker: str, current_quarter: str) -> str | None:
     """Find the most recent analysis.md before current_quarter.
 
-    Quarter slugs are sorted lexically (e.g., q1-2025, q2-2025, q3-2025).
+    Sorts chronologically (q4-2024 before q1-2025).
     Returns the analysis text or None.
     """
-    from eca.config import data_dir
+    from eca.config import data_dir, quarter_sort_key
 
     ticker_dir = data_dir() / ticker.lower()
     if not ticker_dir.exists():
         return None
 
+    current_key = quarter_sort_key(current_quarter)
     quarters = sorted(
-        d.name for d in ticker_dir.iterdir()
-        if d.is_dir() and (d / "analysis.md").exists()
+        (d.name for d in ticker_dir.iterdir()
+         if d.is_dir() and (d / "analysis.md").exists()),
+        key=quarter_sort_key,
     )
 
-    prior = [q for q in quarters if q < current_quarter]
+    prior = [q for q in quarters if quarter_sort_key(q) < current_key]
     if not prior:
         return None
 
     return (ticker_dir / prior[-1] / "analysis.md").read_text()
 
 
+DEFAULT_MODEL = "claude-sonnet-4-6"
+
+
 def run_analysis(
     system_prompt: str,
     user_message: str,
-    model: str = "claude-sonnet-4-5",
+    model: str = DEFAULT_MODEL,
 ) -> str:
     """Call LLM API to produce the candor analysis.
 
@@ -125,7 +130,7 @@ def run_analysis(
                 {"role": "user", "content": user_message},
             ],
         )
-        return response.choices[0].message.content
+        result = response.choices[0].message.content
     else:
         # Direct Anthropic SDK -- uses ANTHROPIC_API_KEY env var
         import anthropic
@@ -137,7 +142,11 @@ def run_analysis(
             system=system_prompt,
             messages=[{"role": "user", "content": user_message}],
         )
-        return message.content[0].text
+        result = message.content[0].text
+
+    if not result:
+        raise RuntimeError(f"Model returned no text content (model={model})")
+    return result
 
 
 def extract_and_update_facts(

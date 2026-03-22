@@ -14,7 +14,12 @@ def cli():
 @click.argument("source", type=click.Path(exists=True, path_type=Path))
 def ingest_transcript_cmd(ticker: str, quarter: str, source: Path):
     """Register a transcript and initialize the quarter."""
-    from eca.processors.ingest_transcript import ingest_transcript
+    from eca.processors.ingest_transcript import ingest_transcript, validate_quarter_slug
+
+    try:
+        validate_quarter_slug(quarter)
+    except ValueError as e:
+        raise click.UsageError(str(e))
 
     target = ingest_transcript(ticker, quarter, source)
     click.echo(f"Ingested transcript -> {target}")
@@ -73,10 +78,12 @@ def analyze_cmd(ticker: str, quarter: str | None, analyze_all: bool, model: str,
         ticker_path = data_dir() / ticker.lower()
         if not ticker_path.exists():
             raise click.UsageError(f"No data directory for {ticker_upper}. Run ingest-transcript first.")
-        quarters_to_analyze = [
-            d.name for d in sorted(ticker_path.iterdir())
-            if d.is_dir() and not (d / "analysis.md").exists()
-        ]
+        from eca.config import quarter_sort_key
+        quarters_to_analyze = sorted(
+            (d.name for d in ticker_path.iterdir()
+             if d.is_dir() and not (d / "analysis.md").exists()),
+            key=quarter_sort_key,
+        )
     elif quarter:
         quarters_to_analyze = [quarter]
     else:
@@ -99,9 +106,9 @@ def analyze_cmd(ticker: str, quarter: str | None, analyze_all: bool, model: str,
         if compare_prior:
             prior = find_prior_analysis(ticker_upper, q)
             if prior:
-                click.echo(f"  Including prior analysis for longitudinal comparison")
+                click.echo("  Including prior analysis for longitudinal comparison")
             else:
-                click.echo(f"  No prior analysis found")
+                click.echo("  No prior analysis found")
 
         user_message = build_user_message(transcript, metrics, prior_analysis=prior)
 

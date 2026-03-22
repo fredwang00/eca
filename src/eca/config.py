@@ -105,3 +105,11 @@ def quarter_dir(ticker: str, quarter: str) -> Path:
 
 def get_sector(ticker: str) -> str:
     return SECTOR_MAP.get(ticker.upper(), "base")
+
+
+def quarter_sort_key(slug: str) -> tuple[int, int]:
+    """Convert a quarter slug like 'q3-2024' to (2024, 3) for chronological sorting."""
+    parts = slug.split("-")
+    if len(parts) == 2 and parts[0].startswith("q"):
+        return (int(parts[1]), int(parts[0][1:]))
+    return (0, 0)

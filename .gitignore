@@ -6,3 +6,5 @@ build/
 .pytest_cache/
 .DS_Store
 .claude/
+data/eca.db
+data/*/brief.md

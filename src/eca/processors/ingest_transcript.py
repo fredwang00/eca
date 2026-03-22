@@ -9,8 +9,18 @@ from eca.config import quarter_dir, COMPANY_NAMES
 from eca.schema import load_facts, save_facts
 
 
+def validate_quarter_slug(quarter_slug: str) -> None:
+    """Raise ValueError if quarter slug is not in 'q1-2025' format."""
+    import re
+    if not re.match(r"^q[1-4]-\d{4}$", quarter_slug.lower()):
+        raise ValueError(
+            f"Invalid quarter '{quarter_slug}'. Expected format: q1-2025"
+        )
+
+
 def normalize_quarter_label(quarter_slug: str) -> str:
     """Convert 'q3-2025' to 'Q3 2025'."""
+    validate_quarter_slug(quarter_slug)
     parts = quarter_slug.lower().split("-")
     return f"{parts[0].upper()} {parts[1]}"
 

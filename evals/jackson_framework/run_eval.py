@@ -21,7 +21,7 @@ from pathlib import Path
 # Ensure project root is on path
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "src"))
 
-from eca.config import data_dir, skills_dir, get_sector, quarter_dir, COMPANY_NAMES
+from eca.config import data_dir, skills_dir, get_sector, quarter_dir, quarter_sort_key, COMPANY_NAMES
 from eca.processors.analyze import (
     build_system_prompt,
     build_user_message,
@@ -68,14 +68,15 @@ JACKSON_SIGNALS = {
 
 
 def find_quarters(ticker: str) -> list[str]:
-    """Find all quarters with transcripts for a ticker."""
+    """Find all quarters with transcripts for a ticker, sorted chronologically."""
     ticker_path = data_dir() / ticker.lower()
     if not ticker_path.exists():
         return []
     return sorted(
-        d.name
-        for d in ticker_path.iterdir()
-        if d.is_dir() and (d / "transcript.txt").exists()
+        (d.name
+         for d in ticker_path.iterdir()
+         if d.is_dir() and (d / "transcript.txt").exists()),
+        key=quarter_sort_key,
     )
 
 

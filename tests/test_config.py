@@ -1,4 +1,4 @@
-from eca.config import get_sector, data_dir, skills_dir, quarter_dir, COMPANY_NAMES
+from eca.config import get_sector, data_dir, skills_dir, quarter_dir, quarter_sort_key, COMPANY_NAMES
 
 
 def test_get_sector_insurtech():
@@ -34,3 +34,18 @@ def test_quarter_dir():
 def test_company_names():
     assert "ROOT" in COMPANY_NAMES
     assert "LMND" in COMPANY_NAMES
+
+
+def test_quarter_sort_key():
+    assert quarter_sort_key("q1-2025") == (2025, 1)
+    assert quarter_sort_key("q4-2024") == (2024, 4)
+
+
+def test_quarter_sort_key_chronological_order():
+    quarters = ["q1-2025", "q4-2024", "q3-2023", "q2-2026", "q2-2024"]
+    result = sorted(quarters, key=quarter_sort_key)
+    assert result == ["q3-2023", "q2-2024", "q4-2024", "q1-2025", "q2-2026"]
+
+
+def test_quarter_sort_key_malformed():
+    assert quarter_sort_key("bad") == (0, 0)

@@ -51,6 +51,20 @@ def test_ingest_transcript_creates_facts_stub(tmp_path, monkeypatch):
     assert facts["quarter"] == "Q3 2025"
 
 
+def test_ingest_transcript_rejects_bad_quarter(tmp_path, monkeypatch):
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+    src = tmp_path / "transcript.txt"
+    src.write_text(SAMPLE_TRANSCRIPT)
+
+    runner = CliRunner()
+    result = runner.invoke(cli, ["ingest-transcript", "root", "q3", str(src)])
+    assert result.exit_code != 0
+    assert "Expected format" in result.output
+
+    result = runner.invoke(cli, ["ingest-transcript", "root", "q5-2025", str(src)])
+    assert result.exit_code != 0
+
+
 def test_ingest_transcript_preserves_existing_facts(tmp_path, monkeypatch):
     monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
 
