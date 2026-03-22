@@ -119,6 +119,17 @@ def analyze_cmd(ticker: str, quarter: str | None, analyze_all: bool, model: str,
         click.echo(f"  -> {q_dir / 'analysis.md'}")
 
 
+@cli.command("build-index")
+def build_index_cmd():
+    """Rebuild SQLite index from facts.json files."""
+    from eca.config import data_dir
+    from eca.db import rebuild_index
+
+    db_path = data_dir() / "eca.db"
+    rebuild_index(db_path)
+    click.echo(f"Index rebuilt -> {db_path}")
+
+
 @cli.command("query")
 @click.argument("query_text")
 @click.option("--ticker", help="Filter by ticker")
