@@ -1,0 +1,139 @@
+{
+  "ticker_averages": {
+    "CIFR": 2.7,
+    "IREN": 2.6715
+  },
+  "pick_avg": 2.68575,
+  "avoid_avg": null,
+  "gap": null,
+  "grades": {
+    "CIFR": [
+      {
+        "quarter": "q3-2025",
+        "composite_grade": "B+",
+        "composite_score": 3.05,
+        "dim1": "B",
+        "dim2": "A-",
+        "dim3": "B",
+        "dim4": "C+",
+        "dim5": "A-"
+      },
+      {
+        "quarter": "q4-2025",
+        "composite_grade": "B",
+        "composite_score": 2.35,
+        "dim1": "D",
+        "dim2": "B",
+        "dim3": "C",
+        "dim4": "B",
+        "dim5": "B"
+      }
+    ],
+    "CRWV": [],
+    "HUT": [],
+    "IREN": [
+      {
+        "quarter": "q1-2025",
+        "composite_grade": "B",
+        "composite_score": 2.65,
+        "dim1": "B",
+        "dim2": "B",
+        "dim3": "C",
+        "dim4": "C",
+        "dim5": "B"
+      },
+      {
+        "quarter": "q1-2026",
+        "composite_grade": "B+",
+        "composite_score": 3.015,
+        "dim1": "B+",
+        "dim2": "B",
+        "dim3": "C+",
+        "dim4": "B-",
+        "dim5": "A-"
+      },
+      {
+        "quarter": "q2-2024",
+        "composite_grade": "B",
+        "composite_score": 2.65,
+        "dim1": "B",
+        "dim2": "B",
+        "dim3": "C",
+        "dim4": "C",
+        "dim5": "B"
+      },
+      {
+        "quarter": "q2-2025",
+        "composite_grade": "B",
+        "composite_score": 2.65,
+        "dim1": "B",
+        "dim2": "B",
+        "dim3": "C",
+        "dim4": "C",
+        "dim5": "B"
+      },
+      {
+        "quarter": "q2-2026",
+        "composite_grade": "B",
+        "composite_score": 2.65,
+        "dim1": "B",
+        "dim2": "B",
+        "dim3": "C",
+        "dim4": "C+",
+        "dim5": "B"
+      },
+      {
+        "quarter": "q3-2023",
+        "composite_grade": "C+",
+        "composite_score": 2.575,
+        "dim1": "B",
+        "dim2": "B-",
+        "dim3": "C+",
+        "dim4": "C",
+        "dim5": "B-"
+      },
+      {
+        "quarter": "q3-2024",
+        "composite_grade": "B",
+        "composite_score": 2.65,
+        "dim1": "B",
+        "dim2": "B",
+        "dim3": "C",
+        "dim4": "C",
+        "dim5": "B"
+      },
+      {
+        "quarter": "q3-2025",
+        "composite_grade": "B",
+        "composite_score": 2.65,
+        "dim1": "B",
+        "dim2": "B",
+        "dim3": "C",
+        "dim4": "C",
+        "dim5": "B"
+      },
+      {
+        "quarter": "q4-2024",
+        "composite_grade": "C+",
+        "composite_score": 2.575,
+        "dim1": "B",
+        "dim2": "B-",
+        "dim3": "C+",
+        "dim4": "C",
+        "dim5": "B-"
+      },
+      {
+        "quarter": "q4-2025",
+        "composite_grade": "B",
+        "composite_score": 2.65,
+        "dim1": "B",
+        "dim2": "B",
+        "dim3": "C",
+        "dim4": "C",
+        "dim5": "B"
+      }
+    ],
+    "NBIS": [],
+    "WULF": []
+  }
+}
