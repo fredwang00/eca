@@ -128,3 +128,57 @@ def _insert_quarter(conn: sqlite3.Connection, ticker: str, quarter: str, facts: 
             "INSERT OR IGNORE INTO quarter_flags (ticker, quarter, flag) VALUES (?, ?, ?)",
             (ticker, quarter, flag),
         )
+
+
+def query_sector_financials(
+    conn: sqlite3.Connection, tickers: list[str], min_quarter: str | None = None,
+) -> list[dict]:
+    """Sum financial metrics per ticker across quarters."""
+    placeholders = ",".join(["?"] * len(tickers))
+    sql = f"""
+        SELECT ticker,
+               SUM(revenue_m) as total_revenue,
+               SUM(capital_expenditure_m) as total_capex,
+               SUM(free_cash_flow_m) as total_fcf,
+               SUM(operating_income_m) as total_operating_income,
+               COUNT(*) as quarter_count
+        FROM quarter_facts
+        WHERE ticker IN ({placeholders})
+        {"AND quarter >= ?" if min_quarter else ""}
+        GROUP BY ticker
+    """
+    params = tickers + ([min_quarter] if min_quarter else [])
+    return [dict(r) for r in conn.execute(sql, params).fetchall()]
+
+
+def query_grade_trajectory(conn: sqlite3.Connection, tickers: list[str]) -> list[dict]:
+    """Grade scores per ticker-quarter, sorted chronologically."""
+    from eca.config import quarter_sort_key
+
+    placeholders = ",".join(["?"] * len(tickers))
+    rows = [
+        dict(r) for r in conn.execute(
+            f"""SELECT ticker, quarter, composite_score, composite_grade,
+                       dim1_grade, dim2_grade, dim3_grade, dim4_grade, dim5_grade
+                FROM quarter_facts
+                WHERE ticker IN ({placeholders}) AND composite_grade IS NOT NULL
+                ORDER BY ticker, quarter""",
+            tickers,
+        ).fetchall()
+    ]
+    rows.sort(key=lambda r: (r["ticker"], quarter_sort_key(r["quarter"])))
+    return rows
+
+
+def query_flag_frequency(conn: sqlite3.Connection, tickers: list[str]) -> list[dict]:
+    """Count each flag across the given tickers."""
+    placeholders = ",".join(["?"] * len(tickers))
+    return [
+        dict(r) for r in conn.execute(
+            f"""SELECT flag, COUNT(*) as cnt
+                FROM quarter_flags
+                WHERE ticker IN ({placeholders})
+                GROUP BY flag ORDER BY cnt DESC""",
+            tickers,
+        ).fetchall()
+    ]
