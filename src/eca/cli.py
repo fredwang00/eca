@@ -130,6 +130,57 @@ def build_index_cmd():
     click.echo(f"Index rebuilt -> {db_path}")
 
 
+@cli.command("synthesize")
+@click.option("--sector", help="Sector name (e.g. infra, ai, crypto) or 'all'")
+@click.option("--list-sectors", is_flag=True, help="List available sectors and exit")
+@click.option("--model", default="claude-sonnet-4-6", help="Model to use")
+def synthesize_cmd(sector: str | None, list_sectors: bool, model: str):
+    """Generate sector-level synthesis from cross-company analysis data."""
+    from eca.config import WATCHLIST_SECTORS, data_dir
+    from eca.db import rebuild_index
+    from eca.processors.synthesize import ticker_brief, sector_synthesis
+
+    if list_sectors:
+        for name, tickers in WATCHLIST_SECTORS.items():
+            click.echo(f"  {name:12s} {', '.join(tickers)}")
+        return
+
+    if not sector:
+        raise click.UsageError("Provide --sector <name> or --list-sectors")
+
+    sectors = list(WATCHLIST_SECTORS.keys()) if sector == "all" else [sector]
+
+    for s in sectors:
+        if s not in WATCHLIST_SECTORS:
+            raise click.UsageError(f"Unknown sector '{s}'. Use --list-sectors to see options.")
+
+    # Rebuild index before synthesis
+    db_path = data_dir() / "eca.db"
+    click.echo("Rebuilding index...")
+    rebuild_index(db_path)
+
+    for s in sectors:
+        tickers = WATCHLIST_SECTORS[s]
+        click.echo(f"\n=== {s} ({len(tickers)} tickers) ===")
+
+        # Stage 1: ticker briefs
+        for ticker in tickers:
+            click.echo(f"  {ticker}: generating brief...")
+            result = ticker_brief(ticker, model=model)
+            if result:
+                click.echo(f"    -> {result}")
+            else:
+                click.echo(f"    (no analyzed data, skipped)")
+
+        # Stage 2: sector synthesis
+        click.echo(f"  Synthesizing {s}...")
+        result = sector_synthesis(s, model=model)
+        if result:
+            click.echo(f"  -> {result}")
+        else:
+            click.echo(f"  (no data for synthesis)")
+
+
 @cli.command("query")
 @click.argument("query_text")
 @click.option("--ticker", help="Filter by ticker")
