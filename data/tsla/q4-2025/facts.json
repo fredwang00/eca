@@ -1,0 +1,15 @@
+{
+  "ticker": "TSLA",
+  "quarter": "Q4 2025",
+  "company": "Tesla, Inc. (TSLA)",
+  "call_date": "January 27, 2026",
+  "candor": {
+    "dim1_grade": "B",
+    "dim2_grade": "C+",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.4,
+    "composite_grade": "C+"
+  }
+}

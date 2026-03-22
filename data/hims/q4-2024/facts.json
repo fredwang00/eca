@@ -1,0 +1,15 @@
+{
+  "ticker": "HIMS",
+  "quarter": "Q4 2024",
+  "company": "Hims & Hers Health (HIMS)",
+  "call_date": "February 23, 2025",
+  "candor": {
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.4,
+    "composite_grade": "C"
+  }
+}

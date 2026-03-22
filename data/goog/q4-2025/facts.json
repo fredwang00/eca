@@ -1,0 +1,15 @@
+{
+  "ticker": "GOOG",
+  "quarter": "Q4 2025",
+  "company": "Alphabet (GOOG)",
+  "call_date": "February 3, 2026",
+  "candor": {
+    "dim1_grade": "B+",
+    "dim2_grade": "B",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.785,
+    "composite_grade": "B"
+  }
+}

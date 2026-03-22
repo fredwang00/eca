@@ -1,0 +1,15 @@
+{
+  "ticker": "ROOT",
+  "quarter": "Q1 2025",
+  "company": "Root, Inc. (ROOT)",
+  "call_date": "May 6, 2025",
+  "candor": {
+    "dim1_grade": "C+",
+    "dim2_grade": "B-",
+    "dim3_grade": "C",
+    "dim4_grade": "C+",
+    "dim5_grade": "C+",
+    "composite_score": 2.355,
+    "composite_grade": "C"
+  }
+}

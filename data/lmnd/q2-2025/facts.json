@@ -1,0 +1,15 @@
+{
+  "ticker": "LMND",
+  "quarter": "Q2 2025",
+  "company": "Lemonade, Inc.",
+  "call_date": "August 4, 2025",
+  "candor": {
+    "dim1_grade": "B+",
+    "dim2_grade": "B+",
+    "dim3_grade": "C+",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.045,
+    "composite_grade": "B"
+  }
+}
