@@ -1,0 +1,240 @@
+May 9th, 2023
+Operator
+Welcome to the Iris Energy Fiscal Year 2023 Results Conference Call. At this time all participants’ are in a listen-mode. After the speakers’ presentation, there will be a question-and-answer session. [Operator Instructions] Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Robert Lincoln. Please go ahead.
+
+Robert Lincoln
+Good afternoon to those of you in North America, and good morning to those of you in Australia. Welcome to the Iris Energy FY '23 Earnings Conference Call. My name is Lincoln Tan, Senior Manager of Investor Relations. And with me on the call today is Daniel Roberts, Co-Founder and Co-CEO; and Belinda Nucifora, CFO. I would like to remind you that certain statements that we make during this call may constitute forward-looking statements and Irish Energy cautions listeners that forward-looking information and statements are based on certain assumptions and risk factors that could cause actual results to differ materially from the expectations of the company. Listeners should not place undue reliance on forward-looking information or statements. Please refer to the disclaimer on slide two within the accompanying presentation. Thank you, and I will now turn the call over to Dan Roberts.
+
+
+Daniel Roberts
+Thank you, Lincoln. Dan Roberts, Co-Founder, Co-CEO, welcome back to another results presentation. We're thrilled to be here. It's been a year of consolidation building and putting ourselves in a position where as an organization, it's fair to say that we're rather excited about what lies ahead. Talking about exciting, there are two quite powerful and exciting numbers on the slide in front of us. They do come with caveats in context, which we'll go into, but we do believe we've laid a very powerful foundation to build upon. And today, we'd like to present that to you. So moving through the slides, there's the disclaimer that Lincoln referred to, encourage you all to read it.
+
+While Iris Energy -- in very simple terms, we've now established a platform, which is ready to scale and continue the growth that we've delivered, particularly over the last 12 months. As we'll discuss today, we've established an extremely powerful power dynamic at Childress, our 600-megawatt Texas side, and we'll go through that today. We've got 30 exahash of bitcoin mining capacity so far as power availability, the land and the program to execute upon that. And as we've previously mentioned, we're exploring next-gen generative AI computing and are quite excited about the upcoming deployment of our NVIDIA H100 chips. $0.014 power at Childress, again, caveats. This is based on actuals since inception. As you can see, we've delivered around $0.02 once we adjust for ERS, which we assume that we'll receive, given we have fulfilled all the requirements to receive that. We weren't eligible for 4 CP given our first year of operations.
+
+So if we adjust for that, we're looking at $0.014 of power. That's extremely powerful. It is lower than what we were expecting, quite frankly. It is a function of volatility in the market, having located close to the source of low-cost wind and solar congested transmission lines, there are periods of substantial power market volatility. Given the way we've established our operations the end-to-end control of systems, technology and infrastructure, we've been able to dynamically interface with those energy markets and throttle between Bitcoin mining and power market trading to optimize that cost of power. However, it may vary significantly from that $0.014 as we saw in August. In August, we delivered a net cost of electricity at Childress our Texas site of minus $0.08 per kilowatt hour. So rather than the $0.014 that we mentioned on the previous slide, there was volatility in the market that led to a substantially different outcome.
+
+$0.08 per kilowatt hour was effectively the equivalent of being paid $28,000 a bitcoin to mine bitcoin, which we then sold for another $28,000 per bitcoin, delivering $56,000 per bitcoin in mining profit. Childress and this power market dynamic is the basis upon which we can now scale rapidly and we're going to start working towards 30 exahash as of overall mining capacity. It involves a single site expansion at this Childress site. As we've previously advised, there's 600 megawatts of power and of our total organizational power capacity of 760 megawatts, 20 megawatts is operating, another 80 megawatts is under construction and due to be commissioned early in the new year, and we've started working through long lead items and construction time frames to continue scaling that up towards the full 600 megawatts and take our business towards that 30 exahash target. It's an ongoing delivery and construction process. We've got teams on site. They continue to build. We envisage them moving from one data center to the next data center continuing to build out capacity on the site.
+
+In addition, we've been thinking very carefully around funding and how we're going to fulfill this. And while we will continue to be respectful of market conditions and throttle up and down our fundraising efforts in line with market conditions, we have put in place a $626 million funding plan at a minimum. That involves the $69 million of existing cash and bank. We still have $57 million under the e-lock facility previously announced. In addition, we're going to establish a $500 million shelf of which $300 million will be dedicated towards an ATM and another $200 million will be put aside for other products. Finally, we continue to envisage reinvesting our operating cash flow in the growth of the business. As we've previously advised and differentiated from other miners, we don't believe in holding bitcoin on our balance sheet. We believe that creates a lazy balance sheet.
+
+We believe that, that lowers risk-adjusted returns for shareholders. When we have the capacity to reinvest that static asset in additional capacity, and compound returns for shareholders to deliver more and more bitcoin equivalent exposure, we believe that's a far superior outcome for shareholders and that they should not be paying us to hold bitcoin on their behalf. Down the bottom, you can see the trajectory that we're on. We've already grown substantially in the last 12 months, and we expect that to continue. Lincoln, I'll pass back to you.
+
+Robert Lincoln
+Thanks very much, Dan. So this page just maps out the peer landscape and in particular, outlined two specific key metrics from August. So in the darker blue shaded columns, that represents bitcoin production in August. And overlaid on top of that in the light blue outline that represents disclosed exahash capacity across the sector. And as you can see, shaded in the green column that's Iris Energy, third largest production of Bitcoin and the NASDAQ with 410 bitcoin mined in August. So if we just take a quick step back here. In terms of the relationship that you would expect to see between disclosed exahash capacity and bitcoin production, the greater hash rate that you have means you've got a greater share of the global hash rate and therefore, you would expect that our bitcoin mining production should be higher. So really, it should come down to relatively simple math and probability.
+
+However, as you can see from the chart, it appears quite evident that not all of the disclosed hash rate capacity is being utilized to buying Bitcoin. Some things not quite matching up as we look across the peer landscape. And to Dan's point earlier, even if we do consider the impact of curtailment particularly in deregulated markets like Texas, from an Iris Energy perspective, we just use our capacity to mine the Bitcoin, and it's our experience that we are still operating at very close to full output over that four, five month period. So in terms of what this means, a few key takeaways from our perspective. Firstly, in terms of how Bitcoin mining companies generate revenue, we don't get paid based on our disclosed exahash capacity. We get paid based on our actual bitcoin production, and that is purely a function of exahash that is on the ground actually operating and hashing within our facilities 24/7. But the second key point here is I think this clearly highlights some potential differences in operating models across the sector and potentially exposes some of the challenges that might be associated with, for example, third-party hosting, old shipping containers, abandoned warehouses, single-source generation and behind the meter arrangements and other business models, which may prioritize speed or other factors over sustainable levels of Bitcon production. And just finally, before I hand back over to Dan, we don't see this as a particularly recent phenomenon.
+
+This is nothing new. We've been tracking these metrics fairly closely and the same sort of monthly data across the sector since our IPO. And we don't really get it. We just think that this is potentially overlooked by the market and potentially something that investors should pay a bit of closer attention to. Over to you, Dan.
+
+Daniel Roberts
+Thanks, Lincoln. So I think that's a good segue link into the next slide. We are positioning ourselves as a next-generation computing platform. We're not a crypto miner. If we buy computers, we actually operate them. As you can see from the previous slide, if we tell you we have an amount of capacity, we will operate it and we will generate revenue from it. Just as we have put a purchase order in for NVIDIA chips, we don't intend for them to sit there idle either. We intend for them to be operated.
+
+As we previously advised, we've ordered 250 NVIDIA H-100 GPUs, they're on order. They're expected to arrive in the coming months, and we continue to have a number of promising customer conversations. We're talking terms, we're talking pricing, we're talking growth ambitions of these customers. And in due course, we are hopeful and would expect to sign a customer and provide a further update to the market. I think what's really exciting for us, the more time that we spend on this sector is just the enormous growth ahead. This is like the dial-up days of the Internet. Remember in the '90s, you'd have to dial up your modem, it would be slow. It would be clunky.
+
+You would go into a messenger service, it again would be slow. There would be latency. And it was a bit of a hurdle to adoption because you really have to be committed to pursue and utilize those services. The exact same dynamic is happening in this space. For those of you on the call that have used generative AI, whether it's large language models or it's generative images like mid-journey, it takes time, particularly the images, text is a bit quicker. But when you're sitting there waiting two minutes to generate an image, that is an indication of why we believe we're at the dial-up phase of this sector. Because, A, it is an indication of the demand. If there is no one using it, those images would be produced faster.
+
+Secondly, more GPUs more capacity we'll make that quicker leading to greater utility out of the service, greater adoption and that positive flywheel effect. So we're super excited, and a large number of the team are currently in Los Angeles at a conference that we've sponsored. We've spoken there to a number of customers. We're excited about the sector. We look forward to providing a further update in due course. Belinda?
+
+Belinda Nucifora
+Thank you Dan. So moving to the first slide, and good morning, everyone. I'd like to take you through some of the key financial numbers for the year ended 30 June 2023 as disclosed in our financial statements and 20-F. So the adjusted EBITDA for the 12 months was $1.4 million with a $16.5 million increase in Bitcoin mining revenue year-on-year. Self-mining operating capacity increased by 390% from 1.2 exahash to 5.6 exahash with an additional 1,860 bitcoin mined in FY '23 with total bitcoin mined for the year of 3,259. The average price realized per bitcoin mined was $23.2000 versus $42.2000 in FY '22. Average electricity cost per bitcoin mined during FY '23 over $11,000 versus FY '22 of $7.9000. Total other costs, which include site and corporate costs were $38.3 million for FY '23 being an increase of $16.5 million from FY '22 primarily driven by the three new sites commissioned during the year, Prince George, Mackenzie and Childress as well as an increase in professional fees and other costs associated with our expanded global business and as we grow beyond the 5.6 exaash.
+
+So moving on to the next slide. The consolidated statement of profit and loss -- so the net loss after income tax of $71.9 million as compared to the loss of $419.8 million in FY '22, was a decrease due to the factors with the noncash mark-to-market of the convertible instruments converted to equity at the IPO during the prior period. FY '23 loss also includes significant noncash items, such as the impairment of assets of $105.2 million, primarily relating to the limited recourse financing of $66.5 million and the impairment of mining hardware of $25.7 million. We also have other significant noncash items such as the share-based payments expense of $14.4 million, which primarily relates to $11.8 million of the amortization of the 75 exercise price options, which were granted pre-IPO. So moving on to the next slide. We have our balance sheet. So we have a strong balance sheet at 30 June 2023 with total net assets of $305.4 million. Cash and cash equivalents of $68.9 million and no debt facilities.
+
+We were able to fully utilize all the main mining hardware prepayments during FY '23. And our total PP&E at the end of 30 June 2023 is $241 million. We have a current asset ratio of 3.7 times, which is underpinning our future growth strategy. And we also have liabilities to asset ratio of 8%, providing flexibility with no debt obligations. So I'll now hand over for our Q&A. I think Lincoln will you start that?
+
+Robert Lincoln
+Yes, that's sounds good. Thanks very much Belinda. In terms of the Q&A, let's start with questions from the conference call line. And then to the attendance time we can move to the questions on the webcast.
+
+Operator
+[Operator Instructions] And our first question will be coming from Mike Colonnese of H.C. Wainwright. Your line is open, Mike.
+
+Mike Colonnese
+Hi, good morning guys. Dan and team, congrats on the tremendous growth in operations over the past year here. First for me, it would be great to get some more detail on the expansion build-out and energization of the miners at Childress. I know your guidance calls for about 3.5 exahash as of miners to come online in early 2024. So I was wondering, should we expect that to come online all at once? And when you say early 2024, are we looking sometime in 1Q?
+
+Daniel Roberts
+I can take this Lincoln, good to hear from you and see you, Mike. Look, as we've previously advised, the expansion of this site happens in 20-megawatt data center increments. Each 20 megawatts is approximately 800 petahash to 850 petahash depending on the specific Milo model that we installed there, kind of revolving around that low-20s efficiency, so basically, as and when each data center is commissioned, that facilitates the ability to plug in around that 800 petahash to 850 petahash. In terms of minor procurement, -- we will advise the market once we formally enter into a purchase agreement for delivery. But at this stage, we remain where we were before, where we think there is substantial optionality in holding. There are a number of conversations ongoing around the right way to procure models in terms of the economics of it and the structure of it. We intend to fill those data centers swiftly as they're commissioned. But at this stage, the ability to tell you exactly how we're doing that.
+
+We prefer not to go into too much more detail.
+
+Mike Colonnese
+Great. Well, fair enough, Dan. I appreciate that. And just looking beyond Phase 1 of this 100-megawatt build-out at Childress, in light of the upcoming having and thinking about future scale, scaling of that facility. How do you plan to approach future expansion? If you could just talk through some of the dynamics there and your thought process as we navigate into future expansion?
+
+Daniel Roberts
+Absolutely. And I think this is what I was alluding to at the start of the call, the hard work has been done. We've got the platform. We've got the site. We've got the team. It's just a continual cookie cutter exercise, quite frankly, where we just have teams on site that roll from one building to the next rolling out 20 megawatts at a time. We don't need any more power. We don't need any more land.
+
+We don't need new supply chains, new ways of doing things. We've proven our data center design. We've proven how it interfaces with the energy market. So from a practical implementation perspective, it's just continuing to do more of the same, which is really exciting. And frankly, it's freed up a lot of our time to focus on new growth areas for the business like this generative AI, GPU, looking at new sites globally and the development opportunities there. Funding is a big part of how quickly you can scale. As we saw during the presentation, we do have almost $70 million of cash in bank, which allows us just to continue to push ahead. We've got other funding loans in place and coming in place.
+
+We're going to continue having those conversations. We're going to be respectful of capital markets, liquidity, cost of capital, et cetera, but our intention is to capitalize on the opportunity in front of us for our shareholders and to continue to build into that.
+
+Mike Colonnese
+Got it. Thank you for taking my questions.
+
+Operator
+[Operator Instructions] And our next question will be coming from Josh Siegler of Cantor Fitzgerald. Your line is open Josh.
+
+Will Carlson
+This is Will Carlson on for Josh Siegler. First question, can you walk us through the delta between the CapEx required for HPC versus bitcoin mining?
+
+Daniel Roberts
+That's a very open-end question, Will, in terms of how you add to that because it is a little bit apples and oranges in the sense that one is an ASIC, one is a GPU. They both require different amounts of data center capacity. They both require slightly different configurations in terms of networking and storage infrastructure. They're both different revenue models. So it is a little bit difficult to say. I have seen a question that relates to this come through on the chat, which is adjacent to your question, which is around how to returns and payback periods interface between the two business lines. This is something that we're working through live time. But I think it's fair to say that with Bitcoin mining, you're generally going to have a higher starting return on investment in terms of annualized cash yield.
+
+It is going to be more volatile, notwithstanding as a low-cost producer, you do have that natural volume hedge if the price goes down too far. With GPU and generative AI, the model is more around selling GPU hours. So in the market, someone will contract with you and pay you X dollars per GPU hour for the right to use your capacity. Now for on-demand spot pricing, that's high for long-term contracts, one, two, three years. It obviously drops lower, partly because you're locking up 100% utilization of that capacity. I think it's generally being fed elsewhere in the market that you can expect two, 2.5-year paybacks on GPUs, but again, it's a very live dynamic market at the moment in terms of those returns. And it also should be said that our focus on what we see as a test case, this initial 250 is less about the discrete ROI on 250 machines as it is of our proven product market fit, building customer relationships and exploring whether a business's scale exists and what that could look like going out into the future.
+
+Will Carlson
+Got it. And then how are you thinking about energy monetization at Childress moving forward? And how do you expect it to contribute during the summer months versus other months of the year?
+
+Daniel Roberts
+Yes. Part of the benefit is we don't need to think. It just does it all automatically. So it's a really simple equation. We contract for power and then our algorithm basically looks at revenue from Bitcoin mining or spot market pricing it makes the decision for us. So we're already using generative AI a little bit actually in terms of how we iterate that in the systems internally. The simple way to think about it is the greater volatility the lower our effective power cost will be because we can tap into that. So every 15 minutes, there's a market price signal in ERCOT.
+
+Our systems look at that price signal, they look at the opportunity cost of diverting electrons away from our machines and say where is the highest and best use of that electricity and they send those electrons to that. So whether that's through the Bitcoin network to deliver Bitcoin denominated revenues or whether it's back into the market. So we have come through summer months. That has been a volatile period for a number of reasons. As we look out into the future, it's fair to say volatility is expected and potentially likely to increase in the future transmission line congestion, the ongoing increased penetration of intermittent renewables et cetera. But all we can do is continue to have our system set up to monetize that volatility and lower our overall cost going forward. The final point I would add is, we've mentioned this before, it is choose your own adventure, I can go seek what our power cost is. If you want us to have $0.02 power, we can do it.
+
+If we want $0.01 power we can do it. It's all about the parameters that we set in our software and what we trade around.
+
+Will Carlson
+Got it. Appreciate you answering my questions.
+
+Operator
+[Operator Instructions] Our next question will be coming from Joseph Vafi of Canaccord Genuity. Your line is open.
+
+Joseph Vafi
+Hey, guys. Good morning. Nice to see solid progress in the business. Congratulations. Maybe we could talk just a little bit more on that power side, Daniel, relative to your ability to exploit the power markets, given how much power you used over the summer, if Childress to scale, do you think that your same methodology applies to -- or the same energy strategy applies. I mean, basically, can your energy strategy scale if you're at 200 or 300 megawatts there -- and then I have a follow-up.
+
+Daniel Roberts
+Thanks, Joe. There is no -- in terms of the scale, I think what you're alluding to is we've had 20 megawatts operating. If that goes 10 times, we'll -- that volume have an impact on the economics. The short answer is, no, I don't believe so. No. That is still a very small amount of power relative to the overall liquidity an amount of electrons in the market. I think we've disclosed previously or you can validate for yourself. There's something like 20, 25 gigawatts of wind solar farms up in that Panhandle region of Texas.
+
+So a couple of hundred megawatts here and there is unlikely to play a material role in that. But look, there is uncertainty around the power market, right? Like it is a dynamic market there is at an extraordinary amount of new generation permitted, tens and tens of gigawatts of new wind and solar in Texas, there are no additional transmission lines planned up into our region where Childress is, notwithstanding there's about $10 billion of other transmission lines planned over the next five years. So that congestion that kind of prevailing dynamic of a lot of cheap renewables is likely to continue on site. We aren't close to the load centers like Dallas and Houston where power tends to be a little bit more expensive, and you probably want the benefit of a long-term cheap hedge, and you might see less volatility. So look, there is substantial uncertainty around that number, but equally, we can only play what's in front of us. And when you step back, this is the whole reason we set up this business, right? Because when the wind blows a sunshine, there's cheap power, -- there's volatility in the market.
+
+There needs to be a solution, and we have developed a significant competitive advantage to take advantage of that.
+
+Joseph Vafi
+Sure. That's helpful. And then I know it's super early days, obviously, on the generative AI side. But do you have a feel at this point, Dan, on how power constrained that market gets, how quickly, obviously, the Bitcoin miners have been able to do a good job of finding cheap power located close to the source of its production. But if this does ramp, how -- do you have a feel for when power gets constrained in that market, obviously, Childress has a lot of megawatts available to it over time.
+
+Daniel Roberts
+Yes. Look, it's because it's such an early market and it's so disparate and the forecasts are all relatively subjective right? Like what's the adoption curve for generative AI, but the range of variability in that hedge are alone is just going to cause an enormous amount of noise in any answer that I say. All we can say is everywhere we go, everyone we speak to, speaks about the infrastructure choke on building out more generative capacity. Yes, before I jumped on this call, I spoke to Will Brother Co-CEO, Co-Founder who's in California at this AI conference, watching a presentation from Meta and their presentation is dedicated to the infrastructure challenge, if they start onboarding of billions of people into using generative AI. So it does feel like it's flavor of the month in terms of the narrative. But again, we prefer to validate these things rather than just get caught up in market hype. Let's see where we get to with its initial GPU purchase, see what it leads to in terms of tangible customer orders and revenue [Technical Difficulty] and then we'll obviously be better positioned to work out our own view on where we're going.
+
+
+Joseph Vafi
+Great. Thanks very much, Dan.
+
+Operator
+[Operator Instructions] And our next question will come from Lucas Pipes of B. Riley. Lucas, your line is open.
+
+Nick Giles
+Thank you, operator. Hi, everyone. This is Nick Giles asking a question on behalf of Lucas. Congrats on all the progress here, in particular, the strong utilizations and power costs. My first question is related to the AI opportunity. What do you need to see in this initial purchase of H100 to promote further expansion? Dan, you noted earlier that ability to scale is a key consideration. And is this at the data center itself, access to GPUs?
+
+Thank you for your perspective.
+
+Daniel Roberts
+Yes. I think -- thanks, Nick. Good to hear from you. Look, I think it's like any business. You want to know there's product market fit. You know that you want to know that there's a sustainable return on investment, and it's working towards those buying 250 GPUs, spending $10 million to $12 million on that seen a return is part of that. But -- it's a little bit the chicken and the egg. You can engage in a lot of conversations in the market.
+
+But until you do something, you almost don't have a license to proper conversations, and we've seen that immediately. A large number of our management team spent time with NVIDIA this week, speaking with customers and all of a sudden that knowledge curve and understanding of where the market is going, the customers set up it just grows and compounds really quickly. Just like once you buy these machines and plug them in, you work out how to operate them, you work out what tweaks are required physically around your data center infrastructure. It just paves the way to develop a better understanding and appreciation for the risk return profile of dedicating more resources towards this sector. So that's brought a context, to answer your question more specifically, what do we want to see? We want to see revenue again. We're not in the business of just installing computers and telling people how much we've got without actually generating revenue from them. And I think Lincoln made that point very strongly.
+
+We need to generate revenue from this. But equally, the discrete amount of revenue we generate from this initial purchase in my mind, is second order to developing that profile in the market, the understanding of where customers are at and the outlook for deploying a substantial amount of capital over time to build a proper business in this sector. And ultimately, it goes to risk return. If we're going to deploy capital, we need to see a long-term sustainable return on that capital. And that also goes hand in glove with cost of capital. I think it's no secret to acknowledge we have crypto miners trade in terms of capital and that's a very large way away from more traditional computing technology businesses. So it will be interesting to see over time if and when we build this business out, how all those factors come together to put us in a position to hopefully continue to drive shareholder returns.
+
+Nick Giles
+Dan that's really helpful. I really appreciate that color. You alluded to it earlier, but I just wanted to ask, at a high level, how do you think about structuring agreements with AI customers? You mentioned reserve capacity and on-demand opportunities. Would you expect to be primarily reserve, interested to hear your perspective there.
+
+Daniel Roberts
+Yes. Look, it's -- our nature is always risk first, like we're always going to be trying to lay off risk to other people. So if we can sign a long-term contract, our natural bias just given who we are is to give that to someone. But ultimately, it comes to optimizing returns and that dovetails into the cost of capital point that I made earlier. If we can enter into long-term financing agreements over these GPUs. And we've seen other players like [Indiscernible] announced these in the market. So source of funding, long-term attractive cost of capital and then use of connecting to deploy that into a customer at a headline rate that may be lower than what you'd order and what you'd receive trade-in spot capacity -- if that is going to generate more accretive returns for shareholders, then absolutely, that feels like our model, like we're not -- we don't need to be in the business of trading GPU per hour pricing if we can line up a scalable way to raise capital at an attractive cost and deploy that at scale into a market that needs it with long-term customer contracts and that has a lot of appeal.
+
+Nick Giles
+That's very clear, Dan. Thanks again, and to you and the team, continue, best of luck.
+
+Operator
+[Operator Instructions] Our next question will come from Paul Golding of Macquarie Capital. Paul, your line is open.
+
+Paul Golding
+Thanks so much. Dan, congrats on the year. I wanted to start by asking if you could give some color on the state of the supply chain. As we were listening to your prepared remarks with respect to Childress expansion. I heard you note that you're looking at the long lead time items and ordering those ahead of capacity expansion. So I just wanted to get a sense of what the lead time is and where there are constraints at the moment in the supply chain?
+
+Daniel Roberts
+Thanks, Paul. Great question. Look, the shorter it is, we're not being constrained because we've had this site for a while. We've been planning. We've got [Gantt] (ph) charts that are longer than I would like to read in terms of the project management, and it's just working through it, right? Like every component, every input into construction has an expected lead time. It has an expected risk. It has a number of options.
+
+We learned a lot when we built our facilities in British Columbia across Prince George, Mackenzie and Canal Flats. We then learned even more building the first 20 megawatts in Texas. It was a different dynamic, different supply chains, different contractors, different labor dynamic. So working through all that. We've now got a very accurate lay of the land in terms of what we need to order and when to ensure that we don't have choke points along the way. So for every component, we will look at the lead time, we'll look at the risk that, that supplier falls over, what's our contingency, how late can we lead it, leave it, what level of buffer. So the short of it is we would only really be potentially constrained if we had $1 billion in the bank tomorrow and wanted to pull the trigger on building out infrastructure for the full 600 megawatts. And those numbers are not linked, but they're illustrative.
+
+At that point in time, yes, we probably face some supply chain challenges getting all the equipment as fast as we need. But generally speaking, it's all manageable, and we don't envisage any major issues.
+
+Paul Golding
+Thanks, Dan. And then a follow-up around uptime and power efficiency and utilization, we've seen in prior presentations at prior results and the slide that you provided during this presentation that your utilization and efficiency in power use relative to peers based on those charts has been best-in-class in many cases. And I wanted to ask what you attribute that mostly to? Is it a distinct data center engineering profile? Is it algorithmic in terms of your systems? How should we think about your edge versus the rest of the sector in terms of the capacity at your disposal?
+
+Daniel Roberts
+We build data centers, but I know that's a very single statement, but I'm not sure others do. But most of those on that slide are still putting computers in C Can’s. I feel like the sector is maturing. Maybe we're sitting in the wrong concept, maybe we're a data center computing business and not a crypto miner as decided. I mean there's a lot of wide gaps there that illustrate the inability or the fact that they haven't been utilized. I think operating thousands of computers in C Can’s in a remote site, potentially a challenge. I think the whole immersion cooling we said it, we'll keep saying it. You cannot manage heat as effectively with immersion cooling in Texas.
+
+It is just the laws of physics. It becomes exponentially hard when you're trying to evacuate heat kind of a fluid in 100-degree temperature. I don't know like it's -- we're building data centers. We buy computers, we plug them in. Yes, we've developed a lot of competitive advantages and know-how internally, but -- at the end of the day, there's a PowerPoint, there's a data center, you plug them in, you generate revenue. Why aren't others doing that? that's more of a question for them.
+
+Paul Golding
+Fair enough. Thanks for the color, Dan and congrats on the year.
+
+Daniel Roberts
+Thanks, Paul.
+
+Operator
+[Operator Instructions] And our next question will be coming from Joe Flynn of Compass Point Research & Trading. Your line is open, Joe.
+
+Joe Flynn
+Hi, guys. We're just looking for some color on maybe the initial time line of AI, HPC and the kind of test runs you guys are offering and what exactly those entail? And on that front, with the customer conversations you're having, would you attribute it to more maybe like legacy businesses looking to expand cloud offerings or like startups that are getting priced out in the market from hyperscalers? Thanks.
+
+Daniel Roberts
+Yes, thanks for the question. So look, the delivery schedule is in the coming months. So towards the end of this year, very early next year in terms of when they arrive. We're not waiting for them to arrive in terms of engagement customers in a perfect world where the customer lined up, ready to use them at the moment they arrive on site and plugged in. So let's see where we get to. In terms of the nature of the customer conversations, we are talking to everyone. It's the short of it, the very large cloud businesses, the global technology majors all the way through to platform aggregators and more start-ups, generative AI, specialized companies. So it's a bit early to preempt the direction that will go in that regard.
+
+-- although it probably, if I had to guess, it's probably not going to be one of the big technology majors at this point, partly because of scale, do they really want to get out of bed to deal with 250 GPUs or is this more part of the broader strategy, I was alluding to where prove up our capability, prove the product market fit and then utilize this test case to really scale over time. And I think that would be the hope or the ambition of us as a business. In terms of how the returns or those customers would work with us, it's long-term contracts, Is it spot that's -- we're just going to have to work through that most of the time.
+
+Joe Flynn
+Thanks, that’s all from me.
+
+Operator
+Thanks. [Operator Instructions] Our next question will come from Reggie Smith of JPMorgan. Your line is open.
+
+Reggie Smith
+Hey, good morning guys. Thanks for taking the question. A few quick ones. Could you remind us what your CapEx needs -- or incremental CapEx needs are to get to 9 exahash that you guys are talking about for early 2024?
+
+Daniel Roberts
+I don't think we've disclosed that number specifically Reggie. So let us take it on notice. It's a good question. I wouldn't want to respond.
+
+Robert Lincoln
+I can probably provide some color Dan?
+
+Daniel Roberts
+Please.
+
+Robert Lincoln
+So Regin, we haven't provided specific detail in this release, but I think one release back. We provided some guidance around what it would cost to do 20 megawatts. The math hasn't changed materially since then in terms of to do a 20-megawatt building, roughly $35 million of CapEx for both the infrastructure and the miners. If we just look at current data points around where minor pricing is at probably $15 million on the infra and $20 million on the miners thereabouts. So you sort of scale that up times 4, gets you up to $140 million for the 80 megawatts, including the latest generation hiring, which is roughly split sort of $80 million for miners and $60 million for the infrastructure.
+
+Reggie Smith
+Got it. And so just to make sure I'm kind of using apples and apples here, does that figure that you just quoted, should I be comparing that to your cash balance? Or has some of that already been spent, if that makes sense, or paid rather.
+
+Robert Lincoln
+Yes. Look, some of that has been spent. I think it's just important to note that construction has been ongoing and that $69 million cash balance is a 30 June number based on the 30 June balance sheet.
+
+Reggie Smith
+Got it, okay. Perfect, and this kind of ties in with that question. But obviously, you've got the having is going to occur next spring. How much do you guys think about or even evaluate the offers and the pricing for hardware in this environment, given some of the uncertainty around that having? And maybe you could talk about kind of your base case hash rate assumptions? Or just anything that you guys or how you guys think about it to help investors kind of appreciate that.
+
+Robert Lincoln
+Yes, sure. That's a good question, Regin. I think part of that goes to the strategy as well, which Dan alluded to around optionality on the timing of the mining high wet purchases like it takes us physically six months to construct this infrastructure. But in terms of getting miners into these facilities, once the infrastructure is built, that sort of six to eight week type time frame. And talking to the halving the Irish Energy strategy is really similar to what we've always done, which is prepared for the worst-case scenario and hope for the best. So we hope that Bitcoin will run into and post the halving. We look back historically, there are some data points that suggest that's going to be the case, but we just need to lock down risk wherever we can. So in terms of the cost of energy and making sure we survive and come out the other side, I'm very strong.
+
+It's managing our power prices appropriately, which Dan has spoken to. In terms of operating at scale, we are a 5.6 exahash business, the largest producer in the NASDAQ last month, so we tick that box. Efficiency is absolutely key. Again, we're demonstrating that optionality in the CapEx deployment, which we've spoken to in terms of the box, the CapEx relating to the miners. We are going to adopt a bit of a wait-and-see approach around that. To the extent the coin prices run, we have high confidence around the returns. We can invest and the capital will be there. To the extent there's a drawdown, a Bitcoin does finding things around the having -- thank God, we haven't deployed all of that capital without any visibility around that.
+
+So historically, if there's a drawdown in the bitcoin price, you just expect lower cost mines to prevail and some of the higher-cost guides of debt, less efficient facilities, higher operating costs, et cetera, to come out of the hash rate. And we want to be making sure that Iris Energy is as best positioned as possible relative to the rest of the sector.
+
+Reggie Smith
+Got it. And if I could sneak one more in, and it's probably hard to answer, but is there a rule of thumb that like investors should think about in terms of maybe a framework, a better word, in terms of like how do you evaluate a follow-on offering, if you were to do an equity issuance? Like how should investors think about that the increase in potential around that? Is there any rule of thumb or guidelines for that.
+
+Daniel Roberts
+I can take this one, Lincoln. Look, it's something we look very closely at. Sorry, the videos is taking time to appear on my screen. Reggie, it's something we monitor almost live time speaking to all the banks around pricing terms, et cetera. I think it's fair to say these ATMs seem a more efficient way to raise capital. Just the spread on your share price, the lack of I guess, discount. We've seen warrants in the past, which is extremely unattractive. I'm just not sure the feasibility of a placement in the current market versus utilizing products like the ELOC, the ATM, speaking to people about kind of vendor financing options, particularly with GPUs and traditional computing land that is more common.
+
+I alluded to the [Indiscernible] debt and financing facility they put in place. That's all attractive look, equity when you're a growing business and looking to lock down a platform is attractive, but equally, we need to be respectful of our share price, liquidity, et cetera. and not dilute our shareholders unnecessarily. So we've got a lot of metrics that we look at in terms of accretion versus non-accretive dilution of shareholders there's potentially some double negatives in there. It's just something to monitor lifetime. The best thing about putting these products in place is you're not making a point in time decision, you retain that optionality every day that you wake up to ensure that you're optimizing your cost of capital and generating that shareholder return.
+
+Reggie Smith
+I can appreciate that it's a complicated process for sure. Thanks for the time.
+
+Operator
+And I'm showing no further questions. I would now like to turn the call back over to Dan Roberts.
+
+Daniel Roberts
+Excellent. Thank you, operator. Well, thanks, everyone. Thanks for the great questions and support from the analysts that ask questions as they always do. We appreciate the support of all our shareholders. It's been a very interesting 12 to 18 months establishing the platform, getting us to where we are today, has involved an extraordinary amount of hard work from the team internally. Will and I could not be happier, we've got a fantastic group, the passion, the commitment, we know that we're at the forefront of an industry that is the future, the digitization of our world, the electrification the movement of renewable energy into high-performance computing. We had conviction five years ago when we started this business.
+
+I know for a fact, there's a number of seed shareholders who are on this call that were there back then, they're here today. We're continuing to pursue that dynamic. And I think it's fair to say over the last five years, nothing has changed, except that conviction around where the world is going is increasing like we are following that digitization electrification dynamic, and we have established a platform, which is at the forefront of innovation to capitalize upon it. Yes, it started with Bitcoin mining, but we said five years ago that high-performance energy dense compute broadening beyond bitcoin, it's likely to happen. And here we are at the forefront of that industry as well with a very unique business model to capitalize on that. We've got a very unique proposition in terms of near-term growth, those 30 exahash numbers, the 1.4 cent power that we discussed during the slide deck. We feel like we've done a lot of the hard work, and we can now execute swiftly and most importantly, efficiently pursuing that Bitcoin mining 30 exahash trajectory and in parallel have put our sales in the position with the fantastic team to peruse these other business lines. And you can probably tell that as usual, I’m super excited and again very appreciative for all your support.
+
+Thanks once again for dialing in, I'd say see you next year, but we'll see you well before that. Thank you.
+
+Operator
+And this concludes today's conference call. Thank you for participating. You may now disconnect.
