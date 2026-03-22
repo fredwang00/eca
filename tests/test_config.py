@@ -1,4 +1,5 @@
 from eca.config import get_sector, data_dir, skills_dir, quarter_dir, quarter_sort_key, COMPANY_NAMES
+from eca.config import WATCHLIST_SECTORS
 
 
 def test_get_sector_insurtech():
@@ -49,3 +50,16 @@ def test_quarter_sort_key_chronological_order():
 
 def test_quarter_sort_key_malformed():
     assert quarter_sort_key("bad") == (0, 0)
+
+
+def test_watchlist_sectors_has_infra():
+    assert "infra" in WATCHLIST_SECTORS
+    assert "IREN" in WATCHLIST_SECTORS["infra"]
+    assert "CIFR" in WATCHLIST_SECTORS["infra"]
+
+
+def test_watchlist_sectors_all_tickers_in_sector_map():
+    from eca.config import SECTOR_MAP
+    for sector, tickers in WATCHLIST_SECTORS.items():
+        for ticker in tickers:
+            assert ticker in SECTOR_MAP, f"{ticker} in WATCHLIST_SECTORS[{sector}] but not in SECTOR_MAP"

@@ -81,6 +81,17 @@ COMPANY_NAMES: dict[str, str] = {
 }
 
 
+WATCHLIST_SECTORS: dict[str, list[str]] = {
+    "ai":       ["NVDA", "MSFT", "GOOG", "META", "AMZN", "AAPL", "TSLA", "PLTR"],
+    "infra":    ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
+    "crypto":   ["MSTR", "BMNR", "COIN", "CRCL"],
+    "space":    ["RKLB", "ASTS"],
+    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT"],
+    "venture":  ["EOSE"],
+    "employer": ["SPOT", "HIMS"],
+}
+
+
 def project_root() -> Path:
     """Walk up from this file to find pyproject.toml."""
     current = Path(__file__).resolve().parent
