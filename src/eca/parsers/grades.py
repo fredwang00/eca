@@ -31,10 +31,26 @@ def parse_grades(text: str) -> dict:
     if comp:
         result["composite_grade"] = comp.group(1)
 
-    # Composite score: look for the numeric result before the arrow
-    # Handles both "= **2.03** -> C" and "= 2.815 -> B" formats
-    score = re.search(r"=\s*\**(\d+\.?\d*)\**\s*[-→>]", text)
-    if score:
-        result["composite_score"] = float(score.group(1))
+    # Composite score extraction — multiple LLM output formats:
+    # 1. "Weighted Total: 3.015 → Composite Grade: B"
+    # 2. "Weighted Score: 0.75 + 0.75 + ... = 2.65 → B"
+    # 3. "= **2.03** -> C" (inline after Composite Grade heading)
+    # Always prefer the last number before → on a Weighted Total/Score line.
+    weighted = re.search(
+        r"Weighted (?:Total|Score):\s*.*?(\d+\.?\d*)\s*[-→>]", text
+    )
+    if weighted:
+        result["composite_score"] = float(weighted.group(1))
+    else:
+        # Fall back: search only within the Composite Grade section
+        comp_section = re.search(
+            r"###\s+Composite Grade:.*?(?=\n###|\Z)", text, re.DOTALL
+        )
+        if comp_section:
+            score = re.search(
+                r"=\s*\**(\d+\.?\d*)\**\s*[-→>]", comp_section.group()
+            )
+            if score:
+                result["composite_score"] = float(score.group(1))
 
     return result

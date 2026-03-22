@@ -93,6 +93,76 @@ def test_parse_spot_score_format():
     assert result["composite_score"] == 2.815
 
 
+SAMPLE_IREN = """### 1. Capital Stewardship & Financial Candor
+**Grade: B+**
+
+### 2. Strategic Clarity & Accountability
+**Grade: B**
+
+### 3. Stakeholder Balance & Culture Signals
+**Grade: C+**
+
+### 4. FOG Index
+**Grade: B-**
+
+### 5. Vision, Leadership & Long-Term Orientation
+**Grade: A-**
+
+---
+
+### Composite Grade: B+
+
+**Calculation:**
+- Dimension 1 (Capital Stewardship): B+ → scored as 3.3 × 0.25 = 0.825
+- Dimension 2 (Strategic Clarity): B → 3.0 × 0.25 = 0.750
+- Dimension 3 (Stakeholder Balance): C+ → scored as 2.3 × 0.15 = 0.345
+- Dimension 4 (FOG Index): B- → scored as 2.7 × 0.20 = 0.540
+- Dimension 5 (Vision & Leadership): A- → scored as 3.7 × 0.15 = 0.555
+
+**Weighted Total: 3.015 → Composite Grade: B**
+"""
+
+
+SAMPLE_WEIGHTED_SCORE = """### 1. Capital Stewardship & Financial Candor
+**Grade: B**
+
+### 2. Strategic Clarity & Accountability
+**Grade: B**
+
+### 3. Stakeholder Balance & Culture Signals
+**Grade: C**
+
+### 4. FOG Index
+**Grade: C**
+
+### 5. Vision, Leadership & Long-Term Orientation
+**Grade: B**
+
+---
+
+### Composite Grade: B
+
+**Weighted Score: 0.75 + 0.75 + 0.30 + 0.40 + 0.45 = 2.65 → B**
+"""
+
+
+def test_parse_weighted_total_format():
+    """'Weighted Total:' should extract the final score,
+    not individual dimension contributions."""
+    result = parse_grades(SAMPLE_IREN)
+    assert result["composite_grade"] == "B+"
+    assert result["composite_score"] == 3.015
+    assert result["dim1_grade"] == "B+"
+    assert result["dim5_grade"] == "A-"
+
+
+def test_parse_weighted_score_sum_format():
+    """'Weighted Score: x + y + ... = total →' should extract the total after =."""
+    result = parse_grades(SAMPLE_WEIGHTED_SCORE)
+    assert result["composite_grade"] == "B"
+    assert result["composite_score"] == 2.65
+
+
 def test_parse_header_metadata():
     result = parse_grades(SAMPLE_ROOT)
     assert result["company"] == "Root, Inc."

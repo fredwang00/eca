@@ -1,5 +1,16 @@
 {
   "ticker": "IREN",
   "quarter": "Q3 2025",
-  "company": "IREN (formerly Iris Energy)"
+  "company": "IREN (formerly Iris Energy)",
+  "candor": {
+    "analyzed_at": "2026-03-22",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.65,
+    "composite_grade": "B"
+  }
 }
