@@ -31,11 +31,13 @@ WATCHLIST_SECTORS = {
     "Digital Infrastructure & Power": ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
     "Crypto & Digital Assets": ["MSTR", "BMNR", "COIN", "CRCL"],
     "Space Economy": ["RKLB", "ASTS"],
-    "Consumer & Real Economy": ["OPEN", "UBER", "ABNB", "SHOP", "LMND"],
+    "Consumer & Real Economy": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT"],
     "High Variance / Venture": ["EOSE"],
     "Employer & Correlated": ["SPOT", "HIMS"],
 }
 ```
+
+**Relationship to `SECTOR_MAP`:** These serve different purposes. `SECTOR_MAP` controls which analysis skill prompt is used (e.g., `"ROOT": "insurtech"` adds insurance-specific grading criteria). `WATCHLIST_SECTORS` groups tickers for cross-company synthesis by investment thesis. A ticker can be in both — ROOT uses the insurtech skill for analysis but belongs to "Consumer & Real Economy" for synthesis. `--list-sectors` prints sector names with their ticker lists.
 
 ## Data Flow
 
@@ -80,20 +82,35 @@ CREATE TABLE IF NOT EXISTS quarter_facts (
     composite_score REAL,
     skill_version TEXT,
     analyzed_at TEXT,
-    -- financial metrics
+    -- financial metrics (mirrors all QuarterMetrics fields from schema.py)
     revenue_m REAL,
     gross_profit_m REAL,
     operating_income_m REAL,
     net_income_m REAL,
+    eps REAL,
     free_cash_flow_m REAL,
     operating_cash_flow_m REAL,
+    capital_expenditure_m REAL,
     cash_and_equivalents_m REAL,
+    total_assets_m REAL,
     total_equity_m REAL,
     shares_outstanding_m REAL,
     bvps REAL,
-    -- flags as comma-separated string
-    flags TEXT,
+    roe_pct REAL,
+    -- insurtech-specific (nullable for non-insurance tickers)
+    combined_ratio_pct REAL,
+    loss_ratio_pct REAL,
+    expense_ratio_pct REAL,
     PRIMARY KEY (ticker, quarter)
+);
+
+-- Normalized flags table for per-flag aggregation queries
+CREATE TABLE IF NOT EXISTS quarter_flags (
+    ticker TEXT NOT NULL,
+    quarter TEXT NOT NULL,
+    flag TEXT NOT NULL,
+    PRIMARY KEY (ticker, quarter, flag),
+    FOREIGN KEY (ticker, quarter) REFERENCES quarter_facts(ticker, quarter)
 );
 
 CREATE TABLE IF NOT EXISTS sector_map (
@@ -103,13 +120,16 @@ CREATE TABLE IF NOT EXISTS sector_map (
 );
 ```
 
-**Rebuild command:** `eca build-index` walks `data/*/*/facts.json`, upserts into `quarter_facts`, and populates `sector_map` from `WATCHLIST_SECTORS`. Idempotent — safe to rerun anytime.
+**Rebuild semantics:** `eca build-index` does a full rebuild — DELETE all rows, re-walk `data/*/*/facts.json`, re-insert. This is simpler than upsert and handles removed tickers/quarters cleanly. The database is small enough that a full rebuild takes milliseconds. Quarters with no `candor` or `metrics` sections are still inserted (with NULLs for missing fields) so they appear in coverage queries.
 
 **Aggregation queries used by synthesis:**
 
 ```sql
 -- Sector capex/revenue totals for trailing N quarters
-SELECT ticker, SUM(revenue_m) as total_revenue, SUM(free_cash_flow_m) as total_fcf
+SELECT ticker,
+       SUM(revenue_m) as total_revenue,
+       SUM(capital_expenditure_m) as total_capex,
+       SUM(free_cash_flow_m) as total_fcf
 FROM quarter_facts
 WHERE ticker IN (?, ?, ...) AND quarter >= ?
 GROUP BY ticker;
@@ -120,11 +140,12 @@ FROM quarter_facts
 WHERE ticker IN (?, ?, ...)
 ORDER BY ticker, quarter;
 
--- Sector-wide flag counts
-SELECT flags, COUNT(*) as cnt
-FROM quarter_facts
+-- Sector-wide flag frequency
+SELECT flag, COUNT(*) as cnt
+FROM quarter_flags
 WHERE ticker IN (?, ?, ...)
-GROUP BY flags;
+GROUP BY flag
+ORDER BY cnt DESC;
 ```
 
 ## Stage 1: Ticker Brief
@@ -182,8 +203,10 @@ Accumulates over time so you can diff across earnings seasons.
 
 | File | Change |
 |------|--------|
+| `src/eca/llm.py` | New module — extract `run_analysis()` from analyze.py as shared LLM caller |
 | `src/eca/config.py` | Add `WATCHLIST_SECTORS` mapping |
 | `src/eca/db.py` | New module — SQLite schema, connection, rebuild, aggregation queries |
+| `src/eca/processors/analyze.py` | Import `run_analysis` from `llm.py` instead of defining locally |
 | `src/eca/processors/synthesize.py` | New module — `ticker_brief()`, `sector_synthesis()`, prompt construction |
 | `src/eca/cli.py` | Add `synthesize` and `build-index` commands |
 | `skills/synthesis-brief.md` | System prompt for Stage 1 (ticker brief) |
@@ -192,10 +215,20 @@ Accumulates over time so you can diff across earnings seasons.
 | `tests/test_db.py` | Index build, aggregation queries |
 | `tests/test_synthesize.py` | Prompt construction, end-to-end with mock LLM |
 
+## Implementation Notes
+
+**LLM caller extraction:** The existing `run_analysis()` in `processors/analyze.py` handles Hendrix/Anthropic routing but lives inside a specific processor. Extract it to `src/eca/llm.py` as a shared module so both `analyze` and `synthesize` can use it without cross-processor imports. The processors should remain independent.
+
+**Model:** Both stages use the same `--model` flag as `analyze` (defaults to `claude-sonnet-4-6`). Stage 2 input for the largest sector (AI Infrastructure, 8 tickers × ~700 words) is ~6K words of briefs plus a metrics table — well within context limits for any Claude model.
+
+**Concurrency:** `--sector all` processes sectors sequentially. Parallelism is a future optimization, not needed for v1 with 7 sectors.
+
+**No new dependencies:** SQLite is in Python's standard library (`sqlite3`). No packages to add.
+
 ## Dependencies
 
 - Works with whatever data exists. Tickers without analyses are skipped with a note in the output.
-- Uses the same API routing as `analyze` (Hendrix or direct Anthropic).
+- Uses the same LLM routing as `analyze` (Hendrix or direct Anthropic), extracted to a shared `llm.py` module.
 - `brief.md` files are ephemeral/derived — regenerated on each run, not committed.
 - SQLite database is derived — rebuilt from JSON, gitignored.
 
