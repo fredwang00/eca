@@ -20,8 +20,9 @@ def parse_grades(text: str) -> dict:
         result["call_date"] = header.group(3).strip()
 
     # Dimension grades: **Grade: X** after ### N. heading
+    # Handles split grades like "A-/B+" by taking the first grade
     dim_pattern = re.compile(
-        r"###\s+(\d)\.\s+.*?\n\*\*Grade:\s*([A-F][+-]?)\*\*", re.DOTALL
+        r"###\s+(\d)\.\s+.*?\n\*\*Grade:\s*([A-F][+-]?)", re.DOTALL
     )
     for match in dim_pattern.finditer(text):
         result[f"dim{match.group(1)}_grade"] = match.group(2)
