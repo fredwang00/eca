@@ -1,0 +1,16 @@
+{
+  "ticker": "UBER",
+  "quarter": "Q4 2023",
+  "company": "Uber Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-30",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  }
+}

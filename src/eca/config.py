@@ -25,6 +25,7 @@ SECTOR_MAP: dict[str, str] = {
     "MSTR": "base",
     "BMNR": "base",
     "COIN": "base",
+    "GLXY": "base",
     "METAPLANET": "base",
     # Venture sleeve
     "ASTS": "base",
@@ -39,6 +40,7 @@ SECTOR_MAP: dict[str, str] = {
     "WMT": "base",
     "COST": "base",
     "TGT": "base",
+    "AFRM": "base",
     "NFLX": "base",
     # Other
     "HIMS": "base",
@@ -68,6 +70,7 @@ COMPANY_NAMES: dict[str, str] = {
     "MSTR": "Strategy (formerly MicroStrategy)",
     "BMNR": "Bitmine Immersion Technologies",
     "COIN": "Coinbase Global, Inc.",
+    "GLXY": "Galaxy Digital Holdings Ltd.",
     "METAPLANET": "Metaplanet Inc.",
     # Venture sleeve
     "ASTS": "AST SpaceMobile, Inc.",
@@ -82,6 +85,7 @@ COMPANY_NAMES: dict[str, str] = {
     "WMT": "Walmart Inc.",
     "COST": "Costco Wholesale Corporation",
     "TGT": "Target Corporation",
+    "AFRM": "Affirm Holdings, Inc.",
     "NFLX": "Netflix, Inc.",
     # Other
     "HIMS": "Hims & Hers Health, Inc.",
@@ -92,9 +96,9 @@ COMPANY_NAMES: dict[str, str] = {
 WATCHLIST_SECTORS: dict[str, list[str]] = {
     "ai":       ["NVDA", "MSFT", "GOOG", "META", "AMZN", "AAPL", "TSLA", "PLTR"],
     "infra":    ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
-    "crypto":   ["MSTR", "BMNR", "COIN", "CRCL"],
+    "crypto":   ["MSTR", "BMNR", "COIN", "GLXY", "CRCL"],
     "space":    ["RKLB", "ASTS"],
-    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT", "WMT", "COST", "TGT"],
+    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT", "WMT", "COST", "TGT", "AFRM"],
     "venture":  ["EOSE"],
     "employer": ["SPOT", "HIMS", "NFLX"],
 }

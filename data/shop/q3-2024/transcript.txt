@@ -1,0 +1,186 @@
+November 11th, 2024
+Carrie Gillard
+Good morning, and thank you for joining Shopify's Third Quarter 2024 Conference Call. I am Carrie Gillard, Director of Investor Relations. And joining us today are Harley Finkelstein, Shopify's President; and Jeff Hoffmeister, our CFO. After their prepared remarks, we will open it up for your questions. We will make forward-looking statements on our call today that are based on assumptions and therefore subject to risks and uncertainties that could cause actual results to differ materially from those projected. Undue reliance should not be placed on these forward-looking statements. We undertake no obligation to update or revise these statements except as required by law. You can read about these assumptions, risks, and uncertainties in our press release this morning as well as in our filings with the US and Canadian regulators.
+
+We will also speak to adjusted financial measures, which are non-GAAP and not a substitute for GAAP financial measures. Reconciliations between the two are in the tables at the end of our press release. And finally, we report in US dollars, so all amounts discussed today are in US dollars, unless otherwise indicated. With that, I will turn the call over to Harley.
+
+Harley Finkelstein
+Thanks, Carrie, and thank you all for joining us today. As we say each quarter, Shopify is building for the long term. Our consistent results quarter after quarter confirm that our strategy is working incredibly well. Q3 was another amazing quarter across the board. GMV was up 24%, marking our fifth consecutive quarter where GMV growth was greater than 20%. Revenue was up 26%. Operating income more than doubled from last year. And free cash flow margin expanded to 19%.
+
+These are not just numbers. They reinforce that Shopify is an industry leader, delivering on both growth and margins, all while simultaneously creating and leaning into opportunities that bolster our growth. So, before we dive in, let me start by saying this. If you walk away from this call with anything, it should be these three things
+
+Jeff Hoffmeister
+Great. Thank you, Harley. We had another outstanding quarter. These consistent results delivering both growth and profitability demonstrate the durability of our business, our numerous growth drivers, and our ability to balance investing in the future with discipline, delivering double-digit free cash flow margin. Let's dive into our Q3 results. Starting with GMV. In Q3, GMV was up 24% year-over-year as we delivered our fifth consecutive quarter of GMV growth over 20%. The same four consistent GMV growth drivers that we have seen delivered again this quarter.
+
+Same-store sales growth from our existing merchants, led by our Plus merchants; growth in the number of merchants on our platform; continued strong growth internationally, with GMV outside North America growing 33% in Q3. European GMV grew greater than 35% as our largest markets of the UK, Germany, France, and the Netherlands continue to gain traction. The Netherlands was a notable source of strength, delivering year-over-year incremental GMV that outpaced France and was behind only the UK and Germany, and demonstrating the broad base of strength that we have in Europe. And fourth, offline, our point of sale, where we had 27% GMV growth year-over-year. In terms of industry verticals, Q3 saw notable growth from health and beauty, food and beverage, and apparel and accessories. Q3 revenue was $2.2 billion up 26% year-over-year. Q3 is the sixth consecutive quarter of revenue growth greater than 25%, excluding logistics. The key drivers of revenue growth for the quarter were
+
+
+A - Carrie Gillard
+We will now open the call for your questions. Please use the Raise Hand feature in Zoom to ask your question. If you are dialing in by phone, you will need to press star, nine to join the queue and star, six to unmute yourself. We ask that you limit yourself to one question so we can try to get to as many questions as possible. Our first question comes from Brian Peterson at Raymond James.
+
+Brian Peterson
+Hi. Thanks for taking the question, and congrats on the really strong results. So, I'd love to understand how the GMV came in relative to your expectations. And any comments on linearity through the quarter, and early thoughts on the fourth quarter? Thanks, guys.
+
+Jeff Hoffmeister
+Yeah, thanks for your question, Brian. I'm happy to talk through that. The GMV -- and this is a little bit to some of the comments that both Harley and I had as it relates to some of the strength in Europe that was the key element to the outperformance and I made a brief comment about that in my comments in terms of the strength we're seeing and it's pretty broad-based. I made the comment about the Netherlands. So, it's not just -- a lot of times in the past calls I've talked about Germany, France, Italy, Spain. All of Europe is performing very well for us and that's one of the key elements of GMV outperformance. We're obviously -- and Harley and I both touched on this as well. We're seeing a lot of strength in Plus.
+
+We had all the success in B2B. It's really across a bunch of different fronts in addition to all the areas, which had traditionally been core pockets of strength for us. It was -- in terms of linear throughout the quarter, it was especially towards the back half that we saw some strength in Europe. But that being said, as we think about the quarter overall and we think about the strength we see in Europe and the US, I don't really have any specific trends to call out, just other than to say, we feel really good about what we're doing right now with the merchants.
+
+Carrie Gillard
+Thank you for your question. Our next question will come from Colin Sebastian at Baird.
+
+Colin Sebastian
+Great. Thanks. Really appreciate the opportunity here. You guys have positioned Shopify as the rebels going up against the larger online marketplaces, but arguably the consolidation of e-commerce market share is occurring to a smaller number of platforms, including Shopify. And so, I wonder if your views of how the industry is evolving or changing, what that consolidation means for your merchant base, and ultimately, how that influences product plans for things like Shop App? Thank you.
+
+Harley Finkelstein
+Hey, Colin. Harley, here. I'll take that question. A couple of things are happening I think when it comes to larger brands and retailers. One is, all across the board, they're looking for a unified commerce system. They're not looking for standalone, single-channel products anymore. I've used this metaphor before of the browser and the browser tabs. And what we're seeing is that these large companies, specifically complex ones that have high GMV, they want to collapse those tabs from eight to one.
+
+And this idea of having a modern future-proofed retail operating system that is unified across every channel like Shopify is very compelling. Secondly, historically, when it came to larger brands, our focus was really on Shopify Plus. We had sort of this one-size-fits-all for larger brands. But now we have an enterprise product, we have Shopify Plus, we have Commerce Components. And Commerce Components, in particular, is really compelling because it'll -- I mentioned this in my prepared remarks, but we're now seeing brands that are calling us, and three weeks later, they now have Shop Pay installed on their checkout or brands, for example, like On Running, one of my favorite brands that has Shopify's checkout as a Commerce Component that they've now taken. So, there are all these new sort of gateways into Shopify or on ramps to Shopify on the Enterprise side. The next thing I want to talk about is checkout. This idea that some of these large brands that are very sophisticated still don't have an optimized checkout like they would have on Shopify is becoming a competitive liability.
+
+And so, that's also driving things quite a bit. And the third thing is -- sorry, the fourth thing is total cost of ownership, TCO. The fact that we have this very transparent pricing with very large enterprise brands makes it that they understand exactly what they're getting. And when you sort of combine those things, I think you're seeing a lot of the consumers' favorite brands, especially the larger ones, come to Shopify, and they're coming at a faster clip and they're coming in larger volumes. I think that will continue to happen, especially now that our go-to-market engine has really ramped up. I think when you combine an incredible enterprise product with the right pricing that is unified and a very strong go-to-market energy and effort, you get these results.
+
+Carrie Gillard
+Thank you for your question. Our next question will come from D.J. Hynes at Canaccord.
+
+D.J. Hynes
+Hey, good morning, guys. Congrats on the great quarter. Harley, can you talk about what you focused on from a product perspective to drive further B2B adoption, especially in the enterprise? I mean, you're obviously seeing nice momentum there, but is there any additional unlocks that you're focused on?
+
+Harley Finkelstein
+Yeah, there's a couple that have recently come out. And you're seeing us talk more about B2B around our Editions, for example. I think particularly, in Q3 alone, I think we shipped three or four new major features, I mean, things like product bundles supported in draft orders. There's now improved conversion, tracking and tax collection. There's now new automation with Shopify Flow templates, which means that you can actually assign a sales staff to particular B2B customers if you're a merchant. And the result is that you're seeing companies like Dermalogica and Therabody and Life Fitness and Daily Harvest and [Kraft] (ph) come to us as well. So, I think we're closing those gaps fairly rapidly. I also think that historically we really focused on existing direct-to-consumer brands on Shopify that also had a strong B2B or wholesale practice that felt like sort of low-hanging fruit for us.
+
+We are now beginning to see merchants that are specifically and exclusively B2B wholesale merchants come to Shopify now for our B2B product. And eventually, in some cases, we've actually seen them begin to dip their toe in the water on going direct-to-consumer as well. So, back to my comment earlier about this unified commerce system, the beauty of Shopify is that you come in for one particular channel, but once you're in the ecosystem, you begin to make that your -- the entirety of your retail operating system. But specific to on your point, those gaps are getting closed pretty quickly. And we just think B2B, it is a huge -- I think there's like a $14 billion TAM. We're already seeing our B2B GMV doubled since last year. We think that's a great opportunity and we're able to close these future gaps quite quickly.
+
+Carrie Gillard
+Thanks, D.J. Our next question will come from Todd Coupland at CIBC.
+
+Todd Coupland
+Hi. Can you hear me okay? Yeah, thanks, and good morning, everyone. I wanted to talk about the impact of China with the US election out of the way. Can you just talk about how much of your GMV in your estimation is coming from China and whether Trump tariffs will impact merchants? Is there anything you can do to help them? Thanks a lot.
+
+Harley Finkelstein
+Yeah, maybe I'll just sort of start. I mean, we've been operating now for over two decades across multiple administrations. We can't anticipate what every presidential administration is going to do, but what we can do is arm our merchants and the people that use Shopify with the tools they need to compete in any environment. In COVID, for example, where everyone had to move online, we were there for them. In tough times of economic cycles, we were able to provide really transparent competitive pricing. So, our job is to support our merchants. Specific on China, it's not a huge area for Shopify. It has not been historically a big area for us.
+
+But again, back to you, our job is no matter what comes the way of our merchants, we provide them with tools and service and support for them to navigate it really well. And I think we've proven to do that over the last 20 years.
+
+Jeff Hoffmeister
+Yeah. And, Todd, the only other thing I'd add, there's nothing in what we've heard from Trump, nor would there have been anything from Kamala, which we think impacts the overall state of just new business formation and entrepreneurship. So, we still feel really good about all the merchants out there, all the entrepreneurs that want to start new businesses. And that's obviously not going to change with the administration.
+
+Carrie Gillard
+Thank you for your question. Our next question comes from Michael Morton at MoffettNathanson. Michael, are you there?
+
+Michael Morton
+Hey, sorry about that. I didn't click the unmute. Thank you for the question, Carrie. This is for Harley. I know it's early days, but we're seeing some of the largest changes that have occurred in years to the search experience, right, AI overlays and even new search startups for the first time in decades. I'd love to know how you're thinking about the changing e-commerce experience, the funnel for consumers, and then what it could mean for the discovery experience of some of your e-commerce merchants as search changes.
+
+Harley Finkelstein
+Yeah, thank you for the question. It's a great question. Look, I think I talked a little bit on the call about how we're using AI internally and frankly support engineering, sales, finance, just about every department internally is using AI in some way to get more efficient, more productive. I've also talked about the fact that from a merchant perspective, we are trying to build tools and build AI across Shopify's entire product to make their jobs way easier if they can focus on what matters most. And I mentioned suggested replies and Shopify Inbox, which may not seem like a big deal, but it's a huge deal because it means merchants can spend more of their time focused on the things that they need to be focused on like building their products. But in terms of where consumers find merchants or find products, yeah, AI and search is going to change, but to be clear, this entire flow and discovery process has been changing for many years. It's the reason that you saw us integrate with places like YouTube or more recently Roblox or TikTok or Instagram. We believe the future of commerce is happening everywhere.
+
+And in order for us to qualify and then requalify to be the most important partner in retail for the millions of stores on Shopify, wherever consumers are looking for new products, we have to be there. And so, I can't give any specifics on how we're working with some of those companies, but I will say that you can rest assured that when consumers shift their buying preferences, their discovery preferences, their search preferences, and they're looking for great products from great brands, Shopify will ensure that our merchants are able to do so. And that's the reason, even some of the more nuanced or some of the more -- as you know, Shopify has an integration into Spotify. Why? Because some merchants that also have very large followings as a musician have massive followings on their artist profile. The fact that you can now show Shopify products on your artist profile means for that particular segment of merchants, they can easily -- they have -- now have a new surface area in which to conduct business. And that's the same thing when it comes to AI and search. So, we've been really talking about Shopify being the central retail operating system where there may be five channels or eight channels where commerce takes place.
+
+Over time, that channel is going to -- those channels are going to expand. Not every channel will work for every single merchant, but the idea is when a new channel exists you're able to easily activate it directly from the Shopify admin. And that's the commitment we have to our merchants.
+
+Carrie Gillard
+Thanks for your question. Our next question will come from Siti Panigrahi at Mizuho Securities.
+
+Siti Panigrahi
+Thanks for taking my question. I just want to dig into the enterprise part of the business mainly go-to-market. I know that's a displacement market and also you see some of the big vendors in that space. Help us understand, like, how you are -- what's your strategy for go to market for the penetrate there? And what kind of trends are you seeing when enterprise customer uptake? Is it like total replacement? It's a -- or slowly they try to replace their existing solution?
+
+Harley Finkelstein
+In some cases it's total replacement which obviously is the goal. In other cases, they want to begin to work with us on checkout or on Shop Pay or one of the commerce components. But I would say that go-to-market execution is literally across the board. And we have done a really great job of shifting this narrative that Shopify is no longer just for small businesses North America or now for every size of business everywhere in the world. When you have these incredible brands, these iconic brands, the Reebok's and the On Running's and the Victoria's Secret of the world coming to us, it begins to create more -- even further momentum. We're also curating a really important ecosystem where we're winning over competitors, partners, and in some cases, very large SIs. But we're also -- we realize that in that world, garnering the top awards from IDC and Gartner is really important, which is what we're doing too. You're also seeing us increase our marketing efforts to support this go-to-market.
+
+So, bringing the best sales teams with great marketing assets together has really been working. And I think the reason we're successful here is modern companies, modern brands need modern unified e-commerce architecture and commerce architecture. And I think the speed to market that we're able to provide to them, this commitment to unified, the volume of innovation, I mentioned this idea of our brand with over 40,000 SKUs being able to migrate those 40,000 SKUs in less than five minutes, that is not something that most companies can do. In fact, that's not something that any company can do. And we're really innovating to try to make that a lot better. And we're displacing the largest enterprise commerce companies in the planet, and that momentum is continuing. And the best part is we're winning these deals. And they're not leaving.
+
+They're staying with us. And they're acting as references for other incredible brands, too. So, it's a really important part of a business. And now, there's sort of something for everyone when it comes to enterprise commerce on Shopify.
+
+Carrie Gillard
+Thank you for your question. Our next question will come from Andrew Boone at JMP Securities.
+
+Andrew Boone
+Thanks so much for taking my question. Jeff, I wanted to ask about one comment in guidance. You said similar free cash flow margins going forward. Can you just speak to the implications of that? And what are you guys either investing in or how do we think about that as it seems like headcount has been flat? Thanks so much.
+
+Jeff Hoffmeister
+Yeah, I think in terms of my comments about similar cash flow margins going forward, one of the things I want to do just in terms of start from a perspective is, look at both last year and this year and see how the free cash margins have played out throughout each of the quarters through the year. And you can see again to my comment about us getting to free cash flow margins in Q4 of this year in expectation of where we were last year. I think we've gotten to a very good spot, especially over the last two years, where we've gotten to solid free cash flow profitability. And as I mentioned, I think what we -- as I mentioned on the call, I think we've now struck a very good balance in terms of where we say, this feels like a good free cash flow margin where we can invest every incremental dollar back into the business and continuing to do everything we want to do to sustain the long-term growth of the business. So that doesn't in any way shape or form mean that we're not going to slow down everything we're trying to do to continue the leverage around how we use AI, around automation, around, as you alluded to Andrew, in terms of the discipline headcount. We talked at Investor Day, I guess it's a little bit less than a year ago now. We talked at Investor Day about our internal proprietary systems, GST, Shopify OS, some of the things that we built to make ourselves more efficient, really point the team in the right direction and be highly effective in everything we're doing. So, we're going to continue to do all of that, but we also see the opportunity right now -- and both Harley and I alluded to this in our comments, we also see the opportunity to really make sure the incremental dollar goes back into top-line growth and supporting that momentum, and all the things that we've talked about the durable elements of growth for us in terms of what we're doing in a Point of Sale, what we're doing in enterprise, what we're doing in international.
+
+So, it's really that element of not trying to aggressively push free cash flow margins higher and instead focus on the continued growth of the business. So that's really the best context I can give you, Andrew.
+
+Carrie Gillard
+Thanks, Andrew. Our next question comes from Mark Zgutowicz at Benchmark.
+
+Mark Zgutowicz
+Thanks, Carrie. Appreciate it. Jeff, you've alluded to the last quarter or two just in terms of your enterprise pipeline starting to contribute perhaps in the first half of next year. Just curious if you could maybe quantify or qualify the size of that contribution in the first half next year? Thanks.
+
+Jeff Hoffmeister
+Yeah, Mark, I don't have any real numbers to give you or say this is how we think about the incremental to top-line growth. I would echo some of the comments which Harley made just a few moments ago in terms of what we're seeing on enterprise and go-to-market and how that's playing out. Obviously, we've been lending some marketing dollars to support enterprise and that's helping fuel the momentum in addition to all the other things we covered. I would say, and we've talked about this a little bit in terms of just the overall selling cycle and then the implementation cycle on average, as you know, well from following things in the enterprise space, it can take six months, nine months, 12 months in order -- sometimes in order to get through the selling cycle. Sometimes it can take an equal amount of time in terms of implementation, not because our technology can't go much faster. And we've had some instances and Harley talked about a couple of those on the last call in terms of how we can get these implementations up and running very quickly. But on average, if you say, it's six months, nine months,12 months in the selling cycle, six months, nine months, 12 months in the implementation cycle, you kind of stack those two on top of each other and say we've really been making a push on enterprise, I don't know, roughly two years now. And we're kind of 18 months or kind of like nine months and nine months and stack on top of each other, kind of 18 months into really having a lot of these enterprises on platform, taking volume really working with us.
+
+I think we're still very early in the days of this, Mark. So, this is going to be more of a 2025 phenomenon than it's 2024. I just don't have any exact numbers to give you and say it's going to add X number of basis points, for example, to the next year's growth rate.
+
+Carrie Gillard
+Thank you for your question. Our next question comes from Martin Toner at ATB Capital Markets. Sorry, looks like Martin dropped out of the queue. All right. We'll take our next question instead, from Ken Wong at Oppenheimer.
+
+Ken Wong
+Fantastic. Thank you for taking my question. I wanted to ask about your enhancements with PayPal announced back in September. I guess, one, kind of how does this kind of progress the platform? Any potential uplift to monetization or unit economics over time that we should anticipate?
+
+Harley Finkelstein
+Yeah, let me just sort of start before we get into unit economics sort of why we did it, because it's important. I mean for us, it's all about optionality. We want to effectively -- I mentioned those browser tabs. We want to make it really easy for our merchants to conduct all their business. So for example, after this integration now, all your PayPal wallet transactions, you can be seen directly from the Shopify admin. So, when we think about these partnerships, what you should sort of think about is what we're trying to do is make it so merchants can operate more effectively easier with things they're already using. And that's the reason why sort of this made a lot of sense. Optionality really matters to them.
+
+I can take the economics one as well. I mean, for Shopify, the biggest change is really just going to be around the PayPal wallet transactions, which are moving to -- it'll be gross revenue recognition at a sort of premium to typical card transactions on Shopify Payments. Jeff, I'm not sure if you want to add anything else to that.
+
+Jeff Hoffmeister
+Yeah. And that's a function of just the level of integration we did with PayPal on these wallet transactions. And so, this really specifically goes into make sure we're differentiating between situations where we would process with PayPal on the back end. This specific situation that Harley and I are alluding to is that the consumer chooses to effectively use our PayPal Wallet, use PayPal button to pay, then given the integration that we've done, which we really did for the sake of being able to give the merchants a more holistic view of all these transactions, so they from their Shopify admin from the dashboard that they're using to run their business. They have a comprehensive view of all the transactions through the orders, the payouts, the reporting, the chargebacks, all of those things. One of the outcomes of that is the revenue recognition change on those specific types of transactions, which Harley alluded to. So, we're going from what in the past had been a net revenue recognition on those is now going to the gross revenue recognition. Importantly, though, while there's going to be some headwinds to margins on that, some uplift for revenues, in terms of growth rate, it's on gross profit dollars, it's incremental gross profit dollars to us.
+
+But that will -- and we signed that agreement at the -- this PayPal Wallet transaction activity went into effect at the very end of September. So, this will be a little bit more of a 2025 phenomenon.
+
+Carrie Gillard
+Our next question will come from Trevor Young at Barclays.
+
+Trevor Young
+Great. Thanks for taking my question. Jeff, just back to your comments about feeling comfortable at this kind of high-teens, 20% free cash flow margin, help us put that with comments earlier in the year about further room to run on optimizing your internal-facing marketing tools and adjusting spend across channels to maximize ROI and so forth. Should we assume that you might lean in on marketing heading into next year?
+
+Jeff Hoffmeister
+Well, Trevor, I don't -- there's no change in how we think about marketing, and I don't think that there's any change in terms of how we think about free cash flow. From a marketing perspective, we obviously have spent more time on that topic in the last or the prior two calls, but our strategy remains focused on everything we can do on both the performance marketing and the non-performance marketing in terms of, one, supporting the core Shopify growth engines, and two, obviously, helping expand in things like Point of Sale, enterprise, B2B, et cetera. So, there's nothing that's changed from a marketing vantage point, nothing changed in terms of our payback guardrails. I think on the free cash flow, I mean, part of the reason, obviously, why -- there's a few reasons. One of the reasons why we can get to these free cash flow margins, and I alluded to it before, is everything we're doing around disciplined headcount, around AI, automation, our internal systems. So, we're going to continue to leverage those. We're going to continue to be more and more efficient in terms of our internal operations. I don't think that impacts how we think about marketing.
+
+And I don't think that in any way impacts saying, well, all right, so now we've both topped out on free cash flow margins, which is not clear, we're making -- which is not the case, we're making a proactive decision in terms of how we think about these margins, so we can invest those dollars, whether it be back in marketing, whether it be upgrading in certain spots, maybe the R&D team, maybe adding to the R&D team, product development, AI, all those things. It's not a marketing specific initiative to say, "Oh, this gives us the additional dollars to go pump that back into marketing."
+
+Carrie Gillard
+Thank you for your question. Our next question will come from Dominic Ball at Redburn Atlantic.
+
+Dominic Ball
+Hi, Jeff, Harley and Carrie. Thanks for the question. One question on the changing nature of search discovery and the evolution of short-form content. So, can you give us a little bit more color on the Shopify YouTube Shorts integration? How is it going to about the merchant uptake? And how big do you think this can really get? Thank you.
+
+Harley Finkelstein
+Yeah. I mean, when it comes to YouTube, this isn't a new partnership for us. We've been working with YouTube and Google for a very, very long time. The relation with YouTube actually started with live selling. We were their live selling launch partner originally. And then, what we realized or I guess we realized in collaboration with them is that this idea of actually creating an affiliate program, whereby if one of their content creators is talking about doing a cooking show, for example, and also wants to use a particular product that eventually becomes for sale, pretty much every one of the brands that the audience likes and wants to purchase from is on Shopify. So, it felt like a really great thing for them because it allows their creators to further monetize through affiliate fees, but it also means that Shopify merchants can now find a new sales channel through these creators across the YouTube audience, which we think is obviously always positive. But at a macro level, these -- whether it's YouTube or also I mentioned Roblox in my prepared remarks, any of these other channels, the idea here is to make sure that every surface area where consumers may want to purchase, they're able to do so through Shopify.
+
+And so, you'll continue to see us do more of those things. In terms of how YouTube in particular is going to fair, that remains to be seen. It's still pretty early. What I suspect will happen similar to our other channels is that some merchants will find a lot of success there because they'll find that their audience, their core audience works really well with this particular affiliate dynamic. In other cases, it may just not be that helpful. But that's the point. The point is that we want to effectively make it so every merchant on Shopify can get in front of a new audience that otherwise they may not. And again, in order to do that, you have to be on Shopify.
+
+And so, you'll continue to see us do more of these commerce integrations and these partnerships. And actually, one thing -- I'll just sort of mention this. One thing that Shopify has got really good at is we have a great reputation of being a great partner. And what that means is not just technology, not just commercial, but more sort of holistically, it means that when a company of any size or in any industry is thinking about commerce, Shopify is usually the first call they make, and the integration doesn't take months or years. It often happens quite rapidly. And so, I'm very proud of Shopify showing up as a great partnership company.
+
+Carrie Gillard
+Thank you for your questions. Our next question will come from Deepak Mathivanan at Cantor Fitzgerald.
+
+Deepak Mathivanan
+Hey, thanks, Carrie. Thanks for taking the question. Harley, can you give additional color on what you're seeing in terms of the consumer behavior or repeat use after all the recent product enhancements you made on the Shop App? How should we think about what informs your product strategy for this going forward, say, in the next two to three years? Thank you so much.
+
+Harley Finkelstein
+Yeah. I mean the product strategy remains the same, which is we want to create new ways for merchants to engage and to drive authentic connection with customers. We also want to make it that Shop is an owned channel for merchants that can help them drive real traffic and real sales. And these enhancements are working. I mean Shop is becoming the sort of cultural force. We're seeing incredible brands, Drake, Mr. Beast, Steve Madden, Feastable, Spanx, all come to shop to do these incredible -- not just promotions, but also they're launching things directly on Shop. We also think search and AI together makes the Shop search way more relevant, way more personalized.
+
+That is also very compelling. And then merchant co-marketing, teaming up with these big brands to do these shop cash giveaways has become really important for some merchants, some of the time, it's one of the major drivers for them. So, in terms of where it's going, I mean, in terms of our goal here, the change that we've made, in some cases, have led to an 18% increase in sessions where a buyer engage in a recommendation with our new home feed, for example. So, I think you'll continue to see new improvements of the Shop App, but ultimately, the idea is can we actually help increase LTV for the merchants who use it. Can we help consumers find brands have not otherwise encountered and also reengage with the brands they already love. And to my point earlier, the key here is that this is something that if you want to engage with, if you want to be a part of, you have to be on Shopify and Shop App continues to do really well.
+
+Carrie Gillard
+Thank you for your question, Deepak. And our final question will come from Richard Tse at National Bank Financial.
+
+Richard Tse
+Yes, thank you. You talked about Shopify being a system of record for commerce. So, as we look out ahead, is it fair to say that you have an opportunity beyond commerce, so to replace existing systems of records such as ERP, CRM or supply chain?
+
+Harley Finkelstein
+In the case of ERP and CRM, we actually feel really good about connecting with the best ones. And so, a lot of these large enterprise brands that are coming to us, they come with an ERP system already integrated across their company, in some cases, a great CRM as well. And we make it really easy to integrate. So, ERP and CRM is not -- is not something that we focus on. We are a commerce company. We care about retail. However, it is critical that the changes we've made over the last couple of years to easily connect your existing systems into Shopify, again, back to the ERP systems, CRM and others, are able to function seamlessly when you come to Shopify. We've made that really easy.
+
+But we're a commerce company. And I mentioned in previous calls, we actually have a very focused -- we're focused on our main quest. We don't like the sort of side quest distractions. So, our view is that make it really easy to bring the ERP system you prefer and integrate it to Shopify, but it's not an area that we're going to go into.
+
+Carrie Gillard
+Thanks for your question. I'll now hand it back to Harley for some closing remarks.
+
+Harley Finkelstein
+Yes, thanks, Carrie. Look, you've heard a lot from Jeff and I on the call, but I just want to say this, for those of you that have been following the Shopify story for quite some time, you know that we are a company that is laser-focused on our merchants. You've heard that we have a very long-term vision that we think could help them succeed. I think you will continue to see us seize opportunities and invest, as Jeff described, with discipline to further establish ourselves as the leader in commerce. And this has enabled us to deliver, as you can see from these results, some of the strongest results in the industry quarter after quarter. I also want to repeat, this is the best version of Shopify yet. We really like our size, our shape. We like how we're operating.
+
+We really think it gives us the ability to grow the business and invest in the future. And so, I just wanted to finish with that point. And now for us, back to helping our merchants crush at this holiday season and well into the future. So, thank you all for joining us on this call.
+
+Carrie Gillard
+This concludes our third quarter 2024 conference call. Thank you for joining us. Bye-bye.

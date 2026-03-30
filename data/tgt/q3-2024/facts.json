@@ -1,0 +1,16 @@
+{
+  "ticker": "TGT",
+  "quarter": "Q3 2024",
+  "company": "Target Corporation",
+  "candor": {
+    "analyzed_at": "2026-03-30",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "C+"
+  }
+}

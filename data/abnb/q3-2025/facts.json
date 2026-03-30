@@ -1,0 +1,16 @@
+{
+  "ticker": "ABNB",
+  "quarter": "Q3 2025",
+  "company": "Airbnb, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-30",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.25,
+    "composite_grade": "B"
+  }
+}

@@ -1,0 +1,114 @@
+May 7th, 2024
+Carrie Gillard
+Good morning, and thank you for joining Shopify's First Quarter 2024 Conference Call. Harley Finkelstein, Shopify's President; and Jeff Hoffmeister, our CFO, are with us today. After their prepared remarks, we will open it up for your questions.
+
+Harley Finkelstein
+Thanks, Carrie, and good morning, everyone. The start of 2024 has been very strong for Shopify with more and more merchants thriving on our platform. This is the strongest version of Shopify yet. We're helping millions of merchants around the world to both start and scale their businesses.
+
+Jeff Hoffmeister
+Thanks, Harley. We have started off 2024 incredibly strong, building on our momentum from 2023. Let's launch into our Q1 results. GMV in Q1 was $60.9 billion, up 23% year-over-year. The strong Q1 GMV was driven by same-store sales growth of our existing merchants, continued growth in our merchant base globally, strength in EMEA, which grew 38% year-over-year from both strong same-store sales growth from our existing merchant base and new merchant acquisition with same-store sales growth being the slightly larger contributor this quarter. And finally, 32% growth year-over-year in our off-line business, driven primarily by larger retailers joining the platform.
+
+The key drivers of this growth were
+the GMV strength just discussed; growth in Subscription Solutions revenue from both new margin growth and the pricing increases on standard plans; and lastly, increased payments penetration, which hit 60% for Q1. Q1 Merchant Solutions revenue was $1.4 billion, increasing 20% year-over-year, fueled by growth in GMV, continued penetration of Shopify Payments, continued growth of our scaled products, most notably markets, and growing adoption of our emerging products, including installments and Shop Cash. Those contributors were partly offset by the absence of the logistics business.
+
+MRR was $151 million, up 32% year-over-year. We saw growth year-over-year in MRR across each of Standard, Plus and offline Point of Sale. This strength stemmed from increases in the number of merchants in each of these 3 categories combined with
+for Plus, growth from both new Shopify merchants joining and existing merchants upgrading from one of our standard plans with Plus; with Plus, representing 32% of MRR for Q1 of this year.
+
+Carrie Gillard
+[Operator Instructions] Our first question comes from Trevor Young at Barclays.
+
+Trevor Young
+Great. Just on the core standard MRR, only up slightly Q-on-Q. Can you just give us some color on why that was up maybe a smaller amount that we would have expected seasonally? Is that just a definitional change? Or is there something going on just in terms of merchant demand?
+
+Jeff Hoffmeister
+Yes. No, that's just a definitional change. It would have been up 5%, if you look at it in terms of Q4 to Q1. And so it's just a function of that change. The merchant acquisition engine overall is doing really, really well right now. So there's nothing else to read into that.
+
+Carrie Gillard
+Okay. Thank you. Our next question will come from Matt Code at Autonomous. Matt, are you there?
+
+Unknown Analyst
+I am. Sorry about that, guys. I didn't click unmute. So wanted to double-click on sales and marketing expenses. So they're increasing again at a pretty fast clip. You guys touched on that a little bit in your opening remarks. I kind of just wanted to get some incremental color on how that's translating into merchant and bookings growth. Are there any commentary that you could provide on the 2024 cohort, and how that's looking compared to 2023 would be helpful.
+
+
+Jeff Hoffmeister
+Yes. I think from a sales and marketing perspective, and let's just talk a little bit in terms of how we think about our margins overall. I mean our sales and marketing, as Harley talked about in the broader call is going very, very well right now in terms of some of the things we've been doing recently to improve the tools and the methodologies we're using. And Harley talked through some of those results not only over the past few quarters as well as some things we've done over the past few months.
+
+Harley Finkelstein
+And Matt, let me just take a moment just on the types of merchant that are coming to Shopify because that is really important to understand. Historically, I think it was fairly well known that in the SMB direct-to-consumer segment, we were winning these merchants.
+
+Carrie Gillard
+We will now move to Mark Zgutowicz at Benchmark. Okay. We will put Mark back in the queue. Let's go instead to...
+
+Mark Zgutowicz
+I'm here.
+
+Carrie Gillard
+Oh, there you are. Okay. Great.
+
+Mark Zgutowicz
+Sorry about that, Carrie. Thought I hit it. Harley, maybe just picking up on that last point. You talked a little bit about vertical expansion there on the merchant ad component. But maybe if you could talk about geo and sort of where you're seeing merchant ads from a geo perspective, sort of what the strategy is there and how that payback period, I guess, fits into that 18 months?
+
+Harley Finkelstein
+Yes. Let me start, Mark, with international. I mean Shopify is no longer just for small business in North America. We are seeing great, really strong revenue growth across channels, cross-sell, regional. And Q1 international GMV grow at pace North America. In fact, in particular, Europe continues to lead our growth outside North America. I think Q1 GMV growth was like 38% in that region. That's the third consecutive quarter of growth above 35% there.
+
+
+Carrie Gillard
+Our next question will come from Andrew Boone at JMP Securities.
+
+Andrew Boone
+Jeff, can you talk about the reaction to Plus price increases? And you laid out 2Q pretty clearly but how do we think about that flowing through the P&L in the back half of the year?
+
+Jeff Hoffmeister
+Yes. Thanks, Andrew. A couple of things I mentioned on the call and then a couple of additional points. I did mention on the prepared remarks earlier that we've had a majority of the Plus merchants commit to 3-year contracts, which for us is really a testimony to them looking at all the value we provide and saying this is something that I want to -- this is a platform. This is a set of tools I want to continue to work with and commit to for a multiyear period, which obviously is a great testimony to what we've been doing.
+
+Carrie Gillard
+Our next question comes from Mark Mahaney at Evercore ISI.
+
+Unknown Analyst
+Ian Peterson. This is Ian Peterson on for Mark. Can you help us unpack the Q2 guide a little bit more in the puts and takes in your high teens year-over-year revenue guide? How big is the FX headwind embedded in the guide? And how should we think about the balance between Subscription versus Merchant Solutions in the quarter, given the price increases flowing through more enterprise customers coming online?
+
+Jeff Hoffmeister
+Yes. I'll go ahead and start on that one. Thanks, Ian. So a reminder that -- and I want to go back to this as the largest impact. I mentioned this in my comments earlier. The largest impact, Ian, the comparison between Q1 and Q2 growth rates is this dynamic of the pricing changes.
+
+Carrie Gillard
+Our next question will come from Michael Morton at MoffettNathanson.
+
+Michael Morton
+The #1 question we get from investors is the impact that the growth in enterprise will have on the attach rate. It's just really tricky to try to forecast it from the outside and probably not growing as quickly as some people might expect at the moment. Would just love to hear some more about the moving parts behind this as you see success in the Enterprise and how investors should think about the attach rate going forward?
+
+Harley Finkelstein
+Michael, I'll take that question. So first and foremost, Enterprise is really continued to gain some traction here. The way that we think about it is that there are a bunch of different ways that very large enterprises can use Shopify. And not every one of them wants -- some want headless and they can [indiscernible] Hydrogen and also remix. Some want Plus, this one-size-fits-all out of the box. And those that don't want out of the box, we have CSS as well.
+
+Carrie Gillard
+Okay. Thank you for your question. Our next question comes from Martin Toner at ATB Capital.
+
+Martin Toner
+Free cash flow margins have been greater than adjusted op income margins last 2 quarters. Is that something we should expect will continue?
+
+Jeff Hoffmeister
+Well, yes, from a free cash flow margin perspective versus operating income, there's a few things in play. But yes, in general, it's been and we expect it to continue to be a few points higher. And that's just a function of how you think about our P&L and kind of how that flows through the P&L, but yes.
+
+Carrie Gillard
+Okay. Our next question will come from Andrew Bauch at Wells Fargo.
+
+Andrew Bauch
+Just wanted to unpack the Shop Pay growth. 3 straight quarters over 50%. And Harley, you mentioned the off-platform opportunity and its interplay with commerce components really starting to show traction. So can you give us a sense on what the drivers of Shop Pay's growth are at this point? And what does the pipeline look like for Shop Pay off-platform as we get into the back half of this year?
+
+Harley Finkelstein
+Yes. I mean simply put, Shop Pay is the highest converting [ standard of ] checkout on the Internet. It converts 36% better than competition and 15% more on average. There's now 150 million buyers, 150 million that have opted into Shop Pay. And for Q1 alone, we facilitated $14 billion of GMV. That's a 56% year-on-year. I think total cumulative, it's about $140 billion so far.
+
+
+Carrie Gillard
+And our last question will come from Samad Samana at Jefferies.
+
+Samad Samana
+I appreciate it. So I wanted to ask a question maybe on the Point of Sale GMV and Point of Sale MRR. Jeff, I know you guys gave off-line revenue targets last year at the Analyst Day, which is really helpful. Could you give us any sense of maybe what the MRR contribution from Point of Sale is and maybe how you're expecting the overall Point of Sale growth this year? And then not to make it a multiparter, but just trying to understand maybe what the GPV for offline merchant dynamics are versus online.
+
+Jeff Hoffmeister
+Yes, of course. A couple of things on that, Samad. In terms of some of the growth rates in some of the sizing that we talked about at the Investor Day regarding retail Point of Sale, that is consistent in terms of how that business is performing. As strong as our core business is performing, the offline piece continues to perform at an even higher level.
+
+Harley Finkelstein
+Yes. Let me just close that before we finish the call because I just want to say one thing that I think may be getting lost here, but it's really important. We just delivered 29% pro forma revenue growth and 12% free cash flow margins. Now for Q2, our outlook points to free cash flow margin similar to the 12% we achieved in Q1. And that combined with pro forma revenue growth in the low to mid-20s, I mean this business can do something very rare and unique relative to almost every single company on the planet.
+
+Carrie Gillard
+This concludes our First Quarter 2024 Conference Call. Thank you.

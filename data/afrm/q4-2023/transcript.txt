@@ -1,0 +1,348 @@
+August 23rd, 2023
+Operator
+Good afternoon. Welcome to the Affirm Holdings Fourth Quarter and Fiscal Year 2023 Earnings Call. Following the speakers’ remarks, we will open the line for your questions. As a reminder, this conference call is being recorded, and a replay of the call will be available on our Investor Relations website for a reasonable period of time after the call. I’d now like to turn the call over to Zane Keller, Director, Investor Relations. Thank you. You may begin.
+
+Zane Keller
+Thank you, operator. Before we begin, I'd like to remind everyone listening that today's call may contain forward-looking statements. These forward-looking statements are subject to numerous risks and uncertainties, including those set forth in our filings with the SEC, which is -- which are available on our Investor Relations website. Actual results may differ materially from any forward-looking statements that we make today. These forward-looking statements speak only as of today, and the company does not assume any obligation or intent to update them, except as required by law. In addition, today's call may include non-GAAP financial measures. These measures should be considered as a supplement to and not a substitute for GAAP financial measures. For historical non-GAAP financial measures, reconciliations to the most directly comparable GAAP measures can be found in our earnings supplement slide deck, which is available on our Investor Relations website.
+
+Hosting today's call with me are Max Levchin, Affirm Founder and Chief Executive Officer; and Michael Linford, Affirm Chief Financial Officer. In line with our practice in prior quarters, we will begin with brief opening remarks from Max before proceeding immediately into Q&A. On that note, I will turn the call over to Max to begin. Max?
+
+Max Levchin
+Thank you, Zane. Thanks, everyone, for joining, and I hope you've had a chance to read our quarterly letter as it includes lots of great information. I mentioned in the letter, we're very proud of the team's accomplishments this quarter, closing out the fiscal year on a high note. In our fiscal Q4, we exceeded our outlook across all key metrics were profitable on an adjusted operating income basis, improved our already great credit metrics while accelerating growth and launched with some amazing brands on the platform. Some of these brands are so cool, we can't even say their names. You just have to go shopping to find them. Dear to my product developing heart, we're finally able to brag about the Affirm Cards progress. We're energized by the momentum we're seeing and are investing significant energy into making the card the top of wallet choice for our consumers.
+
+We also expect to deliver annual profitability on an adjusted operating income basis going forward. and our disciplined performance over the last several quarters has earned us the right to return to a more aggressive pace of network growth while maintaining discipline. I tried hard to make my letter a breathy read this quarter, so I hope you have a chance to peruse it, if you haven't yet. For a deeper dive into our numbers, please have a look at the one from Michael. He's a good man and thorough. But in case, you would like even more investor information about Affirm, we're pleased to announce that we will be holding an investor forum on November 14 in New York. At the event, you will hear from several of our management team members, and we will provide an update on our commercial and product initiatives as well as our financial framework. Please look for additional information, including registration details on our Investor Relations website as we get closer to the event.
+
+Back to you, Zane.
+
+Zane Keller
+Thank you, Max. With that, we will now take your questions. Operator, please open the line for our first question.
+
+Operator
+Thank you. Again, at this time, we will be conducting a question-and-answer session. [Operator Instructions] Our first question comes from the line of Tim Chiodo with Credit Suisse. Please proceed with your question.
+
+Tim Chiodo
+Great. Thank you for the introduction there and looking forward to the Investor Day. Max, I believe you were just saying around the right to reaccelerate investment. I just want to make sure I have this right, though, in terms of what's implied to the guide for the upcoming year. If we take the GMV guide and the ROTC as a percentage of GMV and think about the 2% operating margin, it seems to imply that there's only sort of a low-single digit growth in your OpEx base for this year. One, is that investment under the hood with some savings elsewhere and maybe just provide a little added context around that, it seems to imply not a whole lot of expense growth.
+
+Max Levchin
+That is accurate. Some sort of a lean and mean code writing machine joke (ph) comes to mind, but I'm not capable of those, but we have been more productive than perhaps ever in our history over the last six months or so? Certainly last three, we’ve really just built a lot of great stuff, and we have no intention of slowing down, looking for efficiencies.
+
+Tim Chiodo
+Okay. Thank you for the confirmation. Appreciate it.
+
+Max Levchin
+You are correct.
+
+Operator
+Our next question comes from the line of Ramsey El-Assal with Barclays. Please proceed with your question.
+
+Ramsey El-Assal
+Hi. Thanks for taking my question this evening. You guys called out growing merchants at a good year-over-year clip and also some new partner signings and expansions. Can you give us an -- your updated thought on the growth algorithm of the business in terms of what you're expecting from existing customers versus new logos and maybe there's a new category, which is sort of product now that Affirm Holdings Card seems to be inflecting. How should we think about those three forces kind of what's more important to drive growth going forward?
+
+Max Levchin
+It's a great question. Thank you, as always. So that should be already apparent in some of the writing we did the highest efficiency way for us to grow kind of what constitutes the existing business is growth through and with our platform partners. And that's where we really can invest the way we know how to do our best work, building products, building features, figuring out how to partner holistically across very, very large surface areas, Shopify, Walmart, et cetera., that's where kind of high, high leverage for every line of code, you get some number of billions dollars or something like that. That's the growth vector for the existing business. You saw the sort of near vertical line we're seeing in the sign-ups with the card, but it's coming from a tiny base. And so at some point, it's going to be -- at this point, I can say that with some amount of confidence, a massive business for us, and we have all the confidence and all the investment to back that confidence up. But in the very immediate future, majority of the growth of GMV will certainly come from existing partnerships with platforms.
+
+We're still quite actively signing up new merchants. We're still figuring out ways of expanding programs with those merchants but differently, expanding our share of card with them. But that's roughly the order where we concentrate our energy [indiscernible] my time is largely spent figuring out what next five moves. So the card looks like, I think the core business is a fairly well-oiled machine. We've got some extraordinary partners. We've done well for them. They're quite happy with how we're doing together and we'll continue doing lots of great work there, too.
+
+Ramsey El-Assal
+Okay. Really quick follow-up for me. Are you worried or what do you expect from the student loan repayment restarting coming up here? There's been a little bit of media but, I'm just curious what your view is in terms of how that would impact the credit environment in the U.S.?
+
+Max Levchin
+So we've included that in our forecast. So we don't expect it to be something that just happened to a different Galaxy. We expect it to be a modest headwind for us or at least we're prepared for that, and it's priced in, if you will, to our numbers. I have to give a little bit of credit where it's due. I read Mizuho, Dan Dolev's colleagues wrote a nice piece describing what they think will happen to BNPL industry I the student loan repayment restarts. And I won’t comment on exact numbers, but I have to say directionally, we’re in agreement with what they found in the research. So I think it’s a good place to look for thoughts on that. But we don’t think it’s nothing.
+
+We don’t think it’s very significant either.
+
+Ramsey El-Assal
+Got it. Thanks so much.
+
+Operator
+Our next question comes from the line of Rayna Kumar with UBS. Please proceed with your question.
+
+Rayna Kumar
+Hi. Good evening. Thanks for taking my question and good quarter. I just want to ask you about your loan delinquency rate, it came in better than expected in the fourth quarter. You saw a sequential decline in 3Q versus 4Q. What makes you think that there will be an increase in the first half in '24.
+
+Max Levchin
+Seasonality. We know our borrower as well. We know when they have improvements to their personal cash flow, and we know when they struggle a little bit, and we are kind to be in front of that. But it's -- credit is always job number one. We're in control of what's happened and what will happen.
+
+Rayna Kumar
+Got it. Okay. And then I just want to ask you about the CFPB and the credit reporting bureaus They, of course, continue to push for greater reporting of purchases financed through the NPL. And you've been a proponent of greater reporting transparency. But this could also be at odds with your strategy of increasing the frequency and usage of your financing solutions. Do you think greater credit reporting will drive down consumer usage of NPL or if you can just talk about your thoughts on that. Thank you.
+
+Max Levchin
+Three (ph) question. Obviously, we're strongly engaged with CFPB. We consider them to be our regulator because we are financial services company of scale. And I happen to -- and my team as well happens to believe that credit reporting is a really important piece of the puzzle. We want to make sure that consumers benefit, those that pay us back on time anyway, from their timely repayment in their credit reporting. Part of the work we have done and will do with the bureaus and with our competitors and peers in the industry is actually making sure that the way this is reported is reflective of the factual usage of the product of course, but also does not unduly punish or reward consumers through [indiscernible] idiosyncratic sort of outcomes of the scores. But part of why the NPL world does not like to report to the bureaus, the original scoring systems used by the bureaus, their own or their Issac ones don't really correctly account for what these loans look like just to share multitude of them. And so part of the work we’re doing with the industry and the bureaus is to make sure that it works the right way for a young customer.
+
+
+Rayna Kumar
+Very helpful. Thank you.
+
+Operator
+Our next question comes from the line of Dan Dolev with Mizuho. Please proceed with your question.
+
+Dan Dolev
+Hey, guys. Hey, Max. Thanks. Appreciate it. Amazing results here. I can't get more excited about the Affirm cards, Debit+. My only question is, can you maybe give us the main building blocks for the 2024 guide? So what are you incorporating in terms of Debit+ what should we know like?
+
+Can you maybe give us like a little path of like a bridge of how we can think about 2024 with all the puts and takes. Again, great results. Thank you.
+
+Michael Linford
+Yeah. Thanks, I'll grab that one, and Max, feel free to add anything. I think for the full year, we've put out what we think is the floor will exceed $24 billion in GMV. And that really reflects some uncertainty around where the ceiling is driven in part by things like the Affirm card. The Affirm Card is very early. The charts that we have in our letter showed that kind of steep inflection and early trajectory, which is really exciting, but we're not sure where and when we get to anything that approximates us a peak there. With respect to the margin structure in the business, we would expect to see some -- obviously, the full year impact of a higher rate environment. If you remember, the course of last fiscal year is as rates were constantly rising.
+
+And we're at or near the higher end of that rate cycle and would expect that to play out with respect to some headwinds in the cost side. And to offset that, of course, we have some of our consumer pricing initiatives, which will begin to bear real fruit. And all of that is kind of in the top line part of the business. And then with respect to operating expenses, we do expect the full year benefit of the restructuring actions that we took earlier this year, enabling us to deliver what we think will be a profitable year on an adjusted operating income basis.
+
+Dan Dolev
+Got it. And can I squeeze one more in. Shopify is pretty bold up on the in-store experience. Are you seeing any of that in the new initiatives?
+
+Max Levchin
+It's there. It's certainly not fully rolled out yet, but it's definitely something that Shopify is very committed to and as a good partner with so are we. So we have lots of work to do there. I've said many times before, in store is the next frontier. I think frequency is the single most important thing we can focus on in terms of building out the network and most people still shop in stores, at least as much as online or more like 4 times more. And so being offline is really important. That was a great opportunity. We're scaling that up with them.
+
+
+Dan Dolev
+Yeah. Great results. Thanks again.
+
+Max Levchin
+Thank you.
+
+Operator
+Our next question comes from the line of James Faucette with Morgan Stanley. Please proceed with your question.
+
+James Faucette
+Great. Thank you very much. I wanted to just ask a follow-up question on acceptance and merchants. It seems like in the current environment with interest rates now quite a bit higher than they were just even a year ago that it would be a good opportunity for merchants to find up places where they could use zero percent promotions and in conjunction with Affirm to help drive volumes, so without having to resort to product discounting, et cetera. So I'm just wondering kind of what your engagement is like with merchants and what is the opportunity to further drive Affirm acceptance and use through some of those promotional activities.
+
+Max Levchin
+Certainly, the right estimation, there are plenty of merchants who are focused on driving their top line. I mean, I think this tends to come up in our conversations on and off. But basically, if you're a fully integrated merchant with a healthy gross margin, then the best way in my bias opinion to protect your price and perception of your prices with consumers is to use Affirm zero percent deals or fixed APR deals at this point, support much more than just zero percent. There's lots and lots of different promotional offerings that we've constructed for our various partners. So we see great interest in that with plenty of merchants who are resellers and they're fairly far down the supply chain, they do not have the margin to support zeros, and it's difficult for them. Sometimes, we're able to bring in manufacturers of the original equipment or the original items and they step in and create zero percent deals, and we have a healthy number of those and have a lot of plans to expand that. But generally speaking, you're exactly right. There's plenty of worry by merchants to keep moving the merchandise they need to discount, discounting kills price integrity and we're here to help.
+
+
+James Faucette
+Thank you. And then on RLTC, it seems like it was good to see that margin, particularly on Debit+ and the ramp you're seeing obviously. How should we think about the mix between interest-bearing or pay now or plan for on more of a medium-term basis for that product?
+
+Max Levchin
+That's a great question. So for the moment, I am personally a little bit [indiscernible] in a sense that we are not quite done improving the frequency. So my goal or the company's goal, the team's goal anyway is to make Affirm card the top of wallet pursing (ph) device, which means that whatever your percentage of paying out transactions is, I want them all and whatever you might put in your credit card, I want you to put on the Debit+ flash Affirm card. So for the moment that sits at 42% pay now or something like that, and the rest is both interest-bearing and non-interest-bearing. The really cool footnote in the non-paying out part of this is that we are in control of which one you choose. We are the ones presenting a modified version of Adaptive checkout, both before and after the swipe wherever you decide to go in terms of borrowing. And so we have a lot of control over where you're seeing 0s and we're not seeing 0s and depends very much on the merchant contracts and promotional activities we have with them. But in terms of the target pay now versus not, we'll start reporting on those once we get to a certain level of scale, but at the moment, more of each kind is better.
+
+
+Michael Linford
+The other thing I add just to be really clear, the 42% stat, and we break it out in our shareholder letter, that's on a transaction basis. We would continue to expect the AOVs of pay now to be substantially lower than the interest-bearing transaction, which means on a GMV basis, the mix would be much lower in terms of percentage of pay now.
+
+James Faucette
+Okay. Great. Thanks for that, Michael and great color there Max. Appreciate it.
+
+Operator
+Our next question comes from the line of Eugene Simoni with MoffettNathanson. Please proceed with your question.
+
+Eugene Simuni
+Thank you very much. Hi, guys. Wanted to ask about GMV growth. It looks like it came in better than expected this quarter at 25% year-over-year. So it would be very helpful to hear what are some of the factors that helped it grow faster whether it's macro or kind of Affirm specific? And then as a follow-up, does that -- would love to hear a bit on how you thought about your GMV guide for next year because I realize that $24 billion is the floor but that floor, if I'm doing the math correctly, implies a deceleration from that level. So why would you not be able to achieve the growth rate that you achieved this quarter with GMV next year?
+
+Michael Linford
+Yes. So in terms of the fourth quarter, we saw a lot of traction in our travel and ticketing business. You saw the consumer out participating in the economy in those sort of events driven, experiential driven spending patterns. And because of our breadth of distribution there, we were real beneficiaries of that this quarter. We also have done a lot of work to continue to optimize the checkout experience so that we can increase both uptake and our ability to capture volume on those channels and others. And we continue to ramp our largest enterprise platform partnerships as well. Those were big growers for us this quarter, and many of them were even accelerating their growth. So being positioned correctly and distributed correctly at the right parts of the economy, I think definitely benefited us a lot as well as work we've done on our side in terms of product.
+
+In terms of forward-looking into the year, I think there's clearly a lot of optimism internally for where we're taking the business and the things that we're working on, and we're just mindful of the economic volatility that continues to persist. And so we're starting the year off with a thoughtful approach here and making sure we don't sign up for more than we know we will deliver. I think the deceleration point, I think that we would expect there to be -- as we continue to scale some of our largest platforms slightly lower growth rate as we do achieve something that looks more like a normalized distribution or penetration on those largest platforms. And yet on the other side, we do have a lot of upside in our direct-to-consumer business. And how those two factors play out is something that will keep you in the loop on throughout the course of this fiscal year.
+
+Eugene Simuni
+Got it. Okay. That's very helpful. And then if I can squeeze in just one more on -- related to uncertainty and economic environment next year. I don't know if I missed it, but what is your assumption about unemployment rate for next year just because it's such an important driver of credit as you often point out.
+
+Max Levchin
+We more than anything benefit from the fact that our terms are short and controllable by us and we price and underwrite every transaction individually. I think if we were in the business of issuing lines, we would have to have an internal economic bureau trying to predict what unemployment looks like six quarters from now because the lines we would have granted today would still be getting utilized or repaid then. And instead, we have the benefit of saying we don't like the latest unemployment imprint, and therefore, we're going to change our credit posture. The way we achieve the results that we are bragging about today in credit has nothing to do with our ability to see the future. We never knew what unemployment would be. We never knew it would be better or worse, but that's just not how this business works. We have the controls to react to literally daily outcomes of our credit monitoring and whatever the future brings, we will adjust to that future. So our assumptions are, we will continue diligence being diligent.
+
+We’re going to continue meeting. Every Monday morning the entire executive team looks at all the credit results and ask the question, is everything great or do we need to do something. So I don’t have a promise or a progesterification on unemployment, but I can assure you that whatever the number will be, we’ll be ready for it.
+
+Eugene Simuni
+Got it. Okay. Thank you, guys.
+
+Operator
+Our next question comes from the line of Dan Perlin with RBC Capital Markets. Please proceed with your question.
+
+Daniel Perlin
+Thanks. I had a question on the Affirm card, Max. In the description here, you're talking about how it works. And I just want to make sure I'm clear on this. And the question really is around early readings and what you're seeing in terms of engagement and frequency of views. So on one hand, you talk about consumers can request a payment plan in the app before checking out. And then you say, it were linked to the bank account to pay with Affirm card and then have a post decision kind of post swipe, post tap. So when we think about those two types of consumer experiences, what's the early -- I would imagine linking it to the bank account creates more of a habitual frequency, but I'd be interested to know what you're seeing early stage?
+
+And is there a way to, I guess, I don't know, incentivize the consumer to go in one of those directions that would be beneficial both to you but also not detrimental to them. Thanks.
+
+Max Levchin
+I don't know if there's a question in that, that was eloquently put and pretty much accurate. You're on the dot on everything you just said. So you're exactly right, the way the product works. And I'll break it down for like a couple of minutes just to be super clear for everybody. So you sign up for the Affirm card, you get one in the mail. You don't have to do very much work at all. If you are Affirm user you are eligible to use Affirm card, and it's basically literally an Affirm card you request a loan and then you swipe the card or you chip it and the next transaction becomes that loan. So simple as that.
+
+It is absolutely much better for us and for our users if you connect your bank account because then you can swipe and if you didn't bother asking for a loan, you can still do it ex-post facto. And if you have nothing, it becomes a pay now transaction that settles. And so it's basically this journey from, I like Affirm, I use Affirm, now I can use it in store, nothing new to learn. As soon as you get a card in the mail, it is our job, and this is exactly where I'm spending the most recent conversation I had about what we call the first user experience was sometime between 1 and 2 o’clock morning in last night. So what I spend my time on is making sure that, that conversion from Affirm card for my well understood part of the Affirm experience to, I can connect to my bank account and get access to all these amazing features. Of course, I want to do that. So that is where we're spending lots and lots of cycles right now. It's going really well.
+
+I don't want to get into exact numbers, but where we started and where we ended is a massive progress, and we're very, very far from done. The economics improve, our ability to underwrite improves because we get to see your cash flow, our ability to offer you interesting access to things like zero percent loans improves because we understand the economics a little better and just see frequently high engagement. Therefore, we can make more educated bets around lifetime value over consumers. So everything you said is pretty spot. Let's see if there's anything else I can share on this topic. Both the frequency and the amounts and the LTV, like every metric possibly imagined is better once the card becomes fully fledged. We have internal terminology, specifically describing the sort of unconnected and connected state of the card exactly because it's such an important thing. And yes, we can absolutely low incentives, and we have a lot of good results that show that the incentives are not going to be especially expensive at all.
+
+
+Daniel Perlin
+That’s excellent. Thanks so much. I appreciate it.
+
+A – Max Levchin
+If no one can tell I’m excited by this product.
+
+Operator
+Our next question comes from the line of Bryan Keane with Deutsche Bank. Please proceed with your question.
+
+Bryan Keane
+Hey, guys. Max, you're going to be excited because I'm going to ask you more questions about the Affirm card. So the active consumer base, I think, spiked in the quarter. I think it's north of 200,000. I remember we had a wait list of about 1 million or so. I'm just trying to figure out, is there another big change of growth that we expect or kind of the users will be more modest growth from this level? Just trying to figure out how big that wait list is? And is there a big rollout to consumers happening as we speak.
+
+
+Max Levchin
+So for what it's worth the wait list included everyone that wanted the Affirm card does not -- the current active base does not necessarily include everyone who wants one because we were very, very careful as we rolled it out in terms of credit standards. In general, while I am gushing here over this amazing product that we finally rolled out and doing really well with. On the other side of that equation is a super sort of Spartan view of credit. We cannot afford to screw that up. And so we're not going to, therefore, launching a brand-new product without a very clear understanding of exactly what repayment will look like to everyone who wants it. It's probably not a good idea, and that's certainly not what we did. But the demand for the card was and is, very, very significant. We're not yet pushing it.
+
+In fact, there's a healthy internal debate as to the level of insistence we should take with our users. So there's a couple of million users that we consider to be sort of fully in on the affirmed story. They use us online. They use us at the point of sale, they use the virtual card number, which is like at this point, you can say it's kind of diminished Affirm card experience. And so that group, I have pretty high confidence once the card, would love the card, we can push fairly hard to get them all on it. We have not done that yet, just judging by the numbers. And we reserve the right to do just so. That said, there's plenty of other users that don't understand Affirm as well as we want them to, and they're eligible, and some of them are signing up for the card already.
+
+And so there's still lots of work to do on first user experience. We know, for example, I think I mentioned it in the last call, but the sort of the learning curve to date looks something like this. If you do one transaction, you are not guaranteed to stay with us forever. Once you do two transactions that you're basically in and after three transactions, you start reading the card as a sort of integral part of your purchasing experience. And so our goal is to both reduce the level of complexity that it takes to get our users through to understand this as well as guide them to that third transaction to just ensure that they fully grasp it. And we'll continue hammering on that. I expect a few more releases to go by before we feel very satisfied. And at that point, we can push the gas paddle and start basically telling people this is the only way to use Affirm at an unintegrated merchants, the only way to use Affirm offline, although those avenues are still open for a reason.
+
+Does that make sense?
+
+Bryan Keane
+Yeah. Got it. And so when you talk about this step function change or whenever that is, it's not built into the guidance, obviously. But when it happens, it's a lot of these things that you just talked about you have to feel comfortable with so that you can roll it out in mass and then obviously, the transaction volumes will continue. Just trying to figure out exactly when that step function happens where we go from these small numbers to, obviously, you think this could be pretty material. So just trying to figure out what to watch for.
+
+Max Levchin
+We definitely think this can and will be material one day. I am definitely not telling you or anyone when exactly that will happen. There's still a lot of work to do. We are rolling it out, like at this point, it's available broadly. If you're eligible in your app, you will find an invitation to take out the Affirm card. What I said is that we're not yet saying -- like for example, when you tap on to the card tab in the app, if you've used Affirm virtual card number, you can still do so. Like, we will tell you, hey, by the way, you’re eligible for the Affirm card, maybe you should grab it, but it’s not the same thing of saying, you wanted to get to the Affirm onetime card, sorry, that deprecated you should use Affirm card that we’ll send you in the mail. So those kind of steps haven’t been taken yet.
+
+But we are ramping up like you can see it in the numbers, and we have – there are a number of things we’re going to do, both as far as educating the end borrower to make sure that they understand how the debit card works. And we will definitely take a bunch of aggressive steps to make sure that everybody who is eligible for it understands exactly that they should come get it.
+
+Bryan Keane
+Got it. Super helpful. Thanks so much.
+
+Operator
+Our next question comes from the line of Andrew Jeffrey with Truist Securities. Please proceed with your question.
+
+Andrew Jeffrey
+Hi. Good afternoon. Appreciate taking the question. 4Q seemed like a really strong quarter from an enterprise customer standpoint. And it seems like from what we've seen perhaps Affirm even punched above its weight or well above sort of trended tender share on Prime Day. Max, can you just talk about your thought process around how much tender share you can ultimately gain at least in e-com at your enterprise customers and whether the fourth quarter might be a preview of things to come in terms of share and spend, hence, GMV growth?
+
+Max Levchin
+Yes. We certainly like that, obviously. We are taking share of mind share of checkout share of wallet. So I feel very good about that. If you look at more mature BNPL markets, obviously, apples and oranges a little bit, but there are plenty of geos where buy now pay latter, broke into north of 10%, some places even north of 20%. In the U.S. online, I think, in aggregate, we're hanging around 5% or 6% last I looked, this is -- don't quote me on that exactly, but it's that order. If you look at full commerce, both online and offline, it's decidedly sub-1%.
+
+So in terms of 99% more to go, and it will probably grow lots before it slows down. It's always work. It's all of this is product work. Like, you don't get to deliver a brand new way to pay for things without customer education, without the right level of promotion in the funnel. So it's definitely not a thing that's going to happen overnight. But on the flip side, you're exactly right. I consider this quarter a preview of things to come. Like we really focused on the right way of bringing the product to the masses and it paid off.
+
+
+Andrew Jeffrey
+Yeah. That's clear. As a follow-on for Michael, can you remind us when you lap the tighter credit box? I mean I know you reserved the right to sort of to change your underwriting on the slide, but assuming that you sort of maintain the current level of economic activity, when do we see growth perhaps benefit from that?
+
+Michael Linford
+Yes. The timing initiatives that we took last year started in the early summer and through the early fall, so summer time to early fall. So we're kind of in the midst of lapping a lot of those actions. I would say by the time we get to our second quarter is when we have a pretty normalized comparison for the biggest changes. But I do think it's important to reiterate what you said there. We changed our credit decisions a lot all the time. So it's not a decision where we make -- get together when we decide to tighten or loosen in a pretty broad steeping way. We're very tactical and surgical with how we go through and optimize where and when we want to take risk.
+
+But the specific decisions that we took in response to the consumer stress that we saw, we will have lapped by the time we get through Q2.
+
+Andrew Jeffrey
+Okay. Appreciate that. Thank you.
+
+Operator
+Our next question comes from the line of Rob Wildhack with Autonomous Research. Please proceed with your question.
+
+Robert Wildhack
+Hi, guys. I wanted to unpack some of the earlier commentary on the margin. The guidance is for fiscal '24 revenues as a percentage of GMV to be similar to '23, '24 RLTC is the same as ‘23. That would imply transaction costs are also similar to '23 as a percentage of GMV. And then within that, I would assume funding costs are going to be higher. So a, is that right? And then b, is there something that's offsetting that on the cost side in terms of keeping overall transaction costs flat as a percentage of volume this year.
+
+Michael Linford
+Yeah. It's exactly right. And we do expect funding costs to be higher, but we also have some continued changes in the mix of the business, both in terms of the largest platforms, we'll continue to take share, which will change the shape of the timing and how we earn it. The balance sheet will also be very different this year to last year. which again will change the shape quite a bit. There's a lot of different factors that caused that go into that, that assessment. But the top line is right. Those things will net out to being largely flat from a revenue standpoint and an RLTC standpoint as a percentage of GMV.
+
+
+Robert Wildhack
+Got it. Thanks. Could you just give some more detail or color on what you mean by the balance sheet is going to be different from this year to next year?
+
+Michael Linford
+Yeah. So you saw the loans on the balance sheet were obviously higher in Q4 versus the prior year and also up sequentially. We talked about an equity capital require ratio being higher as well. And we would expect there or there would be a lot more dollars sitting on the balance sheet this year than last year, which just changes the shape of the earning of the loans.
+
+Robert Wildhack
+Okay. Thanks.
+
+Operator
+Our next question comes from the line of Reggie Smith with JPMorgan. Please proceed with your question.
+
+Reginald Smith
+Hey, guys. Thanks for taking the question. I've got two actually. one, I guess, a point of clarification. I guess previously, you guys talked about sustainable profitability beginning in 2024. And I guess I just wanted to check the language and see if there's been any change to your guidance. Now you're talking about annually profitably. And I'm curious if that was always the expectation or is that a minor change?
+
+
+Michael Linford
+No, it was always the expectation. We talked about sustainable profitability. We were always thoughtful around our second quarter being a time win. The timing of GMV within the quarter as well as the sequential build from Q1 to Q2, always being distortive. And so we're careful to say that, that may be a trough, and we reiterated that in our letter while we do expect full year profitability, we may have a quarter that may fall outside of that. Clearly, you see our Q1 guidance suggests that, that won't be in Q1 and the full year guidance being where it is, suggests, I think we're – certainly feel pretty good about that overall. But we won't be disappointed if we have a quarter of negative adjusted operating income.
+
+Reginald Smith
+Got it. Understood. And if I could squeeze one more follow-up. There is a slide that you guys have in your presentation that shows the merchant discount rate for different products. And it's hard to notice that the rate for year zero interest loans, both short and long term, hasn't changed materially in the last two years. And I'm curious if that's -- what's driving that? Is that -- is it a competitive dynamic? Is it strategic?
+
+Is it mix? Like why have you not been able to or have been unwilling to kind of raise your discount rates that given what's happening in the interest rate and the funding environment? Thanks.
+
+Michael Linford
+Yes. It's a good question. The -- one of the things that is an important piece of backdrop as you have a rising rate environment, you've also had a lot of the retail sector having a lot of pressure on their margin structure. And so one of the challenges we've worked through over the past year is finding ways still serve as many transactions as we can for those retailers without substantial increases in their MDRs. And so for example, we've introduced fixed APRs, which have low fixed APR amounts that are still subsidized by the merchant, but don't look like the same sort of pure zero percent. And so as a result, you don't see by product a substantial increase in that even though we've changed the economic offer that ultimately the merchant consumer to get to see. Additionally, this view is super helpful to understand actually what the merchants are paying for a product. But it is into a complete view as we're able to think about changing down payment or credit approval thresholds, all these things factor into how we think about the total pricing with the merchant.
+
+And so you may not see the results of us getting the right value for Affirm that relationship showing up in the seat of the merchant pace.
+
+Reginald Smith
+Understood. And I guess, Max, you mentioned some higher gross margin merchants. And I think a previous analyst had asked about whether you're seeing any increased interest there. Is the right way to read that, that you guys haven't pushed on some of those higher margin merchants that may be a little less price-sensitive? Or like what's the takeaway from that?
+
+Max Levchin
+So again, I think it's -- we have a market-leading product in a very competitive space that's really exciting and a lot of entrants into the space. I think we're very proud of the fact that we've been able to hold pricing in that competitive environment, macro notwithstanding, I think that we do think about the merchants being very different depending upon their margin structure, their promotional intensity and all that factors into how we think about what MDR is make sense. But again, I think MDR is only one small part of the total pricing equation, which is -- takes into account a lot more than just the MDR being paid because it's obviously, to take into account the cost of the program as well. And when you think about all of these together, we think about the profitability of a particular merchant, not just the MDR that they pay.
+
+Reginald Smith
+Thank you.
+
+Operator
+[Operator Instructions] Our next question comes from the line of Jason Kupferberg with Bank of America. Please proceed with your question.
+
+Jason Kupferberg
+Great. Thanks. I just wanted to start with the guidance on RLTC as a percent of GMV for F '24. I know we're saying it's going to be similar. It's hard to be precise in this macro backdrop. But just want to get a sense of kind of range of outcomes. I mean, are we talking about 10-ish basis points or so on either side of the F '23 results or just trying to get a sense of how wide of a range you guys might be envisioning? Like do you think there's a wider range of outcomes in F '24 compared to the way you guided F '23 for example?
+
+Just wanted to get a little more detail on that. Thanks.
+
+Michael Linford
+Good question. And the first part of your question is exactly right. I think that we're not giving a precise range because of the uncertainty and macroeconomic backdrop. I think that if you look at the range that we guided to in Q4, which we were ahead of, you can get a pretty good sense of the fact that we are sitting in a period where you're going to see a quarter-to-quarter variability. What is not in doubt in our eyes is continuing to stick within the 3% to 4% long-term framework we've put out there for revenue less transaction costs as a percentage of GMV. And what's nutting out is our ability to pull the right cost and revenue levers to choose that outcome when we talked about full year guidance as being things that were within our control, and we think this is one where we're going to be able to deliver. We're not going to get more specific than similar to last year right now.
+
+Jason Kupferberg
+Right. Okay. So I guess it kind of sounds like you see maybe a fairly similar probability of being a little better in F '24 than being a little worse in F '24 because I know similar could obviously mean in either direction. Is that kind of how it feels?
+
+Michael Linford
+Yeah, it's exactly right. We're -- we feel like in this rate environment, the results that we delivered in '23 are representative of the results that we would like to deliver. That being said, of course, any given quarter can move around a non-trivial amount, but nonetheless, feel like similar to '23 is a good place to model the business.
+
+Jason Kupferberg
+Yeah. For sure. Just a quick one on Affirm card. I saw $130 million of GMV in Q4. What are you assuming in the Q1 and the full year guidance for the Affirm card GMV and will you disclose the Affirm card volumes each quarter going forward as you did this past quarter?
+
+Michael Linford
+Yeah. We do intend to share the Affirm card GMV every quarter. We may not share all the same stats that we did this quarter as we get going. We do think it’s important to communicate the total volume there. We’re not going to give super precise numbers with respect to the Affirm card guidance for the year, but what we will say is there’s a couple of points of growth that we think the card will drive.
+
+Jason Kupferberg
+That’s helpful. Thank you, Michael.
+
+Operator
+Our next question comes from the line of John Hecht with Jefferies. Please proceed with your question.
+
+John Hecht
+Good afternoon, guys. Thanks very much for taking my question. I guess it's more tied to balance sheet stuff in marketplace stuff. I mean the -- your interest income as a percentage of total revenues has moved up as you've increased your balance sheet. So maybe some commentary on -- should that trend persist or should we see a leveling out of the contribution of interest income. What kind of leverage are you guys comfortable with on the balance sheet? And then final tied to that is, how is the marketplace developing? And when do you think you'll start being more active in selling loans to third parties?
+
+
+Michael Linford
+Yeah. So there's a couple of drivers that are driving the interest income up. One is, as you pointed out, the loans held for investment is higher. The second is the mix of business where we do have some of our largest enterprise partners scaling mostly with interest-bearing programs. And so the product mix has shifted. And then lastly, we've taken on some efforts to raise APRs and all of those taken together has resulted in more interest income. What's important from our perspective is the ability to do that at the point of sale and to do that in a way that doesn't impact conversion really reflects our true technology leadership in a way that I think is pretty difficult for other people to match. With respect to the forward flow program or selling whole loans, it is definitely the case that the volatility in the macroeconomic conditions, definitely changed the mix of business that we were doing with respect to on balance sheet or off balance sheet -- loan funding.
+
+That being said, the tone and tenor conversations with Capital Partners today is very constructive. We have a really differentiated credit performance got something that I think loan investors really appreciate about our platform. They know that we are both attending to it, but also can deliver differentiated results, and we're not afraid to eat our own cooking as they say. And I think that gives us some cause for being optimistic about the longer term here. And yet, we’re still in a period of pretty high volatility uncertainty. And so as we think about starting the year off and giving guidance here, we’re being pretty thoughtful about not signing up for more than we know we can deliver.
+
+John Hecht
+Okay. Thanks very much. It’s helpful.
+
+Operator
+And our next question comes from the line of Michael Ng with Goldman Sachs. Please proceed with your question.
+
+Michael Ng
+Hey. Good afternoon. I just have two. So the first one is just about the strength of your enterprise partnerships amidst BNPL competition. Are non-exclusive merchants incentive to offer as many BNPL products as possible, including an in-house product. If not, what are some reasons that they choose Affirm. Is it the adapted checkout, the reputation for underwriting and transparency, a desire to have a less clutter checkout. Just any thoughts there would be great.
+
+And then I have a quick follow-up.
+
+Max Levchin
+You certainly No. The -- you say parts of the answer really well. In general, I think we've been saying this for a while. There's some slow-moving tendency in the industry towards what we call side by side. That said, we are -- I think, at this point, we can claim the best underwriters in the space and the ones with the best suite of products. There are very few players that can scale long-term zeros, short-term zeros, [indiscernible]. We've experimented with other products that are not even sort of widely available just yet, but we're introducing new financing programs all the time. And we also have a whole what we call power by Affirm, the PBA stack is what our friends at Shopify for example used to do a much deeper integration.
+
+So the technical skill set, the scalability, the ability to support every imaginable product in the space typically makes us the dominant player in all these enterprise partnerships. There's definitely interest, I think, from everyone. It's still a very competitive space. There's plenty of people asking themselves, well, maybe we need to have an in-house product. I think in practice, if your business is not very similar to Affirms. It's pretty hard to replicate what we do. We've been at it for nearing 15 years and have done a pretty good job with it. So I think we expect to continue dominating certainly that part of the curve.
+
+And enterprises like to partner with serious people that have serious engineering teams that bring strength to those kind of relationships. That's why we won the original sort of big API deal, if you will, Shopify, and we've sort of gone from strength to strength. So I don't expect that to change very much. Undoubtedly, there will be players popping up alongside us. We don't expect that to dramatically change our results.
+
+Michael Ng
+Great. Thanks, Max. And then the second question was just about Affirm card. I was surprised to read that the card volumes are delivering at a similar RLTC as Affirm overall. And I was also surprised that pay now was only 10% of volumes. Was that surprising to you at all? Is there anything that you guys are doing that have resulted in interest-bearing being such an outsized volume on the Affirm card for with such a high frequency kind of top of wallet product.
+
+Max Levchin
+Surprise, no. Food for thought, for sure. So we designed the card with a very specific agenda of creating top of wallet experience or habituation as sort of the pop psychology term. Affirm on average is used basically 4 times a year, and that's great, but that's not nearly enough. You're trying to be a payment network, you have to be there for doughnuts and coffee and for bicycles and couches. And we've more or less conquered the bicycle and couch space, and we're trying to take our unfair share of doughnuts and coffee. And so the pay now volume we expect to grow and we're certainly going to make it compelling to use us for pay now transactions, not necessarily just doughnuts and coffee, but given some items between that and the several hundred dollar average that we normally run, without fall modestly here, it's going according to plan. I'm quite happy with how it's shaping up.
+
+We have a lot of work to do. There's certainly room to create consumer rewards that we have not yet launched, but that's a big leap towards why would you pick this card from all the other ones you have in your wallet and that's coming. Once we get there, let's see what part of the pay now and pay later spend will get. One other thoughts are a little bit unrelated. I think it's a little bit dangerous to compare to directly to either debit cards or credit cards when you look at Affirm card, is neither. It really is a new product. There's not quite like anything like this on the market right now. And so in terms of -- am I surprised?
+
+No, but mostly because we had expectations that it will be successful because we've seen the demand. And we'll just try to take as much volume as we can.
+
+Michael Linford
+And then just on the margin point, as we outlined in the letter, we're actually not starting from zero with the direct-to-consumer business. We have a virtual card product today. That's one of our most profitable products because it is direct-to-consumer, and we own the whole experience. And that really does give us a lot of advantages. And of the many things that Affirm card does, one of the easiest to understand is it simply takes that experience and turns it into a form factor consumers are super used to and really expands the amount of times you can use the card, use it offline. You can use it in a lot more use cases, whether or not you're integrated with Affirm. And so that part is really unsurprising. We always knew that, that part of the business was going to be really successful.
+
+I do think that we want to continue to make it used more. But remember, we are still running at 42% of the transactions being pay now transactions. So we’re getting the frequency that we want out of the card even if the GMV isn’t there because the AOVs are obviously much lower on doughnuts and coffee than they are on bikes and catches.
+
+Michael Ng
+Great. Thanks, Max. Thanks, Michael.
+
+Operator
+And we have reached the end of the question-and-answer session. And I’ll now turn the call back over to Zane Keller for closing remarks.
+
+Zane Keller
+Thank you, everybody, for joining the call today, and we look forward to speaking with you all next quarter.
+
+Operator
+And this concludes today's conference, and you may disconnect your lines at this time. Thank you for your participation

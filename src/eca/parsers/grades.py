@@ -52,10 +52,11 @@ def parse_grades(text: str) -> dict:
             r"###\s+Composite Grade:.*?(?=\n###|\Z)", text, re.DOTALL
         )
         if comp_section:
-            score = re.search(
+            # Find ALL "= X.XX →" patterns and take the last one (the total, not per-dim)
+            scores = re.findall(
                 r"=\s*\**(\d+\.?\d*)\**\s*[-→>]", comp_section.group()
             )
-            if score:
-                result["composite_score"] = float(score.group(1))
+            if scores:
+                result["composite_score"] = float(scores[-1])
 
     return result

@@ -1,0 +1,15 @@
+{
+  "ticker": "COST",
+  "quarter": "Q2 2026",
+  "company": "Costco Wholesale Corporation",
+  "candor": {
+    "analyzed_at": "2026-03-30",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A",
+    "dim3_grade": "A",
+    "dim4_grade": "B",
+    "dim5_grade": "B+",
+    "composite_score": 3.62
+  }
+}
