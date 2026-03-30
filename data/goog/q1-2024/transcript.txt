@@ -1,0 +1,145 @@
+April 24th, 2024
+Operator
+Welcome, everyone. Thank you for standing by for the Alphabet First Quarter 2024 Earnings Conference Call. [Operator Instructions]
+
+James Friedland
+Thank you. Good afternoon, everyone, and welcome to Alphabet's First Quarter 2024 Earnings Conference Call. With us today are Sundar Pichai, Philipp Schindler, and Ruth Porat.
+
+Sundar Pichai
+Thank you, Jim, and hello, everyone. It was a great quarter led by strong performance from Search, YouTube, and Cloud.
+
+Now let's look at how well we are positioned for the next wave of AI innovation and the opportunity ahead. There are 6 points to make
+one, research leadership; two, infrastructure leadership; three, innovation in Search; four, our global product footprint; five, velocity in execution; six, monetization paths.
+
+Philipp Schindler
+Thanks, Sundar, and hi, everyone.
+
+Hollywood film and TV studio, Lionsgate, partnered with Horizon Media to test what campaign type will deliver the most ticketing page views for its The Hunger Games
+Ballad of Songbirds and Snakes film. Over a 3-week test, demand gen was significantly more efficient versus social benchmarks with an 85% more efficient CPC and 96% more efficient cost per page view. Lionsgate has since rolled out demand gen for 2 new titles.
+
+Ruth Porat
+Thank you, Philipp. We are very pleased with our financial results for the first quarter driven, in particular, by strength in Search and Cloud as well as the ongoing efforts to durably reengineer our cost base. My comments will be on year-over-year comparisons for the first quarter unless I state otherwise. I will start with results at the Alphabet level, followed by segment results and conclude with our outlook.
+
+Looking ahead, two points to call out
+first, results in our advertising business in Q1 continued to reflect strength in spend from APAC-based retailers, a trend that began in the second quarter of 2023 and continued through Q1, which means we will begin lapping that impact in the second quarter; second, the YouTube acceleration in revenue growth in Q1 reflects, in part, lapping the negative year-on-year growth we experienced in the first quarter of 2023.
+
+As we look ahead, two points that will affect sequential year-on-year revenue growth comparisons across Alphabet
+first, Q1 results reflect the benefit of leap year, which contributed slightly more than 1 point to our revenue growth rate at the consolidated level in the first quarter; second, at current spot rates, we expect a larger headwind from foreign exchange in Q2 versus Q1.
+
+Operator
+[Operator Instructions] Our first question comes from Brian Nowak with Morgan Stanley.
+
+Brian Nowak
+I have two. The first one, I wanted to ask about overall search behavior. Philipp, I know you talked in the past about how overall query trends continue to grow. Can I ask you to drill a little bit more into monetizable and commercial query trends? Has there been any changes in sort of your commercial query trends growth. There's just been all these new entrants moving around in e-commerce. That is my first one.
+
+Sundar Pichai
+Thanks, Brian. To your first question, look, I think broadly, we've always found that over many years, when things work well on the organic side, monetization follows. So typically, the trends we see carry over well. Overall, I think with generative AI in Search, with our AI overviews, I think we will expand the type of queries we can serve our users. We can answer more complex questions as well as, in general, that all seems to carry over across query categories. Obviously, it's still early, and we are going to be measured and put user experience at the front, but we are positive about what this transition means.
+
+Ruth Porat
+And on the second question in terms of the various work streams, as both Sundar and I said, we remain very focused on ongoing efforts to slow the pace of expense growth, what we've been calling durably reengineering our cost base. And I made this point in opening comments, but we are very cognizant of the increasing headwind we have from higher depreciation and expenses associated with the higher CapEx, and so these efforts are ongoing. And they're very much the same that we've talked with you about previously. It starts with product and process prioritization, all of the work around organizational efficiency and structure. These are ongoing.
+
+Operator
+Our next question comes from Doug Anmuth with JPMorgan.
+
+Douglas Anmuth
+Sundar, you talked about bringing more generative AI features into the main Search page. Can you just talk about what kind of queries or scenarios do you think that that's working best for so far? And just how we should think about the cadence of continuing to adopt more of those features within core search.
+
+Sundar Pichai
+Thanks, Doug. On SGE in Search, we are seeing early confirmation of our thesis that this will expand the universe of queries where we are able to really provide people with a mix of actual answers linked to sources across the Web and bring a variety of perspectives, all in an innovative way. And we've been rolling out AI overviews in the U.S. and the U.K., trying to mainly tackle queries which are more complex, where we think SGE will clearly improve the experience. We've already served billions of queries and it seems to cut across categories, but we are still continuing our testing. And we are metrics-driven in these areas. But I am optimistic that it clearly improves the user experience. Users are telling us that.
+
+And we are seeing it in our metrics, and we'll continue evolving it through the course of this year.
+
+Ruth Porat
+And then in terms of CapEx, as I said in opening comments, we do expect the quarterly CapEx throughout the year to be roughly at or above the $12 billion cash CapEx we had here in Q1. As I said, you can always have variability in the reported quarterly CapEx just due to the timing of cash payments, but roughly at or above this level. And it really goes to Sundar's opening comment that we're very committed to making the investments required to keep us at the leading edge in technical infrastructure to support the growth in Cloud, all the innovation in Search that he and Philipp has spoken about and our lead with Gemini.
+
+Operator
+Our next question comes from Eric Sheridan with Goldman Sachs.
+
+Eric Sheridan
+Maybe just one question of a big picture nature for Sundar. Sundar, if we come back to your earlier comments at the beginning of the call and framing up longer-term initiatives and longer-term narratives, I wanted to know if you could talk a little bit about both the opportunities and the challenges of operating at scale in a time like this where there's a lot of technology innovation going on and how you see the elements of trying to strike a balance towards moving the organization forward while still continuing to both invest for growth as well as balance margins.
+
+Sundar Pichai
+Thanks, Eric. Great question. Obviously, I think the AI transition, I think it's a once-in-a-generation kind of an opportunity. We've definitely been gearing up for this for a long time. You can imagine we started building TPUs in 2016, so we've definitely been gearing up for a long time. The real opportunities we see is the scale of research and innovation, which we have built up and are going to continue to deliver. I think for the first time, we can work on AI in a horizontal way and it impacts the entire breadth of the company, be it Search, be it YouTube, be it Cloud, be it Waymo and so on. And we see a rapid pace of innovation in that underlying.
+
+So it's a very leveraged way to do it, and I see that as a real opportunity ahead.
+
+Operator
+Our next question comes from Stephen Ju with UBS.
+
+Stephen Ju
+Philipp, I think it's approaching the 2-year anniversary for the launch of Ads on YouTube Shorts. And you've given us an update on monetization pickup sequentially. But with that in mind, I think YouTube has launched an array of ad products and automation tools to help advertisers transfer what they're doing to the vertical screen. So how is this translating into buy-in among your advertiser clients?
+
+Philipp Schindler
+Yes. Look, this is a great question, first of all. I mean, let's start with the fact that YouTube performance was very strong in this quarter. And on Shorts specifically in the U.S., I mentioned how the monetization rate of Shorts relative to in-stream viewing has more than doubled in the last 12 months. I think that's what you were referring to. And yes, we're obviously very happy with this development.
+
+Operator
+Our next question comes from Justin Post with Bank of America.
+
+Justin Post
+I'm going to ask another one on CapEx. It seems to be your biggest investment area. Just first, you saw the big uptick the last 2 quarters, but you've been investing in AI for years. Is the uptick because supply is getting easier to get? Or do you see more opportunities with the available supply to really fuel AI? So has the GPUs and everything gotten better that you feel more, investing more? And then thinking about the returns, both for Advertising and Cloud on the CapEx, do you feel like this is a higher cost of doing business? Or do you think this is an opportunity to even get better returns on your capital spend than you've had in the past?
+
+
+Ruth Porat
+So the increase in CapEx, as Sundar said and I said, really reflects the opportunity we continue to see across the company. It starts with all that we're doing in support of the Gemini foundational model but then also, clearly, the work across Cloud, on behalf of Cloud customers, and the growth that we're seeing with GCP and the infrastructure work there, and then, of course, as both Sundar and Philipp talked about the application across Search, YouTube and, more broadly, the services that we're able to offer. So it's the growing application and our focus on ensuring that we have the compute capacity to deliver in support of the services and opportunities we see across Alphabet.
+
+Operator
+Our next question comes from Mark Mahaney with Evercore.
+
+Jian Li
+This is Jian Li for Mark Mahaney. A couple of questions. One, just maybe an expansion on the Search, query questions on before, more like Search volume, and maybe in the context of the off-Google environment like AI chat bot, for example, we've seen kind of Meta AI directing to Google Search results. Do you think there's actually a scenario where like AI system can create a step function change in Search volume or use cases of Google? If you can give us more color on what are you seeing right now or what are you expecting to see in that area.
+
+Sundar Pichai
+On your first question, look, I said this before but to be clear, we view this moment as a positive moment for Search. And I think it allows us to evolve our product in a profound way. And Search is a unique experience. People come, be it if you want answers, if you want to explore more, if you want to get perspectives from across the web, and to be able to do it across the breadth and depth of everything they are looking for and the innovation you would need to keep that up, I think it's what we've been building on for a long time. And so I feel we are extraordinarily well set up, particularly given the innovation path we are on. And overall, I view this moment as a positive moment. So that's how I would say it.
+
+
+Ruth Porat
+Sorry, what was it?
+
+Sundar Pichai
+YouTube and Cloud.
+
+Jian Li
+Yes, in terms of your comment about $100 billion exit rate for YouTube and Cloud, what's driving this visibility for you and any kind of inflection you're seeing in the Cloud demand?
+
+Ruth Porat
+I would just say from Sundar's opening comments, it's just the ongoing momentum that we've seen in the business that we've been talking about, the ongoing growth and strong performance. And so what we were really getting at in that comment, what Sundar was getting at, is that we've continued to build strong businesses over time, and that just helps dimension it. We had similar comments last quarter when you talk about our subscription business. We're really proud of all the work that the teams are doing across the company, building new, strong opportunities, delivering for our users, for customers, for advertisers in profound ways. And so it was just helping to dimension what we have built over the years.
+
+Operator
+Our next question comes from Ken Gawrelski with Wells Fargo.
+
+Kenneth Gawrelski
+Two, if I may. First on GCP, you had nice acceleration in the quarter. Could you talk a little bit about the opportunities and constraints upon GCP's ability to continue to address that large addressable market and accelerate growth? Is it more sales-oriented? Is it more product sales solutions or both? And do you plan to address most of these organically? Or could a partner approach work for you?
+
+Sundar Pichai
+Look, on the Cloud side, obviously, it's definitely a point of inflection overall. I think the AI transformation is making everyone think about their whole stack, and we are engaged in a number of conversations. I think paid AI infrastructure, people are really looking to Vertex AI, given our depth and breadth of model choice, or using Workspace to transform productivity in your workplace, et cetera. So I think the opportunities there are all related to that, both all the work we've built up and AI being a point of inflection in terms of driving conversations. I think you'll see us do it both organically and with a strong partner program as well. So we'll do it with a combination.
+
+Philipp Schindler
+And with regard to your sports rights question, look, I mean, we've had long-standing and significant partnerships with the most popular sports league here in the U.S., around the globe, federations teams, athletes, broadcasters. And obviously, these partnerships, in combination with our very vast audience of sports fans, drives investment in subscription experiences across many offerings
+
+Operator
+Our next question comes from Ross Sandler with Barclays.
+
+Ross Sandler
+Sundar, I had a question about smartphone-based AI searches. So you guys are powering all these new AI interactions and searches on Pixel and on Samsung devices. And I think there's speculation that Gemini might be used on iOS in a future state. So the question is, as users start searching on smartphones and those searches are basically rendered on the model, on the phone, without accessing the web, how do you guys anticipate monetizing some of these smartphone-based behaviors that are kind of run on the edge? Any thoughts on that?
+
+Sundar Pichai
+Look, I think if you look at what users are looking for, people are looking for information and an ability to connect with things outside. So I think there will be a set of use cases which you will be able to do on device. But for a lot of what people are looking to do, I think you will need the richness of the cloud, the Web and you have to deliver it to users. So again, to my earlier comments, I think through all these moments, you saw what we have done with Samsung with Circle to Search. I think it gives a new way for people to access Search conveniently wherever they are. And so we view this as a positive way to bring our services to users in a more seamless manner. So I think it's positive from that perspective.
+
+
+Operator
+And our last question comes from Colin Sebastian with Baird.
+
+Colin Sebastian
+I guess first, a follow-up on some of the questions on SGE in the core Search. I guess I'm wondering, along with some of those changes in behavior, is there a way to quantify that overall engagement shift, whether that's an increase in time spent or the level of increase in queries for both sort of traditional search as well as more generative answers.
+
+Sundar Pichai
+On the first question on Search, not much more to add to what I said, but what we have seen. And we've been in live experiments just for a few weeks in U.S. and U.K. on a slice of our queries, and all indications are positive that it improves user satisfaction. We see an increase in engagement, but I see this as something which will play out over time.
+
+Operator
+And that concludes our question-and-answer session for today. I'd like to turn the conference back over to Jim Friedland for any further remarks.
+
+James Friedland
+Thanks, everyone, for joining us today. We look forward to speaking with you again on our second quarter 2024 call. Thank you, and have a good evening.
+
+Operator
+Thank you, everyone. This concludes today's conference call. Thank you for participating. You may now disconnect.

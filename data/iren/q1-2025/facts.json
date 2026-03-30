@@ -12,5 +12,23 @@
     "dim5_grade": "B",
     "composite_score": 2.65,
     "composite_grade": "B"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 144.8,
+    "gross_profit_m": 137.4,
+    "operating_income_m": 27.9,
+    "net_income_m": 24.2,
+    "eps": 0.11,
+    "total_equity_m": 1425.6,
+    "total_assets_m": 1989.8,
+    "cash_and_equivalents_m": 184.3,
+    "shares_outstanding_m": 224.46,
+    "free_cash_flow_m": -654.7,
+    "operating_cash_flow_m": null,
+    "capital_expenditure_m": -443.8,
+    "bvps": 6.35
+  },
+  "flags": []
 }

@@ -1,0 +1,34 @@
+{
+  "ticker": "COIN",
+  "quarter": "Q4 2024",
+  "company": "Coinbase Global, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.4,
+    "composite_grade": "B"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 2271.6,
+    "gross_profit_m": 1716.5,
+    "operating_income_m": 1017.0,
+    "net_income_m": 1291.2,
+    "eps": 5.13,
+    "total_equity_m": 10276.8,
+    "total_assets_m": 22542.0,
+    "cash_and_equivalents_m": 9308.3,
+    "shares_outstanding_m": 253.64,
+    "free_cash_flow_m": 964.6,
+    "operating_cash_flow_m": 964.6,
+    "capital_expenditure_m": null,
+    "bvps": 40.52
+  },
+  "flags": []
+}

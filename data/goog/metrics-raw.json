@@ -1,0 +1,93 @@
+{
+  "source": "yfinance",
+  "ticker": "GOOG",
+  "fetched_at": "2026-03-30",
+  "quarters": {
+    "Q4 2025": {
+      "revenue_m": 113829.0,
+      "gross_profit_m": 68062.0,
+      "operating_income_m": 35934.0,
+      "net_income_m": 34455.0,
+      "eps": 2.85,
+      "total_equity_m": 415265.0,
+      "total_assets_m": 595281.0,
+      "cash_and_equivalents_m": 30708.0,
+      "shares_outstanding_m": 12088.0,
+      "free_cash_flow_m": 24551.0,
+      "operating_cash_flow_m": 52402.0,
+      "capital_expenditure_m": -27851.0,
+      "bvps": 34.35
+    },
+    "Q3 2025": {
+      "revenue_m": 102346.0,
+      "gross_profit_m": 60977.0,
+      "operating_income_m": 31228.0,
+      "net_income_m": 34979.0,
+      "eps": 2.89,
+      "total_equity_m": 386867.0,
+      "total_assets_m": 536469.0,
+      "cash_and_equivalents_m": 23090.0,
+      "shares_outstanding_m": 12077.0,
+      "free_cash_flow_m": 24461.0,
+      "operating_cash_flow_m": 48414.0,
+      "capital_expenditure_m": -23953.0,
+      "bvps": 32.03
+    },
+    "Q2 2025": {
+      "revenue_m": 96428.0,
+      "gross_profit_m": 57389.0,
+      "operating_income_m": 31271.0,
+      "net_income_m": 28196.0,
+      "eps": 2.33,
+      "total_equity_m": 362916.0,
+      "total_assets_m": 502053.0,
+      "cash_and_equivalents_m": 21036.0,
+      "shares_outstanding_m": 12104.0,
+      "free_cash_flow_m": 5301.0,
+      "operating_cash_flow_m": 27747.0,
+      "capital_expenditure_m": -22446.0,
+      "bvps": 29.98
+    },
+    "Q1 2025": {
+      "revenue_m": 90234.0,
+      "gross_profit_m": 53873.0,
+      "operating_income_m": 30606.0,
+      "net_income_m": 34540.0,
+      "eps": 2.84,
+      "total_equity_m": 345267.0,
+      "total_assets_m": 475374.0,
+      "cash_and_equivalents_m": 23264.0,
+      "shares_outstanding_m": 12155.0,
+      "free_cash_flow_m": 18953.0,
+      "operating_cash_flow_m": 36150.0,
+      "capital_expenditure_m": -17197.0,
+      "bvps": 28.41
+    },
+    "Q4 2024": {
+      "revenue_m": 96469.0,
+      "gross_profit_m": 55856.0,
+      "operating_income_m": 30972.0,
+      "net_income_m": 26536.0,
+      "eps": 2.17,
+      "total_equity_m": 325084.0,
+      "total_assets_m": 450256.0,
+      "cash_and_equivalents_m": 23466.0,
+      "shares_outstanding_m": 12211.0,
+      "free_cash_flow_m": 24837.0,
+      "operating_cash_flow_m": 39113.0,
+      "capital_expenditure_m": -14276.0,
+      "bvps": 26.62
+    },
+    "Q3 2024": {
+      "revenue_m": null,
+      "gross_profit_m": null,
+      "operating_income_m": null,
+      "net_income_m": null,
+      "eps": null,
+      "total_equity_m": null,
+      "total_assets_m": null,
+      "cash_and_equivalents_m": null,
+      "shares_outstanding_m": null
+    }
+  }
+}

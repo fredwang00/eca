@@ -1,0 +1,34 @@
+{
+  "ticker": "MSFT",
+  "quarter": "Q3 2025",
+  "company": "Microsoft Corporation",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A",
+    "dim3_grade": "B",
+    "dim4_grade": "B+",
+    "dim5_grade": "A",
+    "composite_score": 3.59,
+    "composite_grade": "A"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 77673.0,
+    "gross_profit_m": 53630.0,
+    "operating_income_m": 37961.0,
+    "net_income_m": 27747.0,
+    "eps": 3.73,
+    "total_equity_m": 363076.0,
+    "total_assets_m": 636351.0,
+    "cash_and_equivalents_m": 28849.0,
+    "shares_outstanding_m": 7433.09,
+    "free_cash_flow_m": 25663.0,
+    "operating_cash_flow_m": 45057.0,
+    "capital_expenditure_m": -19394.0,
+    "bvps": 48.85
+  },
+  "flags": []
+}

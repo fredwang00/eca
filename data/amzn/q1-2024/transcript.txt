@@ -1,0 +1,84 @@
+April 29th, 2024
+Operator
+Thank you for standing by. Good day, everyone, and welcome to the Amazon.com First Quarter 2024 Financial Results Teleconference. [Operator Instructions] Today's call is being recorded.
+
+Dave Fildes
+Hello, and welcome to our Q1 2024 financial results conference call. Joining us today to answer your questions is Andy Jassy, our CEO; and Brian Olsavsky, our CFO. As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results as well as metrics and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2023.
+
+Andrew Jassy
+Thanks, Dave. Today, we're reporting $143.3 billion in revenue, up 13% year-over-year, excluding the impact from foreign exchange rates; $15.3 billion in operating income, up 221% year-over-year or $10.5 billion; and $48.8 billion in trailing 12-month free cash flow adjusted for equipment finance leases, up $53.2 billion year-over-year. We remain focused on driving better experiences for our customers while also delivering efficiency improvements. Our financial results are an encouraging reminder of the progress we're making.
+
+Brian Olsavsky
+Thanks, Andy. Starting with our top line financial results. Worldwide revenue was $143.3 billion, representing a 13% increase year-over-year, excluding the impact of foreign exchange and near the top end of our guidance range. I'd like to highlight a couple of points to help you interpret our growth rates. First, we saw an impact from leap year in Q1, which added approximately 120 basis points to the year-over-year quarterly revenue growth rate.
+
+We remain focused on the inputs that matter most to our customers
+selection, price, and convenience. During the quarter, around the world, we helped customers save with our shopping events. We added selection, including premium and luxury brands, and we delivered our fastest speeds ever for Prime members. Third-party sellers continue to be an important part of our offering. Third-party seller services revenue increased 16% year-over-year, excluding the impact of foreign exchange. We saw strong 3P unit growth, coupled with increased adoption of our optional services, such as fulfillment and global logistics. For the quarter, third-party seller unit mix was 61%, up 200 basis points year-over-year.
+
+Operator
+[Operator Instructions] Our first question comes from the line of Doug Anmuth with JPMorgan.
+
+Douglas Anmuth
+Probably for both Andy and Brian. Historically, Amazon has shifted between periods of heavy investment and then margin expansion back into heavier investment, but you now have a much bigger base of gross profit and overall operating income. As you think about gen AI and capital intensity or grocery or Kuiper or health care, is there anything from an investment perspective that could materially impact profitability going forward in your view?
+
+Brian Olsavsky
+Doug, yes, we have historically always mentioned that. You have seen like a pendulum shift sometimes between profitability and investment. I think we're at the stage now where we're doing both at the same time continually, so we are more apt to talk about the specific investments that we're making and how that might impact our short-term outlook. So if you look at the progress we've made on operating income and free cash flow over really the last 18 months, a lot of it's driven by improvements in our stores business, lower cost to serve. We've talked about regionalization efforts and how that's moving into inbound areas now.
+
+Andrew Jassy
+Yes, I just would add briefly, just to summarize. I understand where the question is coming from, Doug. And I think we're in a position to do both is the short answer. I think there's actually an opportunity in our existing large businesses in the stores business along with advertising and AWS. There's a lot of growth in front of us. And I think we're investing in a meaningful way. But I think we also -- we've been pretty consistent about don't believe that we're at the end of what we can do in terms of improving our cost structure on the store side.
+
+Operator
+And our next question comes from the line of Ross Sandler with Barclays.
+
+Ross Sandler
+Somewhat related question on CapEx intensity in AWS. So I think the CEO of Anthropic has said that I think the next generation of models cost in the neighborhood of $1 billion to train. This would be like Claude 4, I guess, high end. And then the generation after that might be as much as $10 billion to train. So is this something that you feel like the industry will do on top of AWS? Do you feel like Olympus and some of the stuff you're doing in-house needs to kind of stay at the state-of-the-art, or can others do that? And then how much did all this training have an impact on the acceleration that you saw in 1Q for AWS revenue?
+
+
+Andrew Jassy
+Well, Ross, I would tell you that we have seen kind of 3, I'll call it, macro trends that I think are contributing to AWS' performance, at least in the last quarter. I think first of all, I think the lion's share of cost optimization is behind us. So I think companies will be smart and have learned a lot over the last number of months in how they run their infrastructure in the cloud. But I think the lion's share of the cost optimization is behind us. And I think people have moved to newer initiatives that I would, at a macro level, describe as modernizing their infrastructure and then trying to drive value at a generative AI.
+
+Operator
+And the next question comes from the line of Brian Nowak with Morgan Stanley.
+
+Brian Nowak
+I have 2. The first one is on cost to serve. I appreciate all the color in the shareholder letter and even tonight on cost to serve. Andy, maybe could you just help us quantify a little more how to think about some of your North Star cost to serve goals over the next couple of years? And what could that mean for potential accompanying reasonable ranges of outcomes for North America retail margins through all of that?
+
+Brian Olsavsky
+Brian, this is Brian. I will start with your second question. So as far as dividends or buybacks or any other capital structure moves, we don't have anything to share with you on that today. But I'll reacquaint you with our general philosophy. So our first priority is to invest in -- to support the growth opportunities and long-term investments within our businesses. And generally, we still have many opportunities to put that capital to use that would generate meaningful returns, especially as you heard in generative AI.
+
+Operator
+And the next question comes from the line of Youssef Squali with Truist Securities.
+
+Youssef Squali
+Andy, on logistics, in September, you launched Amazon supply chain. Can you just help us understand the opportunity you see there? Where are you in that journey to build logistics as a service on a global basis? And does that require a step function increase in CapEx?
+
+Andrew Jassy
+Yes. Thanks for the question, Youssef. I think that it's interesting what's happening with our -- the business we're building in third-party logistics. And it really kind of, in some ways, mirrors some of the other businesses we've gotten involved in, AWS being an example of it, even though it's -- they're very different businesses in that we realized that we had our own internal need to build a bunch of these capabilities.
+
+Operator
+And our next question comes from the line of Justin Post with Bank of America.
+
+Justin Post
+I thought I'd ask a couple of growth drivers that you mentioned. First, grocery, it seems like you're still changing the threshold for free delivery or the subscription prices. Just can you say at all how much that's contributing to your gross right now and do you think you're over the hump? Or are you optimistic this can be a really big category for you? And then maybe a little bit extra on Prime Video ramp, how that ramp went versus your expectations? And do you think that could be a meaningful contributor to ad revenues going forward?
+
+Andrew Jassy
+Yes. I'll take them in opposite order just on Prime Video ads. Very early days, just launched a few months ago. It's off to a really good start. I think advertisers are excited about being able to expand their ability to advertise with us in video beyond Twitch and Freevee to Prime Video shows and movies. I think they also find that the relevancy and the measurability of that type of advertising and Prime Video ads is unique for them. So it's off to a very good start, it's early days, but we're optimistic there.
+
+Operator
+And our final question will come from the line of Ron Josey with Citi.
+
+Ronald Josey
+Maybe, Andy, I wanted to ask on international profitability, just after 1Q's 2.8% margin. Talk just about where we are in terms of international getting or to consistent profitability. We're following a similar trajectory as North America in terms of benefiting from regionalization shift, and we saw what average distance of each package traveled actually came down by 25 kilometers and whatnot. And if you could provide any insights on maybe how inbound fulfillment architecture might add to just continued benefits on faster shipping, same-day, next day, et cetera.
+
+Brian Olsavsky
+Thank you, Ron. I'm going to start with this one on international profitability. So yes, in the quarter, our operating income was $902 million. And if you've watched that, we've seen a steady progression in operating income in our international segment, it's up $2.2 billion year-over-year. So we like the trend there. It breaks down into a few areas. I would say the established countries of Europe, Japan, as well as the U.K. are following a lot of the same trajectory as in the United States.
+
+They are profitable in their own right. They are adding selection, they're adding new features like grocery there, adding to their Prime benefits, and a lot of the work that we do in the United States carries over there.
+
+Andrew Jassy
+Yes. I would add a few things. I mean, I'm again quite bullish on our international stores business. It's already a very large business. We've added a number of countries that are on the right trajectory, as Brian just indicated, and it's going to be a big, profitable business for us. And I really like the direction it's headed.
+
+Dave Fildes
+Thank you for joining us on the call today and for your questions. A replay will be available on our Investor Relations website for at least 3 months. We appreciate your interest in Amazon and look forward to speaking with you again next quarter.
+
+Operator
+And ladies and gentlemen, that does conclude today's teleconference. You may disconnect your lines at this time. Thank you for your participation.

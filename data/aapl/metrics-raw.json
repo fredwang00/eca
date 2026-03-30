@@ -1,0 +1,82 @@
+{
+  "source": "yfinance",
+  "ticker": "AAPL",
+  "fetched_at": "2026-03-30",
+  "quarters": {
+    "Q4 2025": {
+      "revenue_m": 143756.0,
+      "gross_profit_m": 69231.0,
+      "operating_income_m": 50852.0,
+      "net_income_m": 42097.0,
+      "eps": 2.85,
+      "total_equity_m": 88190.0,
+      "total_assets_m": 379297.0,
+      "cash_and_equivalents_m": 45317.0,
+      "shares_outstanding_m": 14697.93,
+      "free_cash_flow_m": 51552.0,
+      "operating_cash_flow_m": 53925.0,
+      "capital_expenditure_m": -2373.0,
+      "bvps": 6.0
+    },
+    "Q3 2025": {
+      "revenue_m": 102466.0,
+      "gross_profit_m": 48341.0,
+      "operating_income_m": 32427.0,
+      "net_income_m": 27466.0,
+      "eps": 1.85,
+      "total_equity_m": 73733.0,
+      "total_assets_m": 359241.0,
+      "cash_and_equivalents_m": 35934.0,
+      "shares_outstanding_m": 14773.26,
+      "free_cash_flow_m": 26486.0,
+      "operating_cash_flow_m": 29728.0,
+      "capital_expenditure_m": -3242.0,
+      "bvps": 4.99
+    },
+    "Q2 2025": {
+      "revenue_m": 94036.0,
+      "gross_profit_m": 43718.0,
+      "operating_income_m": 28202.0,
+      "net_income_m": 23434.0,
+      "eps": 1.57,
+      "total_equity_m": 65830.0,
+      "total_assets_m": 331495.0,
+      "cash_and_equivalents_m": 36269.0,
+      "shares_outstanding_m": 14856.72,
+      "free_cash_flow_m": 24405.0,
+      "operating_cash_flow_m": 27867.0,
+      "capital_expenditure_m": -3462.0,
+      "bvps": 4.43
+    },
+    "Q1 2025": {
+      "revenue_m": 95359.0,
+      "gross_profit_m": 44867.0,
+      "operating_income_m": 29589.0,
+      "net_income_m": 24780.0,
+      "eps": 1.65,
+      "total_equity_m": 66796.0,
+      "total_assets_m": 331233.0,
+      "cash_and_equivalents_m": 28162.0,
+      "shares_outstanding_m": 14939.32,
+      "free_cash_flow_m": 20881.0,
+      "operating_cash_flow_m": 23952.0,
+      "capital_expenditure_m": -3071.0,
+      "bvps": 4.47
+    },
+    "Q4 2024": {
+      "revenue_m": 124300.0,
+      "gross_profit_m": 58275.0,
+      "operating_income_m": 42832.0,
+      "net_income_m": 36330.0,
+      "eps": 2.41,
+      "total_equity_m": 66758.0,
+      "total_assets_m": 344085.0,
+      "cash_and_equivalents_m": 30299.0,
+      "shares_outstanding_m": 15037.87,
+      "free_cash_flow_m": 26995.0,
+      "operating_cash_flow_m": 29935.0,
+      "capital_expenditure_m": -2940.0,
+      "bvps": 4.44
+    }
+  }
+}

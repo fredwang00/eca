@@ -1,0 +1,34 @@
+{
+  "ticker": "META",
+  "quarter": "Q1 2025",
+  "company": "Meta Platforms, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.25,
+    "composite_grade": "B"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 42314.0,
+    "gross_profit_m": 34742.0,
+    "operating_income_m": 17555.0,
+    "net_income_m": 16644.0,
+    "eps": 6.59,
+    "total_equity_m": 185029.0,
+    "total_assets_m": 280213.0,
+    "cash_and_equivalents_m": 28750.0,
+    "shares_outstanding_m": 2523.0,
+    "free_cash_flow_m": 11085.0,
+    "operating_cash_flow_m": 24026.0,
+    "capital_expenditure_m": -12941.0,
+    "bvps": 73.34
+  },
+  "flags": []
+}

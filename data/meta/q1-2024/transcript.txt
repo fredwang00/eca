@@ -1,0 +1,113 @@
+April 23rd, 2024
+Operator
+Good afternoon. My name is Krista, and I will be your conference operator today. At this time, I would like to welcome everyone to the Meta First Quarter Earnings Conference Call. [Operator Instructions] This call will be recorded. Thank you very much.
+
+Kenneth Dorell
+Thank you. Good afternoon, and welcome to Meta Platform's First Quarter 2021 Earnings Conference Call. Joining me today to discuss our results are Mark Zuckerberg, CEO; and Susan Li, CFO.
+
+Mark Zuckerberg
+All right. Thanks, Ken, and everyone, thanks for joining. It's been a good start to the year, both in terms of product momentum and business performance. We estimate that more than 3.2 billion people use at least one of our apps each day, and we're seeing healthy growth in the U.S. And I want to call out WhatsApp specifically, where the number of daily actives and message sends in the U.S. keeps gaining momentum, and I think we're on a good path there. We've also made good progress on our AI and metaverse efforts, and that's where I'm going to focus most of my comments today.
+
+
+Susan Li
+Thanks, Mark, and good afternoon, everyone. Let's begin with our consolidated results. All comparisons are on a year-over-year basis unless otherwise noted. Q1 total revenue was $36.5 billion, up 27% on both a reported and constant currency basis. Q1 total expenses were $22.6 billion, up 6% compared to last year.
+
+Turning now to the business outlook. There are 2 primary factors that drive our revenue performance
+our ability to deliver engaging experiences for our community and our effectiveness at monetizing that engagement over time. On the first, we remain pleased with engagement trends and have strong momentum across our product priorities. Our investments in developing increasingly advanced recommendation systems continue to drive incremental engagement on our platform, demonstrating that people are finding added value by discovering content from accounts they are not connected to. The level of recommended content in our apps has scaled as we've improved these systems, and we see further opportunity to increase the relevance and personalization of recommendations as we advance our models.
+
+Operator
+[Operator Instructions] And your first question comes from the line of Eric Sheridan from Goldman Sachs.
+
+Eric Sheridan
+Maybe I'll ask a two-parter. Mark, you used the analogy of other investments cycles you've been through around products like Stories and Reels. I know you're not giving long-term guidance today, but using those analogies, how should investors think about the length and depth of this investment cycle with respect to either AI and/or Reality Labs more broadly and mixed reality?
+
+Mark Zuckerberg
+Yes. In terms of the timing, I think it's somewhat difficult to extrapolate from previous cycles. But I guess like the main thing that we see is that we will usually take, I don't know, a couple of years, I mean, it could be a little more, it could be less to focus on building out and scaling the products. And we typically don't focus that much on monetization of the new areas until they reach significant scale because it's so much higher leverage for us just to improve monetization on other things before these new products are at scale.
+
+Operator
+Your next question comes from the line of Brian Nowak from Morgan Stanley.
+
+Brian Nowak
+Thanks for taking my questions, I have 2. The first one is on sort of the recommendation engine improvements and even, Susan, when you talked about further opportunities to increase the relevance of the models. Could you just unpack that a little bit for us? Can you give us examples of where you're still running the model in a suboptimal basis or opportunities for improved signal capture use or data you're not using? Where are sort of the areas of improvement you see from here?
+
+Susan Li
+Thanks, Brian. So to your first question, where are there more opportunities for us to leverage and improve our recommendations models to drive engagement? One of the things I would say is, historically, each of our recommendation products, including Reels, in-feed recommendations, et cetera, has had their own AI model.
+
+Operator
+Your next question comes from the line of Mark Shmulik from Bernstein Research.
+
+Mark Shmulik
+I guess back to that product playbook that we talked about a few times, with kind of Reels now such a large share of kind of time spent on Instagram and Facebook, how do we think about the next leg of kind of monetization growth from here? In particular, as we kind of get back to kind of shopping on platform or other ways to monetize, any color there on the road map kind of just beyond ad insertion from here?
+
+Susan Li
+Sure. Thanks, Mark. So Reels revenue continued to grow across Instagram and Facebook in Q1, and that's driven both by higher engagement and increased monetization efficiency through our ads ranking and delivery improvements. And we -- as we've mentioned before, we don't plan on quantifying the impact from Reels going forward, but it remains a positive contributor to overall revenue. And we expect that there are going to be opportunities for us to continue improving performance and growing supply.
+
+Operator
+Your next question comes from the line of Doug Anmuth from JPMorgan.
+
+Douglas Anmuth
+Can you just talk about what's changed most in your view in the business and the opportunity now versus 3 months ago? And is there anything you're more cautious about in revenue in the ad market? And is the AI opportunity just even bigger, and therefore, requiring more investment than expected?
+
+Mark Zuckerberg
+Yes, I can speak to the first one. I think we've gotten more optimistic and ambitious on AI. So previously, I think that our work in this -- I mean when you were looking at last year, when we released Llama 2, we were very excited about the model and thought that, that was going to be the basis to be able to build a number of things that were valuable that integrated into our social products. But now I think we're in a pretty different place. So with the latest models, we're not just building good AI models that are going to be capable of building some new good social and commerce products. I actually think we're in a place where we've shown that we can build leading models and be the leading AI company in the world. And that opens up a lot of additional opportunities beyond just ones that are the most obvious ones for us.
+
+
+Susan Li
+And I can take that second question, Doug. So we aren't giving full year 2024 guidance. And obviously, our revenue for the full year will be influenced by many factors, including macro conditions and things that are harder to predict the further out you go. And of course, over the course of 2024, we will also be lapping periods of increasingly strong demand. With that said, we expect to see good opportunities to continue growing engagement across our products, driven by the investments we made in AI-based content recommendations, our ongoing video work. And we also expect that we will continue to drive ads performance gains and continue to make our ads sort of more effective and deliver increasing value to advertisers.
+
+Operator
+Your next question comes from the line of Justin Post from Bank of America.
+
+Justin Post
+First on the CapEx, mostly, you're kind of talking about an investment cycle here. Is there any way you could kind of use some of the metaverse spend over into AI? Are they converging and kind of use some of the money from the other areas to kind of fund the AI?
+
+Susan Li
+So on the -- I would say -- well, I can start with the second part, and then I'll defer to Mark on the first one. In terms of measuring the ROI on our CapEx investments, we've broadly categorized our AI investments into 2 buckets. I think of them as sort of core AI work and then strategic bets, which would include gen AI and the advanced research efforts to support that. And those are just really at different stages as it relates to being able to measure the return and drive revenue for our business. So with our core AI work, we continue to have a very ROI-driven approach to investment, and we're still seeing strong returns as improvements to both engagement and ad performance have translated into revenue gains.
+
+Mark Zuckerberg
+And then on the question of shifting resources from other parts of the company. I would say, broadly, we actually are doing that in a lot of places in terms of shifting resources from other areas, whether it's compute resources or different things in order to advance the AI efforts. For Reality Labs specifically, I'm still really optimistic about building these new computing platforms long term. I mentioned in my remarks upfront that one of the bigger areas that we're investing in Reality Labs is glasses. We think that that's going to be a really important platform for the future.
+
+Operator
+Your next question comes from the line of Youssef Squali from Truist Securities.
+
+Youssef Squali
+Mark, with the upcoming ban or sale of TikTok signed into law earlier today, how do you think that will impact the U.S. social media landscape? And then, in particular, what do you say to people who believe that this is potentially a slippery slope in terms of the government picking up -- picking winners and losers?
+
+Susan Li
+Thanks, Youssef. We've obviously been following the events related to TikTok closely, but at this stage, it is just too early, I think, to assess its impact or what it would mean for our business.
+
+Operator
+Your next question comes from the line of Ken Gawrelski from Wells Fargo.
+
+Kenneth Gawrelski
+As you look out through the coming period of product investment, how should we think about the relationship between Family of Apps revenue and cost growth? Is there any insight you can give us there?
+
+Susan Li
+Yes. On the second part of your question first, so on the G&A side, that was really driven by legal expenses. We recognized some accruals in Q1 related to ongoing legal matters, and you'll see more detail on that in the 10-Q.
+
+Operator
+Your next question comes from the line of Ross Sandler from Barclays.
+
+Ross Sandler
+Great. Mark, you partnered with Google and Bing for Meta AI organic search citations. So I guess stepping back, do you think that Meta AI longer term could bring in search advertising dollars at some point? Or do you view this as what others are doing, where you kind of attach a premium subscription tier once people kind of get going on it?
+
+Mark Zuckerberg
+All right. So yes, on the Google and Microsoft partnerships, yes, I mean we work with them to have real-time information in Meta AI. It's useful. I think it's pretty different from search. We're not working on search ads or anything like that. I think this will end up being a pretty different business.
+
+Kenneth Dorell
+Krista, we have time for one last question.
+
+Operator
+And that question comes from the line of Ron Josey from Citi.
+
+Ronald Josey
+Mark, I want to follow up on a prior question that you mentioned optimism has grown internally quite a bit just with all the improvements and investments and innovations you're making. And we're seeing that in the experience for a few days of Meta AI. So can you just talk to us maybe how the $400 billion parameter model just might evolve the experience on Meta or how you think things might change over the next, call it, months, years, et cetera, as maybe messaging becomes a greater focus and things along those lines? So just a vision longer term.
+
+Mark Zuckerberg
+Yes. I mean I think that the next phase for a lot of these things are handling more complex tasks and becoming more like agents rather than just chat bots, right? So when I say chatbot, what I mean is you send it a message and it replies to your message, right? So it's almost like almost a 1
+
+Kenneth Dorell
+Great. Thank you for joining us today. We appreciate your time, and we look forward to speaking with you again soon.
+
+Operator
+This concludes today's conference call. Thank you for your participation, and you may now disconnect.

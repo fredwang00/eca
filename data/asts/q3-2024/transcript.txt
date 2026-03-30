@@ -1,0 +1,180 @@
+November 13th, 2024
+Operator
+Good day and thank you for standing by. Welcome to the AST SpaceMobile Third Quarter 2024 Business Update Call. Please be advised that today’s conference is being recorded. I would now like to hand the conference over to your host today, Scott Wisniewski, President of AST SpaceMobile. Please go ahead.
+
+Scott Wisniewski
+Thank you, and good afternoon, everyone. Let me refer you to Slide 2 of the presentation, which contains our Safe Harbor disclaimer. During today’s call, we may make certain forward-looking statements. These statements are based on current expectations and assumptions and as a result are subject to risks and uncertainties. Many factors could cause actual events to differ materially from the forward-looking statements on this call. For more information about these risks and uncertainties, please refer to the Risk Factors section of AST SpaceMobile’s annual report on Form 10-K for the year that ended December 31, 2023, with the Securities and Exchange Commission and other documents filed by AST SpaceMobile and the SEC from time-to-time. Also, after our initial remarks, we will be starting our Q&A session with questions submitted by our shareholders. For those of you who may be new to our company and mission, there are over 5 billion mobile phones in use today around the world, but many of us still experience gaps in coverage as we live, work and travel.
+
+Additionally, there are billions of people without cellular broadband and who remain unconnected to the global economy. The markets we are pursuing are massive and the problem we are solving is important and touches nearly all of us. In this backdrop, AST SpaceMobile is building the first and only global cellular broadband network in space to operate directly with everyday unmodified mobile devices and supported by our extensive IP and patent portfolio. It is now my pleasure to pass over to Chairman and CEO, Abel Avellan, who will go through our activities since our last public update. Blue
+
+Abel Avellan
+Thank you, Scott. The last few months have been truly amazing for AST SpaceMobile. We launched and successfully deployed our first five commercial BlueBird satellites into low Earth orbits, each one of them the largest commercial phase array ever launched into LEO. We have accelerated our government and commercial initiative as we become operational, and we have secured additional launch capacity for up to 60 satellites to start providing continued service in the U.S. and other key global markets. Our Block 1 BlueBird satellites are now ready to become operational. Their sheer size and capacity is a unique advantage and a clear differentiator for our network ability to deliver cellular broadband coverage globally. In the United States, we plan to do this with more than 5,600 sales on premium low band spectrum targeting close to 100% nationwide coverage supported by our initial five satellites on a non-continued basis.
+
+The ability to successfully unfold this largest ever satellite is rooted in our innovative design and our 95% vertical integration strategy, which is supported by our deep and extensive portfolio of patents in the field of direct-to-device, a market that we pioneer and invented. With our Block 1 BlueBird in orbit, we’re now moving forward with the ongoing integration with our partner networks. In the United States, we also filed our Special Temporary Authority request with the FCC, although we plan to begin beta services in United States for AT&T and Verizon. Our partners will have the full capabilities of our satellites on a non-continuous basis across all United States and other key markets globally. On the ASIC front, we achieved initial validation of our novel AST5000 chip. This represent a competitive advantage developed over five years, equivalent to 150 man-years and approximately $45 million of development costs. Our next-generation Block 2 BlueBird powered by our ASIC are expected to support up to 10,000 megahertz of processing bandwidth, a 10 time improvement of our current processing bandwidth from each Block 1 satellite. Today, we’re also announcing new launch service agreement with Blue Origin and SpaceX for the launch of up to approximately 60 satellites from the Cape Canaveral Florida Space Force Station during ’25 and ‘26.
+
+With new agreements in place, AST SpaceMobile has secured launch capacity to ultimately deliver continuous space-based cellular broadband service coverage in key markets, including United States, Europe, Japan, U.S. government and other strategic markets globally. Blue Origin’s launch vehicle, New Glenn offer a seven-meter fairing enabling twice the payload volume of five-meter class commercial launch systems as it’s well-suited to launch up to eight of the largest ever Block 2 satellites. The New Glenn launch vehicle is planned to become operational this year. Alongside Blue Origin and SpaceX, we’re also planning our next launch with ISRO India, who we previously used for the launch of our BlueWalker 1. Taking all together the launch agreements with these three providers and likely others as well in the future give us increased confidence that we can achieve our network deployment goals. Additionally, we have recorded several new wins in the government business. We added three new contracts award with the U.S.
+
+government, including being selected by the Space Development Agency to complete directly as a prime contractor. And Scott, will discuss this in more detail as well, but being selected to participate as a prime contractor for government program is a significant achievement for AST SpaceMobile and a validation of our strategy and dual use technology that could enable a variety of government use cases. With our successful launch, commercial and manufacturing progress, you can see that a lot of the key pieces of operationalizing the AST SpaceMobile network are now in place. I am incredibly proud of the tireless efforts of our team and our partners, particular over the past several months, getting us to this critical point, which is a step we move closer to achieve our mission of connecting the unconnected. I will now pass to Scott, to provide more detail on our commercial regulatory progress.
+
+Scott Wisniewski
+Thank you, Abel. I’d like to take the time to provide a little more detail on our commercialization initiatives, including our government business, as well as our regulatory progress. Our technical accomplishments to-date, including validating our technology and deploying our first five commercial satellites successfully, has been a great support for our commercial initiatives, both with our strategic partners, mobile network operators new to AST SpaceMobile and the U.S. government. As Abel mentioned, during the quarter, we were selected by the Space Development Agency to compete directly as a prime contractor under the HALO program. The SDA is the Department of Defense’s constructive disruptor for space acquisition, put in place during the first Trump administration with a multi-billion dollar budget. Our selection enables us to compete directly as a prime contractor to the U.S. government for the first time rather than a subcontractor.
+
+This particular program is directly contracted with the SDA and provides us a direct path for accelerated prototype development and the ability to participate on new government programs and requisitions. This SDA contract is our fourth contract award with the U.S. government. And, several of these contracts could potentially grow to the official programs of record with hundreds of millions of annual revenues alongside important missions for U.S. national security. In brief, we believe that our government contract pipeline continues to show strength in the near-term and medium-term, with these initial contracts providing clear paths for applications of our unique technology in select use cases, with additional use cases to be further developed. The outlook here continues to improve, and we are aggressively pursuing this business and expect it to be a meaningful contributor to revenue in the years to come, alongside our core commercial business. On the commercial customer front, we continue to progress conversations with our key partners, as well as potential new partners and expect to be able to report more on this front soon.
+
+Our strategy continues to be to select initial coverage markets globally among our key partners, including the 45 plus mobile network operators globally, who have a coverage of approximately 2.8 billion existing subscribers. On the regulatory front, we continue to advance our approvals. In the U.S., we have been in front of the SEC regularly with our technology, service offering and in orbit network and how it can improve cellular networks for Americans. Most recently, we filed for Special Temporary Authority approval for beta services with our partners in the U.S., leveraging our first five BlueBird satellites, building on prior commercial authorities, backhaul and TT&C frequencies. You will continue to see additional filings with the SEC, both from us and our partners in the coming weeks and months for both space and ground elements of our network, all of which align with the growth of the network, reaping the benefits of the SEC rulemaking on supplemental coverage from space. I will now pass it over to Andy, to walk you through our financial update.
+
+Andrew Johnson
+Thanks, Scott, and good afternoon, everyone. The third quarter of 2024 at AST SpaceMobile marked the beginning of our critical transition from a space-based cellular broadband company at R&D stage to a full-fledged commercial operating company. We’ve begun to scale our manufacturing and launch efforts to accelerate our mission, building the first and only space-based cellular broadband network to close the digital divide by connecting the unconnected. The third quarter was highlighted by our successful launch and subsequent deployment of our five Block 1 BlueBird satellites from Cape Canaveral on September 12, each the largest ever commercial communications array to be deployed in low Earth orbit. I appreciated the opportunity to meet many of our investors and other stakeholders at that event as they shared in the excitement of the launch. The quarter was also significant in our ability to raise capital, both through the redemption of public warrants and our continued disciplined use of the at-the-market facility or ATM, both of which I’ll touch on more specifically in just a moment. Moving to Slide 9, let’s review the key operating metrics for the third quarter. On the first chart, we see for the third quarter of 2024, we had non-GAAP adjusted cash operating expenses of $45.3 million versus $34.6 million in the second quarter.
+
+Non-GAAP adjusted operating expenses excludes certain non-cash operating costs, including depreciation and amortization and stock-based compensation. Adjusting further for our expected Q3 expenses of $10.1 million related to our proprietary ASIC chip work, total adjusted operating expenses were approximately $35.2 million which was at the top range of the guidance I gave during our last earnings call. Operating expenses excluding the ASIC expense were up just slightly quarter-over-quarter, primarily due to one-time items of $1.7 million associated with our Block 1 launch that included certain bonus payments and launch event costs. Turning towards the second chart on this page, our capital expenditures for the third quarter of 2024 were $26.5 million versus $21.2 million for the second quarter of 2024. The figure was made up of capitalized direct materials and labor for our BlueBird satellites and additional facility and production equipment for our 185,000 square foot assembly, integration and test facilities in Midland, Texas. As expected, capital expenditures trended upward in connection with the ramping of our Block 2 BlueBird satellite production. And on the final chart on the slide, we ended the third quarter with $518.9 million in cash, up from $287.6 million at the end of the second quarter, bringing our cash balance above $500 million for the first time. This significant increase in our cash balance from recent prior periods is important for us in providing the ability and the flexibility to move quickly on our strategic objectives, including securing the launch agreements we announced today.
+
+This quarter-end cash balance includes $153.3 million of net proceeds from public warrant exercises during the quarter and $144.9 million of cash raised from our ATM facilities in Q3, including $106.9 million raised from our newly created $400 million ATM facility we announced in early September. As Abel and Scott detailed, during the early fourth quarter, we secured launch contracts with providers to enable us to launch up to approximately 45 Block 2 BlueBird satellites with options for additional launch vehicles up to approximately 60 Block 2 BlueBird satellites through 2025 and 2026. We currently expect our average costs of direct materials and launch expense per satellite for our Block 2 constellation to be in the range of $19 million to $21 million an increase from our prior estimate of $16 million to $18 million per satellite as a result of actual launch costs recently contracted. Despite this increase, we feel confident that we are striking the proper and responsible balance between securing ample launch capacity and the desired timeline to augment our efforts to achieve continuous coverage in key markets. As we ramp satellite production and launch contract payments to support this planned launch campaign, our capital expenditures will increase as compared to prior quarters, and we expect CapEx in the range of $100 million in the fourth quarter of 2024. We believe the operation of a constellation of 25 Block 2 BlueBird satellites will enable us to secure additional sources of funding, including potentially generating free cash flows to fund the build-up of the remaining constellation, including additional satellites for those launches recently secured. As a result of our successful issuance of equity producing net proceeds in excess of $500 million in late September, we triggered a prepayment obligation under our senior credit facility resulting in the prepayment of the principal amount of $48.5 million plus accrued interest and other expenses. This obligation was established at the time we entered into this credit facility in August 2023.
+
+In doing so, we have significantly reduced our go-forward interest expense. We will continue to consider several attractive options for securing future credit facilities. However, our efforts in raising strategic capital including non-dilutive prepayments from our MNO partners as we’re ready for service continue to take precedence over traditional credit financing sources. Consistent with the first, second and third quarters of 2024, we estimate that our adjusted cash operating expenses for the fourth quarter, excluding some remaining ASIC costs will come in within a range of $30 million to $35 million as we continue to scale production of our Block 2 BlueBird satellites in preparation for our 2025 and 2026 launch schedule. We continue to believe efforts to optimize our OpEx will result in a run rate at the low-end of that range. These figures will vary depending upon manufacturing activity in each period. Timing of the changes in our adjusted operating expenditures and capital expenditures, as I have just described, could be delayed or may not be realized due to a variety of factors. I am also pleased to report that our work on a financing package from export credit agencies is progressing nicely and we have now filed the formal application for a long-term debt package.
+
+If this application is successful, we can use the proceeds to source cost effective long-term debt funding of large projects. We will provide updates as appropriate and we will be working with the partner banks and our advisors to refine our alternatives. Our employees across the globe continue to work hard to drive value for our shareholders as we’re ready for full scale commercial operations to deliver the first and only space-based cellular broadband network direct to everyday unmodified smartphones. And with that, this completes the presentation component of our earnings call and I’ll pass it back to Scott.
+
+Scott Wisniewski
+Thank you, Andy. Before we go into the queue of analyst questions, we’d like to address a few of the questions submitted by our investors. Operator, could you please start us off with the first question?
+
+Operator
+Jeff from New Jersey asks, the company has stated that 45 satellites to 60 satellites are necessary to provide continuous commercial coverage in the U.S. How many potential subscribers could those 45 satellites to 60 satellites cover?
+
+Scott Wisniewski
+Thank you for the question, Jeff. 45 satellites to 60 satellites is an important level for us, because it allows us to provide continuous service coverage. And, as you see from the announcement today, that’s how we sized our strategy around launch services and the agreements that we signed. This basically gives us the ability to launch those satellites and get to a true consumer mass market service offering. With this network of 45 satellites to 60 satellites, we expect to be able to offer a cellular broadband service to many of the most important wireless markets in the world, in fact, the most valuable wireless markets in the world, including the United States, Europe, Japan, the U.S. government and other strategic markets that we’re in the process of selecting. At a high level with 45 satellites to 60 satellites, we estimate the initial network capacity to be in the hundreds of millions of potential subscribers.
+
+Operator
+Sean from California asks, what opportunities does the hybrid acquisition for Proliferated Low Earth Orbit program present for earning DoD Proliferated Low Earth Orbit Satellite-Based Services program contracts?
+
+Abel Avellan
+Hi, Sean. The HALO program is one being used by the Space Development Agency to bring online additional prime contractors for the DoD and evaluate new prototype technologies. So, think of this as a standalone program that could generate tens of millions of revenue for us and be a feeder for additional larger programs and use cases. We plan to continue to work with other Primes, but becoming a Prime contractor, having the flexibility to be a Prime contractor in the near-term and over time, this is a valuable role for the company to be in. In terms of PLEO, this is a program that is meant to buy services for the DoD that are scalable rather than bespoke and this is exactly how we have designed our system and our offering. The program has been so successful to-date in fact, it was recently announced that they were expanding it from $900 million to $13 billion. Yeah, that’s billions with a B. This is a great example of the extremely positive backdrop that space is experiencing with U.S.
+
+government usage, especially in the cases where they are the most easily consumable, scalable offering. And we expect that PLEO will be a vehicle for purchasing both communications and non-communication services.
+
+Scott Wisniewski
+[Tanya] (ph) from Colorado asks, what is the current timeline for delivery of ASIC chips?
+
+Abel Avellan
+Thank you, Tanya, for the question. Just as a quick clarification, we our current focus is actually launch satellites either with the ASIC or the SPEA in order to achieve coverage. The ASIC is a 10x network capacity increase per satellite, which is obviously our longer term. The ASIC is tape out, it bring up, is under initial test of production. The next launch will be also with the FPEA, the same configuration that we have on Block 1 satellites. Post that later in ‘25 mid-2025 to third quarter 2025, we will be including our ASIC in our subsequent launches.
+
+Scott Wisniewski
+[Sam from Teslas] (ph) asks, what have you learned from the first five Bluebirds manufacturing and launch? Are the bluebirds responding as expected since their recent launch?
+
+Abel Avellan
+Yes. We’re happy to report that they are actually operating as expected. We’re very happy with their performance. We are getting ready to light them up to cover nationwide or close to nationwide coverage in the United States on non-continuous basis, and we’re starting with these [Farfetch] (ph) satellites. And Bluebirds, I mean, our main building block, which is the Micron, is basically the same as the one that we used on Block 2. So getting set up, fully vertically integrate the production of that was a significant learning and a very important advancement in our manufacturing capability. So, that has helped us to set up our lines and our production lines for Block 2 on the most important part of the satellite, which is the building blocks of them, which are the Americas. The other aspect which is very important and we have progress is that we’re integrating with these five satellites.
+
+We’re integrating into the core network of our network partners. So, we are becoming part of their systems, including the core and integrating that to our satellite network is not a trivial task. And that’s something that we’re doing with all major operators that we had agreements and are going to be starting using our satellites apart of Log 1. The other one, which is not trivial, it is on BlueWalker 3. The operation of this other were very manual, with a lot of people intervention to fly them. These new satellites are fully autonomous. They fly autonomously. So they transmit and broadcast their broadband autonomously.
+
+And that’s also something that having that integrated into Block 1 translate immediately into Block 2. So more lesson learns. We’re in the business that you learn by doing. And having been built and flying the largest ever objects that are into LOT at orbit is a significant achievement and obviously a significant learning that stay with the company and move on into the next launches that will start soon here for Block 2.
+
+Scott Wisniewski
+And with that, I’d like to thank our shareholders for submitting those questions. Operator, let’s open the call to analyst questions now.
+
+Operator
+Thank you. We will now be conducting a live question-and-answer session. [Operator Instructions]. Our first question comes from the line of Mike Crawford with B. Riley Securities. Please proceed with your question.
+
+Mike Crawford
+Thank you. Could you talk about what you’re doing in Midland now to scale production? How long it takes to build a Block 1 or Block 2 satellite today? And what that timeframe might look like once you scale up to more forward production?
+
+Abel Avellan
+Hey, Mike. How are you?
+
+Mike Crawford
+Good.
+
+Abel Avellan
+In Midland, we basically have scale up to have the ability to produce the micron that are required for Block 2, and then basically meet our target of 60 satellites during ‘25 and ‘26. We have done the vast majority of all the investment required for that and basically the same technology that we did launch in Block 1. It would be what it will be used on Block 2 satellites as it relate to the microns for subsequent Block 2 satellites. So, they’re basically the same microns, the same infrastructure for the next few launches using our current micron that is successfully operating now in Block 1.
+
+Mike Crawford
+Okay. Thank you. Just one more for me. One of your strategic partners Rakuten in its third quarter results presentation specifically stated that they aim to provide nationwide coverage with AST SpaceMobile starting in 2026. When should we expect to see a definitive agreement with Rakuten?
+
+Abel Avellan
+We have an agreement with Rakuten already. They are an investor and a network operator. We are also working very hard with them in other in country applications for the Japanese market, but we are already fully engaged with them and we are showing them to be one of the first markets after the United States, Europe and Japan.
+
+Mike Crawford
+Okay. Thank you very much.
+
+Operator
+Thank you. Our next question comes from the line of Chris Schoell with UBS. Please proceed with your question.
+
+Christopher Schoell
+Thank you. Just a follow-up on the launch services agreement. Any color you can give on the cadence for the 60 satellites potentially being launched? And is it fair to assume it will be back end loaded? And I believe the New Glenn rocket had been delayed previously. Can you just talk through what gives you confidence you will not see further delays and your backup options in the event New Glenn falls behind schedule? Thank you.
+
+Abel Avellan
+Yes. I mean, as you noticed, I mean, what we announced its a multi-launch agreement with multiple partners, including SpaceX, ISRO and the New Glenn from Blue Origin. We had the ability to actually stack multiple satellites all the way to eight in the New Glenn, which is roughly double what is possible in the Falcon 9. New Glenn, it is ready to launch this year and we’re working with them basically accelerating our launch campaign in order to take advantage of the large fairing and the ability to stack a significant number of satellites, as I said up to eight with them. So, the cadence will be probably 1.4.8.8.8, till we get to 60. And, the New Glenn is designed to be reused 25 times, and the multitude of them being built and with the first one scheduled to actually be this year.
+
+Christopher Schoell
+Great. Thank you for that. And if I can just spend one more. Any thoughts on how space policy or regulation could evolve under the new administration? Appreciate it’s still early days but would love to hear potential impacts you’re thinking about for your business. Thank you.
+
+Abel Avellan
+Well, we believe that this common administration will maintain what it did in the first administration where the STA was created a lot of funding into space was granted. We believe that it will be an environment of growth for the space sector. And we solved a major problem, which is the ability to provide broadband connectivity in every corner of the United States. That is a bipartisan mission and we think that there will be a significant support for that initiative in the incoming administration. We also believe that our government opportunities become more relevant and we see a very good path here. And this is basically what we saw happen in the first administration four years ago.
+
+Christopher Schoell
+Great. Thank you very much.
+
+Operator
+Thank you. Our next question comes from the line of Chris Quilty with Quilty Space. Please proceed with your question.
+
+Chris Quilty
+Thanks. Scott, I think in the script you mentioned the potential government revenues in the hundreds of millions of dollars. Should we assume those are hardware revenues or are those service revenues?
+
+Scott Wisniewski
+Hey, Chris. Those are that was a general sizing over time, right. But it speaks to the contracts that we’ve received. So, there’s four contracts awards now and some of those we think are phased contracts that have a path over time to getting the programs of record, to getting to those large figures. And that would be these are all primarily services contracts that we contemplate, although we have the ability to sell satellites over time I suppose. But primarily we are in the services business or a manufacturer and we make these technologies operational for the U.S. government and for our commercial partners.
+
+Chris Quilty
+Understand. And it turned out that the ground networks are often the lowest component of those of any sort of a network build out. Is it fair to assume there would have to be a bespoke government ground system or could the government use it with existing infrastructure?
+
+Abel Avellan
+Our ground infrastructure for the existing for the U.S. footprint is actually pretty much built. We are not limited to disclose how the government access our network of satellites. What I would say, they have been using our satellites. They have been testing what they can do with them and that have led, as Scott explained, to four agreements, so which we believe will be very significant over time. All of them on a dual use setup where we have where we’re chairing the commercial infrastructure also for government implementations.
+
+Chris Quilty
+Good. As long as you deliver the revenues, you don’t need to explain the technology.
+
+Operator
+Thank you. Our next question comes from the line of Bryan Kraft with Deutsche Bank. Please proceed with your question.
+
+Bryan Kraft
+Hi, good afternoon. I had two if I could. First, could you just talk about the timeline for testing the five satellites you launched in September and putting those into commercial service? And then secondly, Scott, could you give us a sense of the pipeline and level of activity as it relates to signing new commercial agreements with MNOs? Thanks.
+
+Abel Avellan
+Yes. Let me talk about the four and five satellites actually they are in operation. We have submitted today an STA, Special Temporary Authority with the FCC to turn them on for actually better usage close to nationwide around the United States. And that is imminent and it will be pending authorization to basically better services on them from the FCC. But they are ready to be operational. They are fully deployed, and they are operating as we expect them.
+
+Scott Wisniewski
+And Bryan, on the second question, we announced a definitive commercial agreement with AT&T, and we are working on similar agreements with our other large partners. Those are important to have in place before service is offered, but these are long dense agreements and they are important because they basically are the legal vehicle through which revenue will flow very quickly. And so those are very important steps. These are big agreements that we get right with our partners. And as you may have seen, we’ve recently increased hiring on the commercial front, because yes, the pipeline for these types of agreements and the interest around them is quite strong and our strategy as we said is to go out and harvest those 45 plus agreements that we have today and also talk to additional partners around the world. So, that is a good pipeline. It’s really been supported by the level of activity we’ve had in 2024 especially with these first five satellites and deploying all of them successfully in orbit. So, that activity is good and we’re going to continue to harvest it.
+
+
+Bryan Kraft
+Okay, great. Thanks to you both.
+
+Operator
+Thank you. Our next question comes from the line of Caleb Henry with Quilty Analytics. Please proceed with your question.
+
+Caleb Henry
+Hi, thanks. Hi, Abel. Hi, Scott. One question, sorry, if this has already been answered, just a clarification. How many Block 1 satellites does AST anticipate launching before switching over to the Block 2?
+
+Abel Avellan
+Yes. No, we already switched to Block 2. So, the five that are in orbit, but BlueWalker 3 are Block 1 sizes. So, a millimeter by millimeter arrays and the next size is the 2,400 square feet phase array, which is roughly 3.5x bigger than the Block 1. It is what we’re launching going forward.
+
+Caleb Henry
+Okay. All right. Thank you. You also mentioned expecting to see more FCC filings for Space and Ground segment and you’ve talked a lot about the space side, but can you give any color on what kind of ground network rollout you need in terms of like how many teleports around the world and where you’ve progressed those to-date for commercial service?
+
+Abel Avellan
+Yes, we have four ground stations ready to be in operations in the United States, basically to light up 5600 sales in the U.S. We then were turning into Europe and Japan, where we are basically lighting up regional gateways with Vodafone for the European market and then with Rakuten in Japan for the Japanese market. Hopefully, we’ll be announcing additional strategic partners coming in for additional markets that we will be lighting up, in conjunction with deals similar to what we have done with AT&T and Verizon, and we will then be prioritizing those markets. So, we are prioritizing access to the network, to the satellites, to network operator that have either invested or prepaid services with us, and that’s what we’re focusing in the Pacific region. So, we have a lot of focus in the United States as one of the first markets.
+
+Caleb Henry
+Okay, thanks. And then just one more question. So, it sounds like eight satellites can launch per New Glenn, four for Falcon 9. How many are you anticipating for the ISRO launch? And is that with the smaller PFLV or the larger GSLV?
+
+Abel Avellan
+It is with the largest. We expect to use that on the original first launch, then focus on New Glenn, SpaceX and others that are also capable of launching our satellites. But of course, we’re very, very enthusiastic about the New Glenn with the large fairing and the ability to launch as to eight of the large ones that we have.
+
+Caleb Henry
+All right. Thanks, guys.
+
+Operator
+Thank you. And we have reached the end of the question-and-answer session. I’ll now turn the call back over to Scott Wisniewski for closing comments.
+
+Scott Wisniewski
+Thank you, operator. We want to thank all of our shareholders and research analysts for joining the call and everyone’s continued strong support of our mission. We look forward to providing further updates. Thank you.
+
+Operator
+And ladies and gentlemen, this concludes today’s conference call. You may disconnect your lines at this time. Thank you for your participation.

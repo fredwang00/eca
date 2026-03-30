@@ -1,0 +1,16 @@
+{
+  "ticker": "ASTS",
+  "quarter": "Q3 2023",
+  "company": "AST SpaceMobile, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B-",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B-",
+    "composite_score": 2.28,
+    "composite_grade": "C+"
+  }
+}

@@ -35,13 +35,17 @@ def parse_grades(text: str) -> dict:
     # Composite score extraction — multiple LLM output formats:
     # 1. "Weighted Total: 3.015 → Composite Grade: B"
     # 2. "Weighted Score: 0.75 + 0.75 + ... = 2.65 → B"
-    # 3. "= **2.03** -> C" (inline after Composite Grade heading)
-    # Always prefer the last number before → on a Weighted Total/Score line.
-    weighted = re.search(
-        r"Weighted (?:Total|Score):\s*.*?(\d+\.?\d*)\s*[-→>]", text
+    # 3. "Weighted total: 0.75 + 0.75 + 0.30 + 0.60 + 0.45 = 2.85 → B"
+    # 4. "= **2.03** -> C" (inline after Composite Grade heading)
+    # Strategy: find the Weighted Total/Score line, then extract the last
+    # decimal number on it (which is the total, not a per-dimension weight).
+    weighted_line = re.search(
+        r"\*?\*?[Ww]eighted (?:[Tt]otal|[Ss]core):?\*?\*?\s*(.+)", text
     )
-    if weighted:
-        result["composite_score"] = float(weighted.group(1))
+    if weighted_line:
+        numbers = re.findall(r"(\d+\.\d+)", weighted_line.group(1))
+        if numbers:
+            result["composite_score"] = float(numbers[-1])
     else:
         # Fall back: search only within the Composite Grade section
         comp_section = re.search(

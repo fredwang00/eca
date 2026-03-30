@@ -1,0 +1,388 @@
+November 9th, 2025
+Operator
+Good day, and welcome to the Rocket Lab USA, Inc. Third Quarter Earnings Conference Call. All participants will be in a listen-only mode. Should you need assistance, please signal a conference specialist by pressing the star key followed by zero. After today's presentation, there will be an opportunity to ask questions. To ask a question, you may press star then one on a touch-tone phone. To withdraw your question, please press star then 2. Please note this event is being recorded.
+
+I would now like to turn the conference over to Murielle Baker. Director of Corporate and Launch Communications. Please go ahead.
+
+Murielle Baker
+Thank you. Hello, and welcome to today's conference call to discuss Rocket Lab USA, Inc.'s Third Quarter 2025 Financial Results, Business Highlights, and Other Updates. Before we begin the call, I'd like to remind you that our remarks may contain forward-looking statements that relate to the future performance of the company. These statements are intended to qualify for the safe harbor protection from liability established by the Private Securities Litigation Reform Act. Any such statements are not guarantees of future performance, and factors that could influence our results are highlighted in today's press release. Others are contained in our filings with the Securities and Exchange Commission. Such statements are based upon information available to the company as of the date hereof and are subject to change for future developments. Except as required by law, the company does not undertake any obligation to update these statements.
+
+Our remarks and press release today also contain non-GAAP financial measures within the meaning of Regulation G enacted by the SEC. Included in such release and our supplemental materials are reconciliations of these historical non-GAAP financial measures to the comparable financial measures calculated in accordance with GAAP. This call is also being webcast with a supporting presentation, and a replay and copy of the presentation will be available on our website. Our speakers today are Rocket Lab USA, Inc. founder and chief executive officer, Peter Beck, as well as chief financial officer, Adam Spice. They will be discussing key business highlights, including updates on our launch and space systems programs. We will discuss financial highlights and outlook before we finish by taking questions. So with that, let me turn the call over to Peter Beck.
+
+
+Peter Beck
+Thanks, Murielle, and thanks, everybody, for joining us today. It was another record-breaking quarter for Rocket Lab USA, Inc. We're up 48% year on year with $155 million in revenue and strong gross margins as well. This is the second time in a row we've delivered record-breaking growth quarter by quarter, once again demonstrating our relentless execution. Electron demand is accelerating faster than ever before, and the momentum continues to build with the largest launch contract backlog yet with 49 launches on contract. We've just launched our sixteenth mission this year, equaling last year's launch record, and we've got another launch scheduled in the coming days that'll take us to 17, with more to come and a new precedent set for Electron annual launch cadence. We see this precedent continue in 2026 as well. Amazing performance is also the theme across our space systems groups.
+
+A twin spacecraft for NASA Mars mission are integrated onto its launch vehicle and are ready for liftoff in Canaveral in the coming days. And for Neutron, we've got a full update to share on our progress to the pad following the official opening of the Launch Complex 3 in August, ticking off a critical milestone in the program. We'll share more detail about that in the upcoming slides. So before we get into it, I want to zoom out and talk about our performance over the last five years, given this is sort of a little bit of a wrap-up for the year in some respects. Execution and reliability are critical in this space industry, but even more so in the public markets. Our ability to consistently deliver results for our customers, expand our capabilities, and grow our revenue and gross margins really sets us apart in the sector as we set new benchmarks for operational and financial success. From $35 million in revenue just five years ago, to an implied full-year guidance of roughly $600 million at the midpoint, and approximately 1600% increase over that time period. Our gross margins are looking great, too, from negative 34% GAAP gross margin in 2020 to the midpoint of our implied full-year guidance of slightly over 34% positive in 2025.
+
+Looking great to exit '25 with an even higher 37 to 39% in the fourth quarter. Our position as a leading end-to-end space company has never been stronger. We're a trusted disruptor of the industry, and we're proving that we can move quickly to scale our products and our services across both launch and space systems. That focus is translating into the double-digit growth results you're seeing on the page here. Right, on to Electron. As the title says, it's been a record-breaking quarter for launch contracts. 17 dedicated launches were signed in just three months, but all but two of them were signed with international customers from Japan, Korea, and Europe. Those new missions plus the ones already on the books for international space agencies like ESA and JAXA prove Electron is not just a leading launch vehicle in The United States.
+
+But it's becoming the preferred small launch vehicle globally. Electron's business model is one of schedule flexibility for our customers, and you can see from these new bookings demand is stronger and growing for Electron. For Haste, our Hypersonic Test Vehicle continues to redefine the way technology is being developed and tested in the United States. In Q3, we launched back-to-back missions from launch complex two in Virginia with 100% mission success, enabling technology to be tested in real-life hypersonic environments, which is a critical capability for the next generation defense programs like Golden Dome. By leveraging our commercial speed, our vertical integration, and our execution history with Electron, Haste delivers the proven agility and responsiveness that these programs demand. Speaking of momentum, we're on track to fly our seventeenth launch of the year in the next few days, which will officially surpass our previous annual launch record set in 2024. This pace is only possible because we are very intentional about designing Electron for scale. This extends beyond the vehicle itself to all the supporting infrastructure like manufacturing, processing, and operating a high-volume launch range infrastructure as well.
+
+It's an important approach that we're deploying for Neutron too, ensuring that we're thinking well beyond first flight. As of right now, there are only three American commercial launch providers who have launched to orbit more than once this year
+
+Adam Spice
+Sequentially, revenue increased by 7.3% underscoring the continued momentum across the business. Our Space Systems segment delivered $114.2 million in revenue in the quarter, reflecting a sequential increase of 16.7%. This growth was primarily driven by increased contribution from our satellite manufacturing business, which continues to perform exceptionally well and provides comforting diversification alongside our robust, but at times lumpy launch business. Meanwhile, our launch services segment generated $40.9 million in revenue, representing a 12.3% quarter-over-quarter decline due to fewer launches during the period, driven primarily by customer spacecraft delivery delays. We have a busy Q4 manifest and as a result, expect a strong return sequential revenue growth in our launch business in the fourth quarter. Now turning to gross margin. GAAP gross margin for the third quarter was 37%, at the high end of our prior guidance range of 35% to 37%. Non-GAAP gross margin for the third quarter was 41.9% which was above our prior guidance range of 39% to 41%.
+
+The sequential improvement in gross margins was primarily driven by a onetime benefit from the transition to overtime revenue recognition for certain HACE divisions. Paired with revenue recognition of an electron emission cancellation due to a customer's internal program cancellation which was recognized at a 100% margin. We ended Q3 with production related headcount of 1,190 up 48 from the prior quarter. Turning to backlog. We ended Q3 2025 with $1.1 billion in total backlog. With launch backlog accounting for approximately 47% and space systems representing 53%. During the quarter, launch backlog contributed to gain share, supported by strong underlying trends as we convert a robust pipeline of opportunities across electron minhase. This includes the 17 Electron bookings signed within the quarter that Pete mentioned earlier.
+
+While space systems bookings remain inherently lumpy due to timing of increasingly larger and high impact program opportunities, Space systems backlog continues to hold at healthy levels to despite the step up in revenue run rate recognized over the last few quarters. We're actively cultivating a strong pipeline that includes multi-launch agreements, large satellite manufacturing contracts across government and commercial programs. As noted earlier, these larger needle moving opportunities can there's lumpiness in backlog growth. But they are critical drivers of long-term value and scale for the business. Looking ahead, we expect approximately 57% of our current backlog converted revenue within the next twelve months. Additionally, we continue to benefit from relatively quick turns business, across launch and space systems components businesses that drive incremental top line contribution beyond the current twelve month backlog conversion. Turning to operating expenses. GAAP operating expenses for the 2025 $116.3 million above our guidance range of $104 million to $109 million Non-GAAP operating expenses for the third quarter were $98.1 million which was also above our guidance range of $86 million to $91 million The sequential increases in both GAAP and non-GAAP operating expenses were primarily driven by continued growth in prototype and headcount related spending to support our Neutron development program.
+
+Specifically, investments ramped up in propulsion as we continue to qualify our committees, as well as in test and integration of mechanical composite structures our facility in Middle River, Maryland. In RV specifically, gap expenses increased $4.6 million quarter over quarter, while non-GAAP expenses rose $4.8 million These increases were driven by the ramp up of Archimedes production along with higher expenditures related mechanical systems deposits as just mentioned. Q3 R and D headcount was ten nineteen, representing an increase of 84 from the prior quarter. In SG and A, GAAP expenses increased $57 million quarter over quarter. While non-GAAP expenses rose $6.4 million quarter over quarter. These increases were primarily due to the acquisition of GEOS during the quarter. Paired with higher legal expenditures, insurance renewals, and fees associated with our annual proxy statement and related filings. Q3 ending SG and A headcount was 385.
+
+Representing an increase of 42 from the prior quarter majority of those coming from the closing of the Geos acquisition. In summary, total headcount at the top at the end of the third quarter was 2,602. Up 174 heads from the prior quarter. Turning to cash.
+
+Murielle Baker
+Purchase of property
+
+Adam Spice
+equipment, and capitalized software licenses were $45.9 million for the 2025. An increase of $13.9 million from the $32 million the second quarter. This increase reflects ongoing investments in Neutron development we continue testing and integrating large structures at our facility in Middle River expanding cap capabilities at the engine test stand in Synagis, Mississippi, and scaling additive manufacturing at our engine development center in Long Beach. As we progress towards Neutron's first flight, expect capital expenditures to remain elevated. As we invest in testing, production scaling, infrastructure expansion. GAAP EPS for the third quarter was a loss of $3 per share, compared to a loss of $0.13 per share in the second quarter. The sequential improvement to GAAP EPS is mostly attributable to the $41 million tax benefit we recorded during the third quarter. Which is due to the partial release of the valuation allowance against corporate deferred tax assets.
+
+
+Murielle Baker
+As a result of acquiring an equal amount of deferred tax liabilities,
+
+Adam Spice
+emanating from the Geos acquisitions purchase price accounting. GAAP operating cash flows was a use of $23.5 million in the 2025. Compared to $23.2 million in the second quarter. Similar to the capital expenditure dynamics mentioned earlier, cash consumption will remain elevated due to Nutra development longer lead production for SDA, investments in subsequent neutron tail production, and infrastructure expansion to scale the business beyond the initial test flight. Overall, non-GAAP free cash flow, defined as GAAP operating cash flow, less purchases of property, equipment, and capital software, in the 2025 was a use of $69.4 million compared to a use of $55.3 million in the second quarter. The ending balance of cash, cash equivalents restricted cash, marketable securities was just over $1 billion at the end of the third quarter. The sequential increase in liquidity was driven by proceeds from the sale of our common stock under our aftermarket equity offering program which generated $468.8 million in the quarter. These funds are intended to support acquisitions, such as the announced Menarc acquisition, as well as other targets in our robust M and A pipeline, alongside general corporate expenditures and working capital.
+
+We exit Q3 in a strong position to execute on both organic and inorganic growth initiatives and to further further vertically integrate our supply chain, expand strategic capabilities, and grow addressable market. Consistent with what we have done successfully in the past. Adjusted EBITDA loss for the 2025 $26.3 million which was below our guidance range of $21 million to $23 million loss. The sequential increase of $1.3 million in adjusted EBITDA loss driven by higher revenue and improved gross margin, which was more than offset by increased operating expenses. Related to new term development. With that, let's turn to our guidance for the 2025. We expect revenue in the fourth quarter to range between $171,180,000,000 dollars representing 12.8 quarter on quarter revenue growth at the midpoint. We anticipate further improvement in both GAAP and non-GAAP gross margins in the fourth quarter.
+
+With GAAP gross margins to range between 37% to 39% and non-GAAP gross margin to range between 43 to 45%. These forecasted GAAP and non-GAAP gross margins are benefited by a higher mix of launch contribution in the quarter, as well as underlying improvements in launch ASPs and greater launch overhead absorption due to higher forecasted launch cadence in quarter. We expect fourth quarter GAAP operating expenses to range between $122 million and $128 million and non-GAAP operating expenses to range between $107 million and $103 million The quarter over quarter increases are primarily driven by ongoing Neutron development spending related to flight one. Including staff costs, prototyping, and materials. However, we expect to see a shift in spending from r and d to flight to inventory. Which is an encouraging sign of progress as we move closer to Neutron's first flight. I'm optimistic that with the impressive strides we've made towards this milestone, we're approaching peak Neutron R and D spending, and are on the path towards meaningful operating leverage and positive cash flow in the future. We expect fourth quarter GAAP and non-GAAP net income to be $3.5 million which is a function of higher cash balances as well as the conversion of approximately $192 million of convertible notes since September 30.
+
+We expect fourth quarter adjusted EBITDA loss range between $23 million and $29 million and basic weighted average common shares outstanding to be approximately 571 million shares, which includes convertible preferred shares of approximately 46 million, and reflects the conversion of approximately 37 million shares of convertible notes thus far in Q4. Lastly, consistent with prior quarters, we expect negative nine GAAP free cash flow in the fourth quarter to remain at elevated levels. Driven by ongoing investments in Neutron development and scaling production. This excludes any potential offsetting effects from financing under our ETF facility.
+
+Murielle Baker
+And with that, we'll hand the call over to the operator for questions.
+
+Operator
+We will now begin the question and answer session. To ask a question, you may press star then 1 on your touch-tone phone. If you are using a speaker phone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, please press star then 2. At this time, we will pause momentarily to assemble our roster. The first question today comes from Ryan Koontz with Needham and Co. Please go ahead.
+
+Ryan Koontz
+Great. Thank you. Really nice to see the strong bookings and backlog jump there for launch. Really impressive. Sounds like a lot of that was international. Any particular color you can share on, you know, the use cases, versus government, anything you can share as far as what's really driving that pickup in backlog and how you feel about it, you know, going forward over the next few quarters?
+
+Peter Beck
+Yes. Hi, Thanks very much. Yeah. So it's a bit of both. So strong commercial bookings, but also, you know, for the first time, we see, you know, space agencies who typically, you know, use their own sovereign capabilities, but you know, Electron is really the only vehicle of its kind in operation in the world right now. So it was very, very promising to see space agencies now, you know, kind of standardizing on the Electron as a platform.
+
+Ryan Koontz
+For sure. That's great. And how are you feeling about supply chain relative to meeting that kind of demand for Electron at this point?
+
+Peter Beck
+Electron's like 90% plus built in-house. So, you know, we don't see too many challenges there. You know, the factory that we built here was ultimately designed to build 52 rockets a year. And so, you know, I think we'll be fine.
+
+Ryan Koontz
+That's great. Maybe one last one just to wrap up just to clarify what Adam said about launch gross margins. There were a couple of onetime events there. Any color you can share with us on that, Adam?
+
+Adam Spice
+Yeah. You know, as Electron continues to kind of as a business, you know, we've got a deep pipeline and backlog, and, you know, you're gonna have customers that have changing priorities, you know, programs get canceled. Fortunately, you know, we have very strong contract terms, which allow us to make sure that we're protected in the event that people programs get canceled or change their priorities. You know, I think on the Haste change, that was really kind of, again, a pivot on some of the Haste emissions where the contractual terms are such where really more appropriate under ASC 606 to recognize revenue over time and use EAC accounting to measure the cost that you're incurring and you recognize revenue and margin importantly. So we now have a nice in that business where you have point in time and over time, and it really just a function of contract terms. And Haste is evolving into an important and meaningful part of our business, of good things come from that. The fact that you've got typically higher, ASPs, you've got, you know, I would say along with that now, you've got a little bit more stability, I would say, or predictability to revenue contribution from that given the fact that some are gonna be point in time, but some are gonna be overtime, and that overtime allows a little bit more of a I would say, like, a little bit more predictability and I think it's a healthy place to be.
+
+Ryan Koontz
+That's great. Appreciate the questions. Thank you.
+
+Operator
+The next question comes from Andres Sheppard with Cantor Fitzgerald. Please go ahead.
+
+Andres Sheppard
+Hey, everyone. Good afternoon, and thanks for taking our questions. Pete, it's really great to hear all the great progress over the last few years to see everything up until this point. Two quick questions for us, on space systems and one on launch business. On the space systems, maybe for Adam, can you remind us the revenue recognition associated with the FDA tranche two award. I think in the past you had targeted 40% revenue recognition, in 2026. Just wondering if that's on track or unchanged? And then also on the FDA tranche three award, now obviously the government shutdown has maybe delayed the decision there slightly, but we still feel confident in that award and in that decision?
+
+If awarded, that would be the largest contract, I think, awarded in company history. So curious on your thoughts there. Thank you.
+
+Adam Spice
+Yeah. I'll take the first piece of rev rec. I'll give you my thoughts on t three and then I'll head back over to Pete. On the rev rec, yeah, we were still very much in that path to recognize the revenue over that pattern where it was you know, kind of think about these larger long-lived government programs as kinda 10% in the first year after you achieve award, and then it's 40, 40, 10. So think about that as the shape of the curve. And FDA has got a tranche to transport layer shaping up to be similar to that. Yeah, everything is consistent there. As you know, similar to the other overtime rev rec, you basically estimate your cost to complete the mission as you incur costs proportionately.
+
+You recognize revenue at the program margin. So, yeah, it's been so far, we've had that program has been going very well. As Pete mentioned, that part of the business is performing very, very well. On t three, you know, yes, that would be the largest contract company would have won to date. And you're right. The timing has been a little bit delayed due to the government shutdown. I think we've all seen recently that there's signs that perhaps we could be coming to an end of that shutdown, which I think would be great to get that momentum back in the awarding of those types of contracts. But I'll turn over to Pete in regards to confidence in that win.
+
+
+Peter Beck
+I think you've said it well, Adam. I mean, I think, you know, we've put ourselves in a really strong position as a prime contractor on those awards especially with some of our acquisitions. So we're feeling good, and you know, we just need the government to come back and finish off that last little piece. But, no, I think we're feeling good, Andres.
+
+Andres Sheppard
+Wonderful. That's great to hear. And maybe just as quick follow-up on, Neutron. With the first launch now, targeted for early next year, should we still be assuming kind of three launches for next year, five the following year and seven? Or is there perhaps a change to that cadence as well? Thank you.
+
+Peter Beck
+Yeah. The way we think about that cadence is it's you know, the clock starts for the next one from the first one. So depending on the, you know, the first flight, think of it as like a twelve-month kind of rate from there. But maybe, Adam, if you yeah, any different views.
+
+Adam Spice
+Yeah. No. I think that's right. I think, you know, I just remind folks that, the first launch is a test launch. It's an r and b launch. We've been expensing that vehicle. Over its manufacturing period. So the communicated cadence was, you know, one test launch, which is still the case, and then we expect to be in revenue for the flights thereafter.
+
+So I would say that you know, depending how early we get the test launch off in 2026 will dictate whether or not we get as Pete said, we kinda complete the next three missions in a twelve-month window. That would fall within that
+
+Andres Sheppard
+Wonderful. Very helpful, and, congrats again. I'll pass it on.
+
+Operator
+The next question comes from Edison Yu from Deutsche Bank. Please go ahead.
+
+Edison Yu
+Hey, good afternoon. Wanted to ask about the future constellation. I know it's quite a long-term question. But there's been a lot of activity in some operators around Spectrum. And I'm curious what's your thinking about the value of Spectrum in your kind of calculus for any type of future constellation?
+
+Peter Beck
+Well, I mean, that would be making an assumption that you I guess you're settling on a comms application as well. But clearly, spectrum is an important element to any kind of scaled comms business, although we have been seeing some interesting approaches where that becomes less so. But I think you're just seeing some kind of natural consolidation in the industry right now around some of those spectrum assets. And, you know, I suspect that will continue. But, you know, look, Rocket Lab USA, Inc. is not gonna go out and buy billions of dollars' worth of spectrum speculatively. That's for sure.
+
+Adam Spice
+This is Adam. Sorry. I got dropped. Some unfortunate conference call dropped me. So don't know if did I did I answer your question fully? Andres, on the launch cadence?
+
+Edison Yu
+Eight was actually Edison on now.
+
+Peter Beck
+Yeah. We just
+
+Edison Yu
+Okay. Thank you.
+
+Peter Beck
+Nice to see that you got dropped out in this time and not me.
+
+Adam Spice
+It's not just me today, for sure. Yep.
+
+Edison Yu
+So totally separate topic. Wanted to ask about. I'm sure everyone has seen you know, NASA. We got Isaac Mann, you know, seemingly back. Do you see increased opportunities in this type of changeover around whether it's moon, Mars, space, and what do you think those incremental opportunities could potentially come from?
+
+Peter Beck
+Short answer is yes. I think if you know, if Jared is cemented as the NASA administrator, I think if you look at Jared's approach to how he believes NASA should be run and the role that commercial entities like Rocket Lab USA, Inc. will play, I think that bodes very well for the way that we operate and the value that we can bring the agency. So I would view that as a very positive very positive thing for Rocket Lab USA, Inc. Great. Thank you.
+
+Operator
+The next question comes from Gautam Khanna with TD Cowen. Please go ahead.
+
+Gautam Khanna
+Yeah. Thanks. Good afternoon, guys. I was wondering if you could elaborate on how soon after Neutron arrives at the complex realistically it can launch? Does it is there a minimum interval of time and then, you know, what sort of explains that whatever that range might be?
+
+Peter Beck
+Hey, guys. It's a little bit difficult to answer because it really depends on what you find. If we put the vehicle on the pad and we go through all of that fueling and detanking all the operational tests and static hot fires and all of that sort of stuff, and it all flies through, then it's a fairly straightforward path. But if we go there and we find some stuff that we don't like, then we're gonna fix it. And I think as I tried to explain during the call, there's the way that we develop these kinds of things is you know, I'm suspicious if everything just flies through. Because, you know, that in some cases causes more time to be spent than less because you know, generally, you expect to see you expect to see something because the whole vehicle is built on a safety factor of 1.1. Or 1.2. So you expect to see some things And depending on the magnitude of those things, we won't just blindly walk past them You know, we'll go out and not only fix them but really, really deeply understand how they occurred and then also go one step further and feed that back into all of our engineering models to make sure that next time around, we're doing a similar thing that the I guess, the ability to predict and the you know, the fineness of that becomes better and better and better.
+
+So look, we know a lot more when we have a vehicle on the pad. We know even more when we hot fire it. After hot fire if that's a successful campaign and we're happy with what we see, then the turnaround to launch after that point's pretty quick.
+
+Gautam Khanna
+Okay. And I was curious also maybe I missed it, but the cumulative catch-up adjustment or the onetime, how large was it?
+
+Gautam Khanna
+In the quarter?
+
+Adam Spice
+Sorry, Gautam. What what you're talking about the are you referring to the the the haste? I'm not sure if you can maybe sorry. I got dropped again from the call from my provider, but here's my question. I yeah, I think you mentioned in the remarks that there was a well, I know in the Q, it says there's a revenue adjustment of net $10 million favorable in the quarter. Wanted to know I think you described the EBITDA margins were lifted by a contract closeout of some sort. I was just curious if you could quantify how large that was?
+
+Adam Spice
+Yeah. So there was one contract close-up that was about I think this is a little under $5 million. That was the value that we received when that cancellation occurred. And, yeah, then there were some other things moving around with regards to the we recognized revenue with higher gross margin associated because well, there was a benefit to the gross margins as well because in Q3, when we made the change in Q2, we end up actually taking a margin hit because we recognized revenue without having associate basically, zero margin. Because at that time, we didn't have the ability to estimate with cost were gonna be to complete the mission as we did this transition. So the path was essentially revenue in Q2 at no margin, Q3, we got again, normal amount of revenue from that overtime contract, but that was at now at margin. Right? So I think those are really kind of the two prior things.
+
+But when you look forward to into Q4, given our, the guidance that we've provided, you know, even with those things not recurring, in Q4, you still see our gross margins improving. So you can just see that, you know, yes, that was kind of a unique dynamic in the transition from q to Q2 to Q3, but from Q3 to Q4 without those unique events, we still show gross margin strength and growth sequentially.
+
+Gautam Khanna
+Thanks very much, guys. Appreciate it.
+
+Operator
+The next question comes from Erik Rasmussen with Stifel. Please go ahead.
+
+Erik Rasmussen
+Yeah. Thanks for taking the questions. I wanted to just on Neutron, I totally understand. Peter, and the team, you guys operate. You're not looking at an iterative process and having things blow up. So that's great. And that's you you always operate it that way, but I wanted to see, though, with this latest push out, you know, what does that do from a timing perspective for things like the NSSL and other things that you might have been looking at that Neutron would obviously be is geared towards.
+
+Peter Beck
+Yeah. No. Hi, Erik. Great question. So, look, the NSSL team worked shoulder to shoulder with us. They're on every review in the program. And, you know, obviously, I can't speak for them, but I think they take at least the feedback we've had from us. They very much appreciate our approach.
+
+Of both transparency but also the diligence of the way we build vehicles. So the awards for the initial sale contracts have not been made yet and there's some time away for them to be made. We need to have a flight under our belt, a successful flight under our belt before they'll make those awards anyway. So, you know, largely speaking, it's pretty irrelevant. And, you know, we've been very careful, and I think there's been a lot of conversation previously about you know, booking Neutron and making sure that we can deliver for our customers So, you know, long story short, we're not letting anybody down here, Erik. We're in a good spot.
+
+Erik Rasmussen
+Great. And maybe just my follow-up question here. You know, you closed the Geos acquisition. Mine Eric is soon to soon to soon to close, I would presume. But with Geos, are you seeing you know, traction in expanding the footprint in national security and defense? I mean, that was part of the reason. But what are you seeing? Now that you've closed the deal?
+
+
+Peter Beck
+Yeah. It's look. It's just it's night and day to before. So, you know, obviously, we had a good relationship with SDA, and, to the intelligence community, obviously, for launch and things like that. But I would just say we're in a totally different league now and working with totally different folks. And you know, there's long, long relationships that have been built with the Geos team. And now that they have the support of Rocket Lab USA, Inc., we're really able to expand and supercharge those And also, you know, those relationships expose them to the larger offering of Rocket Lab USA, Inc. because it always surprises me, you know, sometimes you know, people just think we're just this little launch company and don't have all this other capability.
+
+So no, it's been incredibly important. And also just now being a payload provider, is you know, it brings you up to a whole another level because you're having really detailed mission discussions. Rather than just talking about how you can provide a bus or a component or something. We're really in mission formulation territory.
+
+Erik Rasmussen
+Great. Thanks, and good luck with the Neutron development.
+
+Operator
+The next question comes from Michael Leshock with KeyBanc Capital Markets. Please go ahead.
+
+Michael Leshock
+Hey, good afternoon, everyone. I wanted to ask on Archimedes side I know you're constantly testing and iterating the engine. But how close are you to having a finalized design that meets all the performance requirements and ready for first flight And then secondly, given your production cadence, I think you previously said a new engine was coming off the line every eleven days or so. How quickly can you ramp production of the engine to have nine Archimedes for the first stage of Neutron's debut launch?
+
+Peter Beck
+Yeah. So thanks, Michael. The engine design is pretty stable at this point, and, you know, we've met all the performance criteria. What we're doing is know, obviously, with Ascent, there's one set of environments, and with Ascent, there's an entirely new set of environments. And much more challenging environments because your propellants are warm and lower pressures, and you've had algae mixing and all kinds of stuff. So, you know, going through all of those things is has been really important. And, you know, I think the team I gotta, you know, check on the exact number, but, I mean, the vast, vast majority of all of the components for flight one engines are either complete or in some kind of some kind of form of build. So, you know, we're iterating on the engine for sure, but you know, the production machine has stood up and ready to support.
+
+But you know, with the end with Archimedes, we wanna make sure we're you know, as we are sending on first flight, nobody is worried about an engine. And, obviously, it's the most complicated, you know, part of the vehicle. So know, there's just no substitute for putting, you know, hours and hours and hours on test articles, and hence, the reasons why we have two cells running now at Stennis, not just the one, as we think we talked about that last earnings. And it's just kept switching between engine and engine. And some of the more interesting tests, you know, just extra long durations to try and promote some fatigue in the engine because, obviously, we wanna reuse this engine over and over again. Just doing really extended burns to try and promote fatigue and items is, you know, some of those kind of things. They just take time. Like, there's just no substitute for just burning.
+
+
+Michael Leshock
+Okay. Great. And then sticking with Neutron, is that original budget for Neutron of $250 million to $300 million is that still intact given the updating timing of Neutron's first launch? And you'd said you're near peak Neutron spending just any way to frame how much you've spent so far or what's left to go? Thanks.
+
+Adam Spice
+Yeah. I could take a swag at that. So yeah, I mean, the program, as Pete mentioned, I mean, we've continued to make a lot of progress. The $250 million to $300 million kind of original estimate I mean, we kind of that got a little bit I would say, behind us with the with the kind of with the push from launching '25, the '25. And so now as we get into kind of a 2026 scenario, right now, I'd say that, you know, we're estimating that we will have spent approximately $360 million exiting in q cumulative across r and d and CapEx. Through the 2025 So, you know, we're above that. And as Pete mentioned, you know, it's about a $15 million impact on the human capital side of things per quarter. Just by extending.
+
+Obviously, prototyping, you're gonna spend, we're gonna spend. It's really not impacted by the time frame. It when the program kinda delays, you end up, obviously incurring an extension of that. The staffing related expenses after the program. So right now, again, we're looking at around $360 million exiting 2025. So, again, as I mentioned, do think we're approaching peak If hopefully, Q4 is the peak, and it all depends on kinda when the timing of that first launch occurs. And this, of course, it'll a bit. Launch as well.
+
+
+Michael Leshock
+Yep. Thank you. I appreciate it.
+
+Operator
+The next question comes from Suji Desilva with ROTH Capital. Please go ahead.
+
+Suji Desilva
+Hi, Pete. Hi, Adam. Congrats on the strong backlog build here. On the Electron launches, you gave some sense of pricing, but any noticing on the trend in the size of the number of launches, maybe if not now into 26 or if you're trying to extend those or is that fairly stable?
+
+Peter Beck
+Hey, CJ. I don't know if Adam, if you if you got that one, but I struggle to see you on that one. Yeah. Suji broke up.
+
+Suji Desilva
+Oh, sorry. I mean, I'll repeat it. Just any observations on the Lectron launches, the deals in terms of number of length of the launches? Are people trying to extend the visibility there? In the next few quarters? Or is it pretty stable?
+
+Peter Beck
+You know, I think when we talk to customers, as you can see in the last quarter, it's generally not sort of one launch You know, we see folks locking in their launch capacity and buying lots of launches in one hit. We're we never try and let a customer down or leave a customer on the pad, so we map production with launch demand very well. But, you know, and that that isn't been a problem to date. But, no, we just continue to see just growth in the demand for the product.
+
+Adam Spice
+Yeah. And I would add to that that, Suji. So we've seen these larger bulk buys over long periods of time occur more on the commercial side. As we talked about in the past, you know, it's kind of hard to differentiate sometimes commercial versus government because a lot of our commercial customers actually end up fulfilling customer government demand. So it's a quasi commercial government. But, also, we've been growing our Haste business pretty significantly over the last couple of years. And those have come, I would say, more like Electron originally did, where kinda, know, the onesie twosie kind of size contracts. And I think that's hopefully the next kind of shoe to drop for us is the ability to start lying and start signing larger paced deals that cover a long period of time and a greater number of launches because that would give an even more, you know, certainty to the to the to the revenue ramp in that part of the business.
+
+I think that's you know, again, that's something that we're looking forward to. So I think, you know, that would be a very helpful indicator that the longevity of that Haste business and the and the ultimate scaling of it.
+
+Suji Desilva
+Okay. Helpful, Adam. And my other question's on the, m and a environment. And with targets. Is there a sense that maybe among the targets that consolidation and being part of larger companies increasingly important maybe more willingness to come to the table. Are you seeing any of that trend? Now, among m and a discussions?
+
+Peter Beck
+Yeah. I think you're seeing it in a few different places both on the larger scale, but also I think we're seeing it also on some of the smaller scale stuff as well is I think it's a difficult environment to scale in, and there hasn't really been too many great companies that other companies want to join And as I think I mentioned on the call, we're becoming the de facto go-to guys if you want to, you know, really scale your products and the opportunities that you have in front of
+
+Suji Desilva
+Okay. You do Thanks, Pete.
+
+Adam Spice
+No worries. Thanks, Sujit.
+
+Operator
+The next question comes from Andre Madrid with BTIG. Please go ahead.
+
+Andre Madrid
+Hey, everyone. Good afternoon. Thanks for the questions. Know, I think earlier today, it was announced that the s c FDA was moving some some funding earmarked for some of their programs over to true payments. This was at more of a a DOW level. But seeing that, and then you called it out, you know, decreased cash receipts in the slide deck too related to SDASAT work. I mean, if things don't get resolved this evening, which hopefully they do, I mean, when does the shutdown pose a significant risk to your internal '26 outlook and beyond?
+
+Adam Spice
+What? I can okay. Go ahead, Pete.
+
+Peter Beck
+Oh, you go ahead, No. I was gonna say, think that there's, you know, so far, the government shutdown, I wouldn't say, has really dramatically affected us. Yes. There have been slightly slower cash receipts, but for example, we got a very large cash payment on Friday, from SDA. So I would say that, you know, this ticket has not been shut off. I think it's just kind of just been a little bit slower and flowing. So that to me, that's very helpful. That even before the line of sight to the ending of government shutdown, you know, we were still getting and we received a very large payment.
+
+The end of last week. So right now, it doesn't really I think there's gonna be any obviously, we factored in everything we believe is to be the most likely case in our Q4 guide that we described earlier. So it's hard, you know, no one's got a crystal ball for kind of what happens know, with this they bring the government back and kind of where they reprioritize their dollars. But yeah, I think we've been very fortunate so far that we've really not felt any significant impact from the shutdown to date.
+
+Andre Madrid
+Got it. Got it. That's helpful. And oh, go ahead. Sorry. I didn't mean to cut you off.
+
+Peter Beck
+The only sorry, sir, Joe. The only thing I'd add is, like, the requirement for what is the STA is doing is not diminishing. It's expanding. So, you know, it's an important program. So as far as, like, the need for the program, it's that's not getting smaller.
+
+Andre Madrid
+Got it. Got it. That's fair. I'll leave it for one. Thanks, guys.
+
+Peter Beck
+Thanks, Andre.
+
+Operator
+The next question comes from Jeffrey Van Rhee with Craig Hallum. Please go ahead.
+
+Jeffrey Van Rhee
+Great. Thanks for sneaking in here. The Andy, on the on the margin, gross margins for Q4 and the guide, it looks like maybe a couple of 100 basis points of sequential improvement. Is that just kind of break it down maybe a little more? Which side of the business you're expecting that sequential increase? And then any sort of even inklings as to maybe revisions on what you think target gross margins might be for either of those two segments?
+
+Peter Beck
+Yeah. So, you know,
+
+Adam Spice
+the gross margin trend, you know, in the proven sequentially Q3, Q4, again, is driven really by a mix where as we get more scale into our Electron business, we've always talked cadence being super important for the margin profile for that business because there's so much fixed cost related to it. So as you scale cadence, and Pete kinda, you know, mentioned earlier in his comments that we're expecting you know, hitting a new record for launches in the year. So, that's all good for overhead absorption. So think of it as there's a lot of good underlying dynamics going on within the launch business as far as, you know, size of the backlog, the ASP increasing within that backlog. We're getting greater overhead absorption benefits. So that's really kind of what's driving the strength in the launch business. And as it becomes a bigger piece of the mix in Q4, that's really the biggest fact. I would say that within our space systems business, the trend of margins actually has been quite solid in that as well.
+
+You know, we talked in prior calls about how we've made very, very significant improvements in our gross margins from our Solero solar business. You know, we've kinda talked about a long-term target there of you know, we get to 30 points of gross margin. That was kind of an aspirational target, and I think we're very comfortable that we're, you know, we're very close to that. I think we're at we think about revisiting that one upward a bit, I think. But overall, you know, we stay we still believe that we that our launch business on Electron First, you know, has the potential to be a 45 to 50 non-GAAP gross margin business. We think long-term Neutron has the ability to be at least as good as that. Helped by the reusability nature of that vehicle. And then on the space system side, you know, it's really two different elements that kind of have different margin characteristics.
+
+On the space systems components or subsystems business, that has a wide range with solar kinda being at the low the lowest end of that, and, again, around 30 points. Hopefully, we can push that a little bit higher. And then for some of our other components business, where we have margins that are, you know, well north of 60 in some cases, 70 points margin. And I think overall, that brings the gross mow market profile for that subsystems business around, call it, low to mid-forties. The satellite manufacturing business, because of the nature of those programs, you know, we're able to take what for many people is either high single digit or low double-digit gross margins and have those more in, I'll call it, the I'd say, 25 to 35 points depending on the programs because of the level of vertical integration that we bring because those same components that we sell into the merchant market at very high margins we basically obviously design into our platforms. So I think longer term, I think we still see again, again, a gross margin business from launch that is in the probably, if you wanna call it, the 50% range and for space systems. You know, probably in the I'd say, the 40, maybe low forties percent gross margin range. So puts in a nice spot overall.
+
+But I think it's also helpful to note that, you know, in space systems, it's not as r and d intensive. As the launch businesses when you're getting a new vehicle established. So the operating margins or contribution margins for the space systems businesses, even the ones that aren't kind of in those high gross margin ranges is still quite healthy. And then I think on again, I think the margins for launch speak for themselves. Got it. Got it. Very helpful. Last one then on space systems.
+
+
+Jeffrey Van Rhee
+The can you talk about the pipeline? Obviously, tranche two, tranche three are big needle movers. But what's the next layer beneath that like? Like, how many, you know, 8 figure, 9 figure deals? Just some semblance of what the distribution of deal sizes that are later stage in the pipeline would be helpful. Thanks.
+
+Peter Beck
+Yeah. So there's you know, we're always chasing a variety of stuff. So I think the, you know, the intelligence community and the DOD is obviously big opportunities for us. And, you know, things like Geos really provide us new new kind of access and visibility to some things that aren't very visible at all. So on that side of the equation, I think there's really good opportunities for us there. But I would say also like, if we think about the, you know, the bids that we've got in play, there's also some extremely meaty commercial bids as well. So say it's fairly well distributed across the opportunity is fairly well distributed across both commercial and defense. But there's always the big meaty programs.
+
+But, I mean, you know, all of the business units, we kind of run the business units like little start-up companies as well. And, you know, they're expected to grow really healthily every year. And, you know, you see new products coming on all the time because know, as they as they reach saturation with their customers, these business units have to develop new products to continue that growth. So this year alone, I think it's been a really, really great year. There's we set we set goals for those units. And then there's kind of the Pete stretch goal. And, you know, they've all all met or exceeded the, you know, the Pete stretch goal this year. So you know, it's not it's not just about I guess what I'm saying is not just about these big big projects.
+
+You know, they're obviously important needle moving, but just the underlying business and just continuing to drive that growth in all the business units. And the underlying business is equally as important.
+
+Jeffrey Van Rhee
+Got it. Got it. Congrats on the great performance. Thanks.
+
+Operator
+The next question comes from Anthony Valentini with Goldman Sachs. Please go ahead.
+
+Anthony Valentini
+Hey, guys. Thanks for getting me on. Just a quick clarification question on the backlog and Neutron Is there anything in the backlog today for Neutron? Or is it zero?
+
+Adam Spice
+Anthony. We do have, we have launches in backlog for Neutron. There are two fully priced missions in the backlog right now for Neutron. There's a third contracted mission, which is right now anticipated to be a rideshare. But we don't have that in backlog because we don't do that until we've actually added the payloads into the manifest. And, again, we've got a primary customer, but not on that third cusp on that third launch, we've not put any in the backlog yet.
+
+Anthony Valentini
+Okay. That's helpful. Is there a way to think through, you know, how that backlog Neutron specifically ramps up? Like does that happen once you guys do that first R and D launch? Or is it a certain number of successful launches? Just historically, and, like, what you guys know about the industry, like, how does that start to flow through?
+
+Peter Beck
+Yeah. It's a good question, Anthony. Mean and I think we sort of alluded to this in one of the previous questions. It's like we don't want to ever let anybody down. And, you know, when they're looking to buy neutrons, aren't typically looking for one. Looking for many. So, know, there you know, a number of customers are looking to see that the vehicle does work and it scales. So and, you know, we work very closely with those customers we go along.
+
+And these are both commercial and government customers. So I think the unlocking point is certainly a successful flight. In a number of these contracts. But also you know, that you know, we want to make sure we don't let customers down And the last thing we want to do, and we've talked about this previously, is customers will be happy to book a bunch of neutron at, like, half price. And we're just not gonna do that.
+
+Anthony Valentini
+Right. Okay. That makes a ton of sense. And then last one for you, Peter. As I'm thinking through the opportunity set, on the Tranche three transport layer and just looking back at the previous tranches, there's competition from the defense prime, and some of these new space tech companies, including yourself. I'm curious how you think through the differentiators for Rocket Lab USA, Inc. and when you guys are presenting to the customer, what you think really separates you from the rest of the group?
+
+Peter Beck
+Yeah. So I think one the big separators and one of the reasons why we you know, we won a prime spot on our first SDA contract is that you know, we're so vertically integrated that if we look across all of these programs, they're typically plagued by delays. You know, not so much cost overruns because, you know, it's a firm fixed price, but certainly delays. And, you know, when you control so much of your own supply chain, then you know, if there's a delay in a component, you get to choose what resource you swell or push around to solve that problem. So I think that that's a big element is just schedule certainty Obviously, Adam talked about some of the margin and margin stacking, so price is a big element as well. But at the end of the day, all this stuff's gotta work. And this is where, you know, your reputation in this industry is just so critical and why we just never ever deviate from putting ourselves in a position where that can get compromised. You know, when people buy a piece of Rocket Lab USA, Inc.
+
+hardware, know, firstly, it turns up and it looks great, and it works. And, you know, in an industry where that seems to be challenging, I think, you know, that's an important element. And also, finally, there's a set of requirements, and then there's how you go about solving those set of requirements. Like, you know, with the technologies that you can bring to bear. We just have such a war chest of technologies that we can bring to bear to provide solutions to meet everybody's requirements and then some. That I think, you know, it puts us in a really strong position.
+
+Anthony Valentini
+Great. Thank you so much for the, the thoughtful response.
+
+Peter Beck
+Of course.
+
+Operator
+The next question comes from Kristine T. Liwag with Morgan Stanley. Please go ahead. Okay. Good evening, everyone. Peter, Adam, from your commentary from our previous question, I mean, it sounds like you're not going to go out there and go buy a spectrum. So first question, is that a fair assessment of your statement earlier? And also second to that, you know, with over a billion dollars in liquidity, and, you know, with the broader and deeper capability set in space systems, What's your priority for m and a?
+
+
+Peter Beck
+Yeah. So we look at a number of things, Kristine. So you know, I would say that there's always opportunities for tuck-ins, and you've seen that with things like Manaruk where you know, that gives us a capability that we didn't have. So we'll always do those. But I think the Geost acquisition is a really good example about you know, acquiring a company that just brings us into a totally different customer set and a totally different capability and also puts us at a totally different level know, if you think of the big traditional primes, one thing that sets them apart from lots of little space companies is they own the payload. So, you know, we'll continue to look at for opportunities there where we can own the payload. And really drive the missions. And look, we're always looking at big needle moving stuff as well.
+
+And you know, we always look for things that we think, you know, have a step change in either the scale or other elements of the company. So you know, that's the way we look about you know, that's the way we think about it.
+
+Kristine T. Liwag
+It's been super helpful. And, look, you know, when you look out into the market, you know, it's hard not to see what's SpaceX is doing in terms of their path towards that end to end, you know, space and recent So when you look at your portfolio today, I mean, it looks like you're kinda marching in a similar direction. With your Flatellite product set too, and now you've got, you know, these additional payloads. Where do you see your role in terms of that industry? You know, do you at some point, wanna own your own consolation and be able to sell more of that as a service. How do we think about where you are in this journey And, you know, what does the exit look like?
+
+Peter Beck
+Yeah. We've just sort of quietly and methodically going about making sure we amass all of the kind of the strategic elements we need to ultimately deploy things at scale. So Neutron is really important element of that. If you look at look at others, you know, access to space and low-cost rapid and reliable access to space is kind of the place you start. Neutron gives us that multi-tonne capability. And then as you point out, you look at the space systems growth then really at this stage, I don't think there's any satellite we can go and build. I mean, we've got two going to Mars here shortly. So if you, you know, wanna talk about complexity of spacecraft.
+
+So I think from an engineering perspective and a component perspective, all of those kind of bases are loaded. And we'll be very strategic about how we think about the next step, which would be building our own constellation and whether we're providing services or infrastructure, I think, is yet to be determined.
+
+Kristine T. Liwag
+Great. Thank you very much.
+
+Operator
+The next question comes from Peter Arment with Baird. Please go ahead.
+
+Peter Arment
+Nice results, Pete and Adam. Just a quick one, I guess. On Electron, of the demand environment. I think you've previously talked about the demand for around 30 flights a year. I was wondering if that still kind of holds just given the uplift that we've seen tied to kind of all the national security launches and kind of what's going to be expected with Golden Dome and additional testing if there's upward bias to that and it certainly seems like it. Thanks.
+
+Peter Beck
+Yeah. Hi, Peter. I mean, look, I think that's fair. If depending on how quickly and what scale Golden Dome grows to, think we're in a very strong position to provide critical services there. And, you know, we see nothing but upward trajectory in both government, taste, and commercial launches for that product.
+
+Peter Arment
+Appreciate that. And just a quick follow-up. For the comments on the Archimedes, the testing that you've been doing. Could you give us a little context? Is that much different in terms of the rate that you did originally with the retrofits around Electron? Thanks.
+
+Peter Beck
+Yeah. It is. It is at a much, much higher intensity and rate because for Rutherford, we only had to do half the job, meaning that we only had to go up. For Archimedes, we have to go up and down. So it's like twice the amount of environments, twice the amount of run box. And twice the amount of qualification.
+
+Peter Arment
+Appreciate the color. Thanks, guys.
+
+Operator
+This concludes our question and answer session. I would like to turn the conference back over to Peter Beck for any closing remarks.
+
+Peter Beck
+Great. Thanks very much, and thanks for the thoughtful questions. So before we close out today, I would like to share that Matt Oko is finishing up his time on the Rocket Lab USA, Inc. board of directors. Matt's tenure as a member of the board will end November 30. Matt is a cofounder and managing partner at a deep tech venture capital firm, DCVC, and was one of Rocket Lab USA, Inc.'s earliest investors serving as a member of the board since August 2021. And as a member of the legacy Rocket Lab USA, Inc. board since January 2017.
+
+So since then, we've been incredibly grateful for his leadership and his guidance as we grew Rocket Lab USA, Inc. together from a small start-up to a publicly listed company. Now the world's one of the world's leading global space firms. And, look, I just personally also want to thank Matt for backing us from the beginning, and wish him all the best in his continued work in deep tech as he transitions out of Rocket Lab USA, Inc. Otherwise, here are some upcoming events and conferences that the team will be attending. We look forward to sharing more exciting news and updates with you there. And thanks for joining us That wraps up today's call, and we look forward to speaking with you again soon and sharing some more progress at Rocket Lab USA, Inc.
+
+Operator
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

@@ -1,0 +1,30 @@
+{
+  "ticker": "GOOG",
+  "quarter": "Q3 2024",
+  "company": "Alphabet Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "B"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": null,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": null,
+    "eps": null,
+    "total_equity_m": null,
+    "total_assets_m": null,
+    "cash_and_equivalents_m": null,
+    "shares_outstanding_m": null
+  },
+  "flags": []
+}

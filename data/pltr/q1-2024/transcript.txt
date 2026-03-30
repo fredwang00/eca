@@ -1,0 +1,65 @@
+May 5th, 2024
+Ana Soro
+Good afternoon. I'm Ana Soro from Palantir's finance team, and I'd like to welcome you to our first quarter 2024 earnings call. We'll be discussing the results announced in our press release issued after the market closed and posted on our Investor Relations website.
+
+Ryan Taylor
+We started the year exceedingly strong with revenue of $634 million, an increase of 21% year-over-year driven by the momentum of AIP and our continued strong performance in U.S. commercial. Our results also highlight the growing strength of our U.S. government business and our enduring mission-critical work. The continued interest in AIP is loud and clear in the conversations I'm having across our customer base. We've shared our plans to capture the market with AIP, and our results show that our strategy is not only succeeding, it is accelerating.
+
+Shyam Sankar
+Thanks, Ryan. The clear signal from AIP boot camps is that AI is for builders, so many anecdotes and quotes from customers all reinforcing the same point. They are getting more done in a day or 2 in AIP than, in a quarter or 2 without.
+
+David Glazer
+Thanks, Shyam. Q1 was a strong start to the year. Revenue growth accelerated to 21% year-over-year in the first quarter, driven by momentum in AIP and our U.S. commercial business and a reacceleration in our U.S. Government business. We delivered our sixth consecutive quarter of GAAP profitability, generating a record $106 million of GAAP net income in the first quarter. We also delivered our fifth consecutive quarter of GAAP operating profit, generating a record $81 million of GAAP operating income in the quarter. Adjusted operating margin expanded to 36% in the first quarter continuing to highlight the strong unit economics of our business.
+
+
+Alexander Karp
+Welcome to our Q1 earnings. I think it is fair to say we crushed Q1 in the U.S. We are on fire. You see this in our rule of 7 -- our Rule of 40 being 57, you see it in, the 68% (sic) [ 69% ] growth in U.S. commercial, if you do apples-to-apples following a 70% growth last quarter or 71% if you do apples-to-apples, taking out SPAC revenue. You see it in the deal growth in the U.S. growing from 70 to 136 in a year. You see it in the general enthusiasm around our products, especially in commercial, but also in government, which has begun to reaccelerate.
+
+You see it in general in our customer growth in U.S. comm, which grew 69%.
+
+Ana Soro
+Thanks, Alex. We'll now turn to questions. We received a few questions from our shareholders about AI and competitiveness. Matthew and Ryan asked, how does your AI strategy differ from your competitors?
+
+Shyam Sankar
+Well, we're executing our strategy at an unrelenting pace here. If you go back to the launch of AIP, I discussed how we thought the models were going to commoditize and that's really borne out. We see that underscored with LAMMA-370B being released now. But the real opportunity for us, as Alex made mention of, is that people are using LLMs incorrectly in the enterprise. And as far as I can tell, we're really the only company to figure out how to help our customers get beyond chat, leveraging the investments that we've made in ontology, really harnessing this pattern of implementation where you're taking unstructured inputs and turning them into structured actions and outputs that drive economic value in the enterprise.
+
+Alexander Karp
+And I would say, I don't believe we have competitors. So I don't believe in the U.S. commercial market, we have competition. I don't believe in the U.S. government market, we have competition. I don't -- I think that's the reason Ukraine and Israel bought our product. We are differentiated because in order to actually make AI work, you need an ontology. No one has an ontology.
+
+To Shyam's point, you have a lot of people running around saying the data isn't ready. Of course, it's not ready because they don't have foundry. If you have foundry and the ontology, it is ready. If you have foundry or Ontology and Apollo, you can actually work at the edge. If you don't, you can't.
+
+Ana Soro
+Our next question is from Dan with Wedbush.
+
+Shyam Sankar
+So good, great quarter. My question is, can you just talk about what conversion looks like from boot camps? And maybe just double-click, on a typical customer, now that you have more and more data points, what's that showing you about conversion from a boot camp to actually signing a deal?
+
+Ryan Taylor
+Yes, absolutely. I can talk to that. So we announced boot camps 2 quarters ago as a go-to-market motion. And we're seeing that play out as you see that in the results. So in 1 to 5 days with the boot camp we're able to do what used to take 3 months, and we're seeing -- as I talked about, we're seeing customers shortly after boot camp signed 7-figure deals, and we're seeing the ability to be able to show them what they can do on the platform with real data much more quickly and then have that monetization conversation much sooner.
+
+Alexander Karp
+The boot camps also have, quite frankly, another massive advantage because de facto it sets a standard that will be very hard for any other company to meet. So even if you don't buy our product, you de facto have locked in an idea of what's possible. And that means that at some point when you go try your own thing and it fails, you've seen, okay, well, I've seen the art of the possible. And therefore, I'm going to go buy it from Palantir at some point in the future.
+
+Ana Soro
+Our next question is from Mariana with Bank of America.
+
+Mariana Perez Mora
+So it's also in the line of implementation, but less about the customer because I think the demand you're seeing in some percent that -- and we can see that you're seeing that both sides, like from the government side and the commercial side. What I'm really curious about is if you can give us some color around what is next in terms of actually making -- tackling this demand and implementing the efforts in supporting a way larger customer base. What is hiring? Where is partnerships? What is next there? And what is the most challenging from your point of view?
+
+Shyam Sankar
+Well, I can certainly take that. Maybe Ryan will have some comments on the partnership side and the growth of that ecosystem. But on the product side, this is one of the reasons I'm most excited about, Build with AIP and the boot camps that we're running after we have deals with customers. We're really igniting a movement within the customer in terms of unleashing their builders and tackling use cases. There's been a shift like we still love to work on our customers' hardest problems and most important use cases to deliver crushing value very quickly, but concomitant with that is how do we enable every single one of their builders to get going.
+
+Ryan Taylor
+And on the partnership front, you see -- we announced our partnership with Oracle. We're seeing hyperscalers that are realizing that in order to drive compute, you need to move beyond chat, right? You need a solution that's taking organizations beyond there -- for their AI strategy beyond chat, we're seeing that happen there, and we're expanding the partnerships across the space with partners implementing at our customers as well.
+
+Alexander Karp
+We have, across our company for the first time, ongoing discussions with hyperscalers that are well known with others where we're basically saying, look, we have the ideal product, you have the ideal distribution. You can build on top of our product and then capture your distribution at a higher margin. We're having discussions like this in Japan across UHG, but we have our efforts to provide our core infrastructure to defense tech start-ups, which are going very well simultaneously allow us to expand our core architecture or software development into the DoD, but also make us less competitive with people, which helps us a lot.
+
+Ana Soro
+Thank you. Turning back to a question from our shareholders. A lot of people have noticed that Palantir is pretty outspoken when it comes to geopolitics. How has this been received?
+
+Alexander Karp
+Well, it's a complicated question because I think internally -- I mean there have been people who have disagreed. There have been people who have disagreed to the point where they've left, and this has gone on over the last 20 years. When we refused to walk away from special forces, the U.S. Army, when we took over Maven, when we refused to stop working with Homeland Security, when we had discussions about which countries you should work with and which countries we wouldn't. More lately -- more time -- in a more timely version when we supported Ukraine, it was less controversial. When we sold Israel our software that was arguably more controversial.
+
+Ana Soro
+Thank you. That concludes Q&A for today's call.

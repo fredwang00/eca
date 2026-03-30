@@ -1,0 +1,179 @@
+May 14th, 2024
+Operator
+Good day and thank you for standing by. Welcome to the AST SpaceMobile First Quarter 2024 Business Update Call. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your host today, Scott Wisniewski, Chief Strategy Officer of AST SpaceMobile. Please go ahead.
+
+Scott Wisniewski
+Thank you and good afternoon, everyone. Let me refer you to Slide two of the presentation, which contains our Safe Harbor disclaimer. During today's call, we may make certain forward-looking statements. These statements are based on current expectations and assumptions and, as a result, are subject to risks and uncertainties. Many factors can cause actual events to differ materially from the forward-looking statements on this call. For more information about these risks and uncertainties, please refer to the risk factors section of AST SpaceMobile's Annual Report on Form 10-K for the year that ended December 31, 2023, filed with the Securities and Exchange Commission and other documents filed by AST SpaceMobile with the SEC, from time to time. Also, after our initial remarks, we will be starting our Q&A section with questions submitted in advance by our shareholders. Welcome, everyone.
+
+For those of you who may be new to our company and mission, there are over 5 billion mobile phones in use today around the world, but many of us still experience gaps in coverage as we live, work, and travel. Additionally, there are billions of people without cellular broadband and who remain unconnected to the global economy. The markets we are pursuing are massive, and the problem we are solving is important and touches nearly all of us. In this backdrop, AST SpaceMobile is building the first and only global cellular broadband network in space to operate directly with every day, unmodified mobile devices, supported by our extensive IP and patent portfolio. It is now my pleasure to pass it over to Chairman and CEO, Abel Avellan, who will go through our activities since the last public update.
+
+Abel Avellan
+Thank you, Scott. We're happy to be back again with you after six weeks since our last business update call. Our most important update to share since our last call is the execution of our first definitive commercial agreement with AT&T. We have signed an agreement with AT&T through 2030 to provide Space-Based cellular broadband to AT&T and their end users through our revenue share model. This is a major milestone, and we look forward for the commercial service with Block 1 and beyond. As this specifically outline, the product and pricing models we will go-to-market with. We expect to replicate variations of these models in various markets around the world. While each might have slightly different features, this is the spirit in which our core customers' offerings is built upon.
+
+AT&T has been an incredible partner to us over the last few years, and we look forward to the next stage of our relationship. And in case as you didn't see in the Mastergo broadcast a few weeks ago, you should check out the commercial that AT&T ran with Ben Stiller and Jordan Spitz, showing the benefit of our Space-Based cellular broadband technology. We're incredibly busy here in Texas, and we complete our first five commercial satellites. These five Bluebird satellites will mark the beginning of our commercial operations. All necessary parts are at our facilities and being integrated into the satellites. This includes the parts from the two suppliers, which we discussed on the last call, but have things been resolved, a micro-completion is on the way. So based on this current timeline, we want to reiterate our guidance from six weeks ago that we are on target for July or August delivery of our five Block 1 satellites to the Cape Canaveral launch pad, with our orbital launch schedule shortly thereafter. Of course, launch time is subject to many factors, including several outside of our control.
+
+But as of today, everything is moving according to the updated schedule. We will share additional progress updates as we approach the launch. With these first five satellites, we will have the ability to offer U.S. nationwide non-continuous service with over 5,600 individual cells using premium broadband spectrum. Let me spend a moment discussing our Block 1 satellites and the importance of their size and power. These first five satellites will be the largest commercial satellites in low-Earth orbit alongside BlueWalker 3. That, combined with the processing capacity of each of them, allowed us to achieve our commercial goals with less than 100 satellites. This will enable cellular broadband everywhere for the phone you have in your pocket.
+
+Thanks to the technology we invented and that is on the way to become the standard that mobile network operators plan to deploy. On the regulatory front, we're working closely with the FCC to secure market access approval in the United States. This will, of course, be a major milestone for us. We are encouraged by the FCC's recent actions to prioritize satellite-based telecommunications, as evidenced by our re-flagging to the United States. And the other new ruling-making activities. Our B-band application public notice period recently closed, which was a major milestone in the process. We will continue to work closely with the FCC to advance this critical approval process. Additionally, I am very excited as we continue to advance discussions with new strategic and strategic partners using commercial prepayments alongside new commercial agreements.
+
+We currently have no plans for the remainder of this year to pursue an underwritten public security offering to supplement our existing capital facilities. We also established our first government contract, one that generated more revenue for AST in the first quarter, our first commercial revenue. And again, this represents a framework which we can utilize for future government agreements. Simultaneously, we're continuing talks with our first government customers, negotiating additional services we could potentially provide to expand our existing relationships. While the core focus of our strategy is consumer cellular broadband, we do think that the government opportunity is a natural extension of our capabilities and can be very meaningful to our company over time. In summary, we're making progress in all fronts, operationally, commercially, and regulatory, and we set the foundations of enabling broadband connectivity everywhere for the funds you have in your pocket. And with that, I will pass it to Sean for the financial update.
+
+Sean Wallace
+Thanks, Abel, and good afternoon, everyone. Let's review the key operating metrics for the first quarter that are displayed on Slide six. On the first chart, we see for the first quarter of 2024, we had non-GAAP adjusted cash operating expenses of $31.1 million versus $38.6 million in the fourth quarter. Non-GAAP adjusted operating expenses exclude certain non-cash operating costs, including depreciation and amortization and stock-based compensation. In line with our guidance, our first quarter non-GAAP adjusted operating expenses fell by $7.5 million versus the fourth quarter. Our research and development expenses fell by $6.5 million this quarter due to the continued completion of important R&D projects. Our R&D expenses consist primarily of non-recurring development activities for which we typically engage third-party vendors, and payments are based on the completion of milestones. Our engineering services expenses also fell by $0.6 million, and our general and administrative expenses decreased by $0.4 million in the first quarter as compared to the fourth quarter.
+
+We have made a series of cost adjustments to capture about $1 million in engineering services and G&A cost savings. Turning towards the second chart on this page, our capital expenditures for the first quarter were $26.7 million versus $33.9 million for the fourth quarter. The figure was made up of some modest launch payments, capitalized direct materials for the Block I satellite, and additional facility and production equipment for our assembly, integration, and test facility in Midland. Capital expenditures trended down as we again moved towards the completion of the Block I satellite construction. As of the end of the first quarter, we have spent over 95% of the expected amounts for the five Block I satellites. We are still projecting total spend of approximately $150 million for the five VB1 satellites. And on the final chart on the slide, we ended the first quarter with $212.4 million in cash. We are continuing to pursue using the balance of our senior credit facility, which has a gross amount of $51.5 million available.
+
+As I mentioned at the end of March, efforts around raising strategic capital may take precedence over the senior credit facility, and at a minimum the continued deferment has reduced a bit of the negative carry we would have incurred if we had accessed the facility earlier. Our ability to access this facility is subject to certain conditions and approvals. As we stated in our 10-Q, we believe this cash, as well as our ability to raise capital through our existing facilities, is sufficient to support our expenditures for at least the next 12 months. As we have also discussed in our 10-Q, our cost positions and capital plans are quite modular, and this characteristic provides us the flexibility to increase or decrease our rate of expenditures depending upon changes in our build-out plans and availability of capital. This flexibility provides us comfort that we can manage our liquidity profile dynamically depending on our rate of raising capital. In March, we provided guidance on our expected operating expense levels. As we discussed earlier, we have been supporting the development efforts of our two critical satellite designs, Block 1 and Block 2, our ASIC chip design, and the construction of five BB1 satellites. The completion of this BB1 work and a significant portion of the BB2 and ASIC design work is expected to result in a material reduction in our adjusted operating expenses and future capital expenditures.
+
+This reduction in cash expenditures will be done without a material reduction in our employee headcount, as most of these reductions are related to the completion of third-party work. As I mentioned during the fourth quarter earnings call, we now project that our cash, adjusted cash operating expenses will come in at around an average of $30 million per quarter for 2024 as the Block 1 design is completed and the Block 2 design approaches completion. These figures will vary depending upon manufacturing activity in each period. This guidance does not include the expected cost of approximately $15 million related to the tape out and initial production of our ASIC chips. These ASIC-related costs will be recognized as an R&D expense in subsequent quarters in 2024 as the milestones are completed. We also plan to reduce our outlook for capital expenditures as we reach the final investments for BB1. For the next two quarters, we expect to spend in the aggregate approximately $25 million to $40 million in capital expenditures. Any increase beyond these levels will be in conjunction with the timing of the deployment of our Block 2 satellites, which could be either in late 2024 or the first quarter of 2025.
+
+Timing of the changes in our adjusted operating expenditures and capital expenditures, as I've just described, could be delayed or may not be realized due to a variety of factors. As I discussed in our last earnings call, we continue to work with our advisors on developing a financing package from quasi-government sources, including export credit agencies. Satellite and other infrastructure providers have historically utilized these agencies to source cost-effective long-term debt funding of large projects. The key underpinning of these funding structures has been proven technology and the sale of significant capacity through long-term agreements to large creditworthy entities. We remain focused on developing a structure and creating an information package that will support our potential financings. We are encouraged by the progress we are making, but we are still in very early stages, and there can be no assurance that we'll be successful in the pursuit of this type of funding. And with that, this completes the presentation component of our earnings call, and I pass it back to Scott.
+
+Scott Wisniewski
+Thank you, Sean. Before we go to the queue of analyst questions, we'd like to address a few of the questions submitted by our investors. Operator, could you please start us off with the first question?
+
+Operator
+Leland from New Zealand asked, what milestones should investors look out for?
+
+Scott Wisniewski
+Thank you, Leland. Looking ahead to the remainder of 2024, I think the biggest milestones to look out for are the launch and successful operation of our Block 1 satellites, market access, regulatory approval in the United States, commercial agreements with additional M&O partners, and then further progress on our government program. We're really set up for an exciting summer here, and we look forward to sharing updates on these milestones with you as they occur.
+
+Operator
+Jordan from North Carolina ask, it was reported that the FCC will be publishing the official report and order for SCS services. Can you please explain if this rule and the FCC approval for QV spectrum backhaul are required conditions for the completion of definitive agreements with AT&T, FirstNet, or other M&Os?
+
+Scott Wisniewski
+Thank you, Jordan. This is certainly not a requirement for commercial agreements, as demonstrated by the commercial agreement we announced today with AT&T. When we go to the FCC or really any regulator globally, we go with our in-country partner, and they further support the technology and validate the case that we're making. The FCC has been moving incredibly fast here in establishing rules for direct-to-device, and we've been working with them for a long time on that. And we believe that this is going to ensure that our technology can be utilized once it's available commercially. And our M&O partners fully understand the process of the regulator and are even much closer to them than us, and they're comfortable that our system will be regulated and usable.
+
+Operator
+Linden from New Zealand asks, is ASTs focusing on fundraising from past partners or new partners?
+
+Abel Avellan
+Linden, thanks for the question. First of all, we're very proud of the strategic shareholder support that we have. We have other firms who have invested three times in our company, Rakuten, American Tower, twice. AT&T, Google, and Bell Canada have all invested. The reinforcing notion is the industry leader of this technology that we invented, direct-to-device. On a global basis, we are super excited about where we are with new and old strategic partners. We have around 50 operators on a global basis that we have MOUs and agreements of understanding and relationships. There's a lot of excitement from them in what do we mean for the plans and for providing universal connectivity to every regular cell phone.
+
+So we're excited. We're excited. We are bullish about where we are in that process with them. We are turning more into operational agreements, similar to what we did with AT&T. There are more definitive commercial agreements. The commercial agreements are planned to include prepayments that are going to be fundamental for the continued build-out of our network.
+
+Scott Wisniewski
+And with that, I'd like to thank our shareholders for submitting these questions. Operator, let's open the call to analyst questions now.
+
+Operator
+Thank you. At this time, we will be conducting a question-and-answer session. [Operator Instructions] Our first question comes from the line of Mike Crawford with B. Riley Securities. Please proceed with your question.
+
+Mike Crawford
+Thank you. I'm glad to hear you're on track on these launch milestones. Can you provide us any additional color on how you expect to fly the first five Bluebirds? Would that be in, like, a string-of-pearls formation or more spread out? And would it potentially enable access in, say, Bell Canada service area or just in the U.S.?
+
+Abel Avellan
+Thank you, Michael. Well, we are facing them in a way that will prioritize the United States and also some government applications that we have. The configuration will be initially as we deploy it out of the launchers in a string-of-pearls. There are certain configurations that we are tailoring for the users of these five satellites. And then as we move on time after the launch, we will spread them evenly as part of the next launches that will complement the constellation. We'll be prioritizing the 53-degree inclination. That gives us access to a 59 degrees of latitude all the way to the equator and from the equator to minus 59 degrees of latitude with this configuration.
+
+Mike Crawford
+Okay. Thank you, Abel. And then, I think the first Block 2 satellite will just be a single satellite that launches, and then after that maybe they're in groups of four, perhaps, depending on, launch vehicle used?
+
+Abel Avellan
+Yes. We launch in groups of four or five. We're in the process of working on that for the next batch. And Block 2 are larger. I mean, Block-1 are already the largest object in space. That's why we need a few of them. And I think the only thing bigger than us is the ISS in LEO. So we're launching five this summer.
+
+And then we move in blocks of four on the bigger configuration that is the second version, and the upgraded version for Block 2.
+
+Mike Crawford
+Excellent. Thank you. And then final one for me is, can you just remind us what levels of service you envision being able to provide at different quantities of satellites in your space mobile constellation?
+
+Abel Avellan
+Yes. The type of service that we actually can enable, regardless of the number of satellites, is the same. So what it changes is how often you have it above you that you can use it. So this is a broadband service. It's a full data service. We have worked with our partners to enable voice, data, Internet, download. I don't know if you see it. We're streaming videos directly from the satellite to regular phones.
+
+So this is a full broadband experience. What it changes as we add satellites is for how long you can enjoy that during the day. But with these five satellites, we will be able to use across all United States. Of course, they will not be available all the time. There will be no continuous service only with five satellites. But how we add more satellites, that persistence of the service keep increasing as we launch more.
+
+Operator
+Thank you. Our next question comes from the line of Brian Kraft with Deutsche Bank. Please proceed with your question.
+
+Brian Kraft
+Hey, good afternoon, guys. I just wanted to ask you on the AT&T agreement, can you talk about what the key elements of the agreement structure are? Is it consistent with the 50-50 revenue share model you've talked about historically? Is this just formalizing the MOU you already had or the terms, any different? And is there any impact on the $20 million in prepaid revenue that you'll be getting from AT&T later this year? In other words, will there be additional prepaid revenue that maybe is coming in as part of this agreement? Thank you.
+
+Abel Avellan
+Yes. Well, first of all, I'm super happy with having to complete a definitive agreement with AT&T. This is a long-coming project for us. It's the conclusion of all the tests, pricing, discovering, understanding of the usage. We believe that is a significant part of the U.S. population that will be willing to pay for the service. They move in and out of connectivity in the U.S. So we have a multitude of packages.
+
+We are disclosing that together with AT&T, so I'm not going to be able to disclose the packages, but there are packages where, yes, they'll sell you to a revenue chair. We historically have these costs. These packages allow users to get text, voice, full broadband Internet, and it's priced accordingly depending on the amount of service that the user is willing to pay. It is designed to be used everywhere in North America and to offer a broadband experience. And how much of that broadband experience depends on how much the user is paying. It's frictionless, so the user doesn't need any special phone. It doesn't need any special package. It will be all what he will see is a different symbol in the 5G icon with an S, something similar that indicates that you're on satellite.
+
+But other than that, the user doesn't need to do anything. So we're very excited about this. AT&T has done a significant amount of market stories on how to price it together with us and how to position it in order to maximize the take on the service.
+
+Brian Kraft
+Thanks, Abel. Anything on the prepaid revenue? Is it still just the $20 million, or I just was curious if there was any incremental financing coming from this? And then, I guess, the other follow-up I had is, just can you give us a sense as to when you think the service will actually be available? Will that be sometime next year, or how are you thinking about that?
+
+Scott Wisniewski
+Sure, I'll jump in. First on the deal structure, I think Abel walked through some of the finer points, but this is a term through 2030. This is a definitive agreement, which means that it's a document that's the legal vehicle through which revenue will be brought in with all the detailed SLAs and other legal requirements in a real commercial agreement. So it's very powerful from that perspective because it means that both companies have aligned around how this offering will occur in many ways. So that's the key element. In terms of prepayments, we reiterated the safe prepayment that came in in January, right? So there's no new economics with this agreement right now, other than laying out the vehicle through which we'll be able to generate revenue when our services is available. And I'll refer back to Abel's comments on, the go-to-market strategy and doing that jointly with our customer.
+
+We're not prepared to run out the timeline. But as we've said, these five satellites going up are commercial satellites. They have ten times the capabilities of BlueWalker 3. And after several months of preparations, they will be commercial-ready. So this is something for us that's technology-driven, and we want to get this up as fast as possible.
+
+Abel Avellan
+Yes. While using these five satellites, we are already starting some initial revenue with the government, with BlueWalker 3. They will continue on AT&T and others. Hopefully we'll be close soon. We'll start using these five satellites as a commercial operating satellite. Of course, that revenue is planned to increase significantly as we add more satellites. But we will start monetizing these satellites commercially in the U.S. and in other key regions as we continue progressing and signing definitive agreements with the operators.
+
+Those definitive agreements, we expect them to have prepayment features that are a key part of how we can continue financing the Constellation.
+
+Operator
+Thank you. Our next question comes from the line of Andres Coello with Scotiabank. Please proceed with your question.
+
+Andres Coello
+You just mentioned other regions. I guess that is in the five satellites will cover the United States, they can also cover parts of Europe, perhaps Japan, perhaps part of northern Mexico. So I'm just wondering if covering the U.S. also gives you capabilities in other parts of the world for these five satellites. Thank you.
+
+Abel Avellan
+That is correct. I mean, these five satellites, they're inclined at 53 degrees of inclination. What they mean is they circle the Earth constantly. They cover everything plus minus 59 degrees of latitude. That's from Canada all the way to Argentina in the Americas, it covers South Africa all the way to northern Europe and Japan. So, yes, these satellites have global coverage. We're starting with five. We're very careful where we start initiating services with customers.
+
+We're prioritizing customers that are signing definitive agreements with prepayments. But we have the ability to do that globally in the U.S., in Europe, in Africa, in Asia. That's how we're prioritizing the usage of these very valuable assets.
+
+Andres Coello
+Understood. And just confirming, it's going to be a string of pearls, correct? The configuration is going to be a string of pearls?
+
+Abel Avellan
+At the beginning, yes. We have more satellites. We're going to be facing them out in the planes where we're putting them out.
+
+Operator
+Thank you. Our next question comes from the line of Chris Schoell with UBS. Please proceed with your question.
+
+Chris Schoell
+Great. Thank you for taking the questions. Just a few follow-ups. As you think about measuring success on the first five Block 1 satellites, any guardrails you can give in terms of expected revenue generation and over what time frame? And then second question, historically we've seen the wireless carriers bundle value-added services into their premium offerings. Do you think a similar hard bundle approach could be taken with your service or do you still expect that customers will need to opt in?
+
+Abel Avellan
+We're basing our offering as an add-on service to the user. Of course, every country, every operator has their own plan and their own methodology of how to monetize the service and how to differentiate it in each of the respective markets. But fundamentally, this is an add-on service with a very low friction to opt-in and start paying for it. The customer, as I said earlier, doesn't need to basically know anything other than he's out of connectivity and that he's willing to pay for getting that connectivity. So if you think about it, you get your monthly bill. It's a line item in your monthly bill that it will be a space model. As you move around the Earth in places where there is no connectivity or the connectivity is not good enough.
+
+Chris Schoell
+And then, just to follow up, maybe just on the first five satellites, any sort of guardrails you're thinking of in terms of the revenue generation and how quickly that can scale into the end of this year?
+
+Scott Wisniewski
+Hey, Chris. We're not going to be providing revenue guidance at this time, but these first five satellites are commercial ready. We've talked about our government customer. Obviously, we announced a commercial agreement today. There's revenue potential that's real on these first five satellites. But again, that's not our focus, right? We believe it's a big opportunity as we scale the system. So to a certain extent, we're not focused on the revenue opportunity for the first five, but you'll start to see it come in.
+
+But you'll see our focus be on what does service look like with more satellites, and I'll point you back to the agreement today. It's all about how do you provide a mass market solution to a broad consumer base, right? And that's where the focus will be. That's where the big revenue opportunity is for us, and so we won't be as focused on just the first five we'll be focused on continuing to build out the constellation.
+
+Operator
+Thank you. And our next question comes from the line of Chris Quilty with Quilty Space. Please proceed with your question.
+
+Chris Quilty
+I was hoping you could give an update on your ASIC development.
+
+Abel Avellan
+Yes, Chris. I mean, we have been in tape out for a month and a half already. It's a process of around three to four months. We are ready to receive our chip. This chip will have another 10x increase in the processing capacity of our satellites. As a reminder, BlueWalker 3 had 100 megahertz of processing bandwidth. Block 1, the satellites that we have now, that we're planning to launch very quickly here, they had a 10x that capacity using FPGAs. And the next generation of the Block 2s, we had another 10x increase to a 10 gigahertz of processing bandwidth per satellite.
+
+So that's very significant step up. But we have the ability to keep using our FPGAs for as long as needed, but we are in the tail end process of receiving our chip.
+
+Chris Quilty
+Great. And on the operating expenses, it looks like you've made some nice reductions. Is the current quarter a good run rate, or are some of the cost-cutting effects going to accrue, as the year plays out?
+
+Sean Wallace
+I'll take that.
+
+Abel Avellan
+Yes, Sean, why don't you take out?
+
+Sean Wallace
+Yes. As we mentioned in March, we are going to probably average somewhere around $30 million. We came in a little over $31 million quarter. Just the one caveat is there's $15 million of expenses that can be paid for but haven't been run through the income statement on ASIC. But we have targeted to R&D, engineering services, and GA and keep it around a $30 million run rate probably through the end of the year.
+
+Chris Quilty
+Great. And, Abel, did you get a picture with Ben Stiller?
+
+Abel Avellan
+Well, we want to invite our investors to the launch. And let's see if he's available.
+
+Operator
+Thank you. At this time, I'm showing no further questions. I would like to turn the call back over to management for closing remarks.
+
+Scott Wisniewski
+Thank you, operator. Our company is building a Space-Based cellular broadband network designed for the use of the phone in your pocket today. I want to thank everyone for joining, both the shareholders and the analysts, for their questions. I hope everybody has a great rest of the week. Thank you.
+
+Operator
+This concludes today's conference, and you may disconnect your lines at this time. Thank you for your participation.

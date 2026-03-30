@@ -1,0 +1,16 @@
+{
+  "ticker": "RKLB",
+  "quarter": "Q4 2023",
+  "company": "Rocket Lab USA, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.0,
+    "composite_grade": "B"
+  }
+}

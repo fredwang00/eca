@@ -36,6 +36,10 @@ SECTOR_MAP: dict[str, str] = {
     "ABNB": "base",
     "SHOP": "base",
     "CRCL": "base",
+    "WMT": "base",
+    "COST": "base",
+    "TGT": "base",
+    "NFLX": "base",
     # Other
     "HIMS": "base",
     "SPOT": "base",
@@ -75,6 +79,10 @@ COMPANY_NAMES: dict[str, str] = {
     "ABNB": "Airbnb, Inc.",
     "SHOP": "Shopify Inc.",
     "CRCL": "Circle Internet Group, Inc.",
+    "WMT": "Walmart Inc.",
+    "COST": "Costco Wholesale Corporation",
+    "TGT": "Target Corporation",
+    "NFLX": "Netflix, Inc.",
     # Other
     "HIMS": "Hims & Hers Health, Inc.",
     "SPOT": "Spotify Technology S.A.",
@@ -86,9 +94,9 @@ WATCHLIST_SECTORS: dict[str, list[str]] = {
     "infra":    ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
     "crypto":   ["MSTR", "BMNR", "COIN", "CRCL"],
     "space":    ["RKLB", "ASTS"],
-    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT"],
+    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT", "WMT", "COST", "TGT"],
     "venture":  ["EOSE"],
-    "employer": ["SPOT", "HIMS"],
+    "employer": ["SPOT", "HIMS", "NFLX"],
 }
 
 

@@ -1,0 +1,34 @@
+{
+  "ticker": "MSTR",
+  "quarter": "Q2 2025",
+  "company": "Strategy (formerly MicroStrategy)",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "C",
+    "dim3_grade": "D",
+    "dim4_grade": "D",
+    "dim5_grade": "C",
+    "composite_score": 1.65,
+    "composite_grade": "C+"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 114.5,
+    "gross_profit_m": 78.7,
+    "operating_income_m": -15.5,
+    "net_income_m": 10020.8,
+    "eps": 36.23,
+    "total_equity_m": 47477.0,
+    "total_assets_m": 64773.4,
+    "cash_and_equivalents_m": 50.1,
+    "shares_outstanding_m": 280.96,
+    "free_cash_flow_m": -6822.2,
+    "operating_cash_flow_m": -34.9,
+    "capital_expenditure_m": -6787.3,
+    "bvps": 168.98
+  },
+  "flags": []
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "MSFT",
+  "quarter": "Q2 2024",
+  "company": "Microsoft Corporation",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 3.05,
+    "composite_grade": "B"
+  }
+}

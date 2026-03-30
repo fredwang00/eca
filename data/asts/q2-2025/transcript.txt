@@ -1,0 +1,306 @@
+August 10th, 2025
+Operator
+Good day, and thank you for standing by. Welcome to the AST SpaceMobile Second Quarter 2025 Business Update Call. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your host today, Scott Wisniewski, President of AST SpaceMobile. Please go ahead.
+
+Scott Wisniewski
+Thank you, and good afternoon, everyone. Today, I'm also joined by Chairman and CEO, Abel Avellan and our Chief Financial Officer, Andy Johnson. Let me refer you to Slide 2 of the presentation, which contains our safe harbor disclaimer. During today's call, we may make certain forward-looking statements. These statements are based on current expectations and assumptions, and as a result, are subject to risks and uncertainties. Many factors could cause actual events to differ materially from the forward-looking statements on this call. For more information about these risks and uncertainties, please refer to the Risk Factors section of AST SpaceMobile's annual report on Form 10-K for the year that ended December 31, 2024, form 10-Q filed with the SEC on May 12, 2025, and Form 10-Q filed with the SEC on August 11, 2025, all with the Securities and Exchange Commission and other documents filed by AST SpaceMobile with the SEC from time to time. Also, after our initial remarks, we will be starting our Q&A section with questions submitted in advance by our shareholders.
+
+For those of you who may be new to our company and mission, there are over 5 billion mobile phones in use today around the world, but many of us still experience gaps in coverage as we live, work and travel. Additionally, there are billions of people without cellular broadband and who remain unconnected to the global economy. The markets we are pursuing are massive and the problem we are solving is important and touches nearly all of us. In this backdrop, AST SpaceMobile is building the first and only global cellular broadband network in space to operate directly with everyday unmodified mobile devices and supported by our extensive IP and patent portfolio. It is my pleasure to now pass over to Chairman and CEO, Abel Avellan, who will go through our activities since our last public update.
+
+Abel Avellan
+Thank you, Scott. The second quarter was one of our most productive quarters ever for AST SpaceMobile. We note our progress to the date across many important areas, including manufacturing, regulatory, commercial and government efforts, capital raising and readiness for intermittent nationwide service in United States by the end of this year. Just three months ago, I highlighted that the company had reached an inflection point as we progress towards scale commercialization of our network. Since our first quarter conference call, we have made significant advances in our commercialization initiative, while continuing to secure highly valuable spectrum creating a further barrier for entry when combined with our portfolio of over 3,700 patents and patent pending claims. This progress comes as we continue to improve our manufacturing program, including the chipping of the largest satellites ever created for low Earth orbits. I am increasingly confident in our direction, strategy and position in the growing direct-to-device cellular broadband market that we created. I want to cover several updates, including highlights of the past few months before Scott and Andy discuss the details.
+
+As of today, we have completed the assembly of microns and phase arrays for eight Block 2 BlueBird satellites in addition to six we currently have in operations and expected to complete assembly of approximately 40 satellites equivalents of microns and phased array by early 2026. Our differentiated approach to satellite manufacturing with 95% vertical integration remains on track to reach a manufacturing cadence of six satellites per month during 2025. And now globally, we will soon have a manufacturing footprint with over 400,000 square feet of manufacturing space supported by a great team of over 1,200 global workforce. We currently anticipate at least five orbital launches by end of Q1 2026, with orbital launches occurring every one to two months on average to reach our goal of 45 to 60 satellites launches during 2025 and 2026, which will drive continuous coverage in key markets such as United States, Europe, Japan, U. S. And other strategic markets like The U. S. Government.
+
+Regarding our orbital launch campaign, FM1, our first next generation Block 2 BlueBird satellite will be ready to ship in August. We're working with our launch provider on determining the earliest possible launch date. A detailed cadence of our 2025 and 2026 deployment plan is now shown in the accompanying quarterly presentation found on our IR website. Our Block 2 BlueBirds are approximately 3.5x larger with 10x capacity as compared to our Block 1 BlueBirds. We previously held the record for the largest ever commercial deployed communication satellite ever put in low Earth orbits. This means our phase out rate or antenna have much larger surface area than before, enabling our satellite to digitally form more cells over air surface with pinpoint precision and reduce interference. As a result, we need far less satellites to achieve our goal of connecting the unconnected. Approximately 45 to 60 satellites for continuous coverage in key markets and approximately 90 satellites for continuous global coverage.
+
+This compared with other systems that needs tens of thousands of satellites and even then, we believe our superior technology, deep partnerships, access to low band and premium band spectrum and commercialization strategy will enable a better experience and deliver greater value to customers. For AST SpaceMobile, providing native cellular broadband capability at scale is a function of the number of BlueBird satellites in orbit. We have laid out a strong launch cadence to match our connectivity goals. Our satellites provide native cellular broadband capability directly to modify mobile devices including voice, text, data and video. As consumers, this means broader cellular coverage, lower latency and better the signal quality as you live, work and travel. These capabilities have been proven multiple times in partnership with our MNO partners. Simultaneously, we're continuing to bring together a network of MNO partners that is second to none. Our commercial ecosystem, which include agreements and understanding with over 50 MNO partners with nearly 3 billion subscribers globally represent a robust network of potential space mobile service consumers.
+
+As our commercialization and manufacturing initiative advance, we're laying the groundwork for commercial service with activations in key partner markets. We're preparing to deploy nationwide interim to service in United States by the end of this year with our U. S. MNO partners AT&T and Verizon, followed by The United Kingdom, Japan and Canada in Q1 2026. We also completed key milestones from our U. S. government contract awards and continued strong regulatory progress on spectrum related topics. Of note, we demonstrated the first tactical non-terrestrial network or NTN connectivity over standard mobile devices with participation from multiple branches of the U.S.
+
+Armed Forces. Our cellular spectrum strategy has also been significantly enhanced. We recently announced an agreement to acquire 60 megahertz of global S-Band spectrum priority rights held under the International Telecommunications Union. This spectrum priority right provide us with path to offer services in the spectrum band around the world, subject to country level regulatory approvals. Access to S-Band spectrum rights complement our plan L-Band spectrum strategy in The U. S. and Canada and enhance our core 3GPP spectrum strategy that we deploy globally. Together with our network operator partners, we are in a position to expand subscriber capacity by offering the vast majority of countries around the world the full AST SpaceMobile network capabilities, enabling a true broadband experience directly from space to everyday smart phone.
+
+Premium spectrum is both limited, valuable and gaining factor in achieving commercial scalability. Our strategy to work with MNOs and utilize their existing low band spectrum, while maintaining this capacity with our own spectrum create a durable competitive advantage around our business. Lastly, we're better capitalized than ever before with over $1.5 billion in cash on the balance sheet, pro form a for our recent convertible note and ATM facility. Through a series of differentiated transaction, we have fortified our balance sheet to build our network and manage our capital structure in responsible way while we cultivate long term shareholder value. The first half of 2025 have been keenly focused in advancing satellite production and manufacturing. Our pace of innovation is reflected on the dedicated work, strategic planning and unrivaled focus driven by our talented team of over 1,200 global workforce. With the achievement of our first Block 2 BlueBird soon and subsequent start of our orbital launch campaign, we're moving with precision to scale the number of BlueBird satellites in low Earth orbits and expand our global cellular broadband network. This is an exciting time for AST SpaceMobile and I thank you for your continued support.
+
+Let me now turn the call over to Scott to provide more detail on progress and initiative.
+
+Scott Wisniewski
+Thank you, Abel. The past few months have been extremely active for AST SpaceMobile. Let me elaborate on our recent accomplishments, what they mean for the company's overall progress and what that means for the rest of our year. Our recent agreement with Vodafone Idea in India shows the continued and growing demand for space mobile service across both consumer and enterprise use cases. Additionally, we continue to engage in conversations with players in several other key strategic markets and expect to announce updates on this front soon. In Europe, our jointly owned distribution entity with Vodafone is progressing on plan. We recently chose Luxembourg as our headquarters. The country's strong digital credentials and strategic location make it an ideal place for SatCo to distribute AST SpaceMobile's broadband satellite services to European mobile network operators under a single turnkey arrangement.
+
+The demand signals so far for a sovereign integrated direct-to-device satellite service are increasingly evident with expressions of interest from 21 of 27 EU member states as well as in other European markets. Moving to gateways. In Q2, we delivered gateway equipment bookings of $14.9 million, a sequential increase primarily driven by the accelerated deployment of our global network infrastructure. The pace of bookings in the quarter is a promising indicator of demand ahead of rollout of our space mobile service. We continue to expect quarterly bookings of approximately $10 million on average during the second half of 2025 as we begin to recognize revenue as and when gateways are installed and milestones are met. Furthermore, gateway sales and government contract awards, which I'll speak to momentarily provide us with reassurance that we remain on track with expected revenue in the second half of the year of $50 million to $75 million. Now to the U.S. government business.
+
+Our dual-use satellite technology continues to garner interest from U.S. defense and government entities. In Q2, we recognized revenue on 4 milestones related to contract awards with the U.S. government. We also won 2 additional early-stage contracts in the quarter, bringing the total to 8 contracts to date with the U.S. government as an end customer, showing broad-based interest across the DOD for use cases uniquely available with our satellite technology and we fully expect to participate in processes for large contracts going forward. We expect revenue from our U.S. government business to ramp significantly in the coming quarters as we continue to achieve milestones tied to our current contract awards, in addition to winning net new contract awards.
+
+Our government pipeline remains robust as the opportunities for collaboration become clearer. As a commitment to our promising government business, we are significantly expanding our organizational capabilities to serve the U.S. government. Organizationally, this will streamline objectives, refine strategies and better align resources in an effort to grow our government business to substantial revenue streams. We have strong conviction of our opportunities across government and defense use cases, driven by our unique and differentiated satellite technology paired with the growing demand for both communications and noncommunications applications that we've seen. The achievements of this quarter serve as important signals of our continued positive momentum. We are proud of our progress to date and are energized by the opportunity to remain firmly in the driver's seat of what has already been an incredible journey to date and we're really excited about the additional commercial progress ahead of us. I will now pass the room over to Andy to walk through our financial update.
+
+
+Andrew Martin Johnson
+Thanks, Scott, and good afternoon, everyone. Our performance during the second quarter of 2025 reflects our continuing evolution to a full-fledged operating company, executing at scale to facilitate our bold manufacturing and launch objectives during 2025 and 2026. All of this hard work is in support of our near-term revenue ramp for both commercial and U.S. government opportunities that I first discussed with you last quarter. The progress on manufacturing the next 40 BlueBird Block 2 satellites continued throughout the second quarter. One of the most significant highlights from Q2 was our work on the financial front in support of these operational efforts, which I'll discuss in more detail. We continued our focus on moving quickly and responsibly to bring our stakeholders space-based broadband connectivity direct to their unmodified smart phones. From a financial perspective, this meant increased spending on both operating expenses and capital expenditures to support our rapid growth.
+
+I'm happy to provide the specifics and context for our overall spend in the second quarter. We are spending to execute on our objectives to bring space mobile service to market as soon as possible, and our financial performance reflects this. Moving to the operating and capital metrics slide, let's review the key operating metrics for the second quarter of 2025. On the first chart, for the second quarter, we incurred non-GAAP adjusted operating expenses of $51.7 million versus $44.9 million in the first quarter. As a reminder, non-GAAP adjusted operating expenses exclude certain noncash operating costs, which include depreciation and amortization and stock-based compensation. This quarter-over-quarter increase of $6.8 million resulted from a $5.5 million increase in adjusted general and administrative costs and a $2.1 million increase in adjusted engineering services costs, partially offset by an approximately $800,000 reduction in R&D costs. This increase in adjusted OpEx in Q2 was above the guidance I provided in our last earnings call, mainly due to large transaction expenses, including completion of the Ligado L-Band spectrum transaction and the related nonrecourse senior secured delayed draw term loan facility as well as significant work on our joint venture with Vodafone that we launched at the end of the quarter, as Scott discussed. If you further adjust for these transaction expenses, our adjusted operating expense were closer to $46.5 million, largely consistent with the guidance I provided in May after Q1.
+
+Turning towards the second chart on this slide. Our capital expenditures for the second quarter of 2025 were approximately $323 million versus $124 million for the first quarter of 2025. This figure was made up of approximately $298 million of capitalized direct materials, labor for our Block 2 BlueBird satellites and payments made in connection with multiple launch contracts with the balance relating to facility and production equipment expenditures. This amount was above the high end of the guidance of $270 million that I provided during our last earnings call, primarily driven by 2 capital spending decisions. First, in support of our manufacturing ramp and skilling activities, we procured satellite materials above previous plans and ahead of an increasingly volatile tariff environment. And second, we decided to make a $25 million launch payment at the end of Q2 rather than in early Q3 as contracted in support of our evolving relationship with a strategic launch provider. Based on our adjusted operating expenses for the second quarter of 2025, we estimate that our adjusted operating expenses for the third quarter will come in at a similar level of approximately $50 million adjusted for any transaction expense as we continue to onboard employees in support of our operating plan and augment our R&D efforts for mid-band development to support our L- and S- Band spectrum rights. We do expect our capital expenditures to decrease in Q3 as compared to second quarter to range between $225 million and $300 million due to the timing of certain launch payments, which vary from quarter-to-quarter.
+
+We continue to estimate that the average capital costs, including direct materials and launch costs for our constellation of over 90 Block 2 BlueBird satellites will fall in the range of $21 million to $23 million per satellite. This is the same range of per satellite costs that I provided last quarter. Our cost per satellite estimates are subject to fluctuations based on dynamic geopolitical factors, which impact our costs. And we reiterate our belief that the operation of a constellation of 25 BlueBird satellites should enable us to potentially generate cash flows from operating activities to further support the buildup of the remaining constellation. The timing of the changes in our adjusted operating expenditures and capital expenditures as I have just described, could be delayed or may not be realized due to a variety of factors. Last quarter, I began to talk about revenue opportunities for the second half of 2025. As a reminder, our revenue opportunity is intimately linked to the number of deployed satellites. As we've previously stated, we believe we can enable continuous space mobile service across key markets such as United States, Europe, Japan and other strategic markets with the launch and operation of approximately 45 to 60 BlueBird satellites.
+
+We also plan to achieve noncontinuous space mobile service in selected targeted geographical markets with the launch of a total of 25 BlueBird satellites. And additionally, we will continue to support U.S. government applications currently ongoing and accelerating as we launch additional satellites. We are reiterating our belief that we have a revenue opportunity in the second half of 2025 in the range of $50 million to $75 million. The achievement of our revenue plan remains subject to several contingencies, including the successful launch and deployment of Block 2 BlueBird satellites related to the U.S. government applications contractual milestone achievements. Critical gateway equipment sales to our MNO partners in support of their anticipated commercialization efforts of our Space Mobile service. And service revenues in connection with the activation of our commercial service provided by our existing and planned deployed and operational satellites.
+
+There can be no assurances that we will achieve any or all of these objectives and our actual revenue results will vary based on a multitude of factors. Finally, on the final chart on the slide, on a pro forma basis, taking into account the cash raised in July via the convertible notes with an effective strike price of approximately $120 per share and funds raised in connection with our fully utilized and now terminated ATM, our cash, cash equivalents and restricted cash as of June 30, 2025, was over $1.5 billion. Drivers for this cash increase include approximately $397 million net proceeds raised from the 2024 and 2025 at the market or ATM facilities that not only funded operations in the quarter, but allowed us to accelerate our capital investments in Q2. We also received $25 million in the quarter from the Trinity Capital equipment loan, a $100 million non-dilutive funding source to directly support our manufacturing expansion through financed equipment. In addition to the work we did to raise additional capital via convertible notes, we also took actions during Q2 and in the month following to reduce our outstanding debt related to the January 2025 convertible notes due in 2032. Between 2 equitization transactions, we converted $360 million of the outstanding $460 million of convertible notes into 15.2 million Class A shares, reducing the outstanding debt related to our January convertible offering to just $100 million of outstanding notes which are due in 2032. And finally, we continue to make progress on non dilutive financing from quasi governmental sources of capital in the United States. Following the completion of initial clearances for funding, we are progressing towards diligence and documentation for over half a billion dollars in potential non dilutive capital from multiple U.S.
+
+and international agencies. We will provide updates as appropriate and we will be working with the partner banks and our advisors to refine our alternatives. AST SpaceMobile remains well positioned to fund our near term operational plans, we will continue to leverage our balance sheet to quickly bring our Space Mobile service to market through the second quarter of 2025, we remain on target to execute against our operational plans for this year and next. And with that, this completes the presentation component of our business update call and I'll pass it back to Scott.
+
+Scott Wisniewski
+Thank you, Andy. Before we go to the queue of analyst questions, I would like to address a few of the questions submitted by our investors. Operator, could you please start us off with the first question.
+
+Operator
+Rupert from Zurich asked, "given the current launch cadence and near-term goals, is your current funding runway sufficient to reach initial commercial revenue or do you foresee additional capital needs?"
+
+Andrew Martin Johnson
+I'll take this. This is Andy, Rupert. Thank you for the question. The short answer is, yes, we do feel like our balance sheet combined with the opportunities we currently have for both government and commercial inflows in the near term, enable us to achieve a strategy that, again, set out originally with 5 satellites for key thresholds, 25 for positive operational cash flow and ultimately, 45 to 60 satellites for continuous service in strategic markets around the world. Given our pro forma balance sheet at the end of Q2 of over $1.5 billion, we do believe that we are fully funded now to reach the 45 to 60 satellite level and as part of that, our capital strategy going forward will be one focused not on threshold business delivery needs, but rather more commercial and strategic development. An optimal capital structure with additional financial support as appropriate. Of course focusing on de risking the business but not as the primary inflows for the business. Those will quickly convert to those government and commercial opportunities which are starting to commence.
+
+
+Operator
+Amit from Washington asks, "Investors are confused about the recent achievement of a first-ever native voice call VoLTE and text SMS. How does this differ between the voice, video, text achievements that you achieved in the past?"
+
+Abel Avellan
+Thank you, Amit, for the question. You know from last year when we did the first voice, the first video, the first text ever offer in space and the first 5G connection directly from our network of satellites directly to unmodified phones, that was done using partner spectrums and our core and our technology. What are you starting to see now? We are focusing on delivering nationwide service intermittent by the end of the year with our partners in the U.S., Europe, Japan and soon Canada. We are starting to do the full integration to the core infrastructure. So what you saw was our ability to actually do native calling directly from the dialer of the phone into space using the operator's core and operator infrastructure. So we had demonstrated multiple times our ability to do broadband directly from space to any phone of any manufacturer without doing any changes into the phone, without any modification to the phone. And this was just another milestone how to do that natively in the phone, directly from the dialer of the phone, without requiring any app or requiring any over the top application.
+
+
+Operator
+Scott from New York asks, "any further barriers to the Ligado transaction formally closing?"
+
+Andrew Martin Johnson
+Thanks, Scott, for the question. Andy here. Since our last public update, the court did formally approved the definitive documents that were signed alongside the 80-year long-lived L-Band usage rights, which was a huge milestone in this transaction and that closed the transaction for us as a starting point. Separately, we did close the long-term nonrecourse SPV level financing. It's in the form of a delayed draw facility that we can use when we receive formal FCC approval. And in parallel, we're working to put in place bridge financing ahead of the FCC approval based on our receipt of a sponsor backstop commitment. So finally, we do feel good about the FCC on the L-Band. It's already authorized for usage of space for geostationary orbits, and we expect that to be a 2026 event for us.
+
+So look for initial filings on this front in the coming months. That's the next stage in the Ligado transaction.
+
+Abel Avellan
+What we are achieving with these bands is we had the L-Band for U.S. and Canada. As you know, we recently also acquired rights -- to seek landing rights on a country-by-country basis for the S-Band. So that, in essence, will allow us to have direct access to a spectrum globally using either a combination of L, S and the low-band spectrum from our telco partners. So we did we have the most effective network possible. The low band, which will be the band that will be used to -- for penetration and performance. The mid band for more capacity and combining that in a global basis, we think that is very strong.
+
+Operator
+Kevin from Vancouver asks, "what is your current monthly production rate for Block 2 satellites, micron phased arrays and control stats? And what will it take to ramp up to 6 satellites per month? For example, is it a labor issue, supply chain issue or other issues?"
+
+Abel Avellan
+Thank you, Kevin, for the question. In the next week or so, we will be at 9 satellites, in addition, obviously, of the 5 that we have already in orbit built. With that, we also have the capability now to basically get to 6 per month in terms of phased array production. And we feel that we will have around 40 phased arrays built by the end of the year very early in 2026 and at the rate of 6 satellites per month, with one launch every 45 to 60 days. So we are at rate of the phased array. We will think that we will be at rate of the full satellite later in the year this year for support our launch campaign of one launch every 45 to 60 days with six satellites per launch in average. So six to eight satellites per launching average. So that's what we have achieved at this point.
+
+We also have, you know, we now have close to 400,000 square feet of manufacturing facility. So space will not be an issue. We also have ramp out significantly with our production capacity. We have now over 1200 people working on the program. And we have had also secure the launches we seek, launches already secured and in the manifest of our partners following in '26 with a launch every 45 days with six to eight satellites per launch. So we're there, we're getting very, very close to basically hit our target to 45 to 60 satellites. As Andy answered before, we're fully funded for that. It's a lot of hard work, but we think that we are getting closer and closer to our goal.
+
+
+Scott Wisniewski
+And with that, I'd like to thank our shareholders for submitting those questions. Operator, let's open the call to analyst questions now.
+
+Operator
+[Operator Instructions] Our first question comes from the line of Griffin Boss with B. Riley Securities.
+
+Griffin Taylor Boss
+So just want to start off first. Generally can you comment further on the revenue share agreements and the economics there with the MNO partners that you have? Obviously that historically has been predicated on a 50-50 revenue share, but you know, seemingly I would assume perhaps that changes now depending on how much of their spectrum you access versus what you bring to the table yourself with the new S-Band agreement as well as the potential Ligado acquisition. So any updated color you could give us there would be helpful.
+
+Scott Wisniewski
+Griffin, it's Scott here. I think as you know from the very founding of the company -- even from the very founding of the company, we've the 50-50 revenue share was sacrosanct, right? We bring the network, the operator partner brings the spectrum and the user, the customer. So that's a very important principle. And our contracts stated that very closely. That's important as part of all the agreements we have with the over 50 operators today. And how that plays out over time. I think we're most focused on growing the business, obviously, but you -- now that our MSS spectrum strategy is an enhancement to the cellular spectrum is becoming clear.
+
+I think over time, we can talk more about how that value we capture it. But it's very -- I mean, it's -- spectrum is a rare thing. It's valuable to have and bring that to the party is something that's really important that we want to be able to do. But to date, I would say that 50-50 rev share with the spectrum brought by others is how we've contracted.
+
+Griffin Taylor Boss
+Okay. Fair enough. Yes. Along the same lines, just with the addition of the spectrum, is there any way you can further translate the 120 megabits per second peak data rate per cell that you've mentioned in the past to some real-world examples of perhaps how many concurrent users in a location will be able to access the network to make calls, video calls, et cetera, and how that changes with the addition of the spectrum that you're acquiring, if at all?
+
+Abel Avellan
+Yes, Griffin, I mean the way to Think about it. Satellite have, depending on the band, between 2,500 to 10,000 cells. 10,000 cells obviously is possible with the new ASIC. And what we do is that 120 Mbps, it is the peak data rate that you can achieve for each of those cells within those 120 megabits within approximately 12 km radius, you basically share that capacity among the users in that area. So the user in that area, they can use voice, text, video, video conference, FaceTime, WhatsApp, basically email, basically do whatever they do normally when they're connected to towers, but in this case they can do it regardless of where they are, regardless of what the phone that they have in their pocket. The number of users per cell, that depends on the density of the cell. We basically manage the capacity dynamically and that change as per we add more satellites. But as we explained earlier, our strategy is to combine the low band spectrum from operators for penetration and access to significant amount of devices in a global basis, while enhancing at the same time with our own spectrum on top of that.
+
+So it's a combination of the two things that deliver the 120 Mbps capacity, which is a capability that actually we can achieve on the satellite that we have today, but in low band.
+
+Griffin Taylor Boss
+Okay. Great. If I can just squeeze another one in. Just regarding the launch cadence, it's great to see the rapid pace of expected launches in the future. But in terms of ISRO, the Chairman there recently stated that the launch with a communication satellite, I assume, would be ASTS would be within a couple of months. So I'm just curious if there's anything you guys could say as to what the chances are that we could possibly see a batch launch of Blockbird -- BlueBird 2 satellites ahead of the ISRO launch within the next couple of months.
+
+Abel Avellan
+That is not the plan. I mean the satellite, the satellite, it is ready to ship during this month. We are in discussion with them the exact date of the actual launch. But as you can see in our launch campaign, you know, we have six launches and they're independent, with multiple vendors, with multiple launch partners.
+
+Operator
+Our next question comes from the line of Chris Schoell with UBS.
+
+Christopher Joseph Schoell
+You cited the incremental wins in the government space. I appreciate some of this might be sensitive, but can you just help us better understand the types of use cases you're targeting and the advantages your tech offers maybe versus others servicing the government sector. And given the announcements we've been seeing out of Washington, can you just update us on how you're thinking about the potential U.S. government TAM now relative to several months ago.
+
+Abel Avellan
+Well, we're very bullish about the government and use cases. Multiple branches of the U.S. government have tested and used and they are currently using our operational satellites. So we are under contract with eight different programs. It is sensitive as you said. But I can say the broad off applications from the government are both communications and non-communications applications which both are in use already today in our current satellite. So we continue to be very, very bullish about the government application and also the amount of budget that had been approved in appropriation and the actual usage that they are having today. So we reaffirm our plans and our growth opportunity in the government sector.
+
+
+Scott Wisniewski
+And the way to think about the TAM, I think over the last year, 1.5 years, we've articulated that a little bit, what you're building for through these early contracts is a program of record and program of records, if you look in this sector tend to be north of $100 million or several hundred million dollars. So that's really what you're playing for. And I think of the use cases that can be done with a large phased array in orbit delivered very cheaply relative to historical standards. There's multiple program of record opportunities that we feel really good about. And how has that changed really in the last couple of months or since the new administration, we think that there's more of those types of opportunities and they're potentially bigger.
+
+Christopher Joseph Schoell
+Great. And if I can just follow up on the spectrum with 1 more question. Now that you have global coverage, should we view this spectrum as being all that you need? Or could we see you purchase other licenses here going forward.
+
+Abel Avellan
+Well, we believe, I mean, listen, these are large blocks of spectrum. They are MSS and they are sufficient to provide the 120 megabit per second which is our mark target data rates for offering to consumers on a global basis. So we never discard opportunities, but that is what we plan it and with that we can get to the data rates that we intended and we're promising to our users.
+
+Operator
+Our next question comes from the line of Bryan Kraft with Deutsche Bank.
+
+Bryan D. Kraft
+I had two, if I could. First, is the timing of the FM1 launch on the critical path for other launches? In other words, is there a period of time you need before you would do the next launch because you want to test FM1 extensively before the next group go up. And if there does need to be some time in between FM1 and the next launch. What could that time frame look like? And how much time would you need? And then I had a question about the service launch plans. What would a nationwide intermittent service look like what type of product would it be?
+
+Would you charge for it? Or would you use it maybe as an early promotion vehicle to build interest in the full service when it ultimately launches?
+
+Abel Avellan
+Yes. We refer to the first question. The answer is no. And the other satellites are basically at the same few weeks after the FM1. So we are treating them separately. We're not conditioning any of the launches to any specific launch. And also regards of our, the way that we're deploying this service, we first we start with initial non-continuous service nationwide in the countries that we announce the service. So starting with U.S., Europe, Japan and some strategic markets that we're working on.
+
+And then we do that. Then as we add satellites, we basically what it changes the persistence. So the persistence of how much is available a day, it will rapidly change as we have more satellites. In case of the U.S., when we get to around 45, you get very close to a service that you can offer. And then as you get to 60, you are in full continuous service. And you get to 90, you are in full global continuous service. And the plan basically called for a launch of six to eight every 45 to 60 days.
+
+Bryan D. Kraft
+Could you comment at all on how you plan to use that intermittent service as a segue to the full 24-hour service. Are you thinking about maybe using it as a promotional tool to build that interest? Or is this something that you would charge to and kind of focus on earning revenue for it?
+
+Abel Avellan
+Well, we will coordinate that. We are in coordination. We had a plan with the -- with our telco partners, we prefer to comment on, on that jointly with them. But I will say the government is already using the satellites on an intermittent basis.
+
+Operator
+Our next question comes from the line of Colin Canfield with Cantor Fitzgerald.
+
+Colin Michael Canfield
+Maybe focusing back on spectrum, if you can maybe talk about how we should think about tech teaming, partnerships essentially kind of affecting both the kind of support of the types of spectrum that you'd be going after as well as the sort of kind of pricing effects like specifically on the latter, like how we should think about kind of AST's ability to get spectrum cheaper because you have the tech partners to use it better. If you can kind of talk to those 2 dynamics.
+
+Abel Avellan
+Yes. I mean, you obviously 60 megahertz of global spectrum, if it were purely terrestrial, it will be a number that nobody can afford. So, yes, I mean, we have the ability, with the flexibility of our technology, to basically tune to any spectrum in the low band, that 700 to 950 MHz on the mid band, 1700 to 2600 MHz, and the ability to basically connect that to regular cell phones. That by itself create a lot of value in converting satellite type of spectrum in basically dual use satellite, terrestrial spectrum. So we see it like that. So enabling spectrum is like beachfront property, but it is only a beachfront property if you had a house to build on it. And we believe that, that our ability to reuse satellite and terrestrial spectrum, given the size of our arrays and the ability to share a spectrum between the two applications, is what create this massive opportunity of converting satellite spectrum into spectrum that become much more valuable when it's used in our network.
+
+Colin Michael Canfield
+Got it. And then if we go back to the government question, looks like the program books that dropped today suggest something like a $2 billion delta of kind of incremental opportunity. So just kind of tying that back to the programs of record opportunities that you talked about. Scott, can you maybe kind of think about, you know, what, what sort of timeline we should consider getting through that competitive, competitive process. And then maybe kind of like you discussed agility and price are there are the other kind of variables or factors that are being cited as reasons for AST being able to win?
+
+Scott Wisniewski
+Sure. Well, as you noted, the opportunities are dynamic, right? And they're dynamic and up into the right at the moment. So all these new pieces of information seem to be very positive for the applications for what we can uniquely offer, right? And so as we're evaluating all these and positioning ourselves around them, I think what I said before still holds true. Specific timing of awards could be even this year. Probably, we won't speak to scale relative to the end case. But this year is a good time frame to start seeing more direction on that.
+
+But like you said, the budget keeps growing. I think the demand is there, the desire is there. And what we're offering is quite unique across 5 to 10 different types of use cases.
+
+Abel Avellan
+Yes. And we solve a very real and tangible problem that the government needs to solve where size of the satellite matters a lot. Power of the satellite matters a lot and at the cost, at the cadence that we're building the largest satellites ever launch, basically nobody else is nowhere even close to it. So those are factors that here play into the usability of our technology for both commercial and government.
+
+Colin Michael Canfield
+And then maybe 1 more on just kind of that go-to-market strategy. But I think as we kind of like shape the court of players in the satellite communication space, AST probably still has opportunities to team with folks that are kind of focused on this. So how do you kind of think about maybe shaping your strategy to kind of the neo-prime, folks like Anduril that focus on not just the defense hardware side, but also kind of consumer electronics trends that play into that?
+
+Abel Avellan
+Yes, no, absolutely. I mean with our technology, first of all you can get basically as you don't have devices and you can get call it 120 megabit per second into something of the size of few square inches. You can place it in drones, you can place it in cards, you can place it obviously in the most difficult application which is actually cell phones. Allow the vehicle connectivity with all the information that is behind that. So as we said the government opportunities are not only on the communications space which obviously is very sizable, large and growing but also non communication applications in the multiple domains for defense.
+
+Operator
+Our next question comes from the line of Caleb Henry with Quilty space.
+
+Caleb Henry
+A question about the S-Band. Is that -- you've obtained at the ITU level is that licensed anywhere nationally? Or is that a project that's going to start effectively now going state by state?
+
+Abel Avellan
+It is a project that I start now. Basically, we had a bring to use from around 2016. With that, we basically go administration by administration according to the priorities that we set with our partners -- telco partners in order to complement the low band, the L- Band and the S-Band on a country by country basis.
+
+Caleb Henry
+Okay. And then on the launch payment that you mentioned was pulled forward. Can you just provide any more color on why that was done. I'm guessing it was to offset delays with New Glenn?
+
+Scott Wisniewski
+Caleb, this is Scott. No, it was not related to anything like that. This is just -- I think it speaks to a little bit of flexibility we have. Nothing more. And the fact that quarter-to-quarter, it's not always apples-to-apples. But no, it was not related to anything like that.
+
+Caleb Henry
+Okay. And then just last one, I know this may be a bit forward-looking, but satellites are called Block 2 and AST has talked about them up to 45 to 60 satellites, is the plan to continue Block 2 all through the 90-ish satellites? Or is there an idea of transitioning to a Block 3 before you get to that completion of the constellation?
+
+Abel Avellan
+Well, provided the right market conditions, our plan is to actually produce 72 satellites per year and then split them between low band and mid band with our own spectrum.
+
+Caleb Henry
+Okay. So it would be 2 different types of satellites then?
+
+Abel Avellan
+Yes. For commercial.
+
+Caleb Henry
+So does that mean we're looking at kind of 2 constellations of similar size, like 72 each or 90 each or somewhere between 144 to 180.
+
+Scott Wisniewski
+Yes, Caleb, I'd say, you know, you're thinking a little bit like how, you know, people put out business plans on LEO rather than how people actually build it, right? And I think the smart way where some parties have been successful is this is really like a mesh we're building, right? Once we are in with our initial constellation that we've Talked about, the 45 to 60 satellites that we're so focused on, we have great flexibility with fantastic marginal economics to really expand not only the size of the constellation and the services that come off it. So it's a little too prescriptive, but based on the strength of a demand profile. We have a lot of, we have a lot of flexibility. So it's really think of it as, you know, once you have this base constellation, there's a lot of opportunities to flexibly build that based on demand, particularly when you're vertically integrated.
+
+Operator
+Our next question comes from the line of Tim Horan with Oppenheimer & Company.
+
+Timothy Kelly Horan
+On the latest purchase of the S-Band spectrum, can you give a little more color what it's being used for now? And I know you used the term priority rights, I guess any more color on your degree of confidence in being able to utilize that spectrum.
+
+Abel Avellan
+Yes. We obviously were very confident that we will be using it. That spectrum have been bring to use and the next plan for us is country-by-country getting access to it as a combination to our low band, L-Band. And then on a country-by-country turnaround, also on the S capacity.
+
+Timothy Kelly Horan
+Sorry. So is it being used right now?
+
+Abel Avellan
+The satellites are -- they both had the capability to have 3GPP spectrum, L-Band and S. So those -- the satellites support dynamically being able to tune to any of those spectrum bands.
+
+Timothy Kelly Horan
+Right. But is that spectrum being used now? I guess what's the history of it? How did it come to be in the MSS and being able to use it on a country-by-country basis? And is it also being used terrestrially in any locations at this point?
+
+Scott Wisniewski
+Yes. No, I mean, that's one of the great opportunities of S-Band. I think there's some history of usage in the United States and Europe, but in other markets around the world, it has limited use and it's reserved for space usage, and we have a network that can really offer a lot of value to regulators and operators country-by-country getting citizens extra connectivity, getting operators extra flexibility, more services, more capacity in places where they don't have towers. So we really like the opportunity set because outside of a few markets around the world, certainly, big markets, but as you go further out, there's a lot of markets where it's not being used to both.
+
+Timothy Kelly Horan
+And I just want clarification on the revenue share. Obviously, T-Mobile is bundling in a bunch of services for free. Verizon has said they're not going to charge for texting. I mean it seems like your revenue share is a little bit complicated. There are other -- what else do you do if it's being bundled in for free?
+
+Abel Avellan
+Well, we see anything that is just text as a commodity. We don't reference. Our service is a full broadband. Basically you can do anything that you can do in your phone and that's the model that we have and that we have over 50 telcos around the globe that are subscribing to it.
+
+Operator
+Our next question comes from the line of Scott Searle with ROTH Capital.
+
+Scott Wallace Searle
+Maybe to follow-up on the S-Band side of the equation. It's very exciting to see you guys now having a multiband offering to provide the broadband capabilities. But I'm wondering if you could provide a little bit more color in terms of the regulatory approval and timelines. It sounds like you're going to start that on a country-by-country basis now. But just what is the timeline that you would expect to be associated with it? And I guess if there are any geographies in particular that you're focused on, I would assume it's some more of the developed markets. And second, in terms of the support for existing 5 billion-plus devices out there today, what sort of support is there today in the installed base for S-Band? And kind of how do you see the silicon support syncing up with that at the device level over the next couple of years?
+
+And then I have a follow-up.
+
+Abel Avellan
+Yes. I mean that's why we deployed our network in tranches and obviously we start with the low band existing 3GPP bands that are terrestrial. So they are in every single phone and that's 5 billion plot phones available market. Both the L and the S at 3GPP are in the plans for future chipsets and they are in line -- they're becoming availability of those bands. It is in line actually with our deployment plan. We start with low band where basically every phone support the band and as we deploy and get closer to the S-Band -- to the L and the S-Band, we keep adding into the capability.
+
+Scott Wallace Searle
+Very helpful. And to follow up on the noncontinuous front, a lot of dialogue about that today. When I think of noncontinuous, I think, of applications like IoT, but I haven't heard that coming up in terms of the conversation today. So I'm wondering where IoT fits into the carrier partner, time line and landscape, is that part of their near-term deployment plans and focus? Or is that something that you expect to come later post full commercial launches of more traditional broadband services?
+
+Abel Avellan
+I mean the gap between continuous and non-continuous is relatively short. We will be opening up for usage of consumers in coordination with our telco partners. But as I said before, the early applications are actually governmental applications. IoT is something that we can serve. It's a relatively small market compared with the broadband cellular market directly to regular handsets and the government opportunity. But it's something that we would plan to enable in addition to the consumer broadband capabilities that we're enabling to the telco partners.
+
+Operator
+Our next question comes from the line of Greg Pendy with Clear Street.
+
+Greg Pendy
+Just one quick one. On the transaction of Ligado, did I hear you guys correctly that when we think about pro forma liquidity right now that, that -- the cost of that transaction will be primarily asset-backed or financing when the outflows? And can you just remind us, is it roughly $500 million?
+
+Scott Wisniewski
+Yes, absolutely. You have that right. The primary outflow is just north of $500 million. And we have SPV financing that's nonrecourse, meaning the only rights are held in the special purpose entity and relate to the spectrum usage rights. As noted, when we completed that transaction and the mediation settlement was approved, that starts in October -- at the end of October of this year, with the bulk of it paid in October, $420 million and another $100 million in March of 2026. So we're working on that bridge financing right now that gets us from that point in October until we have FCC approval, but it's all -- this is all financed separate and apart from ordinary course operations. We will have usage fees that we'll incur when we start utilizing the spectrum and so forth and those will start up a little bit later this year. That will become an ongoing part of our operating model.
+
+We're not there yet, but the bulk of that is that what's called the deferred usage obligation in the transaction docs, and that's been financed separate and apart from our core operating company.
+
+Operator
+Our next question comes from the line of Chris Quilty with Quilty Space.
+
+Christopher David Quilty
+Got dropped, so forgive me if this was asked. But on the government capability. Are the government requirements for orbit and inclination complementary to what you're doing commercially? Or is there a need to inject satellites and different orbits specifically for the government?
+
+Abel Avellan
+Chris, we do not have the ability to comment on that because that will imply where the usage is. But I would say a big interest, it is actually to have dual usage of our satellites.
+
+Christopher David Quilty
+Understand. And the current contracts with the U.S. government, is there anything that would preclude you from negotiating with other 5 eyes countries perhaps for the same capability?
+
+Abel Avellan
+No, there is not any exclusion. But at the moment, our focus is with the U.S. government.
+
+Christopher David Quilty
+Okay. And I think you said something earlier that -- in your statement -- that led me to believe that, you know, perhaps to the degree that government business grows and supports it, there might be a block X that might develop with specific capabilities, you know, for government customers. And as part of that question, when the original Block 2 were designed, were some of the government capabilities originally designed in? Were there things that you were added after the fact? And definitely things you would like to add to the satellite capability?
+
+Abel Avellan
+Yes. I mean actually, the capability for the governments are already on the current satellites in operation. They're actually using the satellites today.
+
+Christopher David Quilty
+But were they major modifications from the original design? Because I think it beat point you were doing the original design, I don't know that maybe the government was a perceived customer at that point in time.
+
+Abel Avellan
+Yes. I mean the Block 1, it did require additional design features, but they were already incorporated 1.5 years ago.
+
+Scott Wisniewski
+And Chris, the short answer is kind of yes to all your questions, right? And it's the beauty of the constellation because you can -- once you have the constellation, the ability to evolve the technology, provide extra tweaks to it. It's not the classic at a transponder at a payload, it's more tweaking the outsized capability of the large phased array and the ability to evolve that over time is one that as long as we have a constellation, we'll possess that ability to do it in a really attractive way from a financial perspective.
+
+Operator
+Thank you. And we have reached the end of the question-and-answer session. And therefore, I will turn the call back over to Scott Wisniewski for closing remarks.
+
+Scott Wisniewski
+Thank you, operator. We want to thank all our shareholders and the research analysts for joining the call. I can't wait to give you more updates in the near term, and please stay tuned. Thank you.
+
+Operator
+Thank you. And this concludes today's teleconference and you may disconnect your lines at this time. We thank you for your participation.

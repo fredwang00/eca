@@ -1,0 +1,34 @@
+{
+  "ticker": "PLTR",
+  "quarter": "Q1 2025",
+  "company": "Palantir Technologies Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "A-",
+    "dim2_grade": "B-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.945,
+    "composite_grade": "B-"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 883.9,
+    "gross_profit_m": 710.9,
+    "operating_income_m": 176.0,
+    "net_income_m": 214.0,
+    "eps": 0.090131,
+    "total_equity_m": 5424.2,
+    "total_assets_m": 6736.9,
+    "cash_and_equivalents_m": 993.5,
+    "shares_outstanding_m": 2359.66,
+    "free_cash_flow_m": 304.1,
+    "operating_cash_flow_m": 310.3,
+    "capital_expenditure_m": -6.2,
+    "bvps": 2.3
+  },
+  "flags": []
+}

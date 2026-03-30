@@ -1,0 +1,16 @@
+{
+  "ticker": "MSTR",
+  "quarter": "Q4 2023",
+  "company": "Strategy (formerly MicroStrategy)",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "D",
+    "dim3_grade": "D",
+    "dim4_grade": "D",
+    "dim5_grade": "C",
+    "composite_score": 1.4,
+    "composite_grade": "C"
+  }
+}

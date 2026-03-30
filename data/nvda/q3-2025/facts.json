@@ -1,4 +1,33 @@
 {
   "ticker": "NVDA",
-  "quarter": "Q3 2025"
+  "quarter": "Q3 2025",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "A-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C+",
+    "dim5_grade": "B+",
+    "composite_score": 3.11,
+    "composite_grade": "B+"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 46743.0,
+    "gross_profit_m": 33853.0,
+    "operating_income_m": 28440.0,
+    "net_income_m": 26422.0,
+    "eps": 1.08,
+    "total_equity_m": 100131.0,
+    "total_assets_m": 140740.0,
+    "cash_and_equivalents_m": 11639.0,
+    "shares_outstanding_m": 24347.0,
+    "free_cash_flow_m": 13470.0,
+    "operating_cash_flow_m": 15365.0,
+    "capital_expenditure_m": -1895.0,
+    "bvps": 4.11
+  },
+  "flags": []
 }

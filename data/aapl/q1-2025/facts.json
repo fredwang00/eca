@@ -1,0 +1,34 @@
+{
+  "ticker": "AAPL",
+  "quarter": "Q1 2025",
+  "company": "Apple Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B-",
+    "composite_score": 2.4,
+    "composite_grade": "B"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 95359.0,
+    "gross_profit_m": 44867.0,
+    "operating_income_m": 29589.0,
+    "net_income_m": 24780.0,
+    "eps": 1.65,
+    "total_equity_m": 66796.0,
+    "total_assets_m": 331233.0,
+    "cash_and_equivalents_m": 28162.0,
+    "shares_outstanding_m": 14939.32,
+    "free_cash_flow_m": 20881.0,
+    "operating_cash_flow_m": 23952.0,
+    "capital_expenditure_m": -3071.0,
+    "bvps": 4.47
+  },
+  "flags": []
+}

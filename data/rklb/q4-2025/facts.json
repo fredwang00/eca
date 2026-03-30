@@ -1,0 +1,34 @@
+{
+  "ticker": "RKLB",
+  "quarter": "Q4 2025",
+  "company": "Rocket Lab USA, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.65,
+    "composite_grade": "B"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 179.7,
+    "gross_profit_m": 68.2,
+    "operating_income_m": -51.0,
+    "net_income_m": -52.9,
+    "eps": -0.09,
+    "total_equity_m": 1721.8,
+    "total_assets_m": 2324.5,
+    "cash_and_equivalents_m": 828.7,
+    "shares_outstanding_m": 543.57,
+    "free_cash_flow_m": -114.2,
+    "operating_cash_flow_m": -64.5,
+    "capital_expenditure_m": -49.7,
+    "bvps": 3.17
+  },
+  "flags": []
+}

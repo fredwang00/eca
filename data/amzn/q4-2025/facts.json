@@ -1,0 +1,34 @@
+{
+  "ticker": "AMZN",
+  "quarter": "Q4 2025",
+  "company": "Amazon.com, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "A",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.295,
+    "composite_grade": "B+"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 213386.0,
+    "gross_profit_m": 103427.0,
+    "operating_income_m": 24977.0,
+    "net_income_m": 21192.0,
+    "eps": 1.98,
+    "total_equity_m": 411065.0,
+    "total_assets_m": 818042.0,
+    "cash_and_equivalents_m": 86810.0,
+    "shares_outstanding_m": 10731.0,
+    "free_cash_flow_m": 14937.0,
+    "operating_cash_flow_m": 54459.0,
+    "capital_expenditure_m": -39522.0,
+    "bvps": 38.31
+  },
+  "flags": []
+}

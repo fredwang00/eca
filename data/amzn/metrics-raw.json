@@ -1,0 +1,82 @@
+{
+  "source": "yfinance",
+  "ticker": "AMZN",
+  "fetched_at": "2026-03-30",
+  "quarters": {
+    "Q4 2025": {
+      "revenue_m": 213386.0,
+      "gross_profit_m": 103427.0,
+      "operating_income_m": 24977.0,
+      "net_income_m": 21192.0,
+      "eps": 1.98,
+      "total_equity_m": 411065.0,
+      "total_assets_m": 818042.0,
+      "cash_and_equivalents_m": 86810.0,
+      "shares_outstanding_m": 10731.0,
+      "free_cash_flow_m": 14937.0,
+      "operating_cash_flow_m": 54459.0,
+      "capital_expenditure_m": -39522.0,
+      "bvps": 38.31
+    },
+    "Q3 2025": {
+      "revenue_m": 180169.0,
+      "gross_profit_m": 91499.0,
+      "operating_income_m": 17422.0,
+      "net_income_m": 21187.0,
+      "eps": 1.98,
+      "total_equity_m": 369631.0,
+      "total_assets_m": 727921.0,
+      "cash_and_equivalents_m": 66922.0,
+      "shares_outstanding_m": 10687.0,
+      "free_cash_flow_m": 430.0,
+      "operating_cash_flow_m": 35525.0,
+      "capital_expenditure_m": -35095.0,
+      "bvps": 34.59
+    },
+    "Q2 2025": {
+      "revenue_m": 167702.0,
+      "gross_profit_m": 86893.0,
+      "operating_income_m": 19171.0,
+      "net_income_m": 18164.0,
+      "eps": 1.71,
+      "total_equity_m": 333775.0,
+      "total_assets_m": 682170.0,
+      "cash_and_equivalents_m": 57741.0,
+      "shares_outstanding_m": 10660.0,
+      "free_cash_flow_m": 332.0,
+      "operating_cash_flow_m": 32515.0,
+      "capital_expenditure_m": -32183.0,
+      "bvps": 31.31
+    },
+    "Q1 2025": {
+      "revenue_m": 155667.0,
+      "gross_profit_m": 78691.0,
+      "operating_income_m": 18405.0,
+      "net_income_m": 17127.0,
+      "eps": 1.62,
+      "total_equity_m": 305867.0,
+      "total_assets_m": 643256.0,
+      "cash_and_equivalents_m": 66207.0,
+      "shares_outstanding_m": 10613.0,
+      "free_cash_flow_m": -8004.0,
+      "operating_cash_flow_m": 17015.0,
+      "capital_expenditure_m": -25019.0,
+      "bvps": 28.82
+    },
+    "Q4 2024": {
+      "revenue_m": 187792.0,
+      "gross_profit_m": 88899.0,
+      "operating_income_m": 21203.0,
+      "net_income_m": 20004.0,
+      "eps": 1.9,
+      "total_equity_m": 285970.0,
+      "total_assets_m": 624894.0,
+      "cash_and_equivalents_m": 78779.0,
+      "shares_outstanding_m": 10593.0,
+      "free_cash_flow_m": 17802.0,
+      "operating_cash_flow_m": 45636.0,
+      "capital_expenditure_m": -27834.0,
+      "bvps": 27.0
+    }
+  }
+}

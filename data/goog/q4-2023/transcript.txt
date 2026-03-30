@@ -1,0 +1,126 @@
+January 29th, 2024
+Operator
+Welcome, everyone. Thank you for standing by for the Alphabet Fourth Quarter 2023 Earnings Conference Call. [Operator Instructions]
+
+James Friedland
+Thank you. Good afternoon, everyone, and welcome to Alphabet's Fourth Quarter 2023 Earnings Conference Call. With us today are Sundar Pichai, Philipp Schindler and Ruth Porat.
+
+Sundar Pichai
+Hello, everyone. Our results reflect strong momentum and product innovation continuing into 2024. Today, I'm going to talk about four main topics. One, our investments in AI, including how it's helping Search; two, subscriptions, which reached $15 billion in annual revenue, up 5x since 2019. Subscriptions is growing strongly powered by YouTube Premium and Music, YouTube TV and Google One. Three, Cloud, which crossed $9 billion in revenues this quarter and saw accelerated growth driven by our GenAI and product leadership; and four, our investments and focus to meet the growth opportunities ahead.
+
+Philipp Schindler
+Thanks, Sundar, and hi, everyone. Google Services revenues of $76 billion were up 12% year-on-year. In Google advertising, Search and other revenues grew 13% year-on-year, led again by solid growth in the retail vertical. We had particular strength in retail in APAC, a trend that began in the second quarter of 2023 and continued through the end of the year.
+
+Moving on to YouTube. We're obviously pleased with YouTube's advertising revenue growth in Q4 and also significant growth in our subscription revenue. I'll reiterate what I have said before
+YouTube's success starts with creator success. We give millions of creators more ways to create content and connect with fans and more ways to make money and build their own businesses than any other platform. More creators means more content, which leads to more viewers. And via ads and subscriptions, these viewers fund our creators and drive the eyeballs and engagement our advertisers want.
+
+To keep this momentum going, we're focused on delivering value across 4 pillars
+creation, viewers, monetization and responsibility. First, creation, which increasingly takes place on mobile devices. We've invested in a full suite of tools, including our new YouTube Create app for Shorts, to help people make everything from 15-second Shorts to 15-minute videos to 15-hour live streams with a production studio in the palm of their hands.
+
+Number two, viewers. We continue to grow watch time across YouTube with strong growth in Shorts and connected TV. Shorts remains a top priority. We have 2 billion-plus logged-in users every month, and we are averaging 70 billion in daily views. Connected TVs, or what we refer to as the living room, is where viewership is growing the fastest. We're investing to make this experience even better with interactive features tailored to TVs, plus the content people love
+our creators, NFL Sunday Ticket and the range of live sports and studio content via YouTube TV and Primetime Channels. Put this all together and YouTube is the must-have app on every connected TV.
+
+Ruth Porat
+Thank you, Philipp. We are very pleased with our full year results with 2023 Alphabet revenues of $307 billion, up 9% versus 2022, which added $25 billion to revenues for the year. We ended with a strong fourth quarter with consolidated revenues of $86.3 billion, up 13% versus last year in both reported and constant currency.
+
+Turning to margins and expenses. As we have repeatedly stressed, we remain committed to our framework to durably reengineer our cost base as we invest to support our growth priorities. Key contributors to moderating our expense growth include
+first, product and process prioritization to ensure we have the right resources behind our most important opportunities and to reallocate resources where we can; second, organizational efficiency and structure. We're focused on removing layers to simplify execution and drive velocity.
+
+Operator
+[Operator Instructions] And our first question comes from Brian Nowak with Morgan Stanley.
+
+Brian Nowak
+I have two for Philipp. Philipp, the first one is about sort of a lot of the new generative AI advertising tools. You obviously have a lot of irons in the fire here. You've been talking about some of the early momentum with tens of thousands of advertisers.
+
+Philipp Schindler
+Yes. Thank you so much. So I've covered this a little bit on previous quarters. AI has been at the core of our advertising products for a very, very long time. And the recent advances are really allowing us to drive more value for advertisers across a large range of different areas
+
+Operator
+Our next question comes from Doug Anmuth with JPMorgan.
+
+Douglas Anmuth
+One for Ruth and one for Philipp. Ruth, you're now into year 2 of durably reengineering your cost structure. Can you just help us assess your progress so far? And are there any guideposts that we should be thinking about going forward?
+
+Ruth Porat
+Thanks for the question. So we are very pleased with the progress we're continuing to make, and we are very committed to the framework to durably reengineer our cost base really as we're investing to support the growth priorities. I tried to call out a number of them in opening comments, but really, as you're looking at the work being done across Google, across Alphabet, it does start with product and process prioritization to make sure we've got the right resources behind the most important opportunities, and then that creates the opportunity for reallocating resources where we can.
+
+Philipp Schindler
+So on the NFL Sunday Ticket side, look, as I said earlier, NFL Sunday Ticket supports our long-term strategy and really help solidify YouTube's position as a must-have app on everyone's TV set.
+
+Operator
+Our next question comes from Eric Sheridan with Goldman Sachs.
+
+Eric Sheridan
+Two, if I could. Sundar, a bigger-picture question, coming back to your comments earlier in the call on Search Generative Experience. When you think about the evolution of product over the next couple of years, how do you envision more traditional search and things like the Google Assistant continuing to evolve in a world of Search Generative Experience and Bard? And what that might mean for elements of commercial and noncommercial search and how use cases might change in the years ahead?
+
+Sundar Pichai
+Thanks, Eric. Great question. Look, it is an exciting time. Clearly, as I said, as we are incorporating SGE in the product, the early feedback is positive. And we've been iterating on it, and it clearly works for certain type of queries very well. We are expanding the set of queries where it works very well. It definitely is answering a certain category of queries for the first time in a better way. So that gives us direction to proceed as well.
+
+
+Ruth Porat
+And then in terms of your other question, so on the real estate charge of $1.2 billion in exit charges related to real estate, that is in Alphabet-level activities. But the other comment I was making in opening comments is when you go through the various line items, R&D, et cetera, you see it spread there. And we have a table and IR can walk anybody through the technicals on that just to understand how it then gets arrayed across the various lines in the P&L.
+
+Operator
+Our next question comes from Michael Nathanson with MoffettNathanson.
+
+Michael Nathanson
+I have two for Philipp, I think. Given the importance of connected TV engagement in YouTube, can you talk about the opportunity outside the U.S. for connected TV? And what the company is doing at large to drive more adoption of YouTube or connected TVs given the Google operating system? And can you talk about outside the U.S.?
+
+Philipp Schindler
+Yes. Thank you so much for your question. On the connected TV side, I mentioned it actually continues to perform really well. I said before, YouTube is the leader in U.S. streaming watch time and it's not just one audience group diving deep it's really all audiences. On the international side, it's something we are closely looking at. There's nothing specific I have to add at this moment in time on this one.
+
+Operator
+Our next question comes from Stephen Ju with UBS.
+
+Stephen Ju
+So Philipp, this is not a new question, but it's also been about 2 years since PMax was launched. But it seems like there's been this long lineage of product development and rollout of things like smart bidding in your history, which I believe at the time was designed to help smaller advertisers more easily run search advertising.
+
+Philipp Schindler
+Look, as you know, SMBs are a huge focus for us. We mentioned this several times before. They're part of our GCS channel, not only there's more in this. But they've been under a ton of change over the last few years. And our focus has always been here on investing in solutions that really help level the playing field, and you mentioned several of those. So actually, SMBs can compete with bigger brands and more sophisticated advertisers.
+
+Operator
+Our next question comes from Justin Post with BAML.
+
+Justin Post
+Maybe one for Sundar and one for Ruth. Just on Search growth, I think there are some concerns on use of competitive AI tools as an alternative to Search. Just wondering if you're seeing any changes in query volumes, positive or negative, since you've seen the year evolve and more Search Generative Experiences. And what can really make Google stand out versus other AI tools?
+
+Sundar Pichai
+Thanks, Justin. First of all, look, we think about effects on Search, obviously, more broadly. People have a lot of information choices. So -- and user expectations are constantly evolving. And so we've been doing this for a long time. And I think what ends up mattering is a strong continuous track record of innovation.
+
+Obviously, generative AI is a new tool in the arsenal. But there's a lot more that goes into Search
+the breadth, the depth, the diversity across verticals, stability to follow through, getting actually access to rich, diverse sources of content on the web and putting it all together in a compelling way.
+
+Ruth Porat
+And with respect to CapEx, the CapEx of $11 billion in the fourth quarter, as I indicated, was overwhelmingly investment in our technical infrastructure. To your question, there was no onetime item in there. It really reflects is our outlook for everything Sundar and Philipp and I have been talking about, the extraordinary applications of AI within Google DeepMind, Google Services, Google Cloud, it's across the board for users, for advertisers, developers, cloud enterprise customers, governments. And it's really the long-term opportunity that offers.
+
+Operator
+Our next question comes from Ross Sandler with Barclays.
+
+Ross Sandler
+So I guess a question for, I don't know if it's Sundar or Philipp. But if we go back to the DOJ trial that happened in the fall, there was a document that was disclosed from Google that said something along the lines of why being on ad quality team to deliver 20% RPM growth in Search is a fragile strategy. So dating back to 2019, your business has, I think, more than doubled since then.
+
+Sundar Pichai
+Look, I think I have tremendous confidence in the quality driven both our work, be it search quality, ads quality, our improvements on search, our improvements on ads RPM, all -- 2 foundational pillars are extraordinary focus on ads quality so that we deliver the actual ROI to advertisers and improve the experience for users and all underpinned by rigor and technical excellence and go-to-market excellence, right?
+
+Operator
+And our last question will be from Mark Mahaney with Evercore.
+
+Mark Stephen Mahaney
+One question on YouTube AI and one on cloud. On cloud first, there's just this volatility, this material deceleration last quarter and the nice reacceleration this quarter. Is that explained by where we are in the optimization cycle, and it may be generative AI workloads starting to trickle in now and cause that growth curve to bend back up? Any commentary just on the sort of the volatility, the deceleration and the reacceleration that we've seen?
+
+Sundar Pichai
+Thanks, Mark. On cloud, let me take that. First of all, a combination of factors. I think definitely excitement around the AI solutions on top of our foundational pillar, be it data and analytics, infrastructure, security, et cetera. But AI is definitely something which is driving interest and early adoption. And as you saw that greater than 70% of GenAI unicorns are using Google Cloud. And so I think it's an area where our strengths will continue to play out as we go through '24, especially when I look at innovation ahead from us on the AI front. And second, I think there are regional variations, but the cost optimizations in many parts are something we have mostly worked through.
+
+And I think that was a contributing factor as well.
+
+Philipp Schindler
+So on your YouTube question, maybe let me start with a general view. YouTube's mission, you know, has enabled millions of creators around the world to share their voice and connect with audiences and obviously build thriving businesses here. And AI has been a very critical piece of this already.
+
+Operator
+And that concludes our question-and-answer session for today. I'd like to turn the conference back over to Jim Friedland for any further remarks.
+
+James Friedland
+Thanks, everyone, for joining us today. We look forward to speaking with you again on our first quarter 2024 call. Thank you and have a good evening.
+
+Operator
+Thank you, everyone. This concludes today's conference call. Thank you for participating. You may now disconnect.

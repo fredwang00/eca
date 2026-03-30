@@ -17,6 +17,15 @@ def load_all_facts() -> list[dict]:
     ]
 
 
+def _quarter_label_sort_key(label: str) -> tuple[int, int]:
+    """Convert 'Q3 2025' to (2025, 3) for chronological sorting."""
+    import re
+    m = re.match(r"Q(\d)\s+(\d{4})", label)
+    if m:
+        return (int(m.group(2)), int(m.group(1)))
+    return (0, 0)
+
+
 def query_grades(ticker: str) -> list[dict]:
     """Return grade summaries for a ticker, sorted by quarter."""
     ticker_upper = ticker.upper()
@@ -28,7 +37,7 @@ def query_grades(ticker: str) -> list[dict]:
         if not candor:
             continue
         results.append({"ticker": ticker_upper, "quarter": facts.get("quarter", ""), **candor})
-    results.sort(key=lambda r: r.get("quarter", ""))
+    results.sort(key=lambda r: _quarter_label_sort_key(r.get("quarter", "")))
     return results
 
 

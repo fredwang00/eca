@@ -1,0 +1,34 @@
+{
+  "ticker": "ASTS",
+  "quarter": "Q3 2025",
+  "company": "AST SpaceMobile, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-29",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.53,
+    "composite_grade": "C+"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-03-30",
+    "revenue_m": 14.7,
+    "gross_profit_m": 9.2,
+    "operating_income_m": -79.7,
+    "net_income_m": -122.9,
+    "eps": -0.45,
+    "total_equity_m": 1240.5,
+    "total_assets_m": 2550.9,
+    "cash_and_equivalents_m": 1204.3,
+    "shares_outstanding_m": 271.98,
+    "free_cash_flow_m": -330.8,
+    "operating_cash_flow_m": -64.5,
+    "capital_expenditure_m": -266.4,
+    "bvps": 4.56
+  },
+  "flags": []
+}

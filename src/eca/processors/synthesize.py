@@ -101,7 +101,7 @@ def build_sector_input(sector: str, conn) -> str:
             sections.append(f"## {ticker}\nNo analysis data available.\n")
 
     def fmt(v):
-        return f"${v:.0f}M" if v else "—"
+        return f"${v:.0f}M" if v is not None else "—"
 
     # Aggregated financial metrics table
     financials = query_sector_financials(conn, tickers)

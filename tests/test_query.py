@@ -54,6 +54,23 @@ def test_query_flags(tmp_path, monkeypatch):
     assert all(r["ticker"] == "ROOT" for r in result)
 
 
+def test_query_grades_cross_year_sort(tmp_path, monkeypatch):
+    """Q4 2024 should sort before Q1 2025 (was broken by alphabetical sort)."""
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+    _create_facts(tmp_path, "ROOT", "q1-2025", {
+        "ticker": "ROOT", "quarter": "Q1 2025",
+        "candor": {"composite_grade": "C", "composite_score": 2.0},
+    })
+    _create_facts(tmp_path, "ROOT", "q4-2024", {
+        "ticker": "ROOT", "quarter": "Q4 2024",
+        "candor": {"composite_grade": "C+", "composite_score": 2.3},
+    })
+
+    result = query_grades("ROOT")
+    assert result[0]["quarter"] == "Q4 2024"
+    assert result[1]["quarter"] == "Q1 2025"
+
+
 def test_query_grades_unknown_ticker(tmp_path, monkeypatch):
     monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
     assert query_grades("UNKNOWN") == []

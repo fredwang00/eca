@@ -1,0 +1,318 @@
+November 7th, 2023
+Operator
+Thank you for standing by. My name is Eric and I will be your conference operator today. At this time, I would like to welcome everyone to the Rocket Lab Q3 2023 Earnings Call. [Operator Instructions] Thank you. I would now like to turn the call over to Colin Canfield, Head of Investor Relations. Please go ahead.
+
+Colin Canfield
+Thank you, Eric. Hello, everyone. We are glad to have you join us for today’s conference call to discuss Rocket Lab’s third quarter 2023 financial results. Before we begin the call, I’d like to remind you that our remarks may contain forward-looking statements that relate to the future performance of the company. And these statements are intended to qualify for the Safe Harbor protection from the liability established by Private Securities Litigation Reform Act. Any such statements are not guarantees of future performance and factors that can influence our results are highlighted in today’s press release and others are contained in our filings with the Securities and Exchange Commission. Such statements are based upon information available to the company as of the date hereof and are subject to change for future developments. Except as required by law the company does not undertake any obligation to update these statements.
+
+Our remarks and press release today also contain non-GAAP financial measures within the meaning of Regulation G enacted by the SEC. Included in such release and our supplemental materials are reconciliations of these historical non-GAAP financial measures to the company’s comparable financial measures calculated in accordance with GAAP. This call is also being webcast with the supporting presentation and a replay and copy of the presentation will be available on our website. Our presenters today are Rocket Lab’s Founder and Chief Executive Officer, Peter Beck and Chief Financial Officer, Adam Spice. After our prepared comments, we will take questions. And now, let me turn the call over to Mr. Beck.
+
+Peter Beck
+Thanks, Colin and welcome everybody for joining us. Today’s presentation we will go over our key business accomplishments for the third quarter of 2023 as well as further achievements we have made since the end of the quarter. Adam will then talk through our financial results for the third quarter before covering the financial outlook for Q4 2023. After that, we will take questions and finish today’s call with the near-term conferences we will be attending. Alright. On to what we achieved – excuse me, in the third quarter for the year. Starting with Electron, in July, we launched a mission with several satellites for NASA and others, which was the first of the two back-to-back reusability focused missions. After successfully deploying the first Mission 7 spacecraft, Electron’s first stage was bought back to Earth and recovered from the ocean.
+
+Then we followed that up with our 40th Electron launch and even more recovery milestones, including a return for stage and thea first launch, reflowing Rutherford engine previously flown on our 26 Mission, There and Back Again. The engine performed flawlessly like a new one, completely validating our pursuit of reusability for Electron and setting us up well to refly an entire engine set as our next major reusability goal. Next, I will provide a bit of an update for Electron. Following those two successful flights, as you know, we unfortunately experienced an anomaly on our 41st Mission. It’s important to remember that up until this launch, we have had 37 successful orbital missions to place 171 satellites in orbit. And the past two years have been flawless, with a record of 20 successful missions one after the other. For Flight 41, as soon as the issue occurred, a team jumped into action in the week since the team has been scarring through thousands of channels of flight data and manufacturing data to determine what was the probable root cause. I will take you through their investigation in detail over the next couple of slides.
+
+Working in parallel with the FAA. The FAA has conducted its own review of the mission safety processes, plans and procedures, which concluded that they all worked as they should to keep the public safe and I am pleased to confirm that the FAA has since given us approval to resume launching from Launch Complex One. With their investigation in its final stages and our launch license remaining active, we are fully anticipating to return to flight within the next few weeks. Following updates and changes to our testing and manufacturing processes, we will be returning to the pad with an even more reliable vehicle to meet our busy launch manifest for the remainder of ‘23 and into ‘24. Now, let me take you through what happened and what we have learned. So here is a slide on the anomaly timeline. The anomaly that ended the mission happened incredibly quickly. From the first action in the chain of events when Electron cutoff its data relay, the team only had 1.6 seconds of anomaly flight data to work with.
+
+This was always going to be a highly complex issue to figure out, but with deep diligence and analysis, here is what we have been able to determine. On its 41st Mission launched September 19, from LC-1, it completed all the usual launch milestones through lift-off Max-Q stage separations. At 151 seconds, the second stage engine tried to ignite, which is confirmed by flight telemetry that showed the ignited pressure is building and the locks and kerosene pump speed rising to pump propellants into the combustion chamber. The voltage levels from the battery packs that power the engine and the motor controllers were nominal at this point and normal at that point of ignition, but within milliseconds, in fact, 151.7 seconds, we get our first indication of the anomaly. The system’s high level voltage levels take a sudden dip and rise of about 100 volts within 30 milliseconds, indicating an energy escape from a system that then led to a full loss of power to the second stage lower avionics, cutting off telemetry and communication with the second stage. And with that, it was all over. So move on to the issues. So you have to bear with me on this was a little bit to talk about here.
+
+But with good visual evidence with the on-boarded cameras and over 12,000 channels of data and this high level timeline to draw from, the investigation narrowed in on the issue. More than 200 sub-investigations were launched to rollout hypothetical causes of the anomaly. After more than 7 weeks of extensive analysis of the mission’s manufacturing test and flight data, the findings of the Rocket Lab investigation team overwhelmingly indicate an unexpected electrical arc occurred within the power system. Shown in the image on the top right, the team did some tricky optical triangulation and image processing of a small shadow on the engine bell caused by the arc. From that, they are able to pinpoint and retriangulate the failure’s points origin to an area where the two battery packs connect known as the fix-packed to supply the high voltage power. So now, we are all going to take a little lesson in passion law and passion curves. So passion law describes how in partial pressure environments the likelihood of an act to occur changes in high voltage systems depending on the environmental composition. An approximate guide that can then be applied across different situations called the passion curve, which uses the relationship between voltage pressure, multiplied by distance to indicate what the range of danger is for an arc to form through various gases like helium, argon, nitrogen etcetera.
+
+So the graph on the bottom right is what’s known as a highly simplified passion curves. So basically, the easiest way to think about this is if you have a positive in a negative terminal of a battery at 500 volts down here on earth, you could place those two terminals of the battery about 0.03 millimeters or one-third of the thickness of a human here beside each other and they would not create an arc or jumper spark between them. Now, take the same 500-volt battery in terminals and put them in the worst part of the passion curve, which just happens to be just after stage separation and Stage 2 ignition of Electron and the same 500-volt battery in terminals will now act to each other when they are nearly 1 meter apart. So different gases, different pressures affect this distance. And there is also other things like AC ripple that can have a huge negative effect. But for now, let’s just keep it simple. For Electron, with its high voltage 500-volt power supply, we have to ensure that every connection is essentially hermetically sealed. A tiny pinprick or installation failure will result in arcs given that they can travel over large distances when in the passion curve.
+
+One of this is influx and very transient, because as we ascend higher during the second stage burn and go into the high vacuum of space, the arcing distance goes back the other way and it becomes hard to arc again. It’s really just at stage separation where things are the worst and we bought them out on the passion curve. As you can imagine, this is extremely difficult to test for down on earth. We actually currently put the whole rear engine assembly in a vacuum chamber, pull it down and inject gases like argon to try and aggravate the phenomenon. But even the smallest installation compromise cannot always be detected, especially when you compile that with other factors like AC ripple and trace gases. Excuse me. So, now that everybody understands passion curves during the second stage ignition, we are at the worst part of the curve and we had a small concentration of helium in the vicinity of the upper stage, which is normal and a high voltage AC ripple that lowers the spark threshold even lower and a tiny undetectable fault in the HV loom installation. All of which – excuse me, all of which combined allowed for an arc to briefly occur.
+
+If any of these things were not present, then the failure would not have occurred. All four had to be there. And to be honest, with all the testing we do before flight, you would also have to be incredibly unlucky to have the installation failure point, also line up with an electrical path to be able to act a chassis. And look, I don’t generally believe in luck as an engineer, but in this instance, I would say that so many things had to line up that most people would say that this – the current probability of this occurring would be largely improbable. So with that, now that we kind of understand and we have explained the failure, what are we going to do to get back to flight? So the failure is obviously a highly complex set of conditions that are extremely difficult to predict. A team’s top priority through the investigation has been to find a way to make sure that this never happens again. And as a result, there is a couple of key corrective measures.
+
+The first is to increase the fidelity of a stage level vacuum testing. We now have a much more sensitive instruments implemented in the pre-flight test both at the component level and the stage level, that can sense partial discharge all the way down to a picocoulomb now. This gives us much more confidence in the testing. However, I was not happy to stop there. And so we have implemented a rather brute force solution. What we have done is seal up the battery frame, that contains all the high voltage connections and equipment and then pressurize, it to about 0.5 of PSI. I will draw your attention to the graph on the top right. Surprise, surprise, it’s another passion curve that shows that by pressurizing the high voltage area, we shift the passion curve to the left out of the red zone and into the green zone, meaning basically, we are back to what it’s like on earth, where it’s not really possible for big archy distances to occur.
+
+Now, this has been a lot of work to implement by the team and it’s a fairly extreme solution. But really, I thought of the only way we can put the passion law well back in its box. So the best way to solve a problem in my opinion is always to eliminate the problem. And that’s what we have done. Getting to the bottom of the issue and back to the pad for our customers has been the team’s number one priority. It’s been incredible to witness their perseverance, dedication over these past few weeks, not only on the anomaly investigation, but in the work that they have completed in parallel to make sure that we are good to go as soon as we get back to the pad. The launch window for our return to flight mission will open on November 28 and extend into December. This dedicated mission will be for iQPS, a Japanese-based Earth imaging company, with the rocket for that mission going through pre-launch testing on the pad at launch complex right now.
+
+So move on to Electron launch manifest. So in 2024, we have a really big year ahead of us. Even with air pores in operations, Electron remains the world’s most frequently launch small orbital rocket. Dedicated missions for small satellites continue to experience strong demand, which we have seen in multiple buys by returning customers and constellation operators. In fact, we have booked out Electron launches next year completely booked. We see the market for the Electron product being very strong and this manifest validates that. Frequent launch opportunities, flexibility over schedule and control over orbiter deployment are what our customers are looking for and that’s what Electron has been providing and will continue to provide in the new year. And all that, all we have to do really in – with our 2024 manifest is execute as and with anything in the space industry.
+
+By ramping Electron production and keeping on top of demand with recent acquisitions as well as continuous improvement in automation across our manufacturing processes, we look to continue improving on our already impressive performance in manufacturing. We also note that the scaling is coming with improved gross margins in Q3 2023, we achieved a 27% GAAP launch gross margin, which should look to enable to progress our profitability targets for Electron as we drive scale and efficiency into the business. I now want to take you through and highlight some of their accomplishments in Q4. So Neutron Structures, we will start with a Neutron update. Earlier this quarter, we reached a major milestone and had frosty second stage tank, up on the stand for structural and cryogenic testing, which is really a key marker for our Neutron program development, an embedded program. The team’s job was to push the tank to its absolute limits by loading it up with cryogenic fluids and test to destruction. Something like 96,000 liters of liquid nitrogen was used for this test campaign and an exploded tank in this instance is very much a good thing and what we wanted to achieve. The team took the tank past me up or maximum expected operation pressure at more than 7x atmospheric pressure.
+
+What they have learned in the campaign has been applied to the next Stage 2 tank and currently under production, really to vacant structural reliability early as we get closer to our date with the launch pad. Speaking of baking, this is quite literally what carbon composites team has been up to, with their next full scale Neutron structures and components. The images on this slide here show you the scale of some of the in-tank devices being produced more than 7 feet in diameter for those circular propellant management devices and the Stage 2 dome being eliminated in the bottom section. Most of Neutron’s fixed fairing sections are coming together nicely. And of course, we have another second stage Neutron Tank being built for our next test stint and – to go on our next test in the first half of ‘24. And then over to Neutron’s Archimedes engine, another test we are celebrating was a critical combustion test that the team achieved with Neutron’s Archimedes engine. There is plenty of benefits to pursuing methane LOX propellants, but it does come with some of its own challenges. The critical piece really and one of the challenges was in using methane and liquid oxygen for Archimedes is getting the pre-burner dialed in, where generally you want a fuel mixture ratio in a chamber of something like 3
+
+
+Adam Spice
+Thanks, Pete. Third quarter 2023 revenue was $67.7 million, which is near the high-end of our prior revised guidance of $66 million to $68 million. Third quarter 2023 revenue reflects sequential growth of 9%, the result of three launches and continued growth in our space systems business. Our Launch Services segment delivered revenue of $21.3 million in the quarter from three launches and is in line with post-anomaly revised guidance of $22 million, with the slight under edge due to timing of revenue under our launch study contracting. The resulting average revenue per launch came in at $7.1 million below our target average selling price of $7.5 million for 2023 and the result of less favorable mix in the quarter. Our current backlog continues to reflect our target average revenue per launch with variability tied to LSA volume commitments, launch location and unique mission assurance requirements. Our Space System segment delivered $46.3 million in the quarter, which was up 17% sequentially and modestly above the high-end of our prior revised guidance range of $44 million to $46 million driven by a step-up in our MDA contract revenue offset somewhat by a reduction in our components business, which is poised to rebound in the fourth quarter guide that we will discuss later. Now turning to gross margin.
+
+GAAP gross margin for the third quarter was 22.1% above the high-end of our prior revised guidance range of 18% to 20%. Non-GAAP gross margin for the third quarter was 29.5%, which was also above our prior revised guidance range of 26% to 28%. GAAP and non-GAAP gross margin improvements relative to our revised Q3 2023 guidance reflect continued efficiencies in both our launch and satellite manufacturing businesses. We ended Q3 with production weighted headcount of 816, up 49 from the prior quarter. We also note that non-GAAP gross margins reflect a 430 basis point improvement versus Q2 2023 when adjusted for Q2’s one-time $1.1 million release of a loss reserve related to a legacy launch contract. We are encouraged by the trend in gross margin improvement and expect this trend to continue into 2024 as we return to launch and resume growth Electron’s launch cadence against our strong and growing launch backlog. Turning to backlog, we ended Q3 2023 with $582.4 million of total backlog, with launch backlog of $260.7 million and Space Systems backlog of $331.7 million. Relative to Q2 2023, total backlog was up 9% sequentially or $48.1 million, thanks to healthy bookings at our launch business partially offset by declines in Space Systems.
+
+For launch specifically, backlog was up 55% sequentially or $88.8 million as Electron continues to benefit from return orders of both commercial and HASTE customers. For Space Systems, backlog was down 11% sequentially or $40.7 million as we continue to work through our larger satellite manufacturing contracts and the timing of additions to Space Systems backlog are lumpy due to the increasingly – increasing complexity and magnitude of these contract opportunities. We expect approximately 57% of current backlog to be recognized as revenues within 12 months and expect continued meaningful growth in our backlog as we exit 2023 and progress through 2024, thanks to continued man for Electron platform as well as anticipated orders for significant satellite manufacturing opportunities we have aggressively been pursuing over the last year or so. Turning to operating expenses. GAAP operating expenses for the third quarter of 2023 were $53.8 million modestly above the high-end of our original and unrevised guidance range of $51 million to $53 million. Non-GAAP operating expenses for the third quarter were $39.8 million, which is at the high end of our original and unrevised guidance range of $38 million to $40 million. The decreases in both GAAP and non-GAAP operating expenses versus the second quarter of 2023 were primarily driven by R&D credits related to Neutron upper stage development from our U.S. government partners partially offset by higher Neutron development spending, increases in headcount and higher depreciation and amortization expenses.
+
+In SG&A, GAAP expenses decreased $1.5 million quarter-on-quarter, due to a change in continued consideration related to our PSC acquisition due to a lower average stock price in the quarter. Non-GAAP SG&A expenses increased by $700,000 primarily due to increases in headcount, along with the step up in depreciation and amortization primarily related to additions to corporate IT and security infrastructure to further enable efficient scaling of the business. Q3 ending SG&A headcount was 236, representing an increase of 8 from the prior quarter. In R&D specifically, GAAP expenses were down $4.4 million quarter-on-quarter to the increased contract R&D credits related to previously referenced Neutron upper stage development partially offset by step-up in Neutron development spending, non-GAAP expenses were down $4.3 million quarter-on-quarter driven similarly to GAAP expenses by Neutron related contra R&D credit and development spend. Q3 ending R&D headcount was 520, representing an increase of 2 from the prior quarter. In summary, total third quarter headcount was 1,572, up 59 heads from the prior quarter. Purchase of property, equipment and capitalized software licenses was $21 million in the third quarter of 2023, an increase from $10.6 million in the second quarter of 2023. The sequential increase was due to our continued investment in Neutron research, testing and production infrastructure projects, along with its expansion of our satellite production and space solar solutions capacity.
+
+Cash consumed from operations was $25.2 million in the third quarter of 2023 compared to $6.1 million in the second quarter of 2023. The sequential increase of $19.1 million was driven primarily by timing of receipts and payments associated with our satellite production programs, which for some of our larger programs have significant periods between milestone achievement, invoicing and ultimately collections, which at the end of the day are purely timing related. More specifically, Q2 was a quarter that benefited from a working capital dynamic, where we collected on material milestone invoices that were invoiced in the prior quarter, where payment terms are more lengthy in our target of 30 to 45 days. Cash consumed by asset acquisition and business combinations was $800,000 in third quarter of 2023, a decrease from $16.1 million in the second quarter of 2023. The sequential decrease of $15.3 million was driven by the majority of our Virgin Orbit select asset acquisitions being realized in the second quarter. Overall, non-GAAP free cash flow defined as GAAP operating cash flow reduced by purchases of property equipment and capitalized software in the third quarter of 2023 was a use of $47 million compared to $16.7 million in the second quarter of 2023. For a more apples to apples comparison of $32.8 million when including the impact of our acquisition of select Virgin Orbit assets, most of which were classified as PP&E. The material step-up and negative non-cash – and negative free cash flow was as noted in my early GAAP operating and cash flow commentary was a result of lumpy timing of payments and receipts associated with our Space Systems manufacturing operations and we expect a reversal of this negative working capital cycle in early 2024.
+
+The ending balance of cash, cash equivalents, restricted cash and marketable securities was $374 million at the end of the third quarter of 2023. Reflecting in the past four quarters, we have made meaningful progress towards our long-term financial model. We have delivered consistent revenue growth. And when adjusting for the one-time release of a loss reserve in Q2, gross margin expansion and shrinking adjusted EBITDA losses each quarter. With our strong launch manifest and greater contribution from Space Systems contract execution in 2024 we expect this trend to continue. Overall, we expect gross margin trends will continue to improve over time, thanks to the same factors that have helped drive improvement we’ve seen this year. In terms of when we can get to adjusted EBITDA breakeven from Neutron investment, especially R&D spend continues to be the pacing item to achieving this critical milestone. Although we view that Rocket Lab has demonstrated that its existing businesses are on a trajectory to offset the weight of this Neutron investment spend.
+
+With that, let’s turn to our guidance for the fourth quarter of 2023. We expect revenue in the fourth quarter to range between $65 million and $69 million, which reflects $48.5 million to $52.5 million of contribution from Space Systems and $16.5 million from launch services, which assumes two launches. As referenced earlier, based on our manifested launch backlog, we now expect 11 launches in 2023 and 22 launches in 2024, with an expectation that our average selling price that continues to trend towards our current target of $7.5 million through the remainder of 2023 and into 2024. We expect fourth quarter GAAP gross margin to range between 24% to 26% and non-GAAP gross margin to range between 30% to 32%. These forecasts of GAAP and non-GAAP gross margin improvements reflect a favorable mix between launch and space systems, along with a favorable mix within space systems. We expect fourth quarter GAAP operating expenses to range between $61 million and $63 million and non-GAAP operating expenses to range between $50 million and $52 million. The quarter-on-quarter increases are driven primarily by having recognized a substantial amount of contra R&D credit related to our Neutron upper stage development agreement with the U.S. Space Force in the prior quarter, along with increases in staff costs, prototyping and material spend a we continue ramping our Neutron development program.
+
+We expect fourth quarter GAAP and non-GAAP net interest expense to be $2 million. We expect fourth quarter adjusted EBITDA loss to range between $23 million and $27 million and basic shares outstanding to be approximately 487 million shares. Additionally, the unique situation created by the anomaly and related pent-up impacts to the launch manifest as we prepare to return to flight and head into 2024, combined with better visibility on Space Systems program, execution and revenue recognition as we prepare to ship the first spacecraft against the MDA Globalstar program in the middle of the first half of 2024 provides us with the visibility and confidence to estimate Q1 2024 revenue to range between $95 million and $105 million putting in sight our first $100 million revenue quarter. This forecast would be the result of 4 to 5 launches in the quarter yielding between $30 million and $37 million of launch revenue and $65 million to $68 million of contribution from Space Systems. This would represent a significant milestone for the company. And we believe a strong endorsement of the end-to-end space solutions business model we are delivering on. And with that, we will hand the call over to the operator for questions.
+
+Operator
+Thank you. [Operator Instructions] Your first question comes from the line of Edison Yu with Deutsche Bank. Please go ahead.
+
+Edison Yu
+Thanks for taking our questions, and appreciate the level of detail provided on the investigation. First question on the manifest for next year, can you give us a sense of your confidence level on the 22? Is that sort of your base case? Or in other words, the ranges are 20 to 24? And the midpoint would be 22? Or do you need kind of everything to go right to hit that 22 target?
+
+Peter Beck
+Well, hey, listen, it is with any launch contract, right. We are always somewhat susceptible to factors that we can’t control. Like customer readiness is always a big one, the customers need to turn up with the satellites on time. We’re there. And of course as I mentioned, in my commentary, we have to execute from a manufacturing standpoint. But I think the key takeaway there is we have a completely sold-out manifests for next year, at a number that is really solid. So I would say that we have to execute. And there’s always some uncertainty from some things that we don’t control.
+
+But that’s certainly what we’re targeting.
+
+Edison Yu
+Understood. And then just a follow-up to that, can you give us a sense or maybe a bridge on the margin in launch? You got a very, very good quarter actually, in 3Q? How does that margin look if you can get to that 22 launch cadence?
+
+Adam Spice
+I’ll take it that, Pete. So yes, I mean, we’ve long stated that we get to our target model for non-GAAP gross margins of around 50%, that requires launching 24x a year. So, we’re going to make significant progress towards that, as we launched, as we kind of strive to hit that 22 number next year. So, if you look at any given quarter, if we have, again, six launches in the quarter, that should be at or very close to our long-term 50% non-GAAP gross margin target.
+
+Edison Yu
+Got it. And if I can just sneak one more in on Neutron kind of the milestones, do we feel comfortable with the timeline? Should we interpret that as you guys feeling comfortable with the timeline on next year?
+
+Peter Beck
+Well, there’s still a lot of work to go and the year is not finished yet. So we’re pushing hard, but at this stage, we’re not making any adjustments to our predicted timeline, but I’m just highlight there are still some really significant tests to be completed. But right now, we’re not making any major changes.
+
+Edison Yu
+Got it. Thank you very much.
+
+Operator
+Thank you. Your next question comes from line of Matt Akers with Wells Fargo. Please go ahead.
+
+Matt Akers
+Yes. Hey, guys. Good afternoon. Thanks for the question. I wanted to ask on Neutron. After that first launch, what sort of rate do you envision doing Neutron launches? And what rate are you kind of capacitors to support now at what point would you need to sort of have capacity there?
+
+Peter Beck
+Yes. Hi, Matt. It’s good question. So we’re not trying to do anything Herculean on Neutron. We’ve lived through the pain of creating a launch vehicle and standing it up and bring it in to production. So it follows a pretty similar cadence profile to what we are able to achieve with Electron. So, we will do a test flight or a couple of test flights, and then move into sort of 3 or 4-year and then continue to bootstrap and grow that. And really follow the same model that we followed with Electron, where we launch a little bit, we generate some revenue, and we make improvements to the vehicle, and we make improvements to the infrastructure.
+
+And we found that to be by far the most cost effective way rather than going out and building a giant factory to do huge volumes from day 1. And just consuming tremendous amount of capital, we have kind of always bootstrap their way along and increased flight rate and cadence along with that end facilities along with that.
+
+Matt Akers
+Got it. Thanks that’s helpful. And then if I could ask one, I guess free cash flow. How much sort of additional expense was there around kind of the investigation in Q3 and maybe into Q4 and sort of how are you thinking about free cash flow into 2024?
+
+Adam Spice
+Yes, Matt, we didn’t see a tremendous amount of – I would say resource diversion, a lot of these kind of anomaly investigations take a select group of very capable people to dive in and do the analysis and investigation there. There’s not a lot of capital spend associated with it. And we continue to keep our foot on the gas when it came to production of Electron. So the anomaly investigates yourself really won’t have any kind of noticeable material effect on cash flow in the fourth quarter. I think the biggest thing for us for cash flow is really around timing for the big space systems contracts. I mean, if you look at our launch business, people – typical model is you get the people they pay a 10% deposit at contract signing, and then there’s milestone payments along the way. And typically, where there’s only 10% left to collect at the time that we actually launch the mission. So that’s always been a good cash flow model.
+
+It’s just all about that, getting that business to scale, which again, we’re making great strides and being able to do. When it comes to space systems, they’re large contracts, I mentioned lumpy a few times in prepared commentary. And that’s really, really true, because you can have the achievement, you have some delays of achievement of critical design milestones, you going to get through those gates before, you can turn that over into the AIT phase of the program, you’re doing the assembly integration test side of it. And so you can have periods of depending what your payment terms are with your customers, and our largest space systems contracts, and we were dealing with pretty sophisticated organizations that had pretty tough terms, it was we were chasing our first large and meaningful space systems contracts. So we weren’t necessarily in the best position to negotiate those types of terms to our advantage. But it leads to some – I would say some, a little bit of interim to near-term pain on that side, we’ve experienced that in 2023, we expect that dynamic from the operating parts of our business to turn around and the much stronger from a cash flow perspective in 2024. Now we’ll continue to see consumption when it comes to Neutron, particularly around prototyping, quickly run infrastructure, because we still have the infrastructure investments that we need to continue to make to prepare for that first launch and at the end of 2024.
+
+Matt Akers
+That’s great. Thanks for the color.
+
+Operator
+Thank you. Your next question comes from line of Cai von Rumohr with TD Cowen. Please go ahead.
+
+Cai von Rumohr
+Yes. Thanks so much. So first quarter, it looks like you have a target price of $7.5 million. Is that the price likely to be for the entire year or given the vigor and demand? Are you guys increasing prices as we move forward and if so, by how much?
+
+Adam Spice
+Yes, it’s a good question, Cai. So the manifest that we showed in the deck, I mean, that is confirmed backlog pricing is not in question, right. So that does drive to our long-term pricing model in 2024. So that’s all contracts, of course, that we can continue to add to the backlog. I – as we move forward, we certainly are seeing an environment that allows us to drive for firmer pricing, as being one of the few truly operational launch providers, we do have, we do see pricing power coming in, in our direction. And so we expect that longer-term, we will see upward movement to the ASP for Electron launches. But I would say again, there’s really no volatility, the ones that we showed in the manifest, because they’re all kind of they’re booked and they’re their firm price.
+
+Cai von Rumohr
+Great, but with, I guess, not to beat a harsh, but with Virgin Orbit basically gone. How come you don’t increase prices? And when you talk about the longer-term, at what point, what would cause you to raise the price? I mean, when you then raise it that all going to go from $7.5 million to $8 million, how should I think about how that that works? And how does it take into account inflation?
+
+Adam Spice
+I will let, Pete weighs in on this one.
+
+Peter Beck
+Yes, I mean, we have – we kind of have a standard escalation for that to deal with inflation year-on-year. And certain missions, not all missions have the same kind of Adam’s point, as when we do some of the very complicated government and hypersonic missions, they command a much higher price then mission, we’re flying, someone’s bought six rockets from us, and we’re flying the same satellite again and again. So there’s, kind of variability. And I would say that we test the market pretty fairly, on that pricing range, it’s still tried to provide, the right price for the product and services that they’re expecting from us.
+
+Cai von Rumohr
+Thank you. I just have one last one. So out of the 22 launches, how many are from Virginia?
+
+Adam Spice
+I believe right now, I think there are…
+
+Peter Beck
+Sold the heist mission…
+
+Adam Spice
+Yes. There is least 2 or maybe 3 launches currently manifested for Virginia.
+
+Cai von Rumohr
+Got it. Thank you.
+
+Operator
+Thank you. Your next question comes from the line of Suji Desilva with ROTH MKM. Please go ahead.
+
+Suji Desilva
+Hi, Peter. Hi, Adam. My questions are on the space systems. And thanks for the 1Q guidance there. The increase in 1Q versus 4Q is that primarily the GSAT MDA program ramping up? Or is that the second customer contributing any color there on the increase guided for 1Q will be helpful?
+
+Adam Spice
+Yes, there’s a few things contributing to that, obviously, the higher launch cadence, as we as we kind of get back to the pad, as Pete said, on November 28. So it’s really coming across the board, we’ve got strength and Electron that’s coming through and contributing on the space system side, there’s a few things that are going on there. But the biggest element is really as the MDA Globalstar vehicles, again, start coming off the production line, we have a much clearer line of sight to the revenue recognition, as you know, as bill materials are pulled to the production floor, to assemble the spacecraft to the testing and so forth so. It’s a there was a bit of uncertainty as we progress through 2023, because you have milestones for when you get through key program reviews like PDRs and CDRs. And you really can’t progress Suji, you get through those, once you have that, and it’s a much more nothing is easy in this business. But there is a much more kind of predictable formulaic, you’ve got almost a day for day schedule of how you can kind of start to assemble based on the labor that you have or the bomb that you’ve received ordered and when it’s scheduled to arrive. Because it’s a much easier thing to predict once you get past those key properties and you move into AIT. So, I would say that the majority of the step up and the biggest piece of it, so, maybe not.
+
+The majority of the biggest piece of the step up in Q1 is coming from that Globalstar-MDA contract, but there is contribution from our other satellite programs as well.
+
+Suji Desilva
+Okay. Great. And then my other question is on the satellite part of – manufacturing part of space systems as well. With the MDA contract with the 17 satellites and then the second customer coming on, I am wondering what framework we should think about – you should think about the capacity per quarter of the number of satellites you can make if that’s the right way to think about how that business grow overtime?
+
+Peter Beck
+Yes. I mean I wouldn’t necessarily just think about capacity because the kind of spacecraft projects we take on are – they are not just sort of cheap and cheerful, easy metal bending kind of jobs, we are going to Mars and we have got the MDA-Globalstar is a great example, is a very deeply complicated mission in a horrible radiation environment. So, I wouldn’t be necessarily tracking just the volume of spacecraft, but also, the complexity of the missions because ultimately that that drives a lot of value and even the latest mission that we announced here today, the latest spacecraft that is not – it’s not an easy build. So, we tend to be very successful and do very well and create a lot of value in those. There is much, higher fidelity, much, much trickier missions to do. So, wouldn’t you just use a volume kind of metric to kind of measure us.
+
+Suji Desilva
+Okay. Understood Peter. Thanks guys.
+
+Peter Beck
+Cool.
+
+Operator
+Thank you. Your next question comes from the line of Jason Gursky with Citi. Please go ahead.
+
+Jason Gursky
+Yes. Hey there. Good afternoon everybody. And really quickly on the balance sheet, what are the current thoughts or expectations around, not a million that’s gone current here, are we looking to re-fly that or we are going to be taking some cash off the balance sheet to address that? We just want to figure that out from a modeling perspective.
+
+Peter Beck
+Yes. No, we are actively in the process of looking to refinance that. And we have got several options. We are pretty far down the path with a few different providers and they range from doing equipment lines to kind of similar structures to term loans that the Hercules loan represented. But no, that we are looking to refinance that. I think we are hopeful that, we will get that done, in hopefully the next few weeks and again almost certainly before the end of the year.
+
+Jason Gursky
+Okay. Great. And then I want to make sure that I fully understand the comments on Electron for next year. Are you at this point fully sold out, or if you had a couple of customers that wanted a quick turn mission, would you have the launch vehicles available to do that or are you just kind of telling customers, okay, we are sold out for ‘24, got to look to ‘25?
+
+Peter Beck
+Well, look, we will always look for opportunistic opportunities. I mean it’s fair to say that production will be at near full capacity next year as we deliver on those. But also we as you guys see and we experience some customers slip out and it’s very easy for a customer to have an issue. And the [indiscernible] and shipped out six months, which would create an open opportunity. So, we never say no to customers and although yes, the manifest is essentially full, it doesn’t mean that there is not going to be an opportunity open through the year. So, yes, we always keep that in our discretion.
+
+Jason Gursky
+Right. Okay. And then last one for me, just on the Neutron, can you just spend a few minutes talking about your current views on the demand outlook for that vehicle? And when in its development cycle would you expect, maybe to get your first order or to as kind of proving out the concept of what you are doing here. And then to me it is as good as you think it might be, I am just trying to balance that against the comment that we are going to bootstrap capacity there. Why aren’t we running out and trying to fulfill as much demand as possible? So, just kind of general view of the current demand environment for Neutron, when we might expect orders and what kind of levers can you pull to more quickly come in and pull in some of that demand if you think it’s really strong? Thanks.
+
+
+Peter Beck
+Yes. No, that’s a great question, Jason. So, look, on the order side, until a vehicle is kind of proven and flying, any launch contract that you can sign is basically worthless. We can go and sign a launch contract tomorrow with a number of customers, it will be like, some thousand dollars down and cancellable anytime. But that really doesn’t mean anything. And the one thing that you will always get from us is like, real backlogs and real numbers. So, it’s almost pointless trying to sign something like that now. And then even if you do, we saw this with Electron, right, an unproven vehicle.
+
+You just take a massive hair cut. So, you have to do really low introductory pricing. And with Electron, we carried some of that introductory pricing on 3 years and we managed to flush it out this year. But for years, we had some really bad missions. So, I just don’t want to go down that road again. But rather when you have a flight proven product that in a launch constrained market then it becomes very valuable. So, I would much rather arrive to the market with something that works. That commands a premium, then fill my manifest up with a whole bunch of low-value launches now.
+
+And frankly the customers that we talk to aren’t looking to buy one or two launches. They are looking to buy quite a bit of capacity to fill their constellation or their other needs. So, we also need to see them delivering and being on-time at the pad because if you commit to one customer and commit a whole bunch of manifest and they are late, then that’s not a happy situation either. So, when we are kind of reached a point of critical maturity such that somebody is willing to pay real deposits and write real contracts, then that’s a good time and you will see those kind of announcements from us. But until then, I just don’t want to put us in a position where we have just got a whole bunch of rubbish, unkind of solidified launch on a manifest that might look good on a slide, but actually isn’t that real. And then on the kind of the bootstrapping, why not go out and just prepare for a mess of volume. Look, I think I would love to do that. That would be awesome.
+
+But the reality is that, big launch vehicles, they are easier to build than a small launch vehicle, but the challenges they just consume huge amounts capital. And we have to be diligent in the fact to use the capital we have wisely and kind of use it methodically to make sure that we actually put a vehicle on the pad and we are able to scale it in a really safe and methodical scenes. If you had no constraints on capital, then of course you go out and build big factories and pads and where you would go, but it’s not really an option and nor is it really our style. So, we like to put one on the pad and then we will work through the block upgrades and the improvements that inevitably will happen and then slowly ramp production over the coming years to meet demand.
+
+Jason Gursky
+That’s great. Thanks Peter. Appreciate it.
+
+Peter Beck
+Alright.
+
+Operator
+Thank you. Your next question comes from the line of Kristine Liwag with Morgan Stanley. Please go ahead.
+
+Kristine Liwag
+Hi. Good evening there guys. Peter, following up on Jason’s question there on the Neutron order, so does it – it sounds like you don’t anticipate orders to occur until after Neutron has its first flight, is that fair?
+
+Peter Beck
+Hi Kristine. Know that they could occur earlier, but I guess what I am saying is, is that the two things need to be true that we need to be have confidence that the spacecraft will be delivered and they need to have confidence in us. And at this stage of the development program, as I mentioned before, there are still a number of critical milestones to go through. So, I wouldn’t expect anybody to put huge deposits down on a vehicle in this kind of stage development and I think, yes, that’s just the reality.
+
+Kristine Liwag
+Yes. So, I guess it another way to think about it is it sounds like you guys are prioritizing better pricing in the long-term at the expense of building a backlog now and providing significant discounts, which could take years to offset, so if you are confident in your product, just wait till after launch and get better pricing.
+
+Peter Beck
+Yes.
+
+Kristine Liwag
+Okay. Great. That’s very helpful color. Yes. Sorry, go ahead.
+
+Peter Beck
+Well, I live through that with Electron, right. And those contracts can just be really painful to flush out of the system. And there is no argument that there is going to be huge demand and then there is huge demand, your argument about that. So, as I mentioned before like, the smart thing to do is arrive with a flight proven product and not have to do kind of crazy things with pricing and destroy the business model over.
+
+Kristine Liwag
+Great. That’s helpful color. And maybe moving to our space systems, it sounds like your Globalstar contract through MDA, as a subcontractor has been progressing well. MDA recently won a $2 billion Telesat LEO contract. How much of an opportunity is there for you to be a subcontractor to that program or similar programs of that size, because it’s pretty meaningful constellation size?
+
+Peter Beck
+Yes. Look, I can’t really comment on that program in particular. But what I will say is, we actively are pursuing these – many of these large programs both as subcontractors and also as primes. So, yes, I mean there is a real opportunity for us there. Obviously, the large volume, but also the constraint on some of those critical components like, SOLARIS, is a huge constraint within the space industry right now. And we obviously own one of the three suppliers of that particular technology in the world. So, yes, we see a lot of opportunity there and we are actively and aggressively pursuing these large constellations as – like I say as a supplier and as a prime.
+
+Kristine Liwag
+Great. If I could ask one last one, you mentioned Solero, with Solero, where are margins trending in the quarter and can you provide any update on your tracking towards the 30% gross margin target for that business?
+
+Peter Beck
+Yes, I just wanted to give Adam.
+
+Adam Spice
+Yes. Interesting. So, we have made very good progress towards our gross margin goals for that business. And we have said that, 2 years post acquisition, we wanted to be at 30 points of non-GAAP gross margin. I think we are going to trail that by, I think by maybe a couple of quarters, but the progression has been pretty clear and pretty steady. And what we can definitely – we have made improvements to get better margin on the existing backlog that’s in place we acquired the company. But I would say in the course of the last year in particular, we have got a pretty stringent process for approving new customer deals. And I don’t believe that we have really seen, I can’t recall the last time that we approved a deal that was below that 30% gross margin target.
+
+The fact we are kind of toying with how to start pushing that target a little bit further north from that. Long-term, that’s not our goal to get 30 points. We view that as having a great opportunity for really healthy long-term margins. But great progress towards the 30 points, I think we are going to hit that at some point in 2024 and again, all of our kind of building backlog is 100% supportive of that.
+
+Kristine Liwag
+Great. Thank you very much guys.
+
+Operator
+Thank you. Your next question comes from the line of Ronald Epstein with Bank of America. Please go ahead.
+
+Ronald Epstein
+Hi guys. Good afternoon. Good evening. A lot has been asked, I am the last guy, so I will be quick because I guess we are running over on time. But here is the question for you, I mean a lot of the space startup companies have been having difficulty and you guys were able to pick up some interesting assets from Virgin Orbit. And when you look at the space systems business, is there talent you can pick up in the satellite world in terms of engineers and other things? I mean some of the small satellite companies, their stocks are trading below, the equities trading below a $1 per share. And it’s, I would imagine it must be a pretty good environment to recruit talent in.
+
+I don’t know if you can speak to that, but as you try to grow that business, are you able to pick up some talent?
+
+Peter Beck
+Yes. Hey Ron. Absolutely that is true and great talent attracts great talent as well. And the team that we have built there is, well, it’s simply awesome. So, that’s been true. What I will say though is, I think we have mentioned before the bar to get into Rocket Lab is extraordinarily high. I mean it’s twice as hard, because the metrics and it’s twice as hard to get into Rocket Lab than it is to get into Orbit [ph]. So, we are very, very fussy about, that the folks that we bring onboard, but certainly there is opportunities there for new folks as some of those other businesses fail.
+
+
+Ronald Epstein
+And then maybe just following up on Neutron, because this came up a couple times in some of the other questions, what are some of the milestones we should be looking for? As we look at in the next year is kind of outsiders, not inside the company, what boxes can we check and say, hey, yes, it’s trucking right along to feel good about where the program is going.
+
+Peter Beck
+I presume you are talking about Neutron here, Ron?
+
+Ronald Epstein
+Yes. Excuse me. Yes. Neutron.
+
+Peter Beck
+Yes. So, we have kind of laid out a few. I mean obviously, engines, always a long pole in the tent. So, looked for hot fires and kind of completions of qual programs and things like that. We achieved – probably it’s understated, but the second stage tank test was a huge milestone, because although it just kind of looks like a big black thing that we fill and made frosty and then blew it up. The reality is that, that validated like so many material properties, so many manufacturing processes. So, much of the kind of core underlying materials and technology and designs were all validated by that test, and by that milestone. So, it’s kind of – it’s sometimes it’s kind of a little bit difficult and then I tried this earnings to give some color about some of the other tests that are going on.
+
+And there is just heaps and heaps going on and so many tests and milestones made every day that it’s kind of hard to get them all on paper. But I mean the key ones is fire and then fire reliably out of Archimedes and continued Neutron structures. Keep looking for things that get frosty, because that’s important milestones. And then I would say, next year as we start to look for stuff coming out of the ground. Start to watch us pour concrete and things like that, because the vehicle drives the ground infrastructure enormously. So, if the vehicle is mature, then the ground infrastructure can start to be built. So, they sort of go hand-in-hand and one leads the other. So, if we are starting to pour concrete, I would feel good and stuff like that.
+
+
+Ronald Epstein
+Great. Cool. Thank you very much.
+
+Peter Beck
+Thanks Ron.
+
+Operator
+Thank you. Your next call – your next question comes from the line of Andres Sheppard with Cantor Fitzgerald. Please go ahead.
+
+Andres Sheppard
+Hey. Good afternoon everyone. Thanks for taking our question. I appreciate you guys getting us in and congratulations on the quarter. Most of our questions have been asked, so maybe just one two-part question. First, with the roughly $400 million in cash and equivalents, would you mind just reminding us what is the expected run rate there? And then secondly is, you provided the revenue guidance for Q1 as well as your updated backlog with 57% of that backlog being recognized in the first 12 months. Can you give us any sort of ideas or directions on how we should be thinking about that backlog being recognized in terms of seasonality or second half, first half, any color there that you might be able to give us.
+
+Thank you very much.
+
+Adam Spice
+Sure. Andres, I will take the first one and Peter will chime on the second. Yes, with the cash, we talked about the fact that, we are 2024 from our space systems business should be a much more cash positive story for us. The nature of the biggest program which was going to be a Globalstar had a bunch of unique and quite honestly onerous terms when it came to the timing of us getting paid. We have now kind of crossed the river on that one, if you will, and run on the better side of that as we now again move into the AIT phase. So, we believe we have got sufficient liquidity to do exactly what we said we were going to do when we came public, which is that we want to broaden out our space systems business. We have acquired three businesses come in public. We are also committed to getting – having that capital get to the Neutron product, the pad, that’s also well within the scope of what we call that.
+
+But what I would say is, we still have a significant amount of capital to consume in getting Neutron to the pad by the end of next year. Now again, we are well funded to do that. The timing of that is a little difficult to predict because as Pete has kind of gone through some of the milestones and programs, they can move around a bit. There is different ways to kind of get there kind of there is some make versus buy decisions that take place that can affect how much cash goes out the door. So, I would say that it’s difficult to predict and also going to be dependent upon other businesses that we closed as we progressed through the remainder of 2023 and ‘24 and what those cash characteristics look like. But right now, I would say that our Q3 cash consumption number was kind of a high point that we have seen thus far that could hover around in that range for a quarter or so. But then we start to see that significantly trend down as we get past these key milestones and Neutron gets closer and closer and closer to pad. The biggest factor right now in 2024 is really going to be progress towards those Neutron milestones from a developer perspective and also from the infrastructure perspective, as Pete mentioned.
+
+But again, we don’t have any concerns right now that we don’t have the runway to get to where we need to go. As far as the backlog and how that’s going to be realized and seasonality and so forth, we don’t really have a lot of view on seasonality. We haven’t seen kind of true seasonality in our business. We have seen a lot of volatility which has really been more a function for what we can tell, from some of our smaller customers, it’s the access to funding either through their government partner programs, whether it’s through VC cycles and kind of the success in raising funds and so forth. So, we really see more effect on revenue as our customers kind of go through their kind of cash, kind of rich and cash poor cycles. But again, I think that what you will see is if you have gone through an elevated quarter, we will probably have another couple of elevated quarters before it starts to get much better and we start to again, let’s say, not consume as much cash as we have. Again, function of programs where we are in their life cycles and just Neutron development.
+
+Andres Sheppard
+Got it. Thank you. That’s super helpful and super insightful. Thanks again and congratulations on the quarter. I will pass it on.
+
+Adam Spice
+Thanks Andres.
+
+Peter Beck
+Thanks Andres.
+
+Operator
+Thank you. Your next question comes from the line of Erik Rasmussen with Stifel. Please go ahead.
+
+Erik Rasmussen
+Yes. Thanks for taking the questions. Maybe just on the HASTE Rocket, you said you secured seven missions in the past six months. Does this change the number of missions that you had previously thought you would do, I mean you have seen things accelerating?
+
+Peter Beck
+Yes. I mean we always knew that there was demand for this product. But I would say that we are pleasantly surprised to see the demand grow the way it’s growing. That first flight was an important one to demonstrate the capability. There is a bit of, I would say, hysteresis and in the way government customers move to new kind of products like this. And that was all kind of dissolved with a very successful flight. So, we are kind of reaping the benefits of that and the vehicle is just able to do a bunch of stuff that has been inaccessible before being a liquid throttleable vehicle. So, it really opens the aperture for what can be done.
+
+And the development of systems that you really in some places, in some respects, can’t be developed anywhere else in the world. So, it’s – so, we yes, we are pleasantly surprised to see the tick up on the program.
+
+Erik Rasmussen
+Great. Maybe just you made an announcement. You opened up an engine development center in the former Virgin Orbit assets facility. What sort of production capacity can you expect to achieve once operational and what is the timeline to maybe hit that, maybe call it an annual run rate?
+
+Peter Beck
+Yes. Look, whether the Virgin Orbit facility was a bit of a boon really, because there is more equipment and capacity there than we can see in the future. For an engine facility, its gold plated. So, I mean there is no numbers that we are working with at the moment that would see that EDC facility reach capacity.
+
+Erik Rasmussen
+Okay. Great. Thank you.
+
+Operator
+Thank you. Ladies and gentlemen, there are no further questions at this time. I will now turn the call back over to Peter Beck for closing remarks. Please go ahead.
+
+Peter Beck
+Okay. That wraps up today’s presentation. Thank you everyone for joining us for the call. Rocket Lab will be participating in some upcoming conferences displayed on the sheet there and look forward to the opportunity to share more exciting news and updates with you then. Thanks and we look forward to speaking to you soon.
+
+Operator
+Ladies and gentlemen, that concludes today’s call. Thank you all for joining and you may now disconnect your lines.
