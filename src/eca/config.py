@@ -41,6 +41,9 @@ SECTOR_MAP: dict[str, str] = {
     "COST": "base",
     "TGT": "base",
     "AFRM": "base",
+    "JPM": "base",
+    "COF": "base",
+    "AXP": "base",
     "NFLX": "base",
     # Other
     "HIMS": "base",
@@ -86,6 +89,9 @@ COMPANY_NAMES: dict[str, str] = {
     "COST": "Costco Wholesale Corporation",
     "TGT": "Target Corporation",
     "AFRM": "Affirm Holdings, Inc.",
+    "JPM": "JPMorgan Chase & Co.",
+    "COF": "Capital One Financial Corporation",
+    "AXP": "American Express Company",
     "NFLX": "Netflix, Inc.",
     # Other
     "HIMS": "Hims & Hers Health, Inc.",
@@ -98,7 +104,7 @@ WATCHLIST_SECTORS: dict[str, list[str]] = {
     "infra":    ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
     "crypto":   ["MSTR", "BMNR", "COIN", "GLXY", "CRCL"],
     "space":    ["RKLB", "ASTS"],
-    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT", "WMT", "COST", "TGT", "AFRM"],
+    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT", "WMT", "COST", "TGT", "AFRM", "JPM", "COF", "AXP"],
     "venture":  ["EOSE"],
     "employer": ["SPOT", "HIMS", "NFLX"],
 }
