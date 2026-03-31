@@ -247,3 +247,7 @@ def query_cmd(query_text: str, ticker: str | None):
     system = "You are a financial data analyst. Answer questions based on the provided earnings call analysis data. Be concise."
     answer = run_analysis(system, f"Data:\n{context}\n\nQuestion: {query_text}")
     click.echo(answer)
+
+
+if __name__ == "__main__":
+    cli()
