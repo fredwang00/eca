@@ -82,12 +82,14 @@ def rebuild_index(db_path: Path) -> None:
     from eca.config import data_dir
 
     conn = connect_db(db_path)
-    conn.executescript(SCHEMA_SQL)
 
-    # Full rebuild: clear everything first
-    conn.execute("DELETE FROM quarter_flags")
-    conn.execute("DELETE FROM quarter_facts")
-    conn.execute("DELETE FROM sector_map")
+    # Drop and recreate to pick up schema changes
+    conn.executescript("""
+        DROP TABLE IF EXISTS quarter_flags;
+        DROP TABLE IF EXISTS quarter_facts;
+        DROP TABLE IF EXISTS sector_map;
+    """)
+    conn.executescript(SCHEMA_SQL)
 
     data = data_dir()
     if data.exists():
