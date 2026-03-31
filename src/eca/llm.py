@@ -14,16 +14,18 @@ def run_analysis(
     """Call LLM API to produce the candor analysis.
 
     Supports two modes:
-    - Hendrix gateway (Spotify): set ECA_API_KEY and optionally ECA_BASE_URL
+    - OpenAI-compatible gateway: set ECA_API_KEY and ECA_BASE_URL
     - Direct Anthropic: set ANTHROPIC_API_KEY
     """
     import os
 
     api_key = os.environ.get("ECA_API_KEY")
-    base_url = os.environ.get("ECA_BASE_URL", "https://hendrix-genai.spotify.net/taskforce/anthropic/v1")
+    base_url = os.environ.get("ECA_BASE_URL")
 
     if api_key:
-        # Hendrix gateway -- OpenAI-compatible endpoint with custom apikey header
+        if not base_url:
+            raise RuntimeError("ECA_API_KEY is set but ECA_BASE_URL is missing")
+        # OpenAI-compatible gateway endpoint with custom apikey header
         from openai import OpenAI
 
         client = OpenAI(
