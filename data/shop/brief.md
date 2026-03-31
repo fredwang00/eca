@@ -1,6 +1,6 @@
 # Shopify Inc. (SHOP) — Earnings Call Brief
 
-**Coverage:** Q2 2023 – Q3 2025 (9 quarters)
+**Coverage:** Q2 2023 through Q3 2025 (nine quarters)
 
 ---
 
@@ -19,120 +19,111 @@
 | Q2 2025 | 3.16 | B+ |
 | Q3 2025 | 2.93 | B |
 
-**Direction:** Volatile with a modest upward inflection beginning Q2 2025. The series oscillates in a narrow B-/B band from Q2 2023 through Q4 2024, with a trough at Q1 and Q3 2024 (both 2.25). The Q2 2025 call marks the only structural improvement—driven by Finkelstein's unprecedented retrospective accountability framework that explicitly revisited 6-, 12-, and 18-month prior commitments with specific numbers. Q3 2025 retreats modestly (3.16 → 2.93) but holds above the historical average, suggesting the Q2 2025 shift was partial rather than transformational.
+**Direction:** Improving, with a notable inflection at Q2 2025. The series oscillates between 2.25 and 2.80 from Q2 2023 through Q1 2025, reflecting a stable but mediocre pattern. Q2 2025 marks the inflection: Finkelstein introduced an explicit retrospective accountability framework (18-month, 12-month, 6-month commitment review with specific numbers), producing the series high at 3.16. Q3 2025 partially retreats to 2.93 as the CEO's FOG patterns reassert, but the CFO's disclosure quality continues to improve, reaching an A- on Capital Stewardship for the first time.
 
-**Named inflection point:** Q1 2024 is the series nadir. Prepared remarks were skeletal, Q&A deflection on quantitative questions was systematic, and no forward strategic milestones were offered. Q2 2025 is the series peak—driven entirely by the retrospective accountability opening, which set a new disclosure standard that has not yet been fully sustained.
+The most persistent structural feature of the series: Jeff Hoffmeister consistently grades one full letter above Harley Finkelstein across all nine quarters. The overall composite never breaks above B+ because Finkelstein's FOG ceiling (never above C+ on Dimension 4) acts as a persistent drag.
 
-**Structural constant:** The CFO/CEO candor gap is present across every quarter and never closes. Hoffmeister consistently scores a tier above Finkelstein on specificity, responsiveness, and absence of FOG. This bifurcation is the defining communication characteristic of the Shopify call format.
+The two trough quarters—Q1 2024 (2.25) and Q3 2024 (2.25)—share a common cause: Finkelstein's prepared remarks were skeletal and Q&A deflection on quantitative questions peaked. Both were followed by partial recoveries when Hoffmeister's financial specificity reasserted.
 
 ---
 
 ## Key Commitments
 
-**Signed**
+### Signed
+- **Flexport/Deliverr commercial agreement** (Q3 2023): Named counterparty, described as "preferred logistics provider"; Hoffmeister deferred financial model discussion to "investor day or early next year." No subsequent disclosure of agreement terms appeared in evaluated quarters.
+- **Shopify Plus pricing change** (Q4 2023/Q1 2024): Implemented change from flat fee to revenue-share structure. Hoffmeister disclosed in Q1 2024 that "a majority of Plus merchants have committed to 3-year contracts"—a signed-counterparty signal with no individual contract values.
+- **Canada Goose** (Q2 2025): Named CEO (Dani), deal closed Canada Day, scope covering online platform and approximately 50 physical stores, launch timeline beginning 2026.
+- **Fiskars Group** (Q2 2025): Named counterparty, scope covering 5 distinct e-commerce businesses in migration.
+- **Microsoft Copilot — Checkout Kit** (Q2/Q3 2025): Named integration partner, Checkout Kit already deployed; described as operational rather than prospective.
+- **PayPal expanded partnership** (Q3 2024 onward): Named counterparty, described as driving a gross-to-net accounting reclassification affecting Merchant Solutions gross margin. Hoffmeister committed it would "become less of a headwind in Q4 and beyond" once lapped. Financial impact deliberately unquantified despite direct analyst request (Q1 2025).
+- **Partner payouts** (Q4 2024): "$1 billion paid to partners for apps benefiting our merchants"—disclosed as a cumulative historical figure, not a forward contract.
+- **VF Corp brand migrations** (Q1 2025): JanSport and Eastpac launched; Dickies, Kipling, Icebreaker, and three additional brands committed as forthcoming.
+- **Shopify Payments country expansion** (Q1 2025): Explicit expansion from 23 to 39 countries in Q1 2025.
 
-- **Flexport/Deliverr preferred logistics agreement** (referenced Q2 2023, commercial terms still pending as of Q3 2023; Hoffmeister explicitly deferred financial modeling to "investor day or early next year"). Never quantified in subsequent calls.
-- **Shopify Plus 3-year contract majority** — Q1 2024: "a majority of Plus merchants have committed to 3-year contracts." Named as a churn protection and revenue visibility signal.
-- **Canada Goose** — Q2 2025: named CEO (Dani), close date (Canada Day), scope (online + ~50 physical stores), launch timeline (2026).
-- **Fiskars Group** — Q2 2025: named with brand portfolio, 5 distinct e-commerce businesses in scope.
-- **PayPal expanded partnership** — Q3 2024 onward: revenue recognition change (net to gross on PayPal wallet transactions) disclosed with specific gross-up and margin headwind mechanics. Hoffmeister committed this becomes "less of a headwind in Q4 and beyond" as the expansion is lapped.
-- **Convertible debt maturity** — Q4 2024: "a little bit under $1 billion," matures "later this year" (2025). Q3 2025 references $6 billion pro forma cash post-settlement, confirming execution.
-- **Partner payouts** — Q4 2024: "$1 billion paid out to partners for apps benefiting our merchants." Specific, verifiable supply-side disclosure.
-- **VF Corp** — Q1 2025: JanSport and Eastpac launched; Dickies, Kipling, Icebreaker, and three others committed as forthcoming.
-
-**Aspirational**
-
-- **AI products (Sidekick, Shopify Magic):** Described as "early access" in Q2 2023 with no usage metrics. As of Q3 2025, Sidekick cited 750,000 shops used—a gross metric with no baseline, churn rate, or revenue contribution. "Monthly average users have been climbing, more than doubling since the start of 2025" (Q1 2025)—no absolute numbers disclosed.
-- **Agentic commerce / Universal Cart / Checkout Kit:** Named vision from Q2 2025 onward. Microsoft Copilot is the only named commercial partner. No GMV contribution, adoption rates, or timeline milestones offered. Described as "laying the rails" (Q3 2025).
-- **Shop App advertising (Shopify Campaigns):** Q2 2025: "9x year-on-year increase in budget commitments, 4x in merchant adoption." No absolute revenue, margin profile, or ROAS data for named brands (Caraway, Liquid I.V.). Finkelstein said "look forward to sharing more about this on future calls"—not fulfilled with additional specificity in Q3 2025.
-- **Enterprise pipeline:** Described as "more of a 2025 phenomenon" (Q3 2024). Named brand parade across every quarter (FC Barcelona, Karl Lagerfeld, Warner Music Group, Hunter Douglas, Reebok, Champion) without average contract values, conversion rates, or revenue attribution.
-- **Markets Pro international expansion:** Q3 2023 commitment to "expand to other countries beyond the U.S. in 2024." Not revisited or verified in subsequent calls.
-- **Shop Pay off-platform:** Cited as a growth driver in Q1 2024; no quantitative sizing, named merchant partners, or GMV contribution in any subsequent quarter.
+### Aspirational
+- **Agentic commerce positioning** (Q2/Q3 2025): Catalog, Universal Cart, Checkout Kit framed as infrastructure for AI-agent-driven purchasing. No counterparty names beyond Microsoft, no GMV contribution, no timeline for material revenue impact.
+- **Shop App as DTC future** (Q2 2025): "Mark my words, Shop is the future of direct-to-consumer shopping." No monetization trajectory, active user count, or competitive differentiation metrics provided.
+- **Shopify Campaigns advertising initiative** (Q3 2025): Cited 9x year-on-year budget commitment growth and 4x merchant adoption growth. No base level, no absolute revenue figure, no margin profile disclosed.
+- **Enterprise pipeline converting in 2025** (Q3 2024, reiterated Q4 2024): Hoffmeister's "more of a 2025 phenomenon" framing for enterprise revenue contribution—unquantified, timeline repeatedly referenced but not anchored.
+- **Sidekick AI adoption** (Q3 2025): 750,000 shops cited as having used Sidekick. No baseline for comparison, no revenue attribution, no target stated.
+- **Markets Pro international expansion** (Q3 2023): Finkelstein committed to "expanding to other countries beyond the U.S. in 2024." Not tracked to confirmed completion in subsequent calls.
+- **AI commerce partnerships** (Q2/Q3 2025): "Great relationships with all the AI companies"—no named partners beyond Microsoft, no GMV or revenue data.
 
 ---
 
 ## Capital Figures
 
-*All figures from structured financial data; quarters noted explicitly.*
+All figures from structured financial disclosures; quarters where metrics were not reported or transcript was incomplete are noted.
 
-| Quarter | GMV | Revenue | FCF / FCF Margin | Gross Margin | MRR | Payments Penetration |
-|---------|-----|---------|-----------------|--------------|-----|---------------------|
-| Q2 2023 | $55B (+17% YoY) | $1.7B (+31% YoY) | Positive (no $ disclosed) | — | — | — |
-| Q3 2023 | $56B (+22% YoY) | $1.7B (+25% YoY; +30% ex-logistics) | 16% margin | — | — | 58% (all-time high) |
-| Q4 2023 | $75.1B (+23% YoY) | $2.1B (+24% YoY; +30% ex-logistics) | $905M full year; sequential improvement each quarter | — | — | 60% |
-| Q1 2024 | $60.9B (+23% YoY) | — | 12% margin | — | $151M (+32% YoY) | 60% |
-| Q2 2024 | $67.2B (+22% YoY) | $2.0B (+21% YoY; +25% ex-logistics) | $333M; 16% margin | 51.1% vs. 49.3% PY | $169M (+25% YoY) | — |
-| Q3 2024 | — | $2.2B (+26% YoY) | 19% margin | — | — | — |
-| Q4 2024 | — | — | 18% FCF margin (full year 2024) | — | — | — |
-| Q1 2025 | $74.8B (+23% YoY) | Revenue +27% YoY | $363M; 15% margin | 49.5% vs. 51.4% PY | — | 64% |
-| Q2 2025 | $88B (+31% YoY; +29% CC) | $2.7B (+31% YoY) | $422M; 16% margin | Merch Solutions 37.9% vs. 39.1% PY | — | — |
-| Q3 2025 | — | Revenue +32% YoY | FCF margin ~18% implied | — | — | 65% |
+| Quarter | Revenue | GMV | Free Cash Flow | FCF Margin | Gross Margin | Payments Penetration | MRR |
+|---------|---------|-----|----------------|------------|-------------|----------------------|-----|
+| Q2 2023 | $1.7B (+31% YoY) | $55B (+17%) | Positive (no $ figure) | Not disclosed | Not stated | Not disclosed | Not disclosed |
+| Q3 2023 | $1.7B (+25% YoY; +30% ex-logistics) | $56B (+22%) | Not disclosed in $ | 16% | Not stated | 58% (all-time high) | Not disclosed |
+| Q4 2023 | $2.1B (+24% YoY; +30% ex-logistics) | $75.1B (+23%) | $905M full-year | Not stated | Not stated | 60% | Not disclosed |
+| Q1 2024 | Not broken out in structured data | $60.9B (+23%) | 12% margin cited | 12% | Not stated | 60% | $151M (+32% YoY) |
+| Q2 2024 | $2.0B (+21% YoY; +25% ex-logistics) | $67.2B (+22%) | $333M | 16% | 51.1% vs. 49.3% prior year | Not stated | $169M (+25% YoY) |
+| Q3 2024 | $2.2B (+26% YoY) | Not stated explicitly | 19% margin | 19% | Not stated | Not stated | Not stated |
+| Q4 2024 | Full-year $9B revenue | Full-year $300B GMV | Full-year 18% margin | 18% | Not stated | Not stated | Not stated |
+| Q1 2025 | Up 27% YoY | $74.8B (+23%) | $363M | 15% | 49.5% vs. 51.4% prior year | 64% | Not stated |
+| Q2 2025 | Not stated in $ | $88B (+31% YoY; +29% constant currency) | $422M | 16% | Merchant Solutions: 37.9% vs. 39.1% prior year | Not stated | Not stated |
+| Q3 2025 | Not stated in $ | Not stated in $ | Not stated in $ | Not stated; Q3 guided "slightly above Q3 2024" | Not stated | 65% | Not stated |
 
-**Additional capital disclosures:**
-- Q4 2023: Gross profit exceeded $1 billion in a single quarter for the first time; operating income 4x above prior peak of $269M (2021).
-- Q2 2024: $241M operating income (12% margin); $55M litigation accrual reversal boosted operating income (disclosed but not prominently flagged).
-- Q4 2024: Annual GMV $300B; annual revenue $9B; operating income surpassed $1 billion for the year.
-- Q3 2025: Transaction and loan losses represented 5% of revenue (elevated above historical trend); pro forma cash ~$6B post-convert settlement.
+**Notable capital allocation disclosures:**
+- Q4 2024: Operating income of $1B, described as "4x higher than previous peak of $269M in 2021."
+- Q2 2024: $55M litigation accrual reversal boosted operating income (disclosed but not prominently flagged).
+- Q3 2025: Convertible debt settled during the quarter; pro forma cash described as $6B post-settlement (disclosed parenthetically, not led as headline).
+- Q1–Q3 2025: Headcount held "flat to down" for over two years; end-2023 baseline of 8,300 employees.
 
 ---
 
 ## FOG Patterns
 
-The FOG index scores C in every single quarter across the nine-quarter series, with Q2 2025 receiving a C+ as the only marginal improvement. Linguistic precision has neither improved nor degraded—it has flatlined at a consistent level of promotional dilution.
+FOG is the most stable and persistently weak dimension across all nine quarters, never scoring above C+ (Q2 2025). The pattern is structurally bifurcated: Hoffmeister's language is consistently clean and responsive; Finkelstein's language carries the load of promotional register throughout.
 
-**Recurring phrases across quarters (verbatim or near-verbatim):**
+**Recurring phrases that appear verbatim or near-verbatim across multiple quarters:**
 
-- *"This is the best/strongest version of Shopify yet"* — appears in Q1 2024, Q2 2024, Q3 2024, Q3 2025 with essentially identical construction.
-- *"Firing on all cylinders"* — Q2 2023 prepared remarks and Q&A (flagged as pre-scripted talking point redeployed).
-- *"Well positioned"* — present in Q4 2023 and Q2 2024 financial sections; identified as archetypal Rittenhouse FOG phrase.
-- *"We are building for the long term"* — stated as a quarterly assertion in Q3 2024 and Q3 2025 ("As we say each quarter").
-- *"Unprecedented capabilities/level"* — Q4 2024, Q1 2023 variations.
-- *"The best engineers on the planet"* — Q1 2025, Q2 2025 variations.
-- *"All roads lead to Shopify"* — Q3 2025.
-- *"Commerce never stands still and neither do we"* — Q3 2025.
-- *"Really, really well" / "very, very well"* — Q1 2024 CFO Q&A (doubled intensifiers flagged as substituting for specific claims).
+- *"This is the best/strongest version of Shopify yet"* — Q1 2024, Q2 2024, Q3 2024, Q3 2025. Appears as a prepared-remarks opener in at least four calls. Never accompanied by a definition of "best" or a comparison benchmark.
+- *"We are really pleased / we feel really good about"* — Q3 2024, Q1 2025, Q2 2025. Doubles the intensifier ("really, really well"—Q1 2024) where specificity would serve.
+- *"Firing on all cylinders"* — Q2 2023, reappears in near-identical form in Q&A responses in subsequent quarters, flagged explicitly in Q2 2023 as a pre-scripted talking point redeployed in supposedly spontaneous Q&A.
+- *"Merchant first"* / *"merchant obsession"* — Every quarter. The phrase is authentic to Shopify's culture but is used as a substitute for specific merchant outcome data in at least half its appearances.
+- *"We are building for the long term"* — Q3 2024 ("As we say each quarter"), Q4 2024, Q1 2025, Q3 2025. Cited explicitly as a rote phrase in the Q3 2024 analysis ("As we say each quarter" is itself a form of FOG—claiming long-termism rather than demonstrating it).
+- *"Unprecedented capabilities"* / *"unprecedented level"* — Q2 2023 ("unprecedented level"), Q4 2024 ("unprecedented capabilities"). Unsupported superlative recurring across widely separated quarters.
+- *"All roads lead to Shopify"* — Q3 2025; structurally identical to Q2 2024's "No other platform on the planet offers merchants the opportunity to expand their reach at this scale."
 
-**Finkelstein-specific pattern:** Brand-name enumeration as evidence substitute. In every quarter, 15–40 merchant names are cited with no GMV contribution, contract structure, or growth context for any individual name. The technique creates the *appearance* of specificity while providing no analytical input.
-
-**Hoffmeister-specific pattern:** Directional qualitative guidance ranges ("mid-twenties," "low to mid-20s," "similar to prior quarter") appear in lieu of point estimates or operating income targets. This is a milder form of FOG but is consistent across Q2 2024 through Q3 2025.
-
-**One structural improvement in Q2 2025:** Finkelstein's retrospective accountability opening (18-month, 12-month, 6-month commitment review) introduced specificity of a kind absent from all prior calls. This elevated Strategic Clarity to A- for that quarter. It was partially sustained in Q3 2025 (Q1-Q2-Q3 FCF and revenue trend recitation) but the full retrospective framework was not repeated.
+**Linguistic precision trend:** Marginally improved in Q2 2025 (C+) when the retrospective accountability framework gave Finkelstein specific numbers to anchor around, but regression in Q3 2025 (back to C) as the agentic commerce narrative expanded without falsifiable content. Hoffmeister's language has improved across the series—Q3 2025 represents his strongest showing on this dimension. The gap between the two communicators widened rather than narrowed over the evaluation period.
 
 ---
 
 ## Flags & Risks
 
-**Data quality flags:**
-- CFO prepared remarks cut off mid-sentence in Q2 2023 transcript ("Key contributors to our revenue growth included—"), leaving a materially incomplete public record for that quarter.
-- Free cash flow disclosed as margin percentage only (no absolute dollars) in multiple quarters, complicating direct period-to-period dollar comparison.
-- Non-GAAP "ex-logistics" exclusion used through Q4 2024 without a fresh explanation for new investors in each quarter it appears.
-- MRR comparability explicitly flagged by Hoffmeister as impaired for all of 2025 due to paid trial structure changes, reducing external tracking utility for a historically key metric.
-- $55M litigation accrual reversal in Q2 2024 boosted operating income but was not prominently flagged as a one-time item in headline narrative.
+**Data quality and accounting flags:**
+- Q2 2023 CFO prepared remarks are cut off mid-sentence in the transcript ("Key contributors to our revenue growth included—"), creating a material gap in the public financial record for that quarter.
+- Q2 2024 operating income was boosted by a $55M one-time litigation accrual reversal; disclosed but not foregrounded in headline narrative.
+- PayPal partnership accounting change (gross-to-net reclassification on PayPal wallet transactions) has persistently compressed Merchant Solutions gross margin since Q3/Q4 2024. Despite direct analyst requests in Q1 2025, the dollar magnitude of this impact was explicitly refused: "We have not quantified it." This represents an ongoing data quality concern for Merchant Solutions margin modeling.
+- MRR comparability was explicitly flagged as impaired for all of 2025 due to extended paid trial mechanics (Q1 2025, Q2 2025). Hoffmeister acknowledged that "these comparability issues will persist throughout 2025," creating an information asymmetry on a historically core tracking metric.
+- Non-GAAP "ex-logistics" exclusion is applied consistently but the reconciliation is not spoken aloud on calls—investors must reconstruct it from filings.
 
-**Communication-level risks:**
-- **Logistics exit never owned.** A major strategic reversal—building and abandoning a capital-intensive fulfillment operation within approximately two years—is mentioned only as a revenue normalization adjustment ("ex-logistics") across all nine quarters. No post-mortem, no lesson disclosed, no capital allocation reflection offered. This absence is consistent and deliberate.
-- **Accountability framework is asymmetric.** The company introduced explicit prior-period accountability in Q2 2025 but abandons the full structure when results are merely good rather than exceptional. The risk: the framework appears when it flatters and contracts when it would require harder disclosures.
-- **Agentic commerce narrative inflation.** Significant prepared-remarks investment across Q2 and Q3 2025 with only one named commercial partner (Microsoft Copilot). If Q4 2025 does not introduce named additional AI partners with GMV data, the narrative will have consumed multiple calls of investor attention without producing verifiable evidence.
-- **PayPal accounting opacity.** The PayPal partnership expansion has been a disclosed gross margin headwind since Q3 2024. When Keith Weiss directly asked for quantification in Q1 2025, Hoffmeister declined: "We have not quantified it." This is a structural gap in disclosure for a known, ongoing, material-direction headwind.
-- **Enterprise economics undisclosed.** Named enterprise wins accumulate across every quarter without any disclosure of average contract values, implementation timelines, revenue contribution, or conversion rates from commerce-component entry to full-platform deployment. As enterprise becomes the primary growth narrative, the absence of any unit economics creates an analytical vacuum.
-- **Loss rate elevation in Q3 2025.** Payment transaction and loan losses at 5% of revenue, above historical trend, disclosed with causal explanation (merchant onboarding testing) and a remediation claim. If Q4 does not confirm normalization at the same level of specificity, the Q3 disclosure will read as perception management.
+**Communication-level risks, aggregated:**
+- **Logistics divestiture never owned.** A major strategic reversal—building and exiting a capital-intensive fulfillment operation within roughly two years—is referenced arithmetically in every quarter as a revenue adjustment but never examined as a strategic lesson. The risk: investors cannot calibrate management's capital allocation discipline against this episode because the post-mortem was never delivered.
+- **Perishable goal pattern.** New initiatives are introduced each quarter (Sidekick, Shopify Magic, Markets Pro, Shop App, Shopify Campaigns, agentic commerce) without systematic accountability to prior-quarter commitments. The Q3 2023 Markets Pro international expansion commitment ("other countries in 2024"), the Q3 2023 Flexport financial model commitment ("investor day or early next year"), and the Q4 2023 Shopify Plus pricing impact commitment ("later in the year") were not explicitly revisited on the subsequent disclosed calls.
+- **Enterprise pipeline clock reset.** Hoffmeister described enterprise revenue contribution as "more of a 2025 phenomenon" in Q3 2024. In Q3 2025, enterprise is still described primarily through named brand wins rather than quantified revenue contribution, with the timeline implicitly extending further. Each call resets the horizon without acknowledging the prior horizon was missed.
+- **Brand-name enumeration as substitute for analytics.** Across all nine quarters, Finkelstein names approximately 40–60 merchants and brands per call as evidence of momentum. No GMV concentration data, contract values, or retention rates are disclosed for any named merchant. This creates an asymmetry: names are listed when results are strong; deceleration would arrive without prior warning signals.
+- **CFO/CEO candor gap is structural and widening.** Hoffmeister reaches B+/A- territory on financial candor in Q3 2025; Finkelstein's FOG grade has not exceeded C+ in any evaluated quarter. The qualitative business narrative—competitive positioning, culture, long-term vision—receives materially less rigorous treatment than the numbers.
 
 ---
 
 ## Verify Next Quarter
 
-**From Q3 2025 tracking commitments — check against Q4 2025 call:**
+From the Q3 2025 analysis, the following specific commitments are due for verification in Q4 2025:
 
-1. **Payment loss rate normalization.** Hoffmeister stated losses are "already turning back towards historical levels" and Q4 will "remain elevated but trending down." Q4 must disclose the loss rate metric explicitly with comparison to Q3's 5%-of-revenue figure. Non-disclosure or normalization failure is a candor regression signal.
+1. **Payment loss rate normalization.** Hoffmeister stated losses are "already turning back towards historical levels" and Q4 would remain elevated but trending down. The loss rate metric (cited at 5% of revenue in Q3, above historical trend) must be explicitly disclosed in Q4 with enough specificity to confirm or falsify the normalization claim. If the metric is not disclosed with the same granularity, that is a candor regression.
 
-2. **Full-year 2025 FCF margin.** Hoffmeister committed to "a free cash flow margin for 2025 similar to 2024." The 2024 baseline was 16%. With Q1-Q3 at 15-16-18%, the Q4 result will determine whether the full-year math confirms the commitment. This is the hardest verifiable commitment outstanding.
+2. **Full-year 2025 free cash flow margin of approximately 16%.** Hoffmeister committed explicitly: "we are on track to achieve a free cash flow margin for 2025 similar to 2024." The 2024 FCF margin was 16%. With Q1-Q3 2025 running at 15%, 16%, and guided "slightly above Q3" (which was 19% in Q3 2024), the full-year arithmetic should land at 16–17%. This is a hard, named commitment with a verifiable outcome.
 
-3. **MRR headwind resolution timeline.** Hoffmeister identified Q1 2026 as the quarter when year-over-year MRR comparability headwinds clear. Q4 2025 should show sequential MRR growth continuing at or above Q3's 4%. Any deceleration requires an updated explanation.
+3. **MRR headwind resolution timing.** Hoffmeister identified Q1 2026 as the quarter when trial-structure comparability headwinds clear. Q4 2025 MRR sequential growth should be tracked; if it does not show improvement, the prior explanation of the headwind mechanics requires revisitation.
 
-4. **Agentic commerce named partners and GMV.** Harley cited "AI-driven traffic to Shopify stores up 7x" and "orders attributed to AI searches up 11x." Q4 must update these with absolute volume figures and name commercial partners beyond Microsoft Copilot, or the narrative meets the definition of a perishable goal.
+4. **Agentic commerce commercial evidence.** Q3 2025 cited "AI-driven traffic up 7x" and "orders attributed to AI searches up 11x" since January—both expressed as growth rates without base levels. Q4 must provide either absolute volume figures, named additional AI partners beyond Microsoft, or an acknowledgment of slower-than-narrative ramp. Absence of update is a perishable goal flag.
 
-5. **Advertising/Campaigns economics.** Finkelstein pointed to the "next Shopify edition" for advertising updates. Q4's prepared remarks must be examined for absolute revenue contribution from campaigns, ROAS data, or merchant count—not just year-on-year growth multiples from an undisclosed base.
+5. **Advertising/Campaigns initiative economics.** Harley committed to disclosing more about campaign economics and revenue contribution at "the next Shopify edition." That edition's content and any subsequent Q4 prepared-remarks update should be evaluated for whether absolute revenue contribution and margin profile are disclosed, or whether adoption metrics continue to substitute.
 
-6. **PayPal gross margin lapping.** Hoffmeister explicitly stated the PayPal partnership headwind "will become less of a headwind in Q4 and beyond as we will have now lapped the initial expansion." Q4 Merchant Solutions gross margin must be checked against Q3's result. If margin does not improve, the lapping explanation was incomplete.
-
-7. **Retrospective accountability framework continuity.** Q2 2025 introduced the 6/12/18-month review structure. Q3 2025 partially retained it. Q4 should be assessed for whether the framework is sustained, expanded to include enterprise conversion milestones and agentic GMV, or quietly retired—the last of which would itself be a significant negative signal.
+6. **Convertible debt settlement impact on capital allocation framework.** Jeff noted the convert matured and was settled during Q3 2025 at "a little bit under $1 billion." Q4 should establish whether the capital allocation framework evolves now that this obligation is resolved—specifically whether return of capital, buybacks, or explicit reinvestment thresholds are articulated. A non-answer ("nothing to announce") that persists beyond Q4 2025 becomes a structural disclosure concern.

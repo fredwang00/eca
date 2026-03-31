@@ -1,124 +1,107 @@
-# Airbnb, Inc. (ABNB) — Structured Earnings Brief
-
-**Coverage Period:** Q1 2023 – Q4 2025 (10 quarters)
+# Airbnb, Inc. (ABNB) — Earnings Call Intelligence Brief
 
 ---
 
 ## Candor Trajectory
 
-**Grade progression:** B+ (3.15) → B (3.25) → B (3.0) → B (2.55) → B (3.25) → B (3.0) → B- (2.695) → B (2.55) → B (3.25) → B (3.25) → B- (2.65)
+**Grade progression:** B+ (Q1 2023, 3.15) → B (Q2 2023, 3.25) → B (Q3 2023, 3.0) → B (Q4 2023, 2.55) → B (Q1 2024, 3.25) → B (Q2 2024, 3.0) → B- (Q3 2024, 2.695) → B (Q4 2024, 2.55) → B (Q1 2025, 2.55) → B (Q2 2025, 3.25) → B (Q3 2025, 3.25) → B- (Q4 2025, 2.65)
 
-**Direction:** Stagnating, with episodic compression at inflection points.
+**Direction: Stagnating with structural bifurcation.** The series opens near B+, drops into a persistent B band, touches B- twice (Q3 2024 and Q4 2025), with no quarter reaching or sustaining A-level composite performance. The inflection points worth naming:
 
-The series opened at its strongest (Q1 2023, 3.15) driven by Chesky's unusual willingness to name mistakes and provide falsifiable international commitments. The first meaningful compression occurred at **Q4 2023 (2.55)** — the inflection point — when the "expanding beyond the core" pillar collapsed into pure aspiration, and the FOG Index dropped to C for the first time. Recovery in Q1 2024 (3.25) was driven by Mertz's debut precision on margin decomposition, not by improved strategic accountability. A second compression at **Q3 2024 (2.695)** reflected Chesky's closing summary error, sustained FOG in new-business framing, and the first formal B- composite. A third compression at **Q4 2025 (2.65)** — the most recent low — was driven by stakeholder balance falling to C+ and FOG returning to C despite strong financial mechanics.
+- **Q4 2023 (first notable decline):** Strategic Clarity dropped to C and FOG Index to C simultaneously, driven by Chesky's extended AI/expansion rhetoric lacking any falsifiable content. Composite fell to 2.55 despite strong financials.
+- **Q1–Q2 2024 (partial recovery):** Capital Stewardship earned A in both quarters as Mertz assumed the CFO role and imposed more disciplined financial disclosure. Chesky's strategic vagueness held other dimensions at B.
+- **Q3 2024 (second B- inflection):** Chesky's closing FCF error ($1.1B stated as trailing-12-month when it was the quarterly figure), compounded FOG and declining strategic specificity, produced the lowest composite (2.695).
+- **Q2–Q3 2025 (temporary improvement):** Capital Stewardship sustained A-level, Mertz's regional breakdowns and comp-dynamics disclosure drove the composite back to 3.25 twice.
+- **Q4 2025 (most recent decline):** Stakeholder Balance fell to C and FOG to C+ on the strength of Chesky's self-contradictions and unsupported competitive claims, pulling the composite to 2.65.
 
-The persistent pattern: Mertz pulls grades up; Chesky's aspirational mode pulls them down. No quarter has produced an A in any dimension except Capital Stewardship (achieved in Q2 2023, Q1 2024, Q2 2025, Q3 2025). The company has never achieved better than B+ overall, and the strategic clarity dimension has never exceeded B across the full series.
+The structural pattern is a two-speaker divergence: Mertz's financial precision consistently earns A or B+, while Chesky's prepared remarks and Q&A anchor the strategic and FOG dimensions at B or below.
 
 ---
 
 ## Key Commitments
 
-### Signed
-- **Share repurchases:** $2.0B repurchased in nine months prior to Q1 2023; $2.5B new authorization (Q1 2023). $2.25B repurchased in 2023 (Q4 2023). $749M in Q1 2024, $749M in Q2 2024, $857M in Q3 2025, $838M in Q4 2024, $807M in Q1 2025, $1.0B in Q2 2025, $3.8B full-year 2025 buybacks against a $6B authorization (Q3 2025). $6.6B remaining authorization as of Q4 2025.
-- **GamePlanner.AI acquisition:** Completed prior to Q4 2023 disclosure; described as led by "co-founder and original developer of Siri." No dollar value disclosed on the call.
-- **Airbnb-friendly apartment program:** Named counterparty Greystar; 175 buildings → 250+ buildings (Q1 2023).
-- **Co-hosting marketplace:** Launched October 2024 as committed. At Q4 2024: 10,000 co-hosts across 10 countries; Q2 2025: 100,000 listings managed by co-hosts hosting 10 million nights; Japan and Korea expansion named.
-- **Cross-currency fee:** Testing began April 2024 as committed; scope ~20% of GBV, magnitude ~1% for most transactions.
-- **Reserve Now Pay Later:** Launched in Q3/Q4 2025; 70% take-up among eligible U.S. customers at Q3 2025; Q4 2025 contributed "over 200 basis points of growth in nights booked and roughly 300 basis points in GBV."
-- **Fee simplification and cancellation policy updates:** Quantified as part of the same Q4 2025 feature attribution.
-- **Guest Favorites:** 2 million listings (Q1 2024); 350 million nights booked (Q2 2025); "approximately half of bookings" (Q4 2025).
-- **Supply removals:** 260,000 listings removed/reduced cleaning fees (Q3 2023); 300,000 removed since April 2023 (Q3 2024); 400,000 removed since April 2023 (Q4 2024); 450,000 (Q1 2025); 500,000 via Guest Favorites process (Q4 2025).
-- **AI customer service:** GPT-4 pilot named in Q2 2023; "nearly 30% of North American English tickets" handled by AI agent at Q4 2025; 15% reduction in guests needing human contact (Q2 2025).
-- **Hotels pilot:** Launched in L.A., New York City, and Madrid; single-digit percent of total nights booked as of Q4 2025, growing at roughly double the platform rate.
+**Signed:**
+- **GamePlanner.AI acquisition** (disclosed Q4 2023): Named counterparty, described as led by "the Co-Founder and original developer of Siri." No disclosed price or strategic terms beyond "accelerating efforts already underway."
+- **Cross-currency service fee rollout** (Q4 2023/Q1 2024): Testing began April 2024, scope disclosed as ~20% of GBV, magnitude characterized as ~1% for most transactions.
+- **Co-host network launch** (Q3 2024): 10 countries, 10,000 co-hosts at launch, expanding to Japan and Korea (confirmed Q4 2024). By Q4 2025: 15,000 cohosts, 100,000 listings, 2x revenue vs. unmanaged listings.
+- **Reserve Now Pay Later** (disclosed Q4 2025 as Q4 driver): 70% U.S. take-up among eligible customers, disclosed cancellation impact of ~1% aggregate increase (16% to 17%), three named product features attributed to 200bps nights growth and 300bps GBV growth in Q4 2025.
+- **$6 billion share repurchase authorization** (announced Q4 2023): $3.8 billion deployed through Q4 2025, $6.6 billion cumulative authorization remaining as of Q3 2025 (adjusted for the new $6B program announced Q2 2025). $3.4B repurchased in full-year 2024; $3.5B over trailing twelve months through Q3 2025; $3.8B full-year 2025.
 
-### Aspirational
-- **"1 to 2 new businesses generating $1 billion+ of revenue incrementally per year"** — stated Q3 2024, not reconfirmed or quantified in subsequent calls; no baseline year, no named business, no unit economics.
-- **"Expand beyond the core" / "new offerings"** — present on every call since Q1 2023; consistently described without category, addressable market, milestone, or monetization structure. The May 2025 summer release was the deliverable promised from Q4 2023 onward; post-launch disclosure remains qualitative.
-- **Experiences relaunch** — described as a strategic priority since at least Q1 2023; relaunched May 13, 2025; no quantitative milestones (supply targets, GMV contribution, attach rate) disclosed on any call; Chesky acknowledges this will take "3 to 5 years to become material."
-- **Advertising business** — described as "easily a billion-dollar opportunity" and deprioritized for 2025; no timeline, no product spec, no named format.
-- **Loyalty/membership program** — described as "in testing" across at least four consecutive calls (Q4 2024 through Q4 2025); no decision criteria, timeline, or testing readout disclosed.
-- **AI search** — described as launching "imminently" in Q3 2025; "Phase 1" (natural language + structured results) and "Phase 2" (multi-turn conversational) framed sequentially; no user adoption metrics, conversion impact, or deployment date confirmed.
-- **"Low teens" growth aspiration** — attributed by Chesky to a September 2025 investor conference; not ratified, qualified, or milestone-attached on Q3 2025 earnings call.
-- **International expansion pipeline** — Germany, Brazil cited as proof-of-concept; Italy, Spain, Japan, Korea, India, Colombia, Peru, Chile, Argentina named as targets across multiple quarters; Q3 2025 expansion markets cited as growing "twice the rate of core markets for 6 consecutive quarters" but no country-level commitment to specific growth rates.
+**Aspirational:**
+- **"1 to 2 new businesses generating $1 billion or more of revenue incrementally per year"** (Q3 2024, repeated): No timeline, no baseline, no definition of incremental, no named businesses. Analyst raised this directly in Q3 2025; Chesky pivoted to pipeline enthusiasm without confirming or retracting.
+- **"Expanding beyond the core" / May 2025 Summer Release**: Launch confirmed May 13, 2025. Described as hotels, experiences, and services. No revenue targets, attach rate targets, or unit economics disclosed through Q4 2025. Q2 2025 describes "10 different service businesses" across categories.
+- **Experiences relaunch** (repeated Q1 2023 through Q4 2025): Five stated improvement priorities in Q2 2024 (affordability, unique inventory, video, discoverability, marketing). Chesky acknowledged eight years of non-scale. Q3 2025 characterizes Paris and L.A. as pilot markets. No volume metrics disclosed.
+- **Advertising as "easily a billion-dollar opportunity"** (Q4 2024): Explicitly deprioritized for 2025, deferred to "horizon." Repeated across multiple calls without decision timeline.
+- **Loyalty/membership program**: Described as "in testing" across Q4 2024, Q1 2025, Q2 2025, Q3 2025, Q4 2025. No disclosed testing results, decision criteria, or timeline. Meets definition of perishable non-commitment.
+- **AI search launch "imminently"** (Q3 2025): Not yet confirmed as launched or reported with adoption metrics through Q4 2025.
+- **"Low teens" growth reacceleration aspiration**: Attributed to a September 2025 conference, not ratified as formal guidance on any earnings call.
+- **Hotels expansion beyond three pilot markets** (L.A., NYC, Madrid): Chesky confirmed expansion is coming with "no question," but no target markets, timelines, or supply commitments disclosed through Q4 2025.
 
 ---
 
 ## Capital Figures
 
-All figures from structured financial disclosures; attributed to the quarter in which they were reported.
+| Quarter | Revenue | Net Income | Free Cash Flow | Adj. EBITDA | Share Repurchases | Cash / Investments |
+|---------|---------|-----------|---------------|-------------|------------------|-------------------|
+| Q1 2023 | Not separately stated | $117M | $1.6B (quarter); $3.8B TTM | — | $2B prior 9 months; new $2.5B authorization | — |
+| Q2 2023 | $2.5B (+18% YoY) | $650M (26% margin) | $900M (quarter); $3.9B TTM (43% margin) | — | $2.5B outstanding buyback | — |
+| Q3 2023 | $3.4B (+18% YoY) | — | $1.3B (quarter); $4.2B TTM (47% adj. net income margin) | Record (non-GAAP) | $500M in quarter | — |
+| Q4 2023 | $2.2B | ($249M) GAAP; $489M adj. | $3.8B full-year | — | $2.25B in year; $6B new authorization | — |
+| Q1 2024 | $2.1B (+18% YoY) | $264M (12% margin) | $1.9B (quarter, "highest ever"); $4.2B TTM (41% margin) | — | $750M in quarter; $6B remaining | — |
+| Q2 2024 | $2.75B (+11% YoY) | $555M (20% margin) | $1.0B (quarter); $4.3B TTM (41% margin) | — | $749M in quarter; $5.25B remaining | — |
+| Q3 2024 | $3.7B (+10% YoY) | $1.4B (37% margin) | $1.1B (quarter); $4.1B TTM | — | $1.1B in quarter; $4.2B remaining | — |
+| Q4 2024 | $2.5B (+12% YoY) | — | $4.5B full-year (40% margin) | $4.0B full-year (36% margin) | $838M Q4; $3.4B full-year; $3.3B remaining | $11.5B corporate + $9.2B guest funds |
+| Q1 2025 | $2.3B (+6%; +11% FX-adj.) | — | $1.8B (quarter); $4.4B TTM (39% margin) | $417M (18% margin) | $807M in quarter; $2.5B remaining | $11.5B corporate + $9.2B guest funds |
+| Q2 2025 | $3.1B (+13% YoY) | $642M; EPS $1.03 (+20%) | $1.0B (quarter); $4.3B TTM (37% margin) | $1.0B (34% margin) | $1.0B in quarter; $1.5B remaining + new $6B program | $11.4B corporate + $11.1B guest funds |
+| Q3 2025 | $4.1B (+10% YoY) | $1.4B; EPS $2.21 | $1.3B (quarter); $4.5B TTM (38% margin) | $2.1B (50% margin) | $857M Q3; $3.5B TTM; $6.6B remaining | — |
+| Q4 2025 | $2.8B | — | $4.6B full-year (38% margin) | — | $3.8B full-year; >80% of FCF deployed | $11B corporate + $7B guest funds |
 
-| Quarter | Revenue | Net Income | Free Cash Flow (Q) | FCF TTM | Adj. EBITDA | Nights Booked | Key Cash Items |
-|---|---|---|---|---|---|---|---|
-| Q1 2023 | Not separately stated | $117M | $1.6B | $3.8B (44% margin) | — | 120M (record) | $2B repurchased (prior 9 mo.); $2.5B new authorization |
-| Q2 2023 | $2.5B (+18% YoY) | $650M (26% margin) | $900M (+13%) | $3.9B (43% margin) | — | Not stated | $2.5B in repurchases (cumulative) |
-| Q3 2023 | $3.4B (+18% YoY) | — | $1.3B | $4.2B | 47% adj. NI margin | Not stated | $500M repurchased |
-| Q4 2023 | $2.2B | -$249M GAAP / $489M adj. | — | — | — | 99M | $2.25B repurchased full-year; $6B new authorization; FCF cited as $3.8B (full-year) |
-| Q1 2024 | $2.1B (+18% YoY) | $264M (12% margin) | $1.9B (record) | $4.2B (41% margin) | — | 133M (+9.5% YoY) | $750M repurchased; $6B remaining authorization |
-| Q2 2024 | $2.75B (+11% YoY) | $555M (20% margin) | $1.0B | $4.3B (41% margin) | — | Not stated | $749M repurchased; $5.25B remaining |
-| Q3 2024 | $3.7B (+10% YoY) | $1.4B (37% margin) | $1.1B | $4.1B | — | Not stated | $1.1B repurchased; $4.2B remaining |
-| Q4 2024 | $2.5B (+12% YoY) | — | — | — | $4.0B full-year (36% margin) | Not stated | $838M Q4 repurchases; $3.4B full-year; $3.3B remaining; FCF $4.5B full-year (40% margin) |
-| Q1 2025 | $2.3B (+6%, +11% FX-adj.) | $417M adj. EBITDA (18% margin) | $1.8B | $4.4B (39% margin) | — | 143M (+8% YoY) | $807M repurchased; $2.5B remaining |
-| Q2 2025 | $3.1B (+13% YoY) | $642M (net income) | $1.0B | $4.3B (37% margin) | $1.0B (34% margin) | Not stated | $1.0B repurchased; $1.5B remaining; $6B new authorization; 8% diluted share count reduction since 2022 |
-| Q3 2025 | $4.1B (+10% YoY) | $1.4B | $1.3B | $4.5B (38% margin) | $2.1B (50% margin) | +9% YoY (2-pt sequential acceleration) | $857M repurchased; $3.5B TTM; $6.6B remaining |
-| Q4 2025 | $2.8B | — | — | $4.6B full-year (38% margin) | — | Not stated | $3.8B full-year buybacks (>80% of FCF); $6.6B authorization remaining |
-
-**Capex:** Not separately disclosed on any call reviewed. Chesky stated in Q4 2025 that AI investment "will not affect the P&L" — characterization disputed in the analysis as conflating CapEx with total cost.
-
-**New business investment:** $200M–$250M disclosed in Q4 2024 and Q1 2025; refined to $200M in Q2 2025 ("more than halfway through the year").
+*Note: Q4 2023 FCF inconsistency flagged in source analysis—$3.8B full-year vs. $2.8B in closing remarks, likely a TTM vs. calendar year distinction never resolved on the call.*
 
 ---
 
 ## FOG Patterns
 
-**Recurring phrases across quarters (with frequency and trend):**
+**Recurring phrases across 12 quarters:**
 
-1. **"Just getting started" / "scratching the surface"** — present in Q2 2023, Q1 2024, Q2 2024, Q2 2025. Unchanged in content across ten quarters. Marks the close of prepared remarks or the deflection of growth-rate questions.
+- **"Incredibly excited" / "I'm incredibly proud"**: Appears in closing remarks across Q1 2023 through Q4 2025 without exception. Functions as earnings-call-close filler. Precision neither improved nor degraded—it is a stable structural tic.
+- **"Just getting started"**: Q2 2023, Q3 2023, Q1 2024. Retired from active rotation by 2025 but replaced by equivalent formulations ("2025 marks the start of Airbnb's next chapter").
+- **Amazon/books analogy**: Deployed in Q4 2023, Q2 2024, Q3 2024, Q4 2024, Q3 2025, Q4 2025—six of twelve quarters. Consistently used to imply adjacency expansion potential without specifying which adjacencies, in what sequence, or against what milestones.
+- **"Metronomic"**: Appears in Q3 2025 and Q4 2025 as a descriptor for product improvement cadence without defining what the cadence actually is.
+- **"We have one of the best [X] in the world"**: Applied to design teams (Q3 2025), customer service (Q4 2025). Unsupported superlative deployed as credential assertion.
+- **"Perishable opportunity" framing**: First introduced Q2 2023 to explain advertising deferral. Recurs as a generic prioritization wrapper across Q3 2023, Q4 2023, Q2 2024, Q4 2024. Legitimate as a mental model; overused as a deflection.
 
-2. **"Expand beyond the core"** — the third strategic pillar introduced in Q1 2023, restated on every subsequent call. The phrase has never been operationalized with a category, revenue target, or milestone. Its function shifted from preview (Q1–Q2 2023) to perpetual deferral (Q4 2023 onward).
-
-3. **"I'm really excited / incredibly excited / extremely excited"** — present in Q1 2023 through Q4 2025 without exception. Typically appears in place of quantitative disclosure. The phrase "incredibly, incredibly compelling" (doubled adverb) appeared in Q4 2024 as a signal of enthusiasm substituting for evidence.
-
-4. **"Amazon started with books"** — the primary expansion analogy deployed in Q4 2023, Q3 2024, Q4 2024, Q1 2025, Q4 2025. Used consistently when asked about new business categories. Functions as narrative filler rather than strategic argument; substitutes historical parallel for operational specificity.
-
-5. **"Metronomic" / "high velocity of hundreds of improvements"** — appears in Q3 2025 and Q4 2025; no measurable definition of cadence or quality threshold attached.
-
-6. **"Loyalty program: in testing / not imminently, but in the future"** — materially identical language across Q4 2024, Q1 2025, Q2 2025, Q3 2025, Q4 2025. No decision criteria or testing readout disclosed on any call.
-
-7. **"Best-in-class" / "unprecedented in our category"** — Q4 2025, applied to customer service without benchmark or comparison data.
-
-**Trend:** Linguistic precision **degraded** from Q1–Q2 2023 (where Chesky's Q&A was notably responsive and specific) through Q4 2023 (first C grade on FOG Index) and has not recovered to Q1 2023 quality. Mertz's additions have improved the composite but have not changed Chesky's register. The consistent two-tier communication structure — Mertz precise, Chesky aspirational — has been the dominant pattern since Q1 2024 and shows no convergence.
+**Trajectory assessment: degrading.** Q1–Q2 2023 FOG was concentrated in Chesky's prepared remarks with generally crisp Q&A. By Q3 2024–Q4 2025, FOG migrated into Q&A responses—specifically in AI, competitive positioning, and new business answers—where investors ask the hardest questions. Mertz's precision has remained stable and high throughout. The gap between the two speakers has widened, not narrowed.
 
 ---
 
 ## Flags & Risks
 
 **Data quality flags:**
-- **Free cash flow inconsistency (Q4 2023):** Chesky's prepared remarks stated "full-year free cash flow of $3.8 billion"; closing remarks cited "trailing 12-month free cash flow of $2.8 billion" — a $1 billion discrepancy unaddressed on the call.
-- **Closing summary metric error (Q3 2024):** Chesky described "trailing 12 months cash flow is $1.1 billion" with "a free cash flow margin of 38%" — the $1.1B figure was the quarterly number; the TTM figure cited at the open was $4.1B. Not corrected during the call.
-- **Non-GAAP adjustment opacity (Q4 2023):** A $738M swing from -$249M GAAP loss to $489M adjusted net income attributed to "nonrecurring tax items" with no line-item disclosure on the call.
-- **AI P&L claim (Q4 2025):** Chesky's assertion that AI investment "will not affect the P&L" appears to exclude OpEx for the named AI hire (Ahmad Al-Dahle) and associated team. CFO did not validate or correct.
-- **"Nights and seats booked" metric redefinition (Q2 2025 onward):** Combining accommodation nights with experience/service seats creates a composite metric where seat bookings are acknowledged as "immaterial today" but will complicate future accommodation-only growth visibility.
+- **Q4 2023 FCF inconsistency**: $3.8B (full-year, opening remarks) vs. $2.8B (closing remarks). Not reconciled on the call. Likely a calculation-period mismatch but never explained.
+- **Q3 2024 closing error**: Chesky cited "$1.1 billion trailing 12-month free cash flow" representing "38% margin"—the $1.1B figure is the quarterly number; TTM was $4.1B. A CEO misquoting his primary cash flow metric in the closing statement.
+- **Q4 2023 non-GAAP adjustment**: $249M GAAP net loss adjusted to $489M net income via "nonrecurring tax items"—a $738M swing. No line-item disclosure on the call.
 
 **Communication-level risks:**
-- **Perpetual deferral pattern on loyalty and advertising:** Both have been named as billion-dollar opportunities and deprioritized for "not this year" across multiple consecutive calls. No decision criteria disclosed.
-- **The "$1 billion per new business per year" claim (Q3 2024) has not been reconfirmed, quantified, or retired** — it is an unresolved commitment.
-- **"Expand beyond the core" pillar has generated zero falsifiable milestones in ten quarters** beyond the co-hosting marketplace (launched October 2024, the one specific delivery) and the May 2025 summer release (post-launch disclosure remains qualitative).
-- **North America growth acknowledged as "low single digits" in H1 2025 but never directly diagnosed** — framing consistently shifts to momentum rather than cause.
-- **The "reacceleration thesis" and "low teens" growth aspiration (Q3 2025) are not ratified as formal targets** on any earnings call; investors may be holding management to a target management has not formally committed to.
-- **Self-contradiction on adaptability (Q4 2025):** Chesky used "turning a cruise ship" as a metaphor for deliberate pacing in the opening, then described Airbnb as designed "not to move like a cruise ship, but very nimbly" in Q&A. Unresolved within the same call.
+- **Perishable goal accumulation**: Experiences (8+ years), loyalty program (5+ consecutive quarters "in testing"), advertising ($1B opportunity repeatedly deprioritized), "1–2 new billion-dollar businesses per year" (Q3 2024, not revisited with accountability through Q4 2025). Each individually defensible; collectively they represent a pattern of aspirational commitment without resolution.
+- **Strategic Clarity C-grades**: Dimensions 2 earned C in Q4 2023, Q1 2025, and Q4 2024, each coinciding with calls where "expanding beyond the core" was prominent but evidence-free.
+- **Self-contradiction on adaptability (Q4 2025)**: Chesky used "cruise ship" as a metaphor for appropriate deliberateness in opening remarks, then claimed Airbnb is designed "not to move like a cruise ship, but to move very nimbly" in Q&A. Not reconciled.
+- **AI P&L claim (Q4 2025)**: Chesky stated AI investment "will not affect the P&L," which conflicts with disclosed AI team hiring and compute cost implications. CFO did not validate or correct.
+- **North America growth not analyzed**: Low-single-digit North America growth in H1 2025 was acknowledged but never diagnosed—what was tried, what failed, what changed. The acceleration in H2 2025 is cited as validation without examining the H1 gap.
+- **Metric evolution risk**: "Nights and seats booked" was introduced in Q2 2025, blending accommodation nights with experience/service seats. Mertz acknowledged seats are immaterial today. As services scale, the combined metric will progressively obscure accommodation-night growth rates.
 
 ---
 
 ## Verify Next Quarter
 
-From the Q4 2025 analysis, the following specific commitments should be checked when the Q1 2026 call drops:
+From the Q4 2025 analysis, the following should be checked when the Q1 2026 call drops:
 
-1. **AI customer service penetration rate.** Chesky committed that "significantly more than 30%" of tickets will be handled by AI "a year from now," with voice capability added and more languages covered. The Q1 2026 call should disclose an updated penetration metric. If this metric goes unmentioned, treat as a negative accountability signal.
+1. **AI customer service penetration**: Chesky committed that "significantly more than 30% of tickets" in North America English will be handled by AI agents "a year from now." The Q1 2026 call should disclose the updated penetration rate. If this metric goes unmentioned, flag as a negative accountability signal.
 
-2. **Reserve Now Pay Later cancellation curve at scale.** Mertz stated RNPL cancellation curves have tracked "very close to what we saw from testing" with an approximate "1% overall" impact. As RNPL expands to cross-border stays and more global markets, verify whether cancellation rates deviate materially from the disclosed baseline.
+2. **Reserve Now Pay Later cancellation curves**: Mertz stated cancellation rates "have been very close to what we saw from testing." As the product expands cross-border, verify whether the ~1% aggregate impact is sustained, disclosed, or quietly dropped from reporting.
 
-3. **Hotel supply exit trajectory.** Mertz committed to exiting 2026 with hotels being "a meaningfully larger percent of the overall business." Verify whether growth rate sustains relative to the Q4 2025 baseline (single-digit percent of nights, growing at roughly double the platform rate) and whether management quantifies the exit percentage.
+3. **Hotel supply growth exit trajectory**: Mertz committed to hotels being "a meaningfully larger percent of the overall business" exiting 2026. Current baseline is single-digit percent of nights, growing at approximately double the platform rate. Any update on supply count, pilot market expansion beyond L.A./NYC/Madrid, or percentage-of-nights disclosure should be tracked.
 
-4. **Loyalty program resolution.** This has been "in testing" across at minimum Q4 2024, Q1 2025, Q2 2025, Q3 2025, and Q4 2025 — five consecutive quarters. If Q1 2026 produces materially identical language ("we are testing") without a decision timeline or testing readout, flag formally as a perishable goal pattern.
+4. **Loyalty program decision point**: Five-plus consecutive quarters of "in testing" with no readout. If Q1 2026 contains materially identical language with no disclosed testing results, decision criteria, or timeline, this should be formally classified as a perishable non-commitment rather than disciplined development.
 
-5. **North America momentum sustainability.** Mertz described North America as "one of the underpinning points of optimism around '26." Q1 2026 actuals should be checked against the Q1 guidance implied nights growth (high single-digits overall). If North America reverts to low single-digit growth, the Q4 2025 optimism requires direct accounting.
+5. **North America acceleration sustainability**: Mertz described North America as "one of the underpinning points of our optimism around '26." Q1 guidance implies high-single-digit total nights growth. Whether North America specifically sustains or reverts to H1 2025's low-single-digit trajectory is the most important near-term demand verification.
