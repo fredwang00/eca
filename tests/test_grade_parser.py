@@ -1,4 +1,4 @@
-from eca.parsers.grades import parse_grades
+from eca.parsers.grades import parse_grades, parse_signals
 
 SAMPLE_ROOT = """# Earnings Call Candor Analysis
 ## Company: Root, Inc. | Quarter: Q3 2025 | Date: November 4, 2025
@@ -168,3 +168,95 @@ def test_parse_header_metadata():
     assert result["company"] == "Root, Inc."
     assert result["quarter"] == "Q3 2025"
     assert result["call_date"] == "November 4, 2025"
+
+
+# --- Signal parser tests ---
+
+SAMPLE_SIGNALS_BLOCK = """### Tracking Notes for Future Evaluations
+Some tracking notes here.
+
+```SIGNALS
+{
+  "consumer_stress_tier": "trade_down",
+  "credit_quality_trend": null,
+  "auto_credit_trend": null,
+  "housing_demand": null,
+  "services_demand": null,
+  "capex_direction": "stable",
+  "pricing_power": "moderate",
+  "management_tone_shift": "more_cautious",
+  "signal_evidence": {
+    "consumer_stress_tier": "Guests are choiceful, stretching budgets...",
+    "capex_direction": "We plan to maintain our current capital expenditure run-rate...",
+    "pricing_power": "We recently lowered prices on thousands of items...",
+    "management_tone_shift": "Sentiment is at a 3-year low..."
+  }
+}
+```
+"""
+
+SAMPLE_NO_SIGNALS = """### Tracking Notes
+Just some notes, no signals block.
+"""
+
+SAMPLE_SIGNALS_NULLS_ONLY = """```SIGNALS
+{
+  "consumer_stress_tier": null,
+  "credit_quality_trend": null,
+  "auto_credit_trend": null,
+  "housing_demand": null,
+  "services_demand": null,
+  "capex_direction": "accelerating",
+  "pricing_power": "strong",
+  "management_tone_shift": "more_confident",
+  "signal_evidence": {
+    "capex_direction": "We are doubling our GPU fleet...",
+    "pricing_power": "We raised prices 10% with no churn impact...",
+    "management_tone_shift": "We have never been more optimistic..."
+  }
+}
+```
+"""
+
+
+def test_parse_signals_full():
+    result = parse_signals(SAMPLE_SIGNALS_BLOCK)
+    assert result is not None
+    assert result["consumer_stress_tier"] == "trade_down"
+    assert result["credit_quality_trend"] is None
+    assert result["capex_direction"] == "stable"
+    assert result["pricing_power"] == "moderate"
+    assert result["management_tone_shift"] == "more_cautious"
+    assert "consumer_stress_tier" in result["signal_evidence"]
+    assert "Guests are choiceful" in result["signal_evidence"]["consumer_stress_tier"]
+
+
+def test_parse_signals_missing():
+    result = parse_signals(SAMPLE_NO_SIGNALS)
+    assert result is None
+
+
+def test_parse_signals_nulls():
+    result = parse_signals(SAMPLE_SIGNALS_NULLS_ONLY)
+    assert result is not None
+    assert result["consumer_stress_tier"] is None
+    assert result["capex_direction"] == "accelerating"
+    assert result["pricing_power"] == "strong"
+
+
+def test_parse_signals_uses_last_block():
+    """If multiple SIGNALS blocks exist, take the last one (findall+last pattern)."""
+    text = """```SIGNALS
+{"consumer_stress_tier": "neutral", "pricing_power": "strong", "signal_evidence": {}}
+```
+
+Some text.
+
+```SIGNALS
+{"consumer_stress_tier": "trade_down", "pricing_power": "weak", "signal_evidence": {}}
+```
+"""
+    result = parse_signals(text)
+    assert result is not None
+    assert result["consumer_stress_tier"] == "trade_down"
+    assert result["pricing_power"] == "weak"

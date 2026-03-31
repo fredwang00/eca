@@ -171,6 +171,53 @@ Show your arithmetic in the output.
 
 ---
 
+## Signal Extraction
+
+After producing the candor analysis, extract structured consumer health signals from the transcript. These signals feed a cross-company dashboard that detects macro regime shifts.
+
+**Output a fenced code block tagged `SIGNALS` at the very end of your output** (after Tracking Notes). The block contains a JSON object with these fields:
+
+| Field | Applies to | Values (ordered by severity) |
+|-------|-----------|------------------------------|
+| consumer_stress_tier | WMT, COST, TGT, AFRM, LMND, ROOT, ABNB, SHOP | neutral, trade_down, essentials_pressure, credit_bridging |
+| credit_quality_trend | JPM, COF, AXP, AFRM | improving, stable, normalizing, deteriorating |
+| auto_credit_trend | COF, JPM | improving, stable, normalizing, deteriorating |
+| housing_demand | OPEN | expanding, stable, softening, contracting |
+| services_demand | UBER, ABNB, SHOP | expanding, stable, softening, contracting |
+| capex_direction | NVDA, MSFT, GOOG, META, AMZN, AAPL, TSLA, IREN, CIFR, WULF, RKLB | accelerating, stable, decelerating, cutting |
+| pricing_power | All tickers | strong, moderate, weak, capitulating |
+| management_tone_shift | All tickers | more_confident, consistent, more_cautious, alarmed |
+
+**Rules:**
+- Set a field to `null` if it does not apply to this company (per the table above).
+- For every non-null field, include a one-line transcript quote in `signal_evidence` that justifies the value.
+- Use exactly one of the listed enum values — no variations.
+
+**Example:**
+
+~~~
+```SIGNALS
+{
+  "consumer_stress_tier": "trade_down",
+  "credit_quality_trend": null,
+  "auto_credit_trend": null,
+  "housing_demand": null,
+  "services_demand": null,
+  "capex_direction": "stable",
+  "pricing_power": "moderate",
+  "management_tone_shift": "more_cautious",
+  "signal_evidence": {
+    "consumer_stress_tier": "Guests are choiceful, stretching budgets...",
+    "capex_direction": "We plan to maintain our current capital expenditure run-rate...",
+    "pricing_power": "We recently lowered prices on thousands of items...",
+    "management_tone_shift": "Sentiment is at a 3-year low..."
+  }
+}
+```
+~~~
+
+---
+
 ## Output Format
 
 Produce the following structured report. Use the exact headers below.

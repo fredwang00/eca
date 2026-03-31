@@ -131,3 +131,28 @@ def test_query_flag_frequency(tmp_path, monkeypatch):
     freqs = {r["flag"]: r["cnt"] for r in rows}
     assert freqs["equity_declining_yoy"] == 2
     assert freqs["bvps_absent"] == 1
+
+
+def test_rebuild_inserts_signals(tmp_path, monkeypatch):
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+    _make_facts(tmp_path, "WMT", "q4-2025",
+                candor={"composite_score": 3.0},
+                metrics={"revenue_m": 164000.0})
+    # Add signals to the facts file
+    d = tmp_path / "data" / "wmt" / "q4-2025"
+    facts = json.loads((d / "facts.json").read_text())
+    facts["signals"] = {
+        "consumer_stress_tier": "trade_down",
+        "pricing_power": "moderate",
+        "extracted_at": "2026-03-30",
+    }
+    (d / "facts.json").write_text(json.dumps(facts))
+
+    db_path = tmp_path / "data" / "eca.db"
+    rebuild_index(db_path)
+    conn = sqlite3.connect(db_path)
+    row = conn.execute(
+        "SELECT consumer_stress_tier, pricing_power, signals_extracted_at FROM quarter_facts WHERE ticker='WMT'"
+    ).fetchone()
+    conn.close()
+    assert row == ("trade_down", "moderate", "2026-03-30")

@@ -41,6 +41,43 @@ class CandorGrades(TypedDict, total=False):
     composite_grade: str
 
 
+class SignalEvidence(TypedDict, total=False):
+    consumer_stress_tier: str
+    credit_quality_trend: str
+    auto_credit_trend: str
+    housing_demand: str
+    services_demand: str
+    capex_direction: str
+    pricing_power: str
+    management_tone_shift: str
+
+
+class SignalData(TypedDict, total=False):
+    extracted_at: str
+    consumer_stress_tier: str | None
+    credit_quality_trend: str | None
+    auto_credit_trend: str | None
+    housing_demand: str | None
+    services_demand: str | None
+    capex_direction: str | None
+    pricing_power: str | None
+    management_tone_shift: str | None
+    signal_evidence: SignalEvidence
+
+
+# Ordered enums for severity scoring (0 = healthy, N = worst)
+SIGNAL_ENUMS: dict[str, list[str]] = {
+    "consumer_stress_tier": ["neutral", "trade_down", "essentials_pressure", "credit_bridging"],
+    "credit_quality_trend": ["improving", "stable", "normalizing", "deteriorating"],
+    "auto_credit_trend": ["improving", "stable", "normalizing", "deteriorating"],
+    "housing_demand": ["expanding", "stable", "softening", "contracting"],
+    "services_demand": ["expanding", "stable", "softening", "contracting"],
+    "capex_direction": ["accelerating", "stable", "decelerating", "cutting"],
+    "pricing_power": ["strong", "moderate", "weak", "capitulating"],
+    "management_tone_shift": ["more_confident", "consistent", "more_cautious", "alarmed"],
+}
+
+
 class Facts(TypedDict, total=False):
     company: str
     ticker: str
@@ -48,6 +85,7 @@ class Facts(TypedDict, total=False):
     call_date: str
     metrics: QuarterMetrics
     candor: CandorGrades
+    signals: SignalData
     flags: list[str]
     tracking: list[str]
 

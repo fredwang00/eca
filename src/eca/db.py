@@ -26,6 +26,11 @@ CREATE TABLE IF NOT EXISTS quarter_facts (
     total_equity_m REAL, shares_outstanding_m REAL,
     bvps REAL, roe_pct REAL,
     combined_ratio_pct REAL, loss_ratio_pct REAL, expense_ratio_pct REAL,
+    consumer_stress_tier TEXT, credit_quality_trend TEXT,
+    auto_credit_trend TEXT, housing_demand TEXT,
+    services_demand TEXT, capex_direction TEXT,
+    pricing_power TEXT, management_tone_shift TEXT,
+    signals_extracted_at TEXT,
     PRIMARY KEY (ticker, quarter)
 );
 
@@ -55,6 +60,13 @@ _METRIC_FIELDS = [
     "cash_and_equivalents_m", "total_assets_m", "total_equity_m",
     "shares_outstanding_m", "bvps", "roe_pct",
     "combined_ratio_pct", "loss_ratio_pct", "expense_ratio_pct",
+]
+
+_SIGNAL_FIELDS = [
+    "consumer_stress_tier", "credit_quality_trend",
+    "auto_credit_trend", "housing_demand",
+    "services_demand", "capex_direction",
+    "pricing_power", "management_tone_shift",
 ]
 
 
@@ -104,6 +116,7 @@ def rebuild_index(db_path: Path) -> None:
 def _insert_quarter(conn: sqlite3.Connection, ticker: str, quarter: str, facts: dict) -> None:
     candor = facts.get("candor", {})
     metrics = facts.get("metrics", {})
+    signals = facts.get("signals", {})
 
     values = {
         "ticker": ticker,
@@ -115,6 +128,9 @@ def _insert_quarter(conn: sqlite3.Connection, ticker: str, quarter: str, facts: 
         values[f] = candor.get(f)
     for f in _METRIC_FIELDS:
         values[f] = metrics.get(f)
+    for f in _SIGNAL_FIELDS:
+        values[f] = signals.get(f)
+    values["signals_extracted_at"] = signals.get("extracted_at")
 
     cols = ", ".join(values.keys())
     placeholders = ", ".join(["?"] * len(values))

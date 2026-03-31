@@ -129,3 +129,53 @@ def test_extract_and_update_facts(tmp_path):
     assert facts["candor"]["composite_grade"] == "C"
     assert facts["candor"]["composite_score"] == 2.03
     assert facts["candor"]["skill_version"] == "base+insurtech"
+
+
+MOCK_OUTPUT_WITH_SIGNALS = MOCK_OUTPUT + """
+### Tracking Notes for Future Evaluations
+Watch for continued trade-down behavior next quarter.
+
+```SIGNALS
+{
+  "consumer_stress_tier": "trade_down",
+  "credit_quality_trend": null,
+  "auto_credit_trend": null,
+  "housing_demand": null,
+  "services_demand": null,
+  "capex_direction": null,
+  "pricing_power": "moderate",
+  "management_tone_shift": "more_cautious",
+  "signal_evidence": {
+    "consumer_stress_tier": "Guests are stretching budgets...",
+    "pricing_power": "We lowered prices on thousands of items...",
+    "management_tone_shift": "Sentiment is at a 3-year low..."
+  }
+}
+```
+"""
+
+
+def test_extract_and_update_facts_with_signals(tmp_path):
+    facts_path = tmp_path / "facts.json"
+    facts_path.write_text(json.dumps({"ticker": "ROOT", "quarter": "Q3 2025"}))
+
+    extract_and_update_facts(facts_path, MOCK_OUTPUT_WITH_SIGNALS, "base")
+
+    facts = json.loads(facts_path.read_text())
+    assert "signals" in facts
+    assert facts["signals"]["consumer_stress_tier"] == "trade_down"
+    assert facts["signals"]["credit_quality_trend"] is None
+    assert facts["signals"]["pricing_power"] == "moderate"
+    assert "extracted_at" in facts["signals"]
+    assert "consumer_stress_tier" in facts["signals"]["signal_evidence"]
+
+
+def test_extract_and_update_facts_no_signals(tmp_path):
+    """When analysis has no SIGNALS block, signals key should not be added."""
+    facts_path = tmp_path / "facts.json"
+    facts_path.write_text(json.dumps({"ticker": "IREN", "quarter": "Q1 2026"}))
+
+    extract_and_update_facts(facts_path, MOCK_OUTPUT, "base")
+
+    facts = json.loads(facts_path.read_text())
+    assert "signals" not in facts

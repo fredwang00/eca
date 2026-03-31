@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import re
 
 
@@ -60,3 +61,18 @@ def parse_grades(text: str) -> dict:
                 result["composite_score"] = float(scores[-1])
 
     return result
+
+
+def parse_signals(text: str) -> dict | None:
+    """Extract the SIGNALS JSON block from analysis markdown.
+
+    Returns the parsed dict, or None if no block found.
+    Uses findall+last to handle multiple blocks (takes the last one).
+    """
+    blocks = re.findall(r"```SIGNALS\s*\n(.*?)```", text, re.DOTALL)
+    if not blocks:
+        return None
+    try:
+        return json.loads(blocks[-1].strip())
+    except json.JSONDecodeError:
+        return None

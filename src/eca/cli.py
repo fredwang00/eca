@@ -181,6 +181,36 @@ def synthesize_cmd(sector: str | None, list_sectors: bool, model: str):
             click.echo(f"  (no data for synthesis)")
 
 
+@cli.command("dashboard")
+@click.option("--narrative", is_flag=True, help="Add LLM-generated narrative assessment")
+@click.option("--model", default="claude-sonnet-4-6", help="Model for narrative")
+def dashboard_cmd(narrative: bool, model: str):
+    """Render the consumer health dashboard."""
+    from eca.config import data_dir, skills_dir
+    from eca.db import rebuild_index
+    from eca.processors.dashboard import render_dashboard
+
+    db_path = data_dir() / "eca.db"
+    click.echo("Rebuilding index...")
+    rebuild_index(db_path)
+
+    output = render_dashboard(db_path)
+
+    if narrative:
+        click.echo("Generating narrative assessment...")
+        from eca.llm import run_analysis
+
+        system_prompt = (skills_dir() / "dashboard-narrative.md").read_text()
+        narrative_text = run_analysis(system_prompt, output, model=model)
+        output += "\n\n## Narrative Assessment\n\n" + narrative_text
+
+    # Write to data/dashboard.md
+    dashboard_path = data_dir() / "dashboard.md"
+    dashboard_path.write_text(output + "\n")
+    click.echo(output)
+    click.echo(f"\nWritten to {dashboard_path}")
+
+
 @cli.command("query")
 @click.argument("query_text")
 @click.option("--ticker", help="Filter by ticker")

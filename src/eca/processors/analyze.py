@@ -6,7 +6,7 @@ from datetime import date
 from pathlib import Path
 
 from eca.llm import run_analysis, DEFAULT_MODEL
-from eca.parsers.grades import parse_grades
+from eca.parsers.grades import parse_grades, parse_signals
 from eca.schema import load_facts, save_facts
 
 
@@ -114,4 +114,10 @@ def extract_and_update_facts(
             candor[key] = grades[key]
 
     facts["candor"] = candor
+
+    signals = parse_signals(analysis_text)
+    if signals is not None:
+        signals["extracted_at"] = date.today().isoformat()
+        facts["signals"] = signals
+
     save_facts(facts_path, facts)
