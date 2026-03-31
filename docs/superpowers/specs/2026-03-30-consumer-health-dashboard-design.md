@@ -38,7 +38,7 @@ Added to `facts.json` alongside `candor` and `metrics`:
 
 | Field | Applies to |
 |-------|-----------|
-| consumer_stress_tier | WMT, COST, TGT, AFRM, LMND, ROOT |
+| consumer_stress_tier | WMT, COST, TGT, AFRM, LMND, ROOT, ABNB, SHOP |
 | credit_quality_trend | JPM, COF, AXP, AFRM |
 | auto_credit_trend | COF, JPM |
 | housing_demand | OPEN |
@@ -81,6 +81,7 @@ Append a "Signal Extraction" section to `skills/base.md` after the Composite Gra
   "management_tone_shift": "more_cautious",
   "signal_evidence": {
     "consumer_stress_tier": "Guests are choiceful, stretching budgets...",
+    "capex_direction": "We plan to maintain our current capital expenditure run-rate through year-end...",
     "pricing_power": "We recently lowered prices on thousands of items...",
     "management_tone_shift": "Sentiment is at a 3-year low..."
   }
@@ -100,7 +101,7 @@ New module: `src/eca/engine/waterfall.py`
 
 | # | Stage | Key Tickers | Trigger Signals | Threshold |
 |---|-------|------------|-----------------|-----------|
-| 1 | Discretionary Cuts | TGT, ABNB, SHOP | consumer_stress_tier in [trade_down, essentials_pressure, credit_bridging] OR pricing_power in [weak, capitulating] OR services_demand in [softening, contracting] | 2 of 3 |
+| 1 | Discretionary Cuts | TGT, ABNB, SHOP | consumer_stress_tier in [trade_down, essentials_pressure, credit_bridging] OR pricing_power in [weak, capitulating] | 2 of 3 |
 | 2 | Essential Trade-Down | WMT, COST | consumer_stress_tier in [essentials_pressure, credit_bridging] | 1 of 2 |
 | 3 | Credit Bridging | COF, JPM, AXP, AFRM | credit_quality_trend in [normalizing, deteriorating] | 2 of 4 |
 | 4 | Housing Stress | OPEN | housing_demand in [softening, contracting] | 1 of 1 |
@@ -120,7 +121,7 @@ Stage 7 intentionally requires BOTH conditions (pricing power erosion AND tone s
 | 4 | Deteriorating |
 | 5+ | Phase X |
 
-Phase X requires 5 or more of 7 stages firing simultaneously AND at least 4 distinct tickers contributing (to prevent a single company's bad quarter from triggering multiple stages via overlap — e.g., COF appears in both Stages 3 and 6).
+Phase X requires 5 or more of 7 stages firing simultaneously AND at least 4 distinct tickers contributing (to prevent a localized shock across just two companies — e.g., ABNB and COF having isolated bad quarters — from artificially triggering 4 overlapping stages).
 
 ### Engine interface
 
@@ -237,7 +238,7 @@ eca dashboard [--narrative]
 
 Signal extraction requires re-analyzing recent quarters. Strategy:
 
-- Re-analyze only the **most recent 2 quarters** per ticker with data (~44 LLM calls across ~22 tickers that have analyzed data)
+- Re-analyze only the **most recent 2 quarters** per ticker with data (~62 LLM calls across 31 tickers that have analyzed data)
 - Older quarters get null signals — the dashboard only reads the most recent quarter anyway
 - Future analyses automatically include signals going forward
 - If deeper historical signal data is desired later, re-analyze selectively
