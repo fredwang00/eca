@@ -12,11 +12,13 @@ pip install -e .
 
 This installs the `eca` CLI and its dependencies (click, anthropic, openai, yfinance).
 
-You'll need an Anthropic API key (or access to the Hendrix AI gateway) exported as `ANTHROPIC_API_KEY`.
+You'll need one of:
+- `ANTHROPIC_API_KEY` for direct Anthropic API access, or
+- `ECA_API_KEY` + `ECA_BASE_URL` for an OpenAI-compatible gateway
 
 ## CLI usage
 
-The `eca` CLI is the primary interface. It implements an atomic data pipeline: ingest transcripts, fetch metrics, run analysis, then query across results.
+The `eca` CLI is the primary interface. It implements an atomic data pipeline: ingest transcripts, fetch metrics, run analysis, build indexes, synthesize across sectors, and render a macro dashboard.
 
 ```bash
 # Ingest a transcript into the data tree
@@ -34,18 +36,25 @@ eca analyze GOOG --all
 # Include prior quarter context for longitudinal comparison
 eca analyze GOOG q2-2025 --compare-prior
 
-# Use a specific model
-eca analyze GOOG q1-2025 --model claude-opus-4-6
+# Rebuild the SQLite index from all facts.json files
+eca build-index
+
+# Generate sector-level synthesis (briefs + cross-company analysis)
+eca synthesize --sector consumer
+eca synthesize --sector all
+eca synthesize --list-sectors
+
+# Render the consumer health dashboard (no LLM call)
+eca dashboard
+
+# Dashboard with LLM-generated narrative assessment
+eca dashboard --narrative
 
 # Query grades across quarters
 eca query "grades GOOG"
 
 # Natural language queries over the full data tree
 eca query "which company improved most between Q1 and Q4 2025?"
-
-# Migrate from the old transcripts/analyses layout to data/
-eca migrate --dry-run
-eca migrate
 ```
 
 ## Claude Code skill
@@ -74,14 +83,34 @@ data/
     q1-2025/
       transcript.txt    # raw earnings call text
       analysis.md       # Rittenhouse framework analysis
-      facts.json        # structured grades, metadata, tracking flags
+      facts.json        # structured grades, signals, metadata
     q2-2025/
-    q3-2025/
-    q4-2025/
     metrics-raw.json    # yfinance financial data (ticker-level)
+  synthesis/
+    consumer/           # sector-level synthesis output
+  eca.db                # SQLite index (rebuilt from facts.json)
+  dashboard.md          # latest dashboard render
 ```
 
-`facts.json` captures the composite grade, per-dimension grades, company metadata, financial metrics, and tracking notes in a machine-readable format for cross-quarter queries.
+`facts.json` captures per-dimension candor grades, composite scores, financial metrics, and consumer health signals in a machine-readable format for cross-quarter queries and dashboard aggregation.
+
+## Consumer health dashboard
+
+The dashboard aggregates cross-company signals into a macro regime assessment using a 7-stage consumer distress waterfall:
+
+| Stage | What it detects | Key tickers |
+|-------|----------------|-------------|
+| 1. Discretionary Cuts | Trade-down or pricing capitulation | TGT, ABNB, SHOP |
+| 2. Essential Trade-Down | Stress reaching essentials | WMT, COST |
+| 3. Credit Bridging | Credit quality deteriorating | COF, JPM, AXP, AFRM |
+| 4. Housing Stress | Housing demand softening | OPEN |
+| 5. Services Contraction | Services demand falling | UBER, ABNB, SHOP |
+| 6. Auto/Utility Defaults | Auto credit deteriorating | COF, JPM |
+| 7. Subscription Churn | Pricing power + tone shift | NFLX, SPOT |
+
+Stages firing simultaneously determine the regime label: Healthy, Pre-stress, Early-stress, Deteriorating, or Phase X (5+ stages, 4+ distinct tickers).
+
+Signal extraction happens automatically during `eca analyze`. The LLM outputs a `SIGNALS` block at the end of each analysis, which the parser extracts into `facts.json`. The dashboard reads the most recent quarter's signals per ticker and runs the waterfall deterministically — no LLM call required for the standing view.
 
 ## What it grades
 
