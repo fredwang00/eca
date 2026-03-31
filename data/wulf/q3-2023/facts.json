@@ -1,0 +1,16 @@
+{
+  "ticker": "WULF",
+  "quarter": "Q3 2023",
+  "company": "TeraWulf Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-30",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B+",
+    "dim3_grade": "C+",
+    "dim4_grade": "B-",
+    "dim5_grade": "B-",
+    "composite_score": 2.88,
+    "composite_grade": "B-"
+  }
+}

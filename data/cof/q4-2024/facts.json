@@ -1,0 +1,16 @@
+{
+  "ticker": "COF",
+  "quarter": "Q4 2024",
+  "company": "Capital One Financial Corporation",
+  "candor": {
+    "analyzed_at": "2026-03-30",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.65,
+    "composite_grade": "A"
+  }
+}

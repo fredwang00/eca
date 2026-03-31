@@ -1,0 +1,218 @@
+March 18th, 2024
+Operator
+Greetings, and welcome to the TeraWulf's 2023 Fourth Quarter and Full Year Earnings Call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Mr. Jason Assad, TeriWulf's Director of Corporate Communications. Thank you. Mr.
+
+Assad, you may begin.
+
+Jason Assad
+Thank you, operator. Good afternoon, and welcome to TeraWulf's earnings call. With me today are Chairman and Chief Executive Officer, Paul Prager, and our Chief Financial Officer, Patrick Fleury. Before we get started, I'd like to remind everyone that our prepared remarks may contain forward-looking statements, which are subject to risk and uncertainties, and we may make additional forward-looking statements during the Q&A session of the call. These forward-looking statements are subject to risk and uncertainties, and actual results may differ materially. When used in this call, the words anticipate, could, enable, estimate, intend, expect, believe, potential, will, should, project, and similar expressions as they relate to TeraWulf are such forward-looking statements. Investors are cautioned that forward-looking statements involve risk and uncertainties, which may cause actual results to differ materially from those anticipated by TeraWulf at this time. In addition, other risks are more fully described in TeraWulf's public filings with the U.S.
+
+Securities and Exchange Commission, which may be viewed at sec.gov and in the Investor section of our corporate website at terawulf.com. Finally, please note that on today's call, we'll refer to certain non-GAAP financial measures. Please refer to our company's periodic reports on Form 10-K and 10-Q and on our website for full reconciliation of these non-GAAP performance measures to the most comparable GAAP financial measures. We'll begin today's call with prepared remarks from Paul and Patrick, then we'll proceed to Q&A. Now, it's my pleasure to now turn the call over to TeraWulf's CEO, Paul Prager. Paul?
+
+Paul Prager
+Thank you, Jason, and good afternoon, everyone. We appreciate your attendance today as we discuss our fourth quarter and full year 2023 financial results. This past year has been marked by significant growth and achievements for TeraWulf, showcasing rapid organic growth at our existing sites, substantial debt repayment and enhanced liquidity. We've not only met, but surpassed several strategic objectives and I'm excited to share these accomplishments with you. Firstly, TeraWulf specializes in Bitcoin mining, leveraging zero carbon energy resources at our two top-tier data centers, our wholly-owned and operated Lake Mariner facility in Upstate New York, sourcing 93% zero carbon grid power, and the Nautilus Cryptomine facility in Pennsylvania, a joint venture with Talen entirely powered by nuclear energy. As of the end of February, these two industrial scale mining facilities achieved a combined self-mining hash rate of 8 exahash per second facilitated by approximately 50,000 deployed miners, representing a more than three-fold increase from last year. Despite challenges posed by record high network difficulty, we produced 971 Bitcoin during the fourth quarter alone, contributing to a total of 3,407 Bitcoin mined throughout 2023. I'd like to take a moment to put these figures in context.
+
+During the fourth quarter, we produced 971 Bitcoin, resulting in a total value of $34.8 million and an adjusted EBITDA of $16.4 million. Utilizing Bloomberg consensus annual adjusted EBITDA estimates for 2024 of $96 million and our current enterprise value of approximately $590 million, this would suggest we are trading at a multiple of 6 times. In comparison, some of our competitors are trading at multiples as high as 16 times with an average in our peer group of 9 times. We recognize that market value serves as an important measure of our progress over time. Our steadfast commitment lies in consistently delivering exponential growth in hash rate, with unparalleled access to low-cost, zero-carbon power at our existing facilities. The importance of infrastructure scalability cannot be overstated. It forms the very bedrock of our strategic approach. Scalability ensures not only stability and control, but also confers significant long-term cost advantages.
+
+It empowers us to optimize operational efficiency, strategically expand our operations, and enhance profitability. This unwavering focus on profitability assumes heightened significance as we approach the impending halving event. We are committed to achieving a 300-megawatt infrastructure capacity in operation by the end of 2024, with plans to further expand to 550 megawatts of deployed infrastructure by 2025. This expansion will result in approximately 28 exahash, assuming the current generation of miners. Additionally, we are actively exploring options in addition to Bitcoin mining to optimize the utilization of our extensive proprietary infrastructure to unlock additional value. To this end, in 2023, we established Wulf Compute as our internal innovation hub, focusing on research, development and deploying our extensive and scalable digital infrastructure. Following a successful pilot phase, involving a compact NVIDIA GPU system to enhance generative AI and large language model applications, we took the step of dedicating a 2-megawatt power block at our Lake Mariner facility. With over 300 megawatts of available infrastructure at Lake Mariner strategically positioned to cater to data center requirements, this initial allocation is part of a broader high-performance computing initiative and serves to provide diversification of the company's revenue streams.
+
+Investments in cloud infrastructure by prominent hyperscalers such as Microsoft, Amazon, Meta, Oracle, and Google have experienced impressive average annual growth, exceeding 30% over the past five years. In 2022 alone, these entities collectively spent $158 billion. The demanding specifications of hyperscalers necessitates sites capable of accommodating several hundred megawatts to sustain multiple data center buildings ranging from 40 to 80 megawatts each. These locations must also offer direct access to extensive contiguous land suitable for constructing data centers, power banks, parking facilities, loading zones, and ancillary buildings, access to water to run in the most efficient manner, and critically must adhere to a sustainable ESG framework. TeraWulf is uniquely positioned to fulfill all these requirements. Our large-scale energy infrastructure, coupled with access to zero-carbon, low-cost power is invaluable for meeting the growing demand from Bitcoin mining and AI applications. Our infrastructure plays a pivotal role in enabling this demand growth. Turning now to our financial position.
+
+We remain steadfast in our strategy to leverage our resilient low-cost infrastructure to maximize profits, repay debt, and return value to shareholders. Our performance in the fourth quarter highlights TeraWulf's consistent achievement of industry-leading profitability. We estimate that our cost to mine a Bitcoin is among the lowest compared to other publicly-listed Bitcoin mining companies at approximately $25,000 per Bitcoin before the halving and $37,000 after the halving. As the halving approaches in a month's time, we anticipate that our position as the lowest-cost producer of Bitcoin will only be further strengthened, underscoring the value of our vertically integrated and sustainable business model. We've also made significant strides in debt repayment and liquidity. We repaid $40 million of principal in the last four months, bringing our debt balance to $106 million. With liquidity of almost $56 million as at the end of February and substantial projected free cash flow for the first quarter, we have the ability to reduce debt even further with an anticipated debt paydown of roughly $30 million in early April, which will bring the debt balance to $76 million. Allow me to address the matter of dilution.
+
+Throughout the fiscal year 2023, we exercised prudent management of our ATM facility, strategically selling approximately 58 million shares at an average price of $2.05 per share, resulting in a discernibly accretive impact. From the proceeds, approximately $18 million was used for a voluntary debt repayment. The remaining funds were directed towards essential miner and infrastructure capital expenditures, with an additional $20 million retained as surplus liquidity on our balance sheet to navigate the halving in a few weeks. While I am fully cognizant of the concerns surrounding dilution, both out of my fiduciary responsibilities to you and as a leading and significant shareholder, I urge you to consider the substantial and accretive impact of these allocated funds. Looking forward, we have far more flexibility in sourcing capital given our current cash flow generation. For instance, in February, we produced 364 Bitcoin at an average cost of approximately $26,000 per Bitcoin, providing total value of $17.8 million, with $8.4 million flowing directly to the bottom-line. That's significant. As of April, we expect our net debt will stand at approximately $55 million, nearly 50% lower than at the beginning of the year, placing the company in its strongest position ever.
+
+Finally, I'd like to take a moment to thank the incredible team at TeraWulf for their dedication, innovation, and hard work, which have been critical in achieving the milestones I've highlighted today. It is your effort that drives our success, and I'm proud to lead such an outstanding group of professionals. Now, I'll hand the call over to our CFO, Patrick Fleury, for a detailed financial review.
+
+Patrick Fleury
+Thank you, Paul. During 2023 and continuing into the first quarter of 2024, the company accomplished several notable steps to achieve positive cash flows from operations
+
+Operator
+Thank you. We will now be conducting a question-and-answer session. [Operator Instructions] Our first question comes from the line of Mike Grondahl with Northland Securities. Please proceed with your question.
+
+Mike Grondahl
+Hey, thanks guys. Two questions. I'll ask both of them upfront. But the first one, as it relates to your HPC initiative, what are the two assets that have the most value for you guys as you're going out to the market there? And related to that, how do you value those assets? And what's kind of the timeline to harness that value? And then, secondly, any thoughts on kind of the elevated short interest in the stock?
+
+Patrick Fleury
+Yeah. Hey, thanks, Mike. Can you hear me okay? It's Patrick.
+
+Mike Grondahl
+Yes.
+
+Mike Grondahl
+Okay. Great. So, sorry for the -- we've got management team all over the country at different conferences and a lot going on today. So, I'll start, Paul, but feel free to jump in. But Mike, with regard to HPC and AI, look, I think size and scale and economies of scale matter. And so, there's very few sites left in the United States that have over 50 megawatts. We have 300 megawatts at Lake Mariner, but also have access to land, abundant and cheap and largely zero carbon power and water. Remember, we're at the site of a retired coal plant that used to pull hundreds of thousands of gallons of water from the lake.
+
+And so, I think being able to check the box on all of those items is very rare, and it positions you for value creation, similar to our partner talent and what they just realized at their site. So, I'll pause there. Paul, do you want to add anything to that?
+
+Paul Prager
+No, I think you got it. I would want to underscore how important ESG is to these hyperscalers. So, land, power, cost of power and that green focus is fundamentally critical to these guys. I think one other element here is how quickly they could get active. And I think our sites already years earlier than maybe some of the competitors that are currently in development, looking for their connections. So, I think the proximity or the immediacy of their availability for a hyperscaler is very compelling to them as well.
+
+Patrick Fleury
+And then, Mike, just to address your second question, it's not lost on us. I see short reports weekly. So, just to give you an idea, we have about 47 million shares sold short today. And as you know, insiders and management, we have among the largest among all the Bitcoin miners, insider ownership, which is why we're so careful and prudent with the ATM. And we have, I think, around 300 million common shares outstanding. Of that amount, just broadly speaking, probably 100 million to 150 million is held by what I would deem insiders. So, with 47 million shares short, I mean you're talking about 25%-plus of the actual float that's out there on the stock. And I can actually see -- I can't see by name because the short reports don't say that.
+
+But I can see that, for example, one fund is short close to 70% of that 47 million. And so, I can tell you, I think that's a crazy position because like I said, I think we're about to change the guard in the space where I think profitability and valuation based on profitability will really matter as opposed to previously, these companies have been valued on revenue and exahash, which just doesn't make any sense to me. I mean I've seen that in the '90s in telecom and in the 2000s in power, and none of that ended well. So, I think it's something we're focused on. A lot of that short interest or the remaining, call it, around, I don't know, 10 million, 15 million shares is actually, I think, part of our lender group and that will unwind itself in the first quarter because they own warrants in the company. Some of them have sort of taken that market risk out by shorting the stock. And when we deliver in those warrant shares, that cover will -- that short interest will be covered and go away. So look, I think we're excited about that because I think there's a real potential short squeeze opportunity as we continue to put up good numbers.
+
+
+Mike Grondahl
+Got it. And then maybe just a quick follow-up. On the 300 megawatts in the land and the water, have you attempted to put a rough valuation on that? What you think that's worth in today's market?
+
+Patrick Fleury
+So, not yet, Mike. But look, I think we're going to -- this stuff takes time. I think what I will do quickly is just lay out for you the space really is characterized by a barbell approach right now. And so, what I mean by that is on the right hand, you have stocks like the Magnificent 7 that are in effectively an arms race to secure capacity and those deals look very different. Those can be 5-, 10-, 15-, 20-year type deals where you're building according to their specs and that is very financeable, right, because you've got a long-term contract and less capital intensive because we're building the infrastructure and they're bringing the gut. So, they're owning the GPUs. And so, the other end of that spectrum, the other end of the barbell is a lot of newly-formed AI, HPC companies that are funded by venture capitalists or otherwise that are very legitimate but have sort of $50 million on balance sheet and want to enter into anywhere from six months to two-year deals, and then they're relying on you to fund the infrastructure and the gut, so buy the GPU. So, that's a lot more capital intensive, because those deals are much harder to finance, right, because it's not just a legitimate financing party saying, "Hey, we'll finance 200, 300 basis points behind the corporate credit risk." These are start-up companies.
+
+So that's kind of the barbell approach, and we are working both sides of that barbell. But one side is higher credit risk quality, startup-type companies that's more capital intensive. And then the other side is longer-term contracts, much more financeable, less capital intensive, if that makes sense.
+
+Mike Grondahl
+Sure. Okay. Hey, we'll stay tuned. Thanks, guys.
+
+Patrick Fleury
+Thanks, Mike.
+
+Operator
+Our next question comes from the line of Lucas Pipes with B. Riley Securities. Please proceed with your question.
+
+Unidentified Analyst
+Thank you very much, operator, and good afternoon, everyone. This is actually [Fedor Shabalin] (ph) asking question on behalf of Lucas Pipes. And my first one, so I believe you targeted 300 megawatts by the end of '24 and 550 megawatts by the end of '25 for your total self-mining footprint. And the question is, could the capacity potentially be utilized for HPC or cloud services?
+
+Patrick Fleury
+Yeah. Hi, Fedor, it's Patrick speaking. So, yes, I think as Paul and I were saying in our remarks, we are an infrastructure company, and we are blessed in that we are long infrastructure when there's a mass scramble for infrastructure now among both Bitcoin miners and hyperscalers, right? So, I think we -- given our insider ownership, we are focused on the highest and best return on capital. And if that means Bitcoin miners, like Paul mentioned in his remarks, we're trading at 6 times, but some of our peers are trading at 14 times, 15 times, 16 times, while data center companies out there trade at 25 times EBITDA. So, I can assure you that we are, as one of the highest insider ownership or the highest insider ownership companies in the space, we are very focused on creating long-term value, and we'll skate to where the puck is.
+
+Unidentified Analyst
+Got it. That's helpful. And maybe it's early to talk about this, but would any potential HPC capacity come at Lake Mariner or Nautilus or both? What's the preference here?
+
+Patrick Fleury
+Yeah. So, the Nautilus facility is strictly for us, it's strictly Bitcoin mining. And then, the HPC AI capacity would come at Lake Mariner. So, as Paul said in his remarks, we have -- and you'll see in our investor deck -- updated investor deck that we just posted today, we have 300 open megawatts at Lake Mariner and that will be put to the highest and best value accretive function.
+
+Unidentified Analyst
+Got you. Thank you very much. And are you having any maybe discussions today with potential tenants? And just how would you frame up the demand?
+
+Patrick Fleury
+Yes. Look, I think -- Paul, I'll answer that, but please jump in. But look, I think as we've mentioned to you publicly, we've been running a 2-megawatt pilot since the fourth quarter at Lake Mariner. We have had an adviser retained on the HPC AI front also since the fourth quarter. So, we have been in significant discussions for quite some time, and these things take time. And like I said, there's not one solution that fits all, there's co-location, there's co-location and funding of all the GPUs for sort of smaller scale and then there's much larger-scale companies that are focused on very significant size where, again, like I said, we're not taking on the GPU technology risk because we're not buying the GPUs. So that's -- again, I think we're hopeful that as we move through 2024, we'll be able to talk in more granularity about it, but it is something that our management team has been very focused on for quite some time. And we look forward to kind of rolling that out.
+
+Paul, is there anything you want to add to that?
+
+Paul Prager
+Only in response to your question about demand, I would say demand is very, very significant and timely. I think a lot of these folks are trying to get as big as they can as fast as they can. As I said in my remarks, I think we're one of the 10 most premier sites in the country when it comes to size, energy, availability, energy cost, access to water and of course, their unique ESG qualification. So, I think I'm very comfortable representing that our site is in meaningful demand, and we, as management, need to do our job and look at the highest value use for our property and energy.
+
+Unidentified Analyst
+Thank you so much. And maybe my last one about M&A opportunities that might evolve post halving. So, what's your thoughts on this space? Are you looking something into more beyond these two current sites if an opportunity evolves?
+
+Patrick Fleury
+Sure. Paul, do you want me to take that, or do you want to take it?
+
+Paul Prager
+Yeah. Hey, listen, we're trying to do -- we're trying very hard in the space that's full of volatility and misinformation to really focus on execution. If we just stay the course here and build out our existing facilities, we're going to be busy for quite some time. And that is the primary focus. Of course, we are familiar with energy infrastructure, unlike almost any other of our peers in this group. And so, we will be opportunistic if we find something that is compelling and has to remain true to our thesis, which is zero-carbon mining. But right now, we're really focused on executing our business plan, keeping our heads down, doing our job and trying to make as much money as we can for our investors.
+
+Unidentified Analyst
+Thank you very much for color, and continue. Best of luck.
+
+Operator
+Our next question comes from the line of Bill Papanastasiou with Stifel. Please proceed with your question.
+
+Bill Papanastasiou
+Yeah. Good afternoon, everyone, and thanks for taking my questions. I want to lead with a question on the term loan. Obviously, management has taken very significant strides of paying down the debt. And I'm curious to hear what the appetite at this point is to refinance, just given the more favorable outlook and the guidance that management has provided to get to 28.3 exahash?
+
+Patrick Fleury
+Yeah. Hey, Bill, it's Patrick. Thanks for the question. Good question. So, look, I think given where economics are right now, the biggest asset of this company is the cash flow generating ability, and we're generating a lot of cash. I mean, we're mining 12 to 13 Bitcoin a day right now. And our cost is, call it, $25,000, $26,000. So, you can do the math, but it's $500,000 to $600,000 a day kind of depending on exactly where Bitcoin price is because it's been pretty volatile here.
+
+So, as Paul said in his remarks just now, I mean we are kind of head down focused on maximizing cash flow and taking the debt down and ultimately taking it out completely. So, as we move forward in time, yeah, could we pursue something on a refinancing front? Yes, maybe. But I think if we can keep harvesting cash flow and Bitcoin stays here, I think we'll pay off the debt naturally by the sort of end of third quarter, fourth quarter. So that's, I think, more of our focus, Bill, is not necessarily refinancing, it's eliminating.
+
+Bill Papanastasiou
+Great. I appreciate that response. And then for my second, final question, as reported in the preliminary earnings, the company had just under $50 million of cash on hand at the end of February. Can you provide some color in terms of what -- whether there's any outstanding payments due on equipment -- recent equipment purchases or the build-out of Building number 4? Just trying to get some color on that. Thanks.
+
+Patrick Fleury
+Yeah, good question, Bill. So, I think the way we think about it -- so to answer, I'm going to answer the three different parts of that question. So, I think about just what I would call true excess liquidity on the balance sheet of about $20 million. So that's kind of what we're holding to kind of navigate through the halving and make sure that the company has an adequate liquidity to address any volatility over the next couple of months. So that's number one. Number two part of that question, we do not have any contracts currently, any liabilities for miners, for example, and then that sort of folds into the third question. So, Building 4 at Lake Mariner, which is scheduled to be completed in June, that is substantially funded from an infrastructure perspective. We have not announced a minor purchase for that yet.
+
+Hence, my sort of answer to your previous question of, we don't have any liabilities currently, but we have not announced how we're going to populate that miner -- sorry, that building with miners. Does that all make sense?
+
+Bill Papanastasiou
+Yeah, thanks. Sorry, I should have been more specific. I did mean for the infrastructure part instead of the mining part. So that helps to clear everything up. That's all the questions from me. Thank you.
+
+Patrick Fleury
+Thanks, Bill.
+
+Operator
+Our next question comes from the line of Josh Siegler with Cantor Fitzgerald. Please proceed with your question.
+
+Josh Siegler
+Yeah, hi, team. Thanks for taking my question today. Really appreciate all the transparency you provided around a bunch of KPIs here. My first question is really around financing for infrastructure. I'm curious if you can dive a little bit deeper into the financing options that would exist for infrastructure committed to HPC compared to infrastructure committed for Bitcoin mining.
+
+Patrick Fleury
+Yeah. Hey, Josh, this is Patrick. Thanks for the question. So, look, I'm not going to answer that in great detail, but I will, at some point, further down the road this year. But I think the short answer to that question is on the HPC AI, and again, I'm going to go back to the barbell approach, because I think that's really important to think about. But the financing is abundant and available for any type of large cap customer, right? Because that's a 5-, 10-, 15-, 20-year type contract. And so that build cost for us, so if you think about 300 megawatts, it's anywhere -- and these are wide ranges, because this moves around, so bear with me, but anywhere from kind of $3 million a megawatt to $7 million.
+
+So those are big numbers. I know if you multiply that by $300 million, that's like $1 billion to $2 billion, right? And so, what I would say, though, is if you have an underlying contract, long-term contract with an A-rated counterparty, you can finance 70% to 90% of that cost. Now that's one part of the barbell. The other part of the barbell, which is the smaller, more capital intensive. So, I'll give you an example, like if we were to go out and build the infrastructure and buy all the GPUs for our 2-megawatt pilot, that would be probably around $20 million to $25 million per megawatt right? Because we're doing everything. We're buying the -- we're building the infrastructure and then we're owning and building the GPUs.
+
+And so, those contracts tend to be more like, like I said, sort of roughly two-year type contracts, and the payback on that is, generally speaking, over two years. But the counterparties there, just again, because they're smaller companies, are putting up kind of like 25% of the contract value day one. And so, those, as you can imagine, are harder to finance. That being said, we are looking at doing, say, like 10 megawatts of those types of deals and then doing it with the same sort of financial counterparty that would finance the sort of other side of the barbell of like an A-rated company, because when you put a bunch of -- it's like [CMBS] (ph), right, when you put a bunch of companies together, you're decreasing the risk. So, there is that possibility. It's just more complicated. So, as you can see, like both sides just take time. And I know you all cover other folks in the space and I think others have reported kind of the same.
+
+But does that help address your question?
+
+Josh Siegler
+Yes, absolutely it does. Really appreciate the color there, and definitely interested to see kind of what you're seeing as you progress in building out that infrastructure moving forward. For my second question, I just wanted to flip over to the fundamentals of the Bitcoin mining side. So, your cost of power for the year came in -- it performed much better than our expectations and better than your initial guidance, I believe. Obviously, the mix is shifting more towards Lake Mariner, but can you give us any insight as to how you expect that to trend for '24?
+
+Patrick Fleury
+Yes, sure. I mean I think you'll see we just put out an updated investor deck that everyone can grab off our website. But look, we're guiding again to that sort of blended $0.035. I would rather keep that guidance and beat with all of you guys. As you said, we delivered $0.032 for 2023. So, look, I think we're pretty confident -- and there's a slide in our investor deck where you can see historical average price at Lake Mariner and also forward pricing. So, we're pretty confident that we'll be in that same range, Josh, going forward. And it's just -- as you know, and as we're kind of showing quarter-over-quarter, other than a couple of weeks in the winter and a couple of weeks in the summer, it is a beautiful place to mine Bitcoin.
+
+I was actually -- Nazar Khan and I were talking the other day, and we learned a stat that I actually had not heard, but I think since temperatures have been -- record keeping temperatures have been kept at the Lake Mariner site, I think, since like the 1970s, there's not one day in the history over that roughly 55-year period where temperatures have been over 100 degrees at our site. So, it is a perfect place with an abundant zero-carbon source of hydroelectricity just down the road to mine Bitcoin.
+
+Josh Siegler
+Great. Appreciate that. Thanks, Patrick.
+
+Operator
+Our next question is from James Roland with Meme Stock Watch. Please proceed with your question.
+
+James Roland
+Hey, how are you? Can you hear me?
+
+Patrick Fleury
+Yeah. Hey, James, we can hear you.
+
+James Roland
+Hey, how are you? So, I run a forecasting service on miners, all crypto miners in fact, and doing so much digging on Wulf over the past year or so. I made my own personal decision to have my biggest miner position in Wulf as opposed to many others. And on my website, Meme Stock Watch, I offer analysis, fundamental analysis, technical analysis nightly on all miners. And my miner of pick has always been Wulf. So, before I even ask anything, I just wanted to say that this call has been wonderful to listen to. I think the company sounds like they're in great hands. Now, my question to you guys is, what would you say to investors looking to invest in the crypto miner space and looking for a specific crypto miner that they think can perform well post halving?
+
+Obviously, there are a lot of doubts and questions raised about that. So, what would you say to someone that's looking to invest in a crypto miner? Why should they take Wulf over others?
+
+Paul Prager
+First of all, I appreciate your investment in the company. This is Paul. I can try and answer that. Listen, I mentioned in my prepared remarks that we are aware that we trade at a much lower multiple than many in our peer group, significantly lower. And it's a question we often ask ourselves, why? And I think I'd want to respond to you in a couple of different ways on this. I think, generally, our debt is misunderstood. I've repeatedly been out there suggesting it's a non-event.
+
+We have successfully managed it. We paid it down just as we promised we would. But I do believe that the perception that there is debt out there remains a reason why some people haven't invested yet. But I hope they consider that we've repaid $40 million of principal over the last four months. We're poised to make another substantial payment of approximately $30 million in the coming weeks. And this has effectively halved our debt load in less than six months. Our very robust performance in the fourth quarter underscores our ability to generate considerable free cash flow, and we have excess liquidity of approximately $20 million on the balance sheet. So, I think we have very strong financial footing, and we're highly confident in our ability to manage the remaining debt balance.
+
+So, I hope future investors would look at that. I think misunderstood negative is really a positive. Two, I think we've suffered from a misperception regarding dilution. I have always committed to shareholders that we're going to be deliberate about using the ATM to fund accretive growth objectives. We have rapidly scaled the last several quarters. We're now in a position where accretive investment in our equipment and infrastructure is producing very significant cash flow. And beyond this, I think our dilution tends to be on the very low end of all our peers, one of which right now is implementing a staggering $1.5 billion ATM facility. That would never happen on my watch.
+
+The majority of our larger peers seem to me to be far more lifestyle companies for management at the expense of shareholders. But I am troubled by our lower multiple. It doesn't sit well with me. And I recognize that it will always be a scorecard for future investors. When people look at the facts, I hope they understand that TeraWulf is the best, if not the only investment out there because of three primary things. One, profitability. Our cost to mine Bitcoin is among the lowest compared to other publicly-listed mining companies, and we are approximately $25,000 per bitcoin before the halving and $37,000 after halving. And if you listen to what Patrick said, he said, that includes every single possible cost in the company.
+
+There's a reason why many of our competitors don't disclose their power costs or their SG&A fully loaded, but we do. And the way to think about that today as if Bitcoin is at $65,000, the company is making almost $500,000 a day on our current 12 Bitcoin a day production. That's real money. The second reason is alignment. I'm one of TeraWulf's largest shareholders. Our management team is fully invested. So, we and you, we share the same goals. We're entirely aligned.
+
+My management team is more heavily invested in the company than any of our peers. We win, if you win. We only win, if you win. And lastly, scalability. The scalability of our digital infrastructure is peerless. It's the backbone of our strategy. It empowers us to optimize efficiency, scale operations and drive profitability. Again, as Patrick mentioned earlier, I think the Bitcoin valuations -- or the Bitcoin mining valuations are changing and changing fast, and profitability should be the story.
+
+When I look at some of our larger peers, I'm reminded of the old adage, how do you make a small fortune in Bitcoin mining? And I think for many of our competitors, the answer is start with a big fortune. TeraWulf is an entirely different animal. We make a meaningful profit mining now and we will continue to do so after the halving. That's why people should invest in Wulf. And I'm really grateful for your question and for your investment in our company.
+
+James Roland
+Fantastic answer. Thank you so much for your time.
+
+Operator
+Our next question comes from the line of Joe Flynn with Compass Point Research. Please proceed with your question.
+
+Joe Flynn
+Hi, guys. I had a question related to paying down the debt post halving. With regard to the $76 million, how should we think about the balance between ultimately investing growth to get to 300 megawatts or paying down debt? And with that, you said by 2024 -- or by 2025, but ultimately, do you expect to delever before ultimately getting the 300 megawatts? Thanks.
+
+Patrick Fleury
+Yeah. Hey, Joe, it's Patrick. Good question. So, look, I think primary objective was all of our free cash flow right now. And I just want to make sure we're distinguishing because we've talked a lot about this today. But the company is generating -- like Paul said, I mean, we are generating $500,000 to $600,000 of free cash flow a day, okay? So, when we talk about debt pay down and the debt paydown that's coming, call it, the first week of April, that is all of it from free cash flow generation and profitability. And so, we will continue to be very profitable post halving assuming Bitcoin price around where we are today and we'll continue to generate a lot of free cash flow.
+
+And so, our goal is to extinguish the debt with free cash flow. So, once that occurs, then I think we can make a decision on, do we use free cash flow to grow accretively? Do we use it for dividends? Do we use it for buybacks? What do we use it for? But right now, the focus is debt repayment.
+
+Joe Flynn
+Great. That's helpful. And then, in regards to the purchasing miners, can you maybe talk about the current market appetite for miners, like are there still opportunities to lock in kind of the lower prices that we've seen the 14 to 15 or 15 to 16 joules per terahash? Just like anything you could add there?
+
+Patrick Fleury
+Yeah, sure. Look, I think there's obviously a lot of different -- or certainly more so than the last cycle, right, there's a lot of different OEM options. So look, we would expect as Bitcoin price continues to move up that pricing for miners does move up, but I think there's a lot of opportunity still remaining out there to get miners at a very attractive price, like around the level that you just referenced. So yeah, I think that's not a near-term concern of ours.
+
+Joe Flynn
+All right. Great. Thanks.
+
+Operator
+Thank you. At this time, I would like to pass the floor back over to Mr. Paul Prager for closing remarks.
+
+Paul Prager
+I want to thank you again for joining us today. In summary, I believe TeraWulf distinguishes itself through its best-in-class assets, lowest unit economics, ability to scale owned infrastructure and alignment with investors. As a significant investor in TeraWulf myself, I can assure you that we are well aware of and will only pursue the very best interest of the company and its shareholders. Thank you for your trust and support as we strive to build the leading bitcoin mining company.
+
+Operator
+Thank you. This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation.

@@ -1,0 +1,199 @@
+February 14th, 2024
+Operator
+Thank you for standing by and welcome to Opendoors’ Fourth Quarter 2023 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions] I would now like to hand the call over to Kimberly Niehaus, Investor Relations. Please, go ahead.
+
+Kimberly Niehaus
+Thank you and good afternoon. Details of our results and additional management commentary are available in our earnings release and shareholder letter, which can be found on the Investor Relations section of our website at investor.opendoor.com. Please note that this call will be simultaneously webcast on the Investor Relations section of the company's corporate website. Before we start, I would like to remind you that the following discussion contains forward-looking statements within the meaning of the federal securities laws. All statements other than statements of historical fact are statements that could be deemed forward-looking, including but not limited to statements regarding Opendoor's financial condition, anticipated financial performance, business strategy and plans, market opportunity and expansion, and management objectives for future operations. These statements are neither promises nor guarantees, and undue reliance should not be placed on them. Such forward-looking statements involve risks and uncertainties that may cause actual results to differ materially from those discussed here. Additional information that could cause actual results to differ from forward-looking statements can be found in the Risk Factor section of Opendoor’s most recent annual report on Form 10-K for the year ended December 31, 2023, as updated by our periodic reports filed after that 10-K.
+
+Any forward-looking statements made on this conference call, including responses to your questions, are based on management's reasonable current expectations and assumptions as of today and Opendoor assumes no obligation to update or revise them whether as a result of new information, future events or otherwise, except as required by law. The following discussion contains references to certain non-GAP financial measures. The company believes these non-GAAP financial measures are useful to investors as supplemental operational measurements to evaluate the company's financial performance. For reconciliation of each of these non-GAAP financial measures to the most directly comparable GAAP metrics, please see our website at investor.opendoor.com. I will now turn the call over to Carrie Wheeler, Chief Executive Officer of Opendoor.
+
+Carrie Wheeler
+Good afternoon. Also on the call with me today is Christy Schwartz, Interim Chief Financial Officer and Dod Fraser, President of Capital and Open Exchange. For Opendoor 2023 was a year of focus, execution, and results. Despite a dynamic macro environment marked by the lowest level of home sales since 1995, the team focused on controlling what would get control. And we made meaningful progress. We grew our acquisition volume sequentially every quarter and tripled our market share from Q1 to Q4. Our new book of inventory generated a contribution margin of 8.3% in the year, demonstrating the health of our more recent acquisitions. We also made improvements to our tooling, technology, and processes to make our platform more efficient, which resulted in a year-over-year reduction of nearly 30% in adjusted operating expenses in Q4, excluding the reduction in our advertising spend.
+
+With these improvements, we now enter 2024 with the foundation in place to rescale the business and build a future of sustained profitable growth. Last month marked Opendoor's 10-year anniversary. Since our founding, we've made it possible to sell your house with the tap of a button, something unthinkable a decade ago. We built the largest e-commerce platform for residential real estate and have served over 250,000 customers across 50 markets. And we're committed to building a product suite to become the place where every seller can start their home selling journey in a way that the traditional process cannot provide with simplicity and certainty. Looking to 2024, we're excited about our ability to reach and attract more sellers to our platform, namely through increased advertising spend, continued growth of our partnership channels, and more attractive spread levels. Last year, we reduced our marketing spend by over 60% versus the prior year, as elevated spreads made our marketing investments less efficient. Despite these reductions, we've maintained our aided awareness, a testament to the effectiveness and efficiency of our creative advertising efforts.
+
+In 2024, we plan to ramp our total marketing spend to widen the top of our funnel and reach more sellers. And we're spending more creatively. Last Sunday during the Super Bowl, we live streamed the Couch family getting an Opendoor cash offer on their home in Atlanta during halftime, proving just how easy and quick it is to sell to us. Acquisitions from our partnership channels, which includes online real estate platforms, home builders, and agents continue to increase in the fourth quarter, up 35% versus Q3, and up over 140% since Q1. These partnerships have effectively positioned us as the branded cash offer for residential real estate and are a true win-win. Our offering enhances the selling experience of our partners' platforms to their customers, and also provides us with a source of acquisitions and customers an attractive fixed spend. We expect volumes from this channel to continue to grow on an absolute basis in 2024. Finally, as a reminder, our spreads are an important lever in managing seller conversion and mitigating risk on our platform.
+
+We immediately reduced spreads during 2023, which resulted in improved conversion and acquisition volume throughout the year. Looking ahead, based on where we are at today, we expect to see an increase in contract volume late in Q1, which would translate to sequential acquisition volume growth in Q2. Christy will speak to our outlook next, but I want to quickly address our goal of returning to positive adjusted net income. We have strong tailwinds at our back, but we're still facing ongoing macro uncertainty. Mortgage rates remain volatile. We're acting on lessons we've learned in recent years and taking a prudent approach to balancing growth and profitability, while also operating within our risk management frameworks. We expect to make significant progress in both scaling acquisition and resale volumes and meaningfully reducing our losses this year. However, we don't anticipate reaching positive adjusted net income for a full quarter in 2024.
+
+We are focused on driving sustainable growth, and our entire business is organized around durably getting back to positive A&I. I am proud of what our teams accomplished in the last year. We've emerged smarter, leaner, and energized. And we are building a platform that over the long-term has the potential to transform the way millions sell in by real estate. Today, we stand alone in not only what we offer, but also the scale at which we are able to do so. And we're just getting started. Christy will now review our financial results and guidance.
+
+Christy Schwartz
+Thank you, Carrie. Our fourth quarter results came in above the high-end of our outlook across the board as we continued to increase acquisition volumes, while driving margin and cost improvement. As we enter 2024, we remain committed to rescaling our business, delivering healthy contribution margins, and operating with disciplined cost management, all while providing a best-in-class customer experience. We delivered $870 million of revenue in the fourth quarter, above the high-end of our guidance range. We continued to make progress on selling through our old book of inventory and had less than 75 of these homes not in resale contract as of year-end. For the full-year, we achieved $6.9 billion of revenue. As a reminder, we intentionally slowed our home acquisitions beginning in the second-half of 2022, prioritizing risk management and inventory health. This resulted in lower resale volumes in 2023 versus the prior year.
+
+As Carrie mentioned, we reduced our spreads this year as we saw signs of market stabilization, resulting in increasing acquisitions sequentially each quarter. We purchased 3,683 homes in the fourth quarter, up 17% from the third quarter, and ahead of our prior expectations of approximately 1,000 homes per month. We continued to generate positive contribution profit in the fourth quarter delivering contribution margin of 3.4% ahead of the high-end of our implied guidance range. While ahead of our expectations, contribution margin declined sequentially for two reasons. First, to maintain our clearance targets, we implemented home-level price drops last quarter in response to the amplified seasonal decline in market-level sell-through rates. Second, sales from the tail homes of our old book continued to be a drag on overall performance. For the full-year, contribution margin was negative 3.7% given by sales from our old book of inventory. Notably, as Carrie mentioned, the new book of homes generated a contribution margin of 8.3% in 2023, demonstrating the health of the more recent acquisition cohorts.
+
+Adjusted EBITDA loss was $69 million in the fourth quarter, ahead of the high-end of our guidance range. We ended 2023 with adjusted EBITDA loss of $627 million versus a loss of $168 million in 2022. Adjusted operating expenses totaled $99 million for the quarter, up from $92 million in Q3, and down from $144 million in Q4 2022. The sequential increase was expected as we continued to rebuild inventory in the fourth quarter. For the full-year, adjusted operating expenses were $369 million, down 47% from $693 million in 2022, which reflects the progress we've made in reducing our cost structure. Turning to our balance sheet, shareholders' equity decreased by $53 million in the fourth quarter. We ended the year with $1.3 billion in total capital, which includes $1.1 billion in unrestricted cash and marketable securities, and $161 million of equity invested in homes and related assets, net of inventory valuation adjustments. We also had $8.1 billion in non-recourse asset-backed borrowing capacity composed of $3.8 billion of senior revolving credit facilities and $4.3 billion of senior and mezzanine term debt facilities, of which total committed borrowing capacity was $2.8 billion.
+
+Looking ahead to 2024, we will continue to operate with focus and execution to drive results. We expect our Q1 revenue to be between $1.05 billion and $1.1 billion, contribution profit between $40 million and $50 million, which implies a contribution margin of 3.8% to 4.5%, and adjusted EBITDA loss between $80 million and $70 million. We expect adjusted operating expenses to be approximately $120 million, a sequential step up as we reramp marketing and rebuild inventory levels. Additionally, we expect first quarter home purchases to be approximately flat from Q4 and up over 100% year-over-year. We expect home acquisitions will increase sequentially in line with typical seasonality into Q2 as we enter the spring selling season in earnest. As we begin 2024, we are focused on rescaling our business in a sustainable fashion. We have the benefit of a book of inventory that is generating healthy margins and the steps we took last year position us well to accelerate volumes throughout the year with an improved cost structure and a line of sight to achieving our annual contribution margin target range of 5% to 7%. I'd now like to turn the call over to the operator to open up the line for questions.
+
+
+Operator
+Thank you. [Operator Instructions] Our first question comes from the line of Dae Lee of JPMorgan. Your question, please, Dae.
+
+Dae Lee
+Great, thanks for making the question. I guess the first one on reaching adjusted net income profit. Appreciate the color and the timing, but just curious to hear like what needs to happen to reach this target. Is it just a matter of the day-to-day ramp in your acquisition volume or do you need to see industry transactions recover to certain levels?
+
+Carrie Wheeler
+Hey, Dae, it's Carrie, I'll take that. A couple things, one is we're highly focused on rescaling the business, but we're intent on doing it in a sustainable way. So right now, what we're managing to is what I'd call a macro neutral environment. We're not willing to lean into spreads. We're not willing to lean into access marketing to drive growth at the expense of margin of risk. Certainly, if there are macro tailwinds, say second-half of this year, we are well positioned to take advantage of those. But our objective is to meaningfully ramp our acquisitions this year and to do so within our contribution margin target range we talked about. All of which will substantially reduce our ANI losses year-on-year.
+
+So this is about when, not if.
+
+Dae Lee
+Got it. And I guess as a follow-up, like where is your spread right now, I guess, relative to exiting 2023 and I guess early part of 2023 and is the spread kind of set at a level to be at the higher end of your contribution margin target? Is that the right way to think about it?
+
+Carrie Wheeler
+Yes, when we make substantial improvement last year in our cost structure much of which we set back in durably reducing spreads, so the combination of cost structure improvement and home price stabilization allowed us to take those down throughout the year. And we like where they are today, which is why we're ramping advertising spend by 50% in Q1 and why we're leaning into acquisition contract growth.
+
+Dae Lee
+Understand. Thank you.
+
+Carrie Wheeler
+Welcome.
+
+Operator
+Thank you. Our next question comes from the line of Benjamin Black of Deutsche Bank. Your question, please, Benjamin.
+
+Unidentified Analyst
+Hi, this is Jeff on for Ben. Thank you for taking my question. [Indiscernible] I noticed that you exited three markets in this quarter. What were you seeing there that led to good decision to exit those markets and change your strategy around market expansion going forward?
+
+Dod Fraser
+Yes, happy to take that. Certainly not an indication of our forward plans. These were three small markets that represented less than 1% of our volumes. And really, it's more just a cost structure question, given the size of those markets and where they're physically located. They weren't approximate -- they weren’t next to one of our other markets. So it was more just a cost and efficiency question.
+
+Unidentified Analyst
+Got it. I guess just as a follow-up then, so as you think about expanding your buybox in a given region, is there sort of a contribution margin impact in doing that, or is it simply a matter of adding the capability to kind of expand your addressable market, and you'll see similar contribution margins to other homes in a similar region? Or does that come at the expense of some gross margin cost, too?
+
+Dod Frase
+You know, our goal in expanding buybox is more about pricing accuracy. And so we expand our buybox as our pricing system improves and we believe we can price accurately so that we can deliver the same contribution margin across the expanded buybox.
+
+Unidentified Analyst
+Great. Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Nick Jones of JMP Securities. Your line is open, Nick.
+
+Nick Jones
+Thanks for taking the questions. So in the new book, it's over contribution margins of 8.3%, but you're still kind of targeting 5% to 7%. I guess, you know, what gets you comfortable maybe increasing that range beyond 5% to 7% and maybe being, you know, north of 8% over time? I guess just some clarity as to why not expanding that range yet? Thanks.
+
+Carrie Wheeler
+Hey, Nick. It's Carrie. I'd say at a very high level, last year's 8.3% CM on the new book, which was great, was about last year's spreads, and we realized that 8.3%. I mean, this year, given where we've set our spreads, that's why we're reaffirming our 5% to 7% contribution margin target. So again, we're balancing that interplay of growth margin risk and we reduced our spreads to a level where we wanted to deliver within that 5% to 7% for the year.
+
+Nick Jones
+Got it. Helpful. And then on the homes that are kind of listed over 120 days, you took that down to 18% versus I think it was 21% of the markets, those homes are in and you're kind of outperforming the market. Given the model over time, like what kind of outperformance can we expect in terms of the homes you're selecting and how long they sit in the market versus kind of the average in those markets? I guess, ultimately, where does that kind of percentage go over time? And maybe what's kind of the standard hold time today as the market is kind of neutral as we end 2024?
+
+Dod Fraser
+Yes. So we -- I think from a business portfolio management perspective, we really think about -- for the homes that we are shorter in the hold period, so early days on market. we want to be slower. And then as homes sit on our balance sheet longer, we want them to be selling faster than market. So our goal is to outperform market on that older cohort of homes. We think that's appropriate portfolio management and sort of disciplined risk management. But there's not a specific target to your specific question of we're trying to get to x number. It's much more about for homes that are 90 to 120 days on market, we want to be outperforming market.
+
+
+Nick Jones
+Got it. Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Ygal Arounian of Citi. Your question, please, Ygal.
+
+Unidentified Analyst
+Hi, guys. Yes, Max on for Ygal. I was wondering if you could walk us through how you think about the pace of acquisitions through the rest of the year, getting your market neutral comment on the macro, how your expectations are for home acquisitions and anything you're seeing kind of as we head into the spring season?
+
+Carrie Wheeler
+Hey, Max, it's Carrie. So at a high level, you should see a meaningful increase in acquisitions 2024 over 2023. I'll repeat some of our guidance, which was Q1 being up 100% year-on-year. So we're going to see good acquisition growth in the first quarter. What we're seeing right now, as we'd expect to see for this time of the year, just given seasonality, people kind of getting back into thinking about selling post Super Bowl, we're seeing a ramp in contracts month-to-month. February higher than January, March higher than February. And we're going to see those contracts turn into closes in Q2, which is why we indicated like you should expect to see from us sequential acquisition growth Q2 over Q1. So that's what I can tell you in terms of acquisition pacing for the first half of the year.
+
+
+Unidentified Analyst
+And then as a follow-up, just -- is there any updates on the 3P model as we look into 2024? Or are you more focused kind of on the core business?
+
+Carrie Wheeler
+I'd say we're focused on both. But I would say our plan to get back to positive cash flow is all about the current core business today, our sell-direct model. That gets us back there. Our cost structure and our balance sheet will allow us to deliver on that. Marketplace for us, certainly important long-term strategic we're 1 year into it, right? We're about connecting buyers and sellers, but we're doing it in a single market. We've said consistently we want to make sure that we focus on having great product market fit before we scale it. I would say that this has been a tough year for experimentation against a low market supply, like record low market supply, that's challenging.
+
+But that's short term, long term, we remain committed to continue to evolve the marketplace product.
+
+Unidentified Analyst
+Okay, great. Thanks, guys.
+
+Carrie Wheeler
+Welcome.
+
+Operator
+Thank you. Our next question comes from the line of Curtis Nagle of Bank of America. Please go ahead, Curtis.
+
+Curtis Nagle
+That’s terrific. Thanks very much. Let's see. I guess the first one would be -- in terms of the -- there's, I think, like a $20 million delta in the operating expenses in 4Q positive that is. What accounted for that? And I guess, how should we think about quarterly operating adjusted expenses in '24, assuming that should be maybe something a little bit above $100 million, given higher marketing costs? Or what's the right way to think about that?
+
+Christy Schwartz
+Hi, Curtis, it's Christy. Thank you for the question. So the performance of $99 million versus our guidance of $120 million is a reflection of us continuing to make meaningful progress throughout the P&L. We saw continued strong execution from our teams in the fourth quarter, which allowed us to smooth the timing of some hiring from 4Q out to 1Q as we're reramping, and we continue to realize some cost saving initiatives. We guided in Q1 to $120 million. And that, just to unpack that change, it's about roughly half is marketing and advertising and the other half is increasing our operations. and we expect that increase from Q4 to Q1 to be the biggest bump for the year.
+
+Curtis Nagle
+Great, okay. That’s really helpful. Maybe staying on the marketing right? So you guys obviously made a big push with the Super Bowl this year. I guess, is that indicative of sort of plans for red marketing for the rest of the year, like it can't be like a one and done, right? Is that really kind of the first shot. And I would love just to hear like any metrics that you have in terms of lift in traffic or perhaps people inquiring about offers post the ad this week?
+
+Carrie Wheeler
+Hey Curt, it's Carrie. I think are you asking a marketing mix question?
+
+Curtis Nagle
+Well, just one of the question was, right, so yes, you had your first Super Bowl ad, right? That's a very splashy form of brand marketing. So is that indicative of a big ramp up, right, as we've kind of been talking about in brand marketing and just kind of how to think about that for the rest of the year. And then again, just do you -- what do you see in terms of response in the first week from that add?
+
+Carrie Wheeler
+Yes. I mean, all credit to our creative marketing team. We actually didn't buy a Super Bowl ad to be clear. We -- this has been a year of cost discipline, as you know, as we were not sending…
+
+Curtis Nagle
+Far enough. Okay.
+
+Carrie Wheeler
+Okay. Yes, we were by the way -- we did want to be part of the Super Bowl, pre-run and part of the conversation, and I think our team did a good job of putting us in that room, and we did a lot of stuff in and around Super Bowl before the game, and then we had a live-out during half time in Atlanta. So I'd say it's too early to tell the impact of that. We definitely saw a big pickup in traffic and awareness in Atlanta specifically. And I think time will tell in terms of what the impact of that is. I would say the higher level, though, if you think about how we think about marketing spend, I mean, last year, we took down spend substantially. That was in response to where our spreads were because some spend became less efficient. You think about this year, we have really leaned into some of our more efficient marketing channels.
+
+Brand being one, is the whole thing is evidence is one of those. But what we found is that brand lift all boats for us. So we increased our brand spend, and we're finding that increases conversion across all avenues. And actually, even though we had lower spend last year, we actually maintained our brand awareness, something we're really proud of. And the partnerships will continue to lean into because they're very efficient from a customer acquisition cost perspective and then there's paid. So you should expect to see more creative from this. You should expect to see more brand, but we're going to do within making sure we manage the overall envelope.
+
+Curtis Nagle
+Okay, that makes sense. Thanks very much.
+
+Carrie Wheeler
+Welcome.
+
+Operator
+Thank you. [Operator Instructions] Our next question comes from the line of Ryan Tomasello of KBW. Please go ahead, Ryan.
+
+Ryan Tomasello
+Hi, everyone. Thanks for taking the questions. It seems like one of the more important variables you focus on from a macro perspective is not necessarily the absolute level of rates, but the volatility in rates, is that an accurate statement? And if so, it'd be helpful if you can just elaborate on how you define rate volatility if there is a difference between upward versus downward volatility, if that makes sense? And just generally, how that plays into your willingness to ramp volumes?
+
+Dod Fraser
+Yes, happy to cover that, Ryan. Yes, I think rate volatility really flows through and impacts the overall market by keeping sellers and buyers on the sidelines. So I think that is why -- and you can see it in the numbers and the metrics that we have on the back of our shareholder letter as well. If you look at where you've seen rates come down and you've seen increases in supply and demand. And so I think really, for us, at least, we care most about the balance of sellers and buyers, the balance of supply and demand. And so that's really where we stay focused. And based on what we're seeing right now and what we've seen year-to-date, we continue to see a balance between the sellers and buyers, and that is leading to relative price stability and in line with what we've seen historically.
+
+Ryan Tomasello
+Okay, thanks. And then just on the capital structure, it looks like borrowing capacity came down by a few hundred million quarter-over-quarter, and you removed the language from the shareholder letter around sufficient capacity to hit the breakeven targets. Just to clarify that commentary and that move in the capacity? And second, just how you're thinking about longer-term capacity beyond the $10 billion in volume, especially as you have to dip into the higher cost floating rate debt. Obviously, you bought back some of the converts. Just any updated thoughts there on capital allocation to the convert.
+
+Dod Fraser
+Certainly not trying to signal any change. So we're comfortable with that -- with our current capital base, both on the equity and debt side, we can get to that ANI breakeven point. We are and always have -- you saw us do this in COVID, modulating how much capacity we have, lenders don't like this to have unused capacity. So I think that is something we've been working with our lenders on and they like to reduce unused capacity, and they've been there for us in the past. I think really for the near term, we're very focused on the fact that we have these term debt facilities that are fixed through the full year. And we feel very comfortable about our ability to use those facilities and cash on hand to sort of finance our business. And so really feel quite comfortable on the capital side. I think if you sort of zoom out a bit and think about your last question there, look, we obviously don't talk about future capital decisions.
+
+But we -- as you alluded to, we did three convertible note buybacks last year, we will always be opportunistic on the capital front.
+
+Ryan Tomasello
+Great, thanks for that.
+
+Dod Fraser
+You bet.
+
+Operator
+Thank you. Our next question comes from the line of Mike Ng of Goldman Sachs. Please, go ahead, Mike.
+
+Mike Ng
+Hey, good afternoon. Thank you very much for the question. I just had a follow-up on the earlier question regarding OpEx and marketing spending. I was just wondering if you could talk a little bit more about any of the direct benefits that you see from increasing marketing spending? Is there a direct relationship between marketing and your pace of acquisitions? And then said differently, should the pace acquisitions increased because of your step-up in marketing spend, why is it only flat sequentially? I'm assuming the top of funnel would widen because of that incremental spend? Thank you.
+
+
+Carrie Wheeler
+Hey Mike, it's Carrie. So first of all, marketing will not be flat sequentially, right? It's going to be up 50% in terms of advertising expense in Q1. That is part of the fuel to drive acquisition growth we've been talking about for the first half of the year, that's one. There definitely is a correlation between advertising spend and how we drive volumes. It's not all of the story. I mean things like partnerships are fixed and brand is less directly correlated certainly, but it's a longer-term investment that we're seeing in the payoff and things like brand awareness. So as Christy said, the step-up from Q4 to Q2, a good chunk of that, about half of that was in marketing.
+
+That's probably the biggest chunk up we'll have. We're always going to evaluate our marketing budget for the course of the year, but we're comfortable with what you just told you, which is that should be the biggest step up for the year. And we tend to see -- we spend into the first part of the year. We tend to get quieter in the very back half of the year because sellers require it. So yes, we feel good about -- given where our spreads are today, we feel good about the marketing investment we've sized.
+
+Dod Fraser
+One added point, I think -- and Carrie alluded to this earlier, if you think about how things flow through our business, we spend advertising dollars. And so what we've seen is an uptick in offers and acquisition contracts each month in the first quarter. And so really, the impact of that dollar spend flows through to closes in the second quarter, which, as we said, is we expect to be sequentially up from the first quarter.
+
+Mike Ng
+Great. Thanks for the thoughts.
+
+Operator
+Thank you. I would now like to turn the conference back to Carrie Wheeler, CEO, for closing remarks. Madam?
+
+Carrie Wheeler
+Thanks. First of all, thank you, everyone, for joining us today. I just want to say we're excited about how we're set up for 2024 and beyond. Hopefully, you can hear from us, we've done the hard work in 2023 to be leaner, to be more agile and to be able to rescale the business in a sustainable fashion. As I said, when not if. So heading into 2024, we'll be deploying the same operating principles, focus execution results. We're looking forward to speaking with you next quarter. Thank you.
+
+
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.

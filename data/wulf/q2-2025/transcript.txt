@@ -1,0 +1,274 @@
+August 7th, 2025
+Nynne Jespersen Lee
+Greetings. Welcome to the TeraWulf 2025 Second Quarter Earnings Conference Call. [Operator Instructions] Please note this conference is being recorded. I will now turn the conference over to John Larkin, SVP, Director of Investor Relations. Thank you. You may begin.
+
+John Paul Larkin
+Good morning, and welcome to TeraWulf's 2025 second quarter earnings call. Joining me today are Chairman and CEO, Paul Prager; and CFO, Patrick Fleury. And for Q&A, we will be joined by Co-Founder and CTO, Nazar Khan; TSO, Kerri Langlais; and COO, Sean Farrell. Before we get started, please note that our remarks today may include forward-looking statements. These statements are subject to risks and uncertainties and actual results may differ materially. During this call, we may use words like anticipate, could, enable, estimate, intend, expect, believe, potential, will, should, project and similar expressions, which indicate forward-looking statements. For a more comprehensive discussion of these and other risks, please refer to our filings with the SEC available on sec.gov and in the Investors section of our website at terawulf.com. We will also reference certain non-GAAP financial measures today.
+
+Please refer to our 10-K and 10-Q filings and our website for a full reconciliation of these non-GAAP measures to the most comparable GAAP measures. We will start today's call with prepared remarks from Paul and Patrick, followed by Q&A with the full management team. I will now turn the call over to our CEO, Paul Prager.
+
+Paul B. Prager
+Good morning, and thank you for joining us. We moved this call from Friday to this morning so we could share a complete update. Over the past few days, we finalized transformative agreements that meaningfully advance TeraWulf's strategy and reinforce our position as a leader in next-generation digital infrastructure. This morning, we announced 2 major transactions. First, we have a new tenant at Lake Mariner. We signed a 10-year 200-plus megawatt hyperscale AI hosting agreement with Fluidstack, a premier AI cloud platform that builds and operates GPU clusters to some of the world's most innovative companies. This agreement represents approximately $3.7 billion in contracted revenue, with the potential to exceed $8.7 billion if lease extensions are exercised. Fluidstack will utilize more than 200 megawatts of critical IT load, about 250 megawatts of gross site capacity.
+
+We also granted Fluidstack a 30-day exclusivity on CB-5, which would add another 160 megawatts of critical IT load, on similar terms, including Google's participation. Deployment will be phased, with the first 40 megawatts expected online in the first half of 2026, and the full deployment by year- end. The lease is expected to bring in over $350 million a year in revenue, with site level net operating margins of roughly 85%. Importantly, Google is providing a $1.8 billion backstop for Fluidstack's lease obligations in exchange for warrants representing about 8% of TeraWulf's equity, an extraordinary vote of confidence from one of the most influential players in AI. Second, we brought in Cayuga. We executed an 80-year ground lease with a purchase option, securing exclusive rights to develop up to 400 megawatts of digital infrastructure on a fully equipped site, with high-capacity transmission, industrial water intake and redundant fiber. We expect to bring more than 130 megawatts online in 2027, with substantial expansion potential beyond that. Together, these transactions increase our total platform capacity to over 1-gigawatt, firmly positioning Lake Mariner and Cayuga as cornerstone assets for the future of AI infrastructure.
+
+Our first HPC tenant, Core42, continues to be an outstanding partner, and we anticipate growing that relationship. The WULF Den is fully operational and generating revenue. CB-1 begins generating revenue within the next week, and CB-2 is on track for Q4. We are hitting our milestones on time and on budget. For months, I've highlighted 3 key priorities
+
+Patrick A. Fleury
+Thank you, Paul. I'll briefly cover the financial highlights for the second quarter before diving into the transactions in partnership with Fluidstack and Google announced this morning, and our objectives for the second half of 2025. In the second quarter of 2025, we self-mined 485 bitcoin at Lake Mariner or approximately 5 bitcoin per day, a 30% increase over the 372-bitcoin mined in 1Q '25. Our GAAP revenues were up 38% quarter-over-quarter at $47.6 million in 2Q '25 from $34.4 million in 1Q '25. Meanwhile, our GAAP cost of revenue exclusive of depreciation decreased by 10% from $24.5 million in 1Q '25 to $22.1 million in 2Q '25. Power prices in Upstate New York normalized in 2Q, and we expect pricing to remain in line with historical levels for the rest of 2025, guiding at $0.05 per kilowatt hour for second half of the year. SG&A expense for 2Q '25 was $14.3 million. After adjusting for stock-based compensation, SG&A decreased quarter-over-quarter from $11.5 million in 1Q '25 to $10.7 million in 2Q '25.
+
+I'm also pleased to report our non-GAAP adjusted EBITDA showed significant improvement in Q2, totaling $14.5 million, up from a negative $4.7 million in 1Q. As a reminder, these results are inclusive of significant increases in SG&A and operating expenses over the past 12 months as we've invested heavily in our HPC business. These incremental costs have been entirely borne by our mining business until now. As Paul mentioned, we're on track for the WULF Den and CB-1 leases with Core42 to start generating revenue in Q3. We remain on schedule and on budget for the delivery of this capacity. Looking ahead to the second half of 2025, we've updated our guidance in our investor presentation. At current bitcoin prices and network cash rate, we expect our mining operations to contribute positively to EBITDA in the second half of the year. We've also slightly adjusted our annual SG&A guidance to $50 million to $55 million from $40 million to $45 million, reflecting the accelerated growth in our HPC business.
+
+Now moving to the transactions announced today. These are truly a game changer for TeraWulf, and I want to highlight some of the financial implications. As Paul noted, the Fluidstack lease and Google support agreement are carefully structured to enhance our credit profile and position us to scale quickly. Google's partnership and support is multifaceted. First, Google is backing Fluidstack's lease obligations, which include early termination protections for the first 6 years. Second, Google is providing $1.8 billion of credit support over a 10-year period. Third, Google is pledging its equity stake in TeraWulf to support the construction phase of our data centers. Given the expected improvement in our credit profile, we've refined our financing strategy to focus on a series of capital markets initiatives in the second half of 2025, with the benefit of our new financial support from Google and our updated lease agreements.
+
+Additionally, the long-term ground lease at the Cayuga site adds significant future capacity and upside value for TeraWulf shareholders. We plan to develop up to 400 megawatts of HPC hosting at Cayuga, a site with many of the same advantages as Lake Mariner, including low cost, predominantly 0 carbon power and strong existing infrastructure. This acquisition and the structuring of these transactions were designed with careful consideration of shareholder alignment. As Paul mentioned, we have structured the terms with long-term shareholder value in mind. The acquisition of Beowulf Electricity and Data in 2Q further streamlines our structure and consolidates expertise in power generation. This acquisition not only simplifies our corporate structure, but also strengthens our ability to execute on future projects. As part of the acquisition, 94 employees from Beowulf, including key personnel from Lake Mariner and corporate support functions have transitioned to TeraWulf. Finally, regarding our growth pipeline.
+
+We are constantly evaluating additional sites to add to the TeraWulf portfolio and maintain an extremely rigorous approach to this process. In 2025, we have evaluated over 75 potential expansion sites, and from that, we have a handful of progressing through negotiations. Given our HPC customer base and electrical infrastructure experience, we will maintain discipline as we evaluate future expansions. With that, I'll turn it back over to the operator, and we look forward to answering your questions.
+
+Operator
+[Operator Instructions] Our first questions come from the line of Mike Grondahl with Northland Securities.
+
+Michael John Grondahl
+Congratulations. A couple of questions. If you could maybe talk about why Fluidstack, kind of the pros and cons there, and the demand for that power? And then how are you thinking about the 30-day exclusivity?
+
+Paul B. Prager
+Naz, you want to get that.
+
+Nazar M. Khan
+Mike, it's Nazar here. Why Fluidstack? Fluidstack, as Paul had mentioned, delivers compute clusters to some of the largest companies in the world, and they've been active with a number of different customers, both domestically in the United States, as well as in Europe. And so they made a couple of announcements in Europe earlier in the year. So they are very active and are in deep and detailed discussions with a number of different counterparties in delivering optimized compute. And so as we thought about our trajectory and our ability to grow, adding somebody like Fluidstack to Core42, who also has grand ambitions in building a large platform around compute made a ton of sense. And I think as we've mentioned on prior calls, having more than 1 customer at the site has been a goal of ours. And this accomplishes that.
+
+On the exclusivity, today, we signed up a deal for CB-3, which is 42 megawatts of net critical IT capacity, and CB-4, which is 162 megawatts of net critical IT capacity. The discussions that we have ongoing are for a copy of CB-4, which would be CB-5. And given the discussions that we've had, given the intense amount of effort that's been put into customizing this design for Fluidstack, we have a relatively tight window here, so we are hopeful. But again, there's work to do there. But again, that tight window should give an indication of how much work is left.
+
+Michael John Grondahl
+Yes, that's really tight.
+
+Kerri M. Langlais
+And then Mike, I'll just add to that. This is Kerri, Mike, is that -- the terms on the additional building, CB-5, are on the exact same basis of the terms that we just signed. So the same guarantee from Google and the same economics between TeraWulf and Fluidstack.
+
+Michael John Grondahl
+Great. And then maybe just one more. The $1.8 billion backstop from Google, how was that number sort of decided on? Is that basically a 6-year protection?
+
+Patrick A. Fleury
+Yes. Mike, it's Patrick Fleury. So yes, the backstop amount is roughly 50% of the payments over the lease term. So yes, it's approximately 6 years. And that support, Mike, is actually in place for up to a -- the 10-year term of the lease, and it declines from the beginning over time.
+
+Michael John Grondahl
+Congratulations, guys. Great progress.
+
+Operator
+Our next questions come from the line of Brett Knoblauch with Cantor Fitzgerald.
+
+Brett Anthony Knoblauch
+Congrats on both of the announcements today. Really excited about those. Maybe first, on Lake Mariner, the 200-some-odd megawatts we have allocated towards bitcoin mining, does the Core42 plus the new deal M&A kind of impact the electrical capacity for bitcoin mining? Would you envision shutting bitcoin mining down for Fluidstack? Or is that something you don't really have to do quite yet?
+
+Kerri M. Langlais
+Brett, it's Kerri. So as you know, right now, we've got about 200 megawatts of near-term power available at Lake Mariner. And if you look out over the next 18 months, we're optimistic that we can bring another 250 online there. So I think that -- your question here leads us to the other transaction that we announced today, which is the Cayuga deal. That's why moving on that so quickly was very important to us, to keep the momentum in our customer conversations and have that capacity available across multiple sites. So as you think about it, once we sign a deal, we're typically delivering the facilities within a year. So we're already thinking ahead to meet that time line.
+
+Brett Anthony Knoblauch
+Okay. That's very helpful. And then on the Core42 build-out, can you maybe just remind us of how much CapEx is remaining for that first deal?
+
+Patrick A. Fleury
+Yes. Brett, it's Patrick. I think the precise -- I might be off by 1 million here. But I think through the second quarter, we had spent approximately $200 million. That -- I think if you looked at our presentations in quarters prior, that total spend was about $430 million. And so I think you might say, well, that doesn't seem right, but a lot of that spend is very back-ended. So for example, things like UPS, which is a very large number there, is really back-ended spend that we'll be spending here in the sort of late third quarter and fourth quarter.
+
+Brett Anthony Knoblauch
+That's very helpful. And then maybe if I could just add one more. The new CapEx for Fluidstack, $8 million to $10 million range. It's a bit higher than Core42 range. Can you maybe just talk about the difference in the build-out and cost for that versus what you did with Core42?
+
+Nazar M. Khan
+Sure. This is Nazar. There's a couple of factors here. One is scale and the time associated with that scale. So for the Core42 discussions, we're delivering 60 megawatts of total critical IT capacity. And with this announcement here, we're delivering over 200. And so -- and the time lines that we're doing so are relatively similar. So there's a need for significantly more labor, which is requiring us to pull from further and further away, which has an impact on our overall cost.
+
+And so that's one component to it. Second is, as we mentioned earlier, we spent quite a bit of time with the Fluidstack team and coming up with a design that really was customized to what they were looking to deploy. And so within those design considerations were tweaks off of what we've built in CB-1 and CB-2. So when you put those things together, as you noted, we're a little bit higher than what our CapEx was going into Core42.
+
+Brett Anthony Knoblauch
+I really appreciate it, guys. Congrats on the deals.
+
+Operator
+Our next questions come from the line of Darren Aftahi with ROTH Capital Partners.
+
+Dillon Griffin Heslin
+It's Dillon Heslin on for Darren. The first one, it seems like the yield or the unlevered yield to cost on the build is roughly in the same range of Core42. When you start to look at other sites within Lake Mariner and then Cayuga, and people you're at the negotiating table with, like how much room do you think there is to either expand or maintain that yield to cost?
+
+Patrick A. Fleury
+Yes. It's Patrick Fleury. I'll answer that question. I mean, look, I think we've been pretty transparent about what we're targeting in the past. And I think we will maintain that discipline going forward. And we think -- Paul can talk to market demand, but I would say it's very, very strong. And so I think you'll -- as Kerri mentioned, and Nazar, and on the expansion capacity that we're talking about, it's on the same terms. So I think we will -- we feel very strongly that we'll be able to maintain that discipline and keep achieving positive economic results for the shareholders.
+
+
+Paul B. Prager
+Yes. And I would just add to that, that since early May, demand has felt almost urgent. We're not chasing yield on cost deals. We just think we can get better returns. Seeing very strong enterprise and hyperscale demand in several formats with more enterprise direct talks, especially in financial services. On pricing, we're very happy with the economics from Core42 and the Fluidstack Google deal, and think shareholders will be rewarded if we just keep replicating them. I think there's a good argument that the market might even be tighter in 2026 than in 2025 given ongoing power constraints and rising hyperscaler CapEx.
+
+Dillon Griffin Heslin
+Got it. And as a follow-up, is there a way to earmark potentially how much capital you might need from the capital markets?
+
+Patrick A. Fleury
+This is Patrick. So look, we're really excited about the structure of this deal and the partnership here. So I think given the expected improvement in our credit profile, we've really refined our financing strategy with our advisers at Morgan Stanley to focus on a series of capital markets initiatives in the second half of this year. And those initiatives are going to really benefit from the new financial support from our partner at Google and the updated lease agreements. So we think that strategy will really afford us a lower cost of funds going forward and increased flexibility going forward, and are just excited because we feel like we've cracked the code. As you know, one of the hardest things about these deals is financing them. And our strategic alignment with Google supporting us both on the debt and as one of the largest shareholders in our equity going forward, we think, is incredibly novel, and we're really excited about continuing to grow that partnership as we move forward.
+
+Paul B. Prager
+Yes. And just to put a finer point on it or to underscore what Patrick said. I mean this is going to lower the cost of financing that we do, do, and it enables us to really approach things from a very shareholder-friendly perspective.
+
+Operator
+Our next questions come from the line of Nick Giles with B. Riley Securities.
+
+Nicholas Giles
+Guy, congratulations here. It's really great to see. I think the $3.7 billion implies average revenue per megawatt of around 1.9. At what level does the contract start? And what's the annual escalator?
+
+Patrick A. Fleury
+Nick, it's Patrick. So those details are confidential. I think we gave you enough information that -- you're a real smart guy, I think you can probably back into it. But the data that we gave you is the data. And I think as we move forward and get bigger as a company, we've been incredibly transparent in the past. And I think this is a really competitive space both for us and for our customers. So I think you will continue to see transparency from us. But the data we gave you today is the data that we're going to give you.
+
+
+Nicholas Giles
+Okay. Fair enough. I appreciate that. And then just back to the project financing. I mean, should we expect to see something announced for the Core42 and Fluidstack in kind of one single announcement. Or are those separate conversations? Just appreciate any color on kind of what we should be looking for.
+
+Patrick A. Fleury
+Yes. Nick, like I said, I think it's going to be a series of transactions. Obviously, this transaction fundamentally changes the credit profile of our company in a very positive way. So I think you will see a series of transactions that we're working on with our advisers at Morgan Stanley here in the second half.
+
+Nicholas Giles
+Got it. One more for me. Just on the 30-day exclusivity. Do you feel that Google would presumably backstop this capacity as well if executed?
+
+Patrick A. Fleury
+Yes.
+
+Paul B. Prager
+Yes.
+
+Nicholas Giles
+Okay. Guys, congrats again. Keep up the good work.
+
+Operator
+Our next questions come from the line of Brian Dobson with Clear Street.
+
+Brian H. Dobson
+Just on the Google partnership, do you think you could maybe opine a little bit on how you think that that's going to change discussions with future clients? Do you see this as a net long-term strategic positive? And if so, what kind of synergies do you think this agreement would yield, in terms of generating new business further down the road?
+
+Paul B. Prager
+Naz, do you want to start, and I'll follow up?
+
+Nazar M. Khan
+Sure. So I think the hyperscalers and Google, in particular, have put out pretty significant complex forecasts both kind of balance of the year as well as looking into next year. And if you look at the structure of this arrangement, it's, I think as Patrick mentioned earlier, unique, novel. And so what we have found is the demand for capacity from hyperscaler exists, as Paul had mentioned, and how they take that capacity down will take a number of different forms. And so this is an example of that. And with -- as we think about it, there's the demand of who's going to use it. And then there is the
+
+Brian H. Dobson
+Yes. And do you think that new potential clients will see this as an endorsement from a marquee player in the space?
+
+Paul B. Prager
+I hope so. I would expect -- I mean, Fluidstack and Google probably looked at a ton of sites. And I think they were -- they found it compelling in terms of the attractiveness of the site, our installed energy infrastructure, redundant grid connections, the land, the water, fiber latency, 89% 0 carbon power source, availability power. Second, they were able to see the progress we've made on the Core42 buildings, the partnership that we've developed there, the way we work with our customer. I think these high-power density, all liquid cooled data centers are pretty early in terms of industry development and Fluidstack, Google saw the value in partnering with a team that's already navigating that complexity. And finally, our team. I mean, I would encourage folks to work out when they can get up to the site, but we've got an amazing team up there led by Sean Farrell, Chief Operating Officer. Our management team, together with Sean, we've been together over 15 years.
+
+We've got decades of experience executing complex energy infrastructure projects. And I don't think that's something you can replicate overnight. So I think it was all of that. And I think new customers or potential new customers will look at our appreciation for electricity and electrical infrastructure and their needs and realize that it's a good match.
+
+Patrick A. Fleury
+And just to underscore what Paul said, we had very detailed discussions with our customer around the design and configuration of what we're building for them. So we had a base design. And it's through that, that they got to see [ our ] chops and see what we do, how we work. And so I do think to your question, it should absolutely be an endorsement of our team and our ability to really work with some of the largest companies in the world in building the next generation of data centers.
+
+Brian H. Dobson
+Yes. Congratulations. It's a big win.
+
+Paul B. Prager
+Thank you.
+
+Operator
+Our next questions come from the line of Chris Brendler with Rosenblatt Securities.
+
+Christopher Charles Brendler
+I have to add my congratulations as well. This is fantastic. I just wanted to see if we could potentially get some color. I would think you -- on the financing -- project financing side, I would think you had made significant progress down that path before these transactions. And so I just was wondering, is there any way to quantify sort of the benefit and the lift you may receive in the financing terms or the rate from the significant changes in your credit profile that are taking place? And how quickly can those transactions come together? And then the second question I had was on the expansion. I think you were targeting 150 megawatts per year, and I think [ you announced ] 150 to 200.
+
+I just want to make sure that's true that you're going to probably maybe accelerate your expansion plans in this space now that you have these transactions under your belt as well as what's the future look like. Could that go up even higher as you expand your portfolio?
+
+Patrick A. Fleury
+Yes. Chris, it's Patrick. I'll take the first part and then maybe Paul and Nazar, Kerri can take the second. So Chris, I think it's pretty obvious. You look at Google as a financial partner here working with us, a multitrillion-dollar market cap, one of the largest companies in the U.S. and with a measly $30 billion, I think, of debt or so. So absolutely pristine AA+ company partnering with us, now one of the largest shareholders. So I think you can imagine that whatever course we were on before, right, with regard to our financing for Core42, this is a game changer for that.
+
+And so I think we will look to finance the site in totality under this new credit regime and new support regime. So I think that's the obvious and clear takeaway. And I'm not prepared on this call to precisely quantify that for you other than to say like it's -- we view it and I think our financing partners also view it as a game changer. And so I think now, as Paul mentioned, we are positioned, I think, perfectly to go get the most cost-effective and efficient capital structure in place. And look, before, we were talking to you about project financing. That can create siloed entities, which is not the best long-term financing outcome. And so I think here, we now have the time and the support to figure out what is absolutely right for the company long term.
+
+Nazar M. Khan
+In terms of your second question, Chris, around growth and future capacity, we put out this target of 150 to 200 megawatts, and that was by design. And that really is a function of both the capacity we have available, but also what we think we can efficiently finance and pay for. And so with this transaction, one would think we should be able to maybe increase the pace of that. We'll -- as Patrick said, we're going to work through that here very shortly. And so at the back end of that, maybe that could be a possibility. But I think that 150 to 200 megawatts of guidance that we have really is within both the capacity we have available as well as our ability to finance it and pay for that [ construction ] in a timely way.
+
+Christopher Charles Brendler
+Okay. Great. Just one more on the financing side. Are you still anticipating a 70% LTV? Or does that potentially have the ability to increase with these transactions?
+
+Patrick A. Fleury
+Yes. Chris, I think all of that is out the door. It's no longer relevant. So I think you'll, again, see us attack the market, I think, in a very significant position of strength now with our partners. And I think all of those prior discussions and targets are off the table.
+
+Operator
+Our next questions come from the line of Martin Toner with ATB Capital.
+
+Martin Toner
+Congrats, folks. The EBITDA per megawatt of this deal is a little bit higher than what you've given us for Core42. Can you just kind of talk us through like what's different?
+
+Patrick A. Fleury
+Yes. Martin, I think as you'll see in our disclosures -- and I think this is just natural as we get bigger, right? So before, when we just had Core42 as our customer, we were telling you EBITDA because that was our only customer. I think now what you'll see us do going forward is for Core42 and for this deal, right, we're kind of looking at it from a net operating income at the project level, which I think is a more appropriate way to look at it. And you'll see that in our guidance for bitcoin mining. We're looking at that as segment operating income as well, right? So I think the way we think about it is there's profitability at the project entities and then there's SG&A that we've had to take on right at the parent, which we gave you updated guidance on today. So I think when you combine the specific project entities, right, and the bitcoin mining, that would then kind of roll up into a total and then you can subtract the SG&A from the top to get down to your EBITDA.
+
+Does that make sense?
+
+Martin Toner
+Yes, I think so. Does Google have a significant contract with Fluidstack kind of like Microsoft and OpenAI have with CoreWeave? And just -- I'm just wondering, does Fluidstack have like a CoreWeave-like backlog?
+
+Nazar M. Khan
+I don't think we're in a position to disclose Fluidstack's customer base. I think as we mentioned earlier, Fluidstack works with some of the largest companies in the world in delivering customized compute solutions.
+
+Martin Toner
+I appreciate that. And then last one for me. Can you kind of talk us through why like 95 million shares was the right price for Cayuga? Were there some competing bids? And any detail there you can give us there would be appreciated.
+
+Kerri M. Langlais
+Sure. Martin, it's Kerri. So I think we probably first brought up the Cayuga process back in our first call in February, or at least that's when Paul had begun a process -- a competitive process for Cayuga. That process quickly attracted multiple third-party bids. Because it was a related party transaction, the Board then formed an independent committee, which brought in its own financial and legal advisers to sort of evaluate the opportunity for TeraWulf. Ultimately, in terms of pricing, the committee approved moving forward at a discount to those third-party bids. And we agreed that equity rather than cash was the right way to structure the deal to keep everybody aligned. So we're thrilled now to have Cayuga as our second site.
+
+Much like Lake Mariner, it's a former site of a coal plant and has all that amazing infrastructure
+
+Operator
+Our next questions come from the line of Stephen Glagola with JonesTrading.
+
+Stephen William Glagola
+Just wanted to clarify on that prior Q&A. When you include the extra nonproject level SG&A, is the margin then more comparable then to that 75% level at Core42?
+
+Patrick A. Fleury
+No. No, Stephen. Again, I think I was just trying to make the point that we've kind of -- we've changed how we're guiding you, right, because before we literally just had 1 customer. So it was easy to kind of just give you an EBITDA margin. Now what I'm saying is I expect the net project operating income margin for each project, right, to be its own. I mean I think we're saying, I think, 85% on that. So I think if you were to apply that to, let's say, each of the projects and then take our SG&A guidance, that would get you to EBITDA. Is that helpful?
+
+
+Stephen William Glagola
+Yes. No, that's really helpful, Patrick. Appreciate it. And then just had one more. So it seems like the successful delivery of CB-1 and CB-2 are pivotal for showcasing your capabilities and establishing credibility for Tier 3 or 4 data center development. So I was hoping maybe you could share any key learnings your team has gained during the build-out process. Any processes that you maybe expect will be more efficient or streamlined with the Fluidstack build-out or future projects, et cetera?
+
+Paul B. Prager
+Naz, do you want to start and let maybe Sean talk a little bit as well?
+
+Nazar M. Khan
+Sure. Stephen, I think there's a couple of things that are important. One is we've been in construction at our site for the last 4 years straight. So we've been building bitcoin mining buildings. And so we had several electrical mechanical contractors on site. And those folks and some of those folks that showed up 4 years ago are still at the site because they're rolling from 1 building and 1 project to the next. So momentum in being able to deliver on a schedule is important. And part of the diligence process that all of our customers have is really, hey, if there's this time line of schedule out there, what's your ability to meet it?
+
+And so given that we've got quite a bit of activity at the site and there's a lot of momentum, it's easier to see how the existing folks there can roll into the next. And then as we scale up and are delivering greater sizes and capacity, it's really a question of can we augment and add to that kind of labor force. And so that's one thing that I think is important and we've been able to convey and articulate to customers, everyone that comes on and being able to show them these schedules are really grounded in being able to point to who's going to do the work. That's one. Second is the design of these things, as Paul mentioned earlier, we are in the very early stages here. And we are at our site deploying multiple different OEM GPU equipment. And each one of those comes with its own set of unique attributes and needs and desires. And so having the experience of going through that design process, understanding what those different configurations look like, what they need and being able to deliver solutions to our customers kind of comes through as well.
+
+We've been through this process now both with Core42 as well as with Fluidstack and Google now. And so I think people see that, as they're thinking through and figuring out how to deploy various types of technology, we are a very good partner to work with, and especially on the electrical side, delivering that capacity. And Sean probably has a few other things to add.
+
+Sean Farrell
+Yes. I would just add to what Nazar said. A lot of the contractors we've had on site have been there for 4 years. So maintaining the workforce at Lake Mariner has been a huge benefit for our deployment at this site. So rolling them from CB-1, CB-2, CB-3 and so on has really been the momentum that we've kept at the site. We've also had huge lessons learned from CB-1 and CB-2. And also, as Nazar said, we've been in detailed technical discussions with Fluidstack for the past several months on CB-3. So instead of building a very wide envelope for Fluidstack deployments, we've really narrowed down on the design that meets their needs.
+
+So by doing that design and level-setting us upfront, it allows us to further accelerate our construction schedules.
+
+Paul B. Prager
+And the only thing I'd want to add to that is the beauty of our bias regionally right now is that all those contractors and many of the same folks on the ground who are employees at Lake Mariner, they move right over to Cayuga when that's ready to roll so that we're taking advantage of all those lessons learned and working with the same people as we continue to refine our efforts here. So it made Cayuga far more compelling to us than just any other site.
+
+Operator
+Our next questions come from the line of Ed Engel with Compass Point.
+
+Edward Lee Engel
+Congrats on all the announcements. You just mentioned that you've been interacting with Fluid over the past couple of months. I was wondering what the involvement was with Google kind of during that whole process. Were they involved early in those negotiations or were they a bit more later in the process? And then just kind of curious whether, I guess, GCP themselves has expressed any interest in any other sites in your pipeline.
+
+Paul B. Prager
+Yes. We've been involved with Google as part of the Fluidstack effort since very early on. It takes a while to get these things over the finish line. The deal took 3 to 4 months from beginning to end. And we've established great working relationships amongst the parties at every level of their respective organizations. Having a signed deal is more than simply having land and access to power. You have to finance the transaction. It's critical to the magnitude of spend.
+
+And that's why it was so important to have Google involved pretty much from the start. I think Google taking 8% of our company is not simply about doing a deal, but they want to be a part of where we are going given their natural need for compute. And so again, it was complicated, and we've been talking about it for a long time. Anyone who's listened to Google's Q2 call is aware they have substantial data center needs given $106 billion backlog. They have acquired substantial quantities of third-party data center space. And they're -- backstopping the transaction provides Google with a lower expected cost than a guaranteed value. And since in the unlikely event that Google steps in for Fluidstack due to the backstop, Google would likely add the facilities to their data center portfolio. They were instrumental in helping us get this deal done and very welcome partners.
+
+
+Edward Lee Engel
+That's great color. And then you also mentioned that there is early termination protections with Google. Can you talk about some of those conditions, just assuming that they're performance related? And then just one quick follow-up. The 30-day option that's still being considered, would that also include more warrants to Google as well? Or is that just a onetime thing?
+
+Paul B. Prager
+Maybe I'll start, and then we'll go to you, Naz, on the walkaway concerns, which we don't really have. But I would expect that -- a, I have high degree of hopes with respect to the option and the extension of additional capacity. And all parties have worked in good faith to come to the realization that, that's a good thing. And I would imagine that the terms will be very similar, as Kerri pointed out earlier, and that Google's backstop and equity participation would be part and parcel of that. So feel pretty good about that. Naz, do you want to address the notion of SLA penalties or walkaway considerations?
+
+Nazar M. Khan
+Sure. I mean the terms or the specific terms are fairly confidential. That being said, the arrangement has what I would call usual SLAs around performance and delivery. We have worked very closely with the Fluidstack and Google teams to ensure that both of those items from -- on the performance side, the design, really incorporates the number of things that they're looking for. So the window of [ operational ] ranges is fairly tight. And second, on the delivery, there is a fairly robust schedule kind of supporting that. Then again, if you look at what we've done with Core42, we had similar provisions within that agreement. We have an obligation to deliver capacity on a certain time line, and we've been doing that on schedule and on budget.
+
+
+Operator
+Our last questions will come from the line of Bill Papanastasiou with KBW.
+
+Bill Papanastasiou
+Congrats on this deal. I think most of the analysts went through a lot of the questions. But with respect to the Cayuga site, it appears capacity will be coming online in the second half of '26. Curious to hear your thoughts on how management is thinking about diversifying the tenant base, if that's a consideration. Or now that you have the 2 partners in your pocket, will you continue to scale hand in hand?
+
+Paul B. Prager
+Yes. It's Paul. I've been telling everybody for the last 3 to 6 months, I mean, we need to land a new customer and expand our capacity. We've done that. But in doing so, we've seen a tremendous amount of demand from multiple parties. I think we ended up in a great transaction here with world-class partners. And we want to grow with them and meet their needs. But we have had significant real interest expressed by other quality customers.
+
+And we're going to continue to engage with all those parties as we look to grow. We think that's prudent. But at this point, we're really grateful for the confidence and trust Fluidstack and Google have demonstrated in us right now and really want to get going on that and then focus on CB-5. And then we could see who the right customer is for Cayuga. Demand is real. It's unbelievably powerful right now. So we're excited about the opportunity, but we're most grateful for the contracts that we've announced today and the future of this partnership.
+
+Operator
+Thank you. Ladies and gentlemen, that does conclude the question-and-answer session, and with that, does bring this call to a close. We appreciate your participation. You may disconnect your lines at this time. Enjoy the rest of your day.

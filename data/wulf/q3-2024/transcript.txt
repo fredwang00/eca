@@ -1,0 +1,257 @@
+November 11th, 2024
+Operator
+Good afternoon, and welcome to TeraWulf's Third Quarter 2024 Earnings Call. At this time, all participants are in lesson-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions]. As a reminder, this conference is being recorded. I would now like to turn the conference over to your host, John Loftin, Senior Vice President, Director of Investor Relations. Please go ahead, sir.
+
+John Loftin
+Thank you, operator. Good afternoon, and welcome to TeraWulf's third quarter earnings call. Joining me today are Chairman and CEO, Paul Prager, and CFO, Patrick Fleury. Before we get started, please note that our remarks today may include forward-looking statements. These statements are subject to risks and uncertainties, and actual results may differ materially. During this call, we may use words like anticipate, could, enable, estimate, intend, expect, believe, potential, will, should, project, and similar expressions, which indicate forward-looking statements. For a more comprehensive discussion of these and other risks, please refer to our filings with the SEC, available on sec.gov, and in the investor section of our website at terawulf.com. We will also reference certain non-GAAP financial measures today.
+
+Please refer to our 10-K and 10-Q filings and our website for full reconciliations to the most comparable GAAP measures. You can also find our updated investor deck on our website. We will start with prepared remarks from Paul and Patrick, followed by a Q&A session. I'll now turn the call over to Paul Prager, our CEO.
+
+Paul Prager
+Thank you, John, and good afternoon, everyone. We appreciate your joining us today as we discuss our third quarter results. For those new to TeraWulf, we are a leading energy and digital infrastructure company focused on utilizing predominantly zero-carbon energy to power our operations. Our management team has over 30 years of experience in energy infrastructure with a proven track record in financing, designing, building, and operating power and power infrastructure projects. Our flagship Lake Mariner facility, located in upstate New York Zone A, is a prime example of a strategy in action. We're situated only 35 miles from Niagara Falls in a region where over 90% of the energy comes from zero-carbon resources. This strategic location combined with our access to scalable infrastructure and power, abundant land, and reliable water resources positions us uniquely in the market. We believe this focus on clean, cost-effective energy bodes well for the future.
+
+As we look ahead, we're confident in our approach. We see the industry increasingly aligning with our core strengths, namely low-cost, sustainable energy and a commitment to operational excellence. The steps we took this quarter have set a strong foundation as we head into what we believe will be a pivotal year in 2025. Let's talk about what we accomplished in the third quarter. We've been hard at work making substantial progress across our strategic, financial, and operational priorities. To start, I want to highlight a major strategic transaction. In early October, we sold our 25% stake in the Nautilus Cryptomine joint venture to Talen Energy. The transaction, valued at $92 million, delivered a 3.4 times return on our investment.
+
+More importantly, this sale has streamlined our operations and gives us the flexibility to focus on expanding our high-performance computing capabilities at Lake Mariner. It's a win-win that sets the stage for what's next. Building on that momentum, we also secured a new long-term ground lease at Lake Mariner. This isn't just a simple lease extension. It's a game-changer. We increased our total acreage by nearly 50%, from 107 acres to 157 acres, without any additional cost per acre. And crucially, we now have exclusive rights to up to 750 megawatts of infrastructure capacity and power, which positions us well to attract top-tier, high-speed compute clients looking for scale and reliability. And it's with us now.
+
+On the financial side, we had a strong quarter as well. In July, we cleared out legacy debt, freeing up capital that we're now deploying into our WULF Compute business. This critical milestone comes at a perfect time, as we gear for a significant expansion into the high-speed compute market in 2025. I'd also like to highlight a recent capital raise. In October, we successfully raised $500 million through an oversubscribed convertible bond offering. This influx of capital gives us the flexibility we needed to continue investing in both our Bitcoin mining operations and our growing HPC initiatives. Timing is everything, and this capital positions us well to meet the demands of new tenants who need immediate access to power. We also took steps to return value to our shareholders.
+
+Our board approved a $200 million stock buyback program, and we've already repurchased $115 million worth of shares. We paired this with a cap call transaction in the convertible offering to protect against dilution up to a share price of $18.40, underscoring our commitment to driving shareholder value. Operationally, we held our ground despite some tough market conditions, especially following the Bitcoin halving. Our cost to mine came in at approximately $54,000 per Bitcoin in the third quarter, keeping us among the industry's lowest-cost producers. This level of efficiency is a key part of our strategy, something we're continually focusing on improving. We're also excited about the upgrades underway in our mining fleet. We've ordered the latest Bitmain S21 Pro miners, which are set to arrive through early Q1 2025. These state-of-the-art machines will boost our efficiency and take our fleet performance to the next level.
+
+On the high-speed compute hosting front, we're making steady progress with the construction of our new HPC facilities. We've completed construction of our 2.5-megawatt proof-of-concept project in the third quarter, and the 20-megawatt CB-1 and 50-megawatt CB-2 data centers are on schedule to be up and running in Q1 and Q2 of next year, respectively. We're in advanced discussions with potential tenants and expect to announce our first HPC hosting partner before the end of the year. Looking ahead, we're doubling down on our core strategy. By locating our operations in regions with abundant, low-cost, predominantly zero-carbon power, we're positioned to thrive in a market where securing clean energy is becoming increasingly challenging. The recent regulatory shifts around data centers at nuclear power plants have underscored just how tough it can be to lock down large-scale carbon-free power. This is why our Lake Merida facility, with its direct grid connection and robust energy infrastructure, is peerless. We believe our energy assets are second to none, and we're laser-focused on leveraging these strengths to continue delivering value for our shareholders.
+
+I'll now turn it over to Patrick Fleury, who will walk you through the financials in more detail. Patrick?
+
+Patrick Fleury
+Thank you, Paul. As Paul stated, the third quarter and beginning of the fourth quarter was a busy time for WULF with strong financial results, even in a challenging business environment, following the Bitcoin reward halving in April. In the third quarter of 2024, we self-mined 442 Bitcoin at Lake Merida, and our net share of Bitcoin mined at Nautilus was 113. For a total of 555 Bitcoin, we're about 6 Bitcoin per day, a 21% decrease over the 699 Bitcoin mined in 2Q '24. Our GAAP revenues were down 24%, quarter-over-quarter, at $27.1 million in 3Q '24 from $35.6 million in 2Q '24. Our value per Bitcoin self-mined this quarter, a non-GAAP metric that includes Bitcoin mined at Nautilus, averaged $61,075 per Bitcoin, for a total of $33.9 million, as detailed and defined in our monthly operating reports, press releases, and MD&A section of our 10Q. As a reminder, there is a key difference between our GAAP financials and the monthly operating reports in 2024 guidance. Due to our 25% historical ownership in Nautilus, the revenue, cost of revenue, operating expenses, depreciation, and amortization at Nautilus are not consolidated into our GAAP financial statement.
+
+Instead, the financial impact of the Nautilus joint venture is reflected in the equity in net income or loss of investee net of tax line item on the GAAP income statement. This is the last quarter I'll mention this difference as we sold our 25% ownership in Nautilus for $85 million in cash, effective October 2, 2024. Our GAAP cost of revenue, exclusive of depreciation, for 3Q '24 was $14.7 million, a 5% increase over $13.9 million in 2Q '24. The quarter-over-quarter increase was due to a slight increase in realized power prices, offset by demand response proceeds of $4.1 million in 3Q '24 versus $1.9 million in 2Q '24. Our power cost, or cost of energy per Bitcoin mined, a non-GAAP metric that includes Bitcoin mined at Nautilus, was $30,448 in 3Q '24 compared to $22,954 in 2Q '24. As a reminder, in our GAAP financials, unlike our monthly operating reports, the company records proceeds received and to be received for demand response programs as a reduction in cost of revenue. As previously mentioned, these expected proceeds totaled $4.1 million in 3Q '24 and $1.9 million in 2Q '24. For 3Q '24, we achieved an average power cost of $0.038 per kilowatt hour compared to $0.037 in 2Q '24.
+
+Operating expenses decreased 5% quarter-over-quarter from $1.7 million in 2Q '24 to $1.6 million in 3Q '24. SG&A expenses decreased 4% quarter-over-quarter from $11.9 million in 2Q '24 to $11.5 million in 3Q '24. Adjusting for stock-based compensation, SG&A increased 28% quarter-over-quarter from $7.1 million in 2Q '24 to $9.1 million in 3Q '24. For our updated 2024 guidance in our 2Q '24 slides, with our entry into high-power compute hosting and need for more staff, we anticipate approximately $30 million of SG&A in 2024. Depreciation increased slightly quarter-over-quarter from $14.1 million in 2Q '24 to $15.6 million in 3Q '24, which is the result of our continued infrastructure build-out. Gain on fair value of digital currency in 3Q '24 was $0.9 million, whereas we incurred a loss of $0.7 million in 2Q '24. Impairment of PP&E in 3Q '24 was $0.4 million related to the expected sale of 1,200 miners for proceeds of $0.2 million. GAAP interest expense in 3Q '24 and 2Q '24 was $0.4 million and $5.3 million respectively, which includes cash interest expense and amortization of debt issuance costs and debt discounts related to the term loan financing.
+
+Cash interest paid during 3Q '24 was only $0.7 million due to the full repayment of our debt on July 9, ahead of maturity. In connection with this voluntary prepayment of debt, the company incurred prepayment fees of $0.9 million, wrote-off unamortized debt discount of $3.3 million associated with the principal repaid and recorded a loss on extinguishment of debt of $4.3 million. Other income of $0.4 million in 3Q '24 reflects interest earned on cash held in our commercial banking account. In 3Q '24, we reported a loss of $2.7 million in equity of investee net of tax as compared to income of $0.8 million in 2Q '24. These amounts represent Terrell's proportional share of net income or loss of the Nautilus joint venture. Our GAAP net loss attributable to common shareholders for the third quarter was $23.0 million compared to a net loss of $11.2 million in 2Q '24. Our non-GAAP adjusted EBITDA for 3Q '24 was $6.0 million compared to $19.5 million in 2Q '24. Turning our attention to the balance sheet, as of September 30th, we held $24 million in cash with total assets amounting to $405 million and total liabilities of $33 million.
+
+As disclosed on page 15 of our November investor deck, we achieved a marginal cost of production including every cash cost in the company of approximately $54,000 in 3Q '24 and expect to achieve approximately $59,000 in 4Q '24 and $47,000 in 1Q '25. Regarding our anticipated operating performance in 4Q '24, Lake Mariner will be taking a planned outage on minor buildings 1, 2, and 4, which will impact approximately 5.2 exahash of mining capacity for approximately one week commencing mid-November as we connect our ultra-high-voltage redundant power feeds from the grid to support our high-power compute data center infrastructure. The scope of the outage is focused on the high-voltage connection and electrical infrastructure to enable delivery of redundant power supply to CB-1 and CB-2 in 1Q '25 and 2Q '25 respectively. On pages 12 and 13 of the November investor deck, you'll find our anticipated capital sources and uses bridge for 4Q '24 and fiscal year 2025. Regarding our capital position and growth plans over this period, we are funded with over $380 million of unallocated excess cash in 2025. In October, we opportunistically executed a $500 million convertible financing utilizing $60 million of net proceeds to purchase a capped call and thereby neutralizing dilution from the offering until the stock price is 100% above the reference price of $640 per share, which is $12.80 per share. We also simultaneously repurchased $115 million of common stock for approximately 18 million shares, the impact of which results in no effective dilution from the convertible offering until greater than $18 a share, a huge win for WULF shareholders. As discussed on prior earnings calls, we are targeting a high-power compute customer contract with a one-year revenue prepay and expect to execute project financing for approximately 70% of the total project cost.
+
+In 4Q '24 and into 2025, we expect the following approximate capital expenditures. Number one, $400 million on WULF Compute and related electrical infrastructure and upgrades at the site, including CB-1 and CB-2, both liquid-cooled, redundant, and high-power density infrastructure expected to be substantially complete in first half 2025, bringing our high-power compute co-location hosting capacity to 72.5 megawatts. Number two, $23 million on construction of Building 5, a 50-megawatt Bitcoin mining building expected to be operational in 1Q '25. And number three, $79 million on miner purchases for Building 5 and our fleet upgrade. At WULF, our financial objectives remain clear and simple, maximize profits, secure long-term, high-quality customers and high-power compute hosting, and create value for our shareholders, all while providing investors access through transparency and accountability. With that, I'll turn it back over to the operator, and we look forward to answering your questions.
+
+Operator
+Thank you. At this time, we will be conducting a question-answer session. [Operator Instructions]. The first question that we have comes from Lucas Pipes of B. Riley Securities. Please go ahead.
+
+Lucas Pipes
+Thank you very much, operator. Good afternoon, everyone. My first question is on slide 12. It shows the remaining spend at CB-1, and I wondered how much of this capital has been spent to date on a gross dollar and dollar-per-megawatt-hour basis, and how should we think about kind of first-half-'25 outlays with CB-2 construction? Thank you very much.
+
+Patrick Fleury
+Hey, Lucas. It's Patrick. Thanks for your question. So, on CB-1, just, I guess maybe let's just start from the beginning. So, the WULF Den of 2.5 megawatts that build cost was approximately $10 million. The build cost for CB-1 total is about $100, right? So, that's a 20-megawatt building, so about $5 million per megawatt to build. And then the build cost for CB-2, which is a 50-megawatt building, is call it $250 to $300.
+
+And so about $5.5-ish million per megawatt. And so, as you can imagine, CB -- WULF Den is operationally complete. CB-1 is going to be complete operationally at the end of the first quarter, so that money is going out the door very quickly these days. And then CB-2 will be operationally complete end of the second quarter. So, there's a lot of capital moving out the door here over the next couple months.
+
+Lucas Pipes
+Patrick, this is very helpful. Thank you. And in terms of the first customer expected by year end, I wondered if you could give us a sense for the magnitude in terms of megawatts. How should we think about contract structure and other multiple counterparties that you're in discussions with or an anchor position or have you mostly narrowed down here to maybe one party? Thank you. Thank you for any color.
+
+Patrick Fleury
+Paul, do you want to take that or would you like me to?
+
+Paul Prager
+Why don't you start?
+
+Patrick Fleury
+So, Lucas, I think we will likely have one or two customers for the 72.5 megawatts. Those negotiations are very advanced. I think, as we've said publicly, we will not announce an LOI. LOIs are non-binding, and we will only announce a definitive lease agreement. So, as we've said repeatedly, as Paul said in his remarks, we expect that announcement before year end. And that, like I said, will cover all of our initial capacity through the first half of next year, and that will be one or two customers. Beyond that, I think we're being very careful. I mean, as we're all seeing, the market is incredibly dynamic, particularly with the FERC ruling from a couple weeks ago, and we may have that same customer or customers will most likely have options for additional capacity, but that will be options that have to be exercised by a date certain along with a one-year revenue prepay that comes simultaneous with the option.
+
+So, the option will not be a free option. We're not in the business of giving folks free options on Wealth Shareholder, so it will be an option with a hard date, with a hard payment that will then allow us to go get that project financing because we'll have an actual lease, we'll have a one-year revenue prepay, and then, obviously, we're going to have existing buildings operating at the site, and as you know, it's always easier to get a project financing done when you can point to existing infrastructure that is operating. So, that's the intention, and like I said, I think we're just the scramble for power has only intensified since the FERC ruling, and so we just want to make sure that all of our future capacity megawatts that we get the best deal. So, I think that's where we stand. Paul, do you want to add anything?
+
+Paul Prager
+No, I think that's right, and I think, I would want to underscore what Patrick just said in closing, which is that as a result of the recent FERC ruling, it's not clear to us that one can't assume that there'll be better, more enhanced contract terms and values, so I don't think that we need to rush beyond the initial 72 megawatts, but of course, we're prepared to do that with the right customer as long as contract terms are in the interest of our shareholders.
+
+Lucas Pipes
+Paul, Patrick, this was very comprehensive. I really appreciate all the color, and to you and the entire team, continued best of luck.
+
+Patrick Fleury
+Thanks, Lucas.
+
+Operator
+Thank you. The next question we have comes from Mike Grondahl of Northland Securities. Please go ahead.
+
+Mike Grondahl
+Hey, guys, thank you. You know, Patrick and Paul, on the demand environment, it sounds very robust, and it sounds to be intensifying. Any sense you can give us just on maybe in the last 90 days the benefit you've seen on the pricing side or the term side? How has it kind of changed? Any order of magnitude?
+
+Paul Prager
+I think there's -- there's some private deals that have been done, and I think pricing per kilowatt hour has increased on the margins. I think there were more parties prepared to meet the terms that Patrick outlined in response to Lucas, and there are -- there seems to be a greater interest to tie up as many megawatts as possible now with one party as opposed to sort of look for multiple sites. So I think the FERC ruling has resulted in higher value sites and targets are going to see higher values.
+
+Patrick Fleury
+Yeah, Mike, I would just add to that, too, right, I think we've been talking for a long time about how not all sites are created equal, right, and how our site is a retired coal plant, so we're blessed with a lot of critical electrical infrastructure at the site along with access to land, water, and the FERC ruling really puts a point on that, right, because if you are in PJM or if you have behind the meter generation, then you have to deal with FERC. At a site like ours, we don't. At sites in Texas, for example, because they're caught in electric islands, they don't. So I think what we're seeing is certainly even just post the ruling, sites that have access to a lot of power and land and water and are very sizable are sort of moving up in the pecking order and getting a lot more attention.
+
+Mike Grondahl
+Got it. And then, Patrick, to you, I think it was on the last conference call you kind of began to outline how you guys were going to be able to do HPC without additional equity in terms of using the one-year prepayments and roughly 75% project financing. Do you feel even better about that today? What have you kind of learned through that process the last 90 days?
+
+Patrick Fleury
+Yeah, look, I would say it's nice to not be on an island. Stay in that, Mike. I think it's other people on this call, I'm sure, listen to Novogratz on the Galaxy call talk about how project financing is readily available, right? And there's other peers of ours that are in that market now too. So that market is getting much more developed. As you know, we've always been saying that, that's been our plan from day one, but it's nice to see that market get more robust. But yeah, I mean, I think if you look on page 13 of our slide deck and we sort of go through painstaking detail on pages 12 and 13 to show you, but I hope page 13 hits people right on the forehead. I mean, we have a lot of unallocated cash.
+
+And so if the market's not trading us at the right multiple, I think we've shown, we've authorized the 200 million buyback. We bought back 115 million of stocks. This management team, board and insiders own about 30% of the equity of the company. So yeah, I mean, we're well on our way now with the convert and no effective dilution under $18 a share. So yeah, I mean, I'm really excited. I think for a long time, as you know, I've been talking about being the first Bitcoin miner to go the other way, to buyback stock or pay a dividend and start returning cash to shareholders. And I would just add, I think I am extremely proud of this team. Everyone from the site level folks that are operating to the management team, that we have broken that ceiling and are the first one.
+
+And not only that, but you look at this quarter, we had a positive EBITDA quarter. I can name four or five of my peers that claim to be sort of industry leaders that are quote, bigger and badder than we are, that all lost money on the EBITDA line mining Bitcoin this quarter. It's not a viable long-term business and I get Bitcoin flying now, I get it. But you going to make money in your underlying business and we do.
+
+Paul Prager
+Hey Mike, just to get back to where the question started, I wanted emphasize on the project finance side. It is readily available, but it is heavily credit dependent? So that is why, the company has taken the time it has to sort of sift through all the customers to try and come up with what's the best possible determination from a credit and from contract terms so that we can enable that project financing. And so I think in the end, our investors will determine it was time well spent, but this is all about creating value for the shareholders and project finance of high-speed compute and AI is the way to do it.
+
+Mike Grondahl
+Thanks guys.
+
+Operator
+Thank you. The next question we have comes from Brett Knoblauch of Cantor Fitzgerald. Please go ahead.
+
+Brett Knoblauch
+Hi guys, thanks for taking my question. Maybe if we could start just on what you guys are currently expecting for the back half of next year? I'm going to say this knowing you guys still have a lot of new places to 20 megawatt and 50 megawatt building, but should you want to start building called CB-3, I would assume a lot of those long-lead items will need to be ordered somewhat shortly. Should we be packing in anything for the back half of next year or how are you guys just thinking about that now?
+
+Patrick Fleury
+Yeah, look, good question, Brett. I think we will provide '25 guidance when I think when we file our 10K in February, but for now I would just say we have on page 17 what we're capable of delivering, but whether we do that will depend on our customers and how fast or slow they want to run. Because remember, it's not just what can we deliver. I mean, we can deliver that capacity, but it's a function of where is our customer with NVIDIA? Where are they on their capital raise? Where are they with their end market demand? So there's a lot of different factors that go into sort of how fast or slow the customers want to put up capacity, but we can run as fast or as slow as they want. So I think page 17 shows what we're capable of doing and I think we'll be able to provide even more color once we announce the customer contract and then once we provide guidance in February.
+
+
+Brett Knoblauch
+Okay, now that's helpful. On the WULF Den, what is the current game plan for using that given it is operational today? Is this something that could be generating revenue in the current quarter?
+
+Patrick Fleury
+Yeah, its operational today, but what we've found is, and if you remember initially, we were contemplating for a hot second to buy GPUs and put them into ourselves. And what we quickly garnered is all of our customers want all of our capacity. So, and we don't have the same cost of capital as Amazon or Microsoft or Meta or Google or any of the hyperscalers. So we don't want to be in the GPU as a service business. That's not what we know best. We know energy power infrastructure. And so we didn't want to be competing with our customer and they want all that capacity and the highest and best use of that from a valuation perspective is to run it for our customers. So that's what we'll be doing and I think you'll see that capacity go to the customer or customers that I referenced before.
+
+
+Brett Knoblauch
+Great, thanks Pat. Maybe just one more. I know you guys are currently waiting another 250 megawatt approval from the utility. I guess any update on timing for that and is that something that's needed before you can sign the customer contracts?
+
+Patrick Fleury
+So the short answer is no. The timing of that is end of fourth quarter, beginning of first quarter. And like I said, we expect that capacity when you're looking at what we're bringing online by the middle of next year, we expect to be able to start pulling that energy the middle of next year.
+
+Brett Knoblauch
+Perfect, thanks. Really appreciate it guys.
+
+Patrick Fleury
+Thanks Brett.
+
+Operator
+Thank you. The next question we have comes from Darren Aftahi of Roth Capital Partners. Please go ahead.
+
+Unidentified Analyst
+Hey, this is Dylan for Darren. Thanks for taking my questions. To start, when you look at some of the timelines on HPC, like how long is the delay between when you sort of finish the construction of these next two buildings and obviously you plan on announcing that customer by year end and when they can sort of get GPUs in there and start charging revenue?
+
+Patrick Fleury
+Yeah, so I think, and I apologize if I'm missing the question, I think what you're asking is, we're completing Dylan, the WULF Den is operational complete. CB-1, the 20 megawatt building will be operationally complete end of first quarter. So I think realistically, and you can see this on page -- on page 13 of our deck, but the cash from operations, the cash flow from operations in 2025, we've assumed that CB-1 and CB-2 are operating for nine months and six months respectively, like revenue generating.
+
+Unidentified Analyst
+All right, thanks. And then, I mean, considering the fleet upgrades you're doing on the 195 megawatts of Bitcoin mining, like how do you think about the long-term economics of Bitcoin mining versus some of the negotiations you're having for HPC, especially if that might see more favorable contract terms for the next 100 megawatts or next 250 that you might have available long-term?
+
+Patrick Fleury
+Yeah, it's a great question. Look, I mean, we're power folks, so we think about everything on a dollar per megawatt hour. And if you think about the midpoint of our data on page 16, that's roughly put like 1.5 million of revenue per megawatt is roughly equivalent to $150 a megawatt hour. And so that's a, like we're saying 70% margin business. So you're making a margin of about 100 bucks a megawatt hour. And so depending upon what type of miner you're mining with today, right, you can back into what your profit is on a dollar per megawatt hour basis. And I think the tough part about that, right, is people tend to look at Bitcoin in isolation, but you can't do that. You have to look at network cash rate as well, right, which is why I think when you go look at whether people made money this quarter or not, like a lot of our peers didn't make money.
+
+And that's, it's not just, you need Bitcoin price to increase at a higher rate than network cash rate. And so I think that question is tough to answer just given the volatility of Bitcoin price and network cash rate. But look, I think what we've said, certainly the next 500 megawatts of expansion for us is in high power computing AI. And that will probably coincide with the next halving. So we've got plenty of running room and then time to decide whether, we keep mining Bitcoin or not. But we've got plenty of time to play that out.
+
+Unidentified Analyst
+Great, thank you.
+
+Operator
+Thank you. The next question we have comes from Joe Flynn of Compass Point Research & Trading. Please go ahead.
+
+Joe Flynn
+Hi, thanks for the question. And to piggyback off an earlier question, following the 250 megawatts of New York ISO approvals, I mean, how early do you expect to be in the queue to request the additional 250 megawatts? And then it also looks like the Cayuga Lake requests have already been submitted. So if there's any color you could add there, that'd be very helpful?
+
+Patrick Fleury
+Yeah, Paul, I'll take that. Then maybe you can add some color. So, hey, Joe. So the short answer is that getting in the queue for the next 250 megawatts will depend upon, again, how fast or slow our customers want to run with expansion. But that's a process that we're very familiar with at this point. And so I just, I don't know is the short answer yet, but if I had to guess, my guess would be probably at some point next year, we start that process again. Whether it's first half or second half, I'm not sure. It's just going to depend on the cadence of the build-out.
+
+And then with regard to Cayuga, look, it's a great asset similar to Lake Mariner. It is owned in the private company. But I don't know, Paul, if there's any other color you want to add.
+
+Paul Prager
+Cayuga started this process to ensure that at some point it can meet the needs of a company like TeraWulf. And if that's something that TeraWulf and their customers and shareholders think are in the best interest of their shareholders, then there'll be a process an independent committee of the board and valuations and contract terms reviewed by independent counsel for the independent committee and all that sort of good stuff. But Cayuga's not sleeping, and they're doing what they need to do, because time to power is the most critical thing for TeraWulf's customers, and TeraWulf wants to ensure that they can meet those needs by both the assets we currently have and the assets that we're looking at as part of our development pipeline.
+
+Joe Flynn
+Great. I appreciate the color. And then, Patrick, on Figure 13, talk about the $387 million of unallocated cash following the prepay and project financing. I mean, do you see an opportunity to be kind of opportunistic with the remaining buyback there and just go forward? Do you expect the process of adding additional megawatts to be a CapEx component that you guys are going to take care of up front, or do you think the remaining, kind of call it $250, would be primarily project finance, like, first, and then could lead to additional shareholder return opportunities?
+
+Patrick Fleury
+Yeah, great question, Joe. So we're going to try in the future, but I mean, I guess as I look at next year, I think what we'll probably do is middle of the year, we'll take ourselves out of effectively equity funding WULF Den, CB-1, and CB-2. So that's on page 13, or sorry, on page, yeah, sorry, on page 13, that's the big blue $260 million project financing bar. So that's financing those three buildings. For the future going forward, like I said, as customers execute options for additional capacity, the way we're setting that up is, at the time of the execution of the option, they're required to make a one-year revenue prepay, which will allow me to go do the project financing upfront, so I won't have to equity fund it. So that would mean that full $387 million is fully, you know, unallocated and available. That's the goal.
+
+Joe Flynn
+Great, thanks.
+
+Operator
+Thank you. The next question we have comes from Brian Dodson of Clear Street. Please go ahead.
+
+Brian Dodson
+Thanks very much for taking my question. So your comments regarding continuing progress toward an HPC contract this year, very encouraging. You mentioned that you were in advanced discussions. Were those parties able to view your WULF Den proof of concept facility, and what was their feedback, if any?
+
+Paul Prager
+Hi, this is Paul. The customers that we have engaged with in advanced discussions have all been to the site, have all seen what we've done there, and have had advanced discussions on the operation and construction level with members of TeraWulf. To be honest, they were uniformly pleased with what we've got there. It was a difference, I think, with one of the customers. It's all about where they want to put the cooling. Do they want to put it in the rack? Do they want to put it in the building? So that drives cost, so that led to more discussions.
+
+But people were really, they loved the site, and they wanted as much of it as they could.
+
+Brian Dodson
+Great, thanks for that color. And I guess as a second question, there's been obviously a lot of discussion in the industry regarding the recent election and administration change in Washington. Is there anything that you'd like to add to that discussion, and what do you think clearer regulation could do for the industry over the next several years?
+
+Paul Prager
+Sure, I'll start if that's okay, Patrick. Listen, I think the election, we want to think about it in two ways. The first, going back to the question just asked about Patrick about 3.5 years post-halving, how do we think about Bitcoin mining versus using those megawatts that are currently allocated to Bitcoin mining to high-power compute? And the answer is, we still have plenty of runway, as Patrick said, before we have to make that conclusion. For the meantime, Bitcoin is really performing very well, and we'll just have to see where Bitcoin goes as we think about it. But again, the higher the price, the higher the hash rate, the higher expense it is to buy machines out of Bitmain. So I think there are other questions that we'll want to consider at the time. I think we'll see a different valuation in the marketplace if we're a true HPCAI company as opposed to a company that also has Bitcoin mining, though now, under a new administration, investment in Bitcoin miners.
+
+May be perceived differently by both investors, banks, stuff like that. From a regulation perspective, listen, the last time President Trump was in office, there was a difference in the regulatory bodies and the time it took to get things done in the real estate and power side. We're energy infrastructure folks here, and we welcome regulation when it's sensible. When it becomes a way to sort of just put up roadblock after roadblock, it's kind of a bummer. So I think that we'll see a cleaner regulatory environment that will enable quality energy infrastructure projects to get up and running with greater agility and maybe with a little less operating burden. But I think the important elements of regulation, like, with respect to the environment, they'll stay because it's in the best interest of everybody. And it's why we've stayed focused on locating our facilities where there was 91% green energy as a resource. So I look forward.
+
+Certain things just won't change, though. It's still going to take four years to develop a new gas facility, right? And nuke is a ways off. And the time to power is everything right now for the customers that we're speaking to. So, regulation is only part of the puzzle in terms of meeting the need for energy infrastructure.
+
+Brian Dodson
+Yeah, very good. Thanks very much.
+
+Operator
+Thank you. The next question we have comes from John Todaro of Needham and Company. Please go ahead.
+
+John Todaro
+Hey, guys. Two questions for you around basically the leases coming up. First off, that slide that you've referenced where I think its 1.3 million to 1.8 million per megawatt in the economics, I believe you've had that for a while. So just wondering, if given the demand we're hearing from you and peers, is there potential to kind of walk that up? And then second, are kind of the key economics around this lease already agreed to? What are the kind of the sticking points? If there are any, are we kind of in the home stretch just trying to get a little bit sense of timing around that?
+
+Patrick Fleury
+Yeah, I'll address that first. So, John, on page 16, we've had this deck, this page in our deck since May. We did make some small tweaks to it. You'll notice if you look carefully, but anything that we didn't tweak means we didn't tweak it. So it exists on page 16 in its full glory. And then I'm not going to answer any of the second part of your question due to material non-public information concerns.
+
+John Todaro
+But you guys are still, I guess, expecting kind of before year end. And is there just kind of a degree of confidence we can get around that?
+
+Paul Prager
+Yeah, we're going to have a customer announced prior to year end, and it will be in the form of a full-blown agreement. And I would tell you that terms and all that's fungible. But again, our focus is on a fantastic quality credit that will enable us to go out and project finance CB-1 and CB-2. And so while there may be a ton more people looking for power, I think we're limiting our focus to the customers that we think are real thoughtful, we think can provide the requisite guarantees, we think would be known to the market or quickly can educate the market as to their financial credibility. And they can meet the potential scalability of our site because while we may be able to have multiple customers on site, I think from a scale perspective and just in building the relationship with a data center customer, it'd be ideal if we could work with a couple, maybe two or three and not more. So I could take an easy shot here and tell you anytime you have lawyers involved, things take longer than you hope, but we have lawyers involved and we will have a customer by year end.
+
+John Todaro
+Got it. Great. Well, thank you guys. Appreciate it.
+
+Operator
+Thank you. The next question we have comes from Kevin Cassidy of Rosenblatt Securities. Please go ahead.
+
+Kevin Cassidy
+Yes. Thanks for taking my question. And just for clarity, the redundant power that you're bringing in, is that only for the co-location area?
+
+Patrick Fleury
+Yeah. So, Kevin, I'm going to answer that question and then I'm going to double back with my operations team and make sure I got it right, but I'm fairly certain I do, which is the site, yeah, right now, we have redundant power, I believe for all 250 megawatts, but as the site expands, that redundant power, I think, will likely remain principally focused on the high power compute hosting building. We don't need necessarily redundant power for Bitcoin mining. I mean, our site has literally only gone dark once in the last 45 years in 2003 in the great blackout. So I'm not overly concerned about redundant power at the Bitcoin mining facilities, but most certainly our high power compute customers are, which is understandable. So the redundant power will be principally focused on those operations.
+
+Paul Prager
+And please remember that the principals, both on site and in management here at TeraWulf, operated that as a power plant for a real long time prior to shutting down and mitigating in a deal with the state. So we're pretty familiar with how that site works. And again, we think Bitcoin is a really flexible load. High-speed compute and AI is not, and our customers don't want to be as flexible, though they're willing to be far more flexible than I think the data centers of old. So we'll have that redundancy there for them.
+
+Kevin Cassidy
+Okay, great. Thanks for clearing that up. And then also when you sold Nautilus, you've got a lot of mining machines. Are those being installed at Lake Merrin or are you going to sell those?
+
+Patrick Fleury
+Yeah, so both is the short answer, Kevin. So I think in our deck we put on page seven, and so we did sell the majority of the miners from Cumulus for about $10.5 million. That's been realized and sold. And then we did change out some of the XPs. And you can see the sort of movement on page eight of our deck, like what we took out, what we installed. But we just are trying to get a more efficient fleet so that miners that were more efficient, we took. The miners that were less efficient, we sold and monetized for cash.
+
+Kevin Cassidy
+Okay, great. Thanks.
+
+Operator
+Thank you. The final question we have comes from Bill Papanastasiou of Stifel. Please go ahead.
+
+Bill Papanastasiou
+Yeah, good evening, gentlemen, and thanks for taking my questions. Patrick, I appreciate the comparative analysis that you provided between Bitcoin mining economics and the core scientific deal. Curious if you can share some general thoughts on how demand for power capacity has trended as your discussions with the hyperscaler have become more and more advanced. How sustainable is this level of demand for power that's set to come online in 2026 and onwards? Can the engine keep running at the same cadence if you can provide some clarity?
+
+Patrick Fleury
+Yeah, Paul, do you want me to take that or do you want to take it?
+
+Paul Prager
+I'm happy to. I mean, listen, there's significant growth expected. McKinsey said data center demand would triple by 2030, driven predominantly by the high-speed computer workloads, which are projected to grow from 40% to over 70% of our total power capacity by 2030. I mean, historically, power demand has grown at 1% per year. I'm now seeing 5% annual growth. This highlights, if anything, the growing scarcity of power. I'm not, you know, as I said earlier, gas plants, four years. Four years, if you think about it today, and you're ready to roll.
+
+Nukes, long ways off. So I think that the demand is real. I think it's the beginning, not the end. I think it's the tip of the iceberg, if you will, particularly as the enterprise customers choose to come online. So I think TeraWulf is very well positioned because of the site we have and the experience of the team as energy infrastructure developers. So I'm very constructive with respect to TeraWulf in this power-hungry environment.
+
+Operator
+Thank you. Ladies and gentlemen, we have reached the end of our question-and-answer session. I would now like to turn the call back to Paul Prager for closing comments. Please go ahead, Paul.
+
+Paul Prager
+Sure. Thank you, operator. Before we close today's call, I just want to leave you all with a few final thoughts. TeraWulf is clearly leading the charge with top-tier assets, industry-best unit economics, and unrivaled scalability in our owned infrastructure. As a significant shareholder myself, I am fully aligned with our commitment to accretive growth and maximizing value for our shareholders. We are optimistic about what lies ahead. We're confident in our strategy to deliver sustainable growth. I thank you all for participating this evening and for your continued trust.
+
+
+Operator
+Thank you. Ladies and gentlemen, that then concludes today's conference. Thank you for joining us. You may now disconnect your lines.

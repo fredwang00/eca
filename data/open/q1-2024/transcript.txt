@@ -1,0 +1,113 @@
+May 1st, 2024
+Operator
+Good day, and thank you for standing by. Welcome to the Opendoor Technologies First Quarter 2024 Earnings Conference Call. [Operator Instructions] Please be advised that today's conference is being recorded.
+
+Kimberly Niehaus
+Thank you, and good afternoon. Details of our results and additional management commentary are available in our earnings release and shareholder letter, which can be found on the Investor Relations section of our website at investor.opendoor.com. Please note that this call will be simultaneously webcast on the Investor Relations section of the company's corporate website.
+
+Carrie Wheeler
+Good afternoon. Also on the call with me today is Christy Schwartz, Interim Chief Financial Officer; and Dod Fraser, President of Capital and Open Exchange.
+
+Our performance in the first quarter reflects our commitment to the 3 key operating principles we outlined at the beginning of the year
+focus, execution and results. Our North Star remains rescaling our business and building towards a future of sustained profitable growth as we drive the business towards positive adjusted net income.
+
+Christy Schwartz
+Thank you, Carrie. Our first quarter results reflect our ongoing commitment to rescaling the business, generating strong unit economics and operating with disciplined cost management. We delivered $1.2 billion of revenue in the first quarter, exceeding the high end of our guidance range. This represents a 36% sequential increase in revenue, driven by our acquisition volume growth last year and coinciding with a pickup in clearance rates as is typical for this time of year.
+
+Operator
+[Operator Instructions] Our first question comes from the line of Dae Lee with JPMorgan.
+
+Dae Lee
+I have 2. So the first one, I appreciate the color around acquisition through the year. But curious how like macro conditions kind of change your expectations for the clearance rate going forward. And I guess those mortgage rate, which should -- picked up again this week for -- after that, that impact your outlook going forward?
+
+Dod Fraser
+Sure, Dae. Happy to start. It's Dod. I think in the sort of -- if you are to zoom out from a macro perspective and reiterating what we said on -- in the letter, what we are most focused on and have been for the last 18 months plus is continued price stability. And that really is the key input for us in terms of how we set spreads and how we manage growth and margins. And so we continue to see a balance of supply and demand.
+
+Carrie Wheeler
+To put acquisitions in context. So as we said in our remarks, almost doubled acquisitions year-on-year in the first quarter. And then a guide for Q2, which would be up, call it, over 70% year-on-year -- sorry, up double -- we doubled Q1 year-on-year, up 70% in the guide year-on-year. So the macro has not been a tailwind for us, certainly, Dae. It's been a headwind.
+
+Dae Lee
+Okay. Great. And then as a follow-up. Sounds like your first quarter adjusted OpEx was an increase as much as expected, sequentially mostly due to more moderate hiring. So does that mean -- I guess, twofold, like is your marketing ramp going according to plan? And two, was the more moderate hiring because there was a change in view on volume? Or was that because you guys think you can do more with less?
+
+
+Christy Schwartz
+Thanks for the question, Dave. This is Christy here. So as a reminder, our adjusted OpEx is composed of 3 main pieces
+
+Operator
+Our next question comes from the line of Ygal Arounian with Citi.
+
+Ygal Arounian
+Just let me start on following up on the first question on acquisition strategy and rates. And it sounds like no change really to your strategy here, but the -- just thinking with the recent rate spike aligning with kind of what's the heart of the buying and selling season, if that's impacting how you're thinking about things at all? And then is that -- and maybe just an update on your kind of current market and buy box expansion strategy or path, how you're thinking about that.
+
+Carrie Wheeler
+Hey, Ygal. It's Carrie. Can you just say a little bit more on your first question? I wasn't quite following that. Is it a brand and seasonality question or...
+
+Ygal Arounian
+Well, yes, a little bit more on the recent rate spike we've seen over the past couple of weeks has been a pretty meaningful increase in the mortgage rates, and that's coinciding with the heart of the buying and selling season. And any expectations that, that might soften the market in the core -- key part of the market or the key part of the seasonal market? And if that's impacting how you're thinking about things? It sounds like it's not, but just curious if you're taking any of that into consideration.
+
+Carrie Wheeler
+Yes. I mean certainly, we're taking in all those signals all the time, and we're watching very closely kind of what the market is telling us in terms of clearance rates and trending in prices. We did talk a little bit in the shareholder letter about this is the time of year where we do start to increase spreads a bit because we expect that the homes that we're offering on today will be sold post the spring selling season.
+
+Dod Fraser
+Yes. I think the only thing to add on is if you look at some of the charts in the back of the shareholder letter, you can see what we're observing from a new listing perspective. And although there's a slight lag there, we really haven't seen sort of a meaningful change on the back of the recent rate changes in terms of listing volumes, which is really the sort of key driver and input to our acquisition targets.
+
+Ygal Arounian
+Okay. That's helpful. And maybe just a little bit more color on the ATM equity offering, a little bit more detail on how it works. Why now? Can you do more of this? How should we be thinking about that?
+
+Dod Fraser
+Yes. I mean I think I'd just start with level setting on where we are from a balance sheet perspective. So as you can see from our financials, we've got over $1 billion in cash, $1.3 billion total capital, $8 billion debt capacity. So I think we feel very good about executing our business plan against -- with our current capital base.
+
+Operator
+Our next question comes from the line of Nick Jones with Citizens JMP.
+
+Nicholas Jones
+I guess maybe one on path to positive adjusted EBITDA and I guess of mentioning net income. It's been a nice cadence over the last few quarters. As we kind of think about shaping the rest of the year, is it right to kind of think of 4Q maybe being a weaker quarter throughout the year, but maybe not as weak as Q1? And then are we kind of on a linear path from here? Are you confident that we can kind of get to positive adjusted EBITDA, I guess, maybe even this year or next year?
+
+Carrie Wheeler
+Hey, Nick, it's Carrie. I'll take that. What I would say at a high level is what we are indicating is that we are on this path of increasing acquisitions year-on-year for every quarter for 2024. And we feel good about delivering within our 5% to 7% contribution margin target. And all of that goes together to substantially reduce the losses we've seen in the system. So without giving you specifics or guiding to kind of where EBITDA is going to fall in subsequent quarters, I just said that we're feeling good about the path we're on to substantially improve kind of the bottom line of the business.
+
+Nicholas Jones
+Got it. Helpful. And then maybe a higher-level question, Carrie. You mentioned with the NAR settlement and I think there's some headlines that the DOJ might be taking a look or a closer look at the NAR, I think you said in your comments that folks might bypass the MLS. At a high level, the NAR and the MLS, while it was kind of the original marketplace whatever, 100-plus years ago, there are complaints that they create this sense of urgency that potentially damages the selling-and-buying experience. Do you think this is the start of kind of their dominance in the ecosystem to potentially starting to wane? And is that kind of a long-term secular tailwind for Opendoor?
+
+
+Carrie Wheeler
+Yes. It's a good question. And I just want to clarify my comments. Like we think this is net positive, first of all, for consumers. And anything that 's good for consumers, that's good for Opendoor. I mean this is all about giving more choice and transparency and agency in the hand of homebuyers in terms of how they want to engage with an agent.
+
+Operator
+Our next question comes from the line of Jason Helfstein with Oppenheimer.
+
+Charles Larkin
+This is Chad on for Jason. So homes purchased were down slightly sequentially, but there was a nice increase in the sequential homes under contract. So just anything -- like what's going on there? Is that just normal seasonality? Or is there something that's just giving you more confidence to lean back into buying? And then I have another one.
+
+Carrie Wheeler
+Yes. I mean I said the market has slowed enough, and also we offer the customer a great deal of choice about when they close their home. So I focus less on like the quarter-to-quarter because the contract in one quarter may close -- may slip and close in another quarter. This is about, I think, the focus to be on like the year-over-year growth we're proposing for showing.
+
+Charles Larkin
+Yes. Fair enough. And then just on the eXp partnership, just anything else you can share there? And how meaningful could that be kind of over the long run?
+
+Dod Fraser
+Yes. Happy to give a little more context there. It's still very early. So we just launched in February. We're seeing sort of steady weekly growth since launch, but just in February, it's like low end.
+
+Operator
+[Operator Instructions] Our next question comes from the line of Ryan Tomasello with KBW.
+
+Ryan Tomasello
+Just trying to parse through the different comments on the seasonal cadence of purchase volumes. I think in your prepared remarks, you said you expect purchase volumes to increase sequentially in every quarter. But in the shareholder letter, you say on Page 12 that you actually are expecting purchase volumes in 3Q to be flat to decline modestly. So am I missing something there? And can you just clarify that commentary? And then beyond Q2, just from a seasonal perspective, how should we be thinking about 4Q volumes with normal seasonality?
+
+Dod Fraser
+Yes. Let me talk and parse it. I think quarter-over-quarter versus year-over-year is the piece that I think with the distinct, Ryan, to your specific question on 3Q. So year-over-year, we're increasing every quarter.
+
+Ryan Tomasello
+Okay. Got that. That's really helpful. And maybe just to entertain for a moment, a more extreme scenario with respect to the NAR settlements and industry structure. Clearly, the consensus opinion, at least from most folks you talk with, expect commission rates to decline. But even then, I think the international comparisons, again, in a more extreme scenario, would suggest something that could be substantially worse in terms of fewer homebuyers using agents, perhaps compression on the listing side.
+
+Carrie Wheeler
+Well, I guess a couple of things. One is we provide something that you can't get in a traditional transaction. So we provide utmost certainty, no fall-through rate and utmost simplicity, no listings, no doing repairs on spec, no doing open houses, like all the incredible amount of friction and uncertainty that goes with traditional listing. We're just providing something very different.
+
+Operator
+And I'm currently showing no further questions at this time. I'd like to hand the call back over to Carrie Wheeler for closing remarks.
+
+Carrie Wheeler
+Just thanks, everyone, for joining us today. Hopefully, you've heard we are pleased with the results to kick off this year. The housing market is challenging for sure, but we are staying focused. Hopefully, you can see that our team is executing really well, and we are driving results. And we look forward to updating you on further progress next quarter.
+
+Operator
+This concludes today's conference call. Thank you for your participation. You may now disconnect.

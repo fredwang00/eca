@@ -1,0 +1,231 @@
+February 27th, 2025
+Operator
+Greetings. Welcome to the TeraWulf 2024 Fourth Quarter and Year End Earnings Call. At this time, all participants will be in listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded. It's now my pleasure to introduce John Larkin, Senior Vice President, Director, Investor Relations. Thank you, Mr. Larkin.
+
+You may begin.
+
+John Loftin
+Thank you, operator. Good morning and welcome to TeraWulf's 2024 fourth quarter and year-end earnings call. Joining me today are Chairman and CEO, Paul Prager; and CFO, Patrick Fleury. Before we get started, please note that our remarks today may include forward-looking statements. These statements are subject to risks and uncertainties, and actual results may differ materially. During this call, we may use words like anticipate, could, enable, estimate, intend, expect, believe, potential, will, should, project and similar expressions, which indicate forward-looking statements. For a more comprehensive discussion of these and other risks, please refer to our filings with the SEC available on sec.gov and in the Investors section of our website at terawulf.com. We will also reference certain non-GAAP financial measures today.
+
+Please refer to our 10-K and 10-Q filings and our website for a full reconciliation of these non-GAAP performance measures to the most comparable GAAP measures. We will start this morning's call with prepared remarks from Paul and Patrick, followed by a Q&A session. I'll now turn the call over to our CEO, Paul Prager.
+
+Paul Prager
+Thank you, John, and good morning, everyone. We appreciate your joining us today as we discuss our fourth quarter and full year 2024 financial results. This past year was transformational for TeraWulf. Every milestone we achieved in 2024 was intentionally designed to enhance and extend our digital infrastructure, enabling us to support high-performance compute and AI workloads alongside Bitcoin mining while continuing to prioritize the highest value use of our megawatts. We strengthened our financial position, optimized our mining operations and took the first significant step in executing our long-term vision for WULF Compute with the announcement of our first data center lease agreements with Core42. Let's start with our WULF Mining business. Our profitable mining operations leverage predominantly zero carbon energy at our state-of-the-art Lake Mariner facility in Upstate New York. In 2024, we doubled revenue and adjusted EBITDA year-over-year, driven by higher Bitcoin production and favorable Bitcoin pricing.
+
+As of year-end, WULF Mining achieved a hash rate of 9.7 exahash per second, powered by approximately 60,000 miners. We have now received over 90% of our new S21 Pro miners, which, once fully deployed in Miner Building 5, will bring our total mining power utilization to 245 megawatts, increase our hash rate to 13.1 exahash per second and improve our fleet efficiency to 18.2 joules per terahash. Despite challenges such as record network difficulty and the anticipated Bitcoin halving in April 2024, we successfully mined 423 Bitcoin in the fourth quarter and a total of 2,177 Bitcoin throughout the year. A pivotal moment in 2024 was the sale of our Nautilus Cryptomine joint venture in October. This transaction delivered a 3.4 times return on our investment, and more importantly, freed up important capital to accelerate the build out of our HPC hosting business at Lake Mariner. The proceeds were strategically allocated to developing the 20-megawatt Colocation Building 1, which we refer to as CB1 and upgrading our miner fleet. Additionally, we restructured our Lake Mariner ground lease, expanding the site area from 107 to 157 acres with a 35-year initial lease and a 45-year extension option. Crucially, this new agreement grants us exclusive rights to infrastructure capacity of up to 750 megawatts, ensuring we have the scalability needed to support both Bitcoin mining and HPC hosting.
+
+Our HPC hosting strategy has been in the making for some time. And in 2024, we reached a major inflection point. In December, we secured Core42 as our first customer, signing a 10-year 72.5 megawatt data center lease agreement with two five-year extension options, including a 3% annual escalator. Core42 also holds an option for additional power, exercisable through March 31, 2025. This partnership with one of the world's foremost digital infrastructure leaders underscores TeraWulf's ability to provide scalable, low-cost and energy-efficient compute capacity, exactly what the AI industry needs now. We remain laser-focused on scaling WULF Compute to meet the demand for high-power density, liquid-cooled HPC and AI compute infrastructure. While some headlines suggest hyperscaler demand is slowing, we continue to see enterprise demand from organizations with both the capital and the GPU supply necessary for large-scale AI deployment in the next 12 to 18 months. Our discussions with potential customers ranging from Neo cloud companies to leading AI innovators confirm a pressing need for ready-to-deploy high-density compute capacity.
+
+With up to 85% of the world's private data residing in enterprises, our strategy is to help these organizations unlock the value of their data through AI and advanced computing. Over the next three years, we aim to contract and deploy 100 to 150 megawatts of HPC hosting capacity annually while actively identifying and securing additional sites that meet our stringent energy infrastructure criteria. To provide context, our initial 72.5 megawatt contract with Core42 will generate over $1 billion of revenue over the initial 10-year term, an average of $100 million of revenue per year, an incremental 100 to 150 megawatts of HPC revenue will generate $1.4 billion to $2.1 billion over 10 years or an incremental $140 million to $210 million of revenue per year. Scalability is key to long-term value creation. It ensures not only stability and control, but also provides for significant cost advantages as we expand. By leveraging our owned infrastructure and energy expertise, we are uniquely positioned to drive profitable growth, both in Bitcoin Mining and AI Compute hosting. We continuously evaluate the highest and best use of our megawatts. And to the extent there are opportunities to convert some of our existing mining capacity to HPC hosting in an accretive value-added way, we will do so.
+
+Additionally, we are actively expanding our portfolio beyond the 750 megawatts available at Lake Mariner, leveraging a strong pipeline of opportunities. As part of this effort, we have initiated a process to integrate the Cayuga site, Lake Mariner's sister site in Upstate New York, offering the same strategic advantages in land, water, power and fiber. We are prioritizing Cayuga in 2025 and expect this site will add 150 megawatts of capacity in 2026, which can be scaled to 400 megawatts by 2028. As it is a related party transaction, the process for Cayuga will adhere to rigorous governance standards with oversight from our Board and independent counsel and advisors to ensure full transparency and alignment with shareholder interest. Beyond Cayuga, our deep expertise in energy infrastructure enables us to efficiently evaluate additional site opportunities, including those with existing on-site generation. This disciplined approach to scaling, efficiency and profitability is central to maximizing the value of our digital infrastructure platform. Turning to our financial position. 2024 was a year of deliberate balance sheet optimization designed to provide flexibility as we scale.
+
+Specifically, we paid off our term loan, eliminating legacy debt, monetized our Nautilus JV, unlocking capital for reinvestment, raised capital through a $500 million convertible offering and extended our ground lease, securing a long-term foundation for expansion. We repurchased $150 million of stock buybacks on our Board approved $200 million authorization, the first return of capital by any public Bitcoin miner. Looking ahead to 2025, our focus is clear. One, energize Miner Building 5 and integrate our newly upgraded mining fleet. Two, execute on our Core42 agreement, ensuring timely delivery of contracted capacity. Three, contract additional HPC hosting capacity with the goal of exiting 2026 with 200 to 250 megawatts of revenue generating HPC compute capacity; and Four, secure project financing of our HPC data center. We also remain opportunistic in our approach to capital allocation. In recent months, we repurchased approximately $150 million of stock, both in conjunction with our convertible offering and through open market transactions.
+
+Given the compelling value creation opportunity ahead, we will continue to assess market conditions and take action where appropriate and when allowed to maximize shareholder returns. Finally, I want to recognize and thank the exceptional team at TeraWulf. Their dedication, expertise and relentless execution have enabled the milestones we're discussing today. We have built a world-class company at the very intersection of energy and technology and I am incredibly proud to be part of this team. With that, I'll turn the call over to our CFO, Patrick Fleury, for a detailed financial review.
+
+Patrick Fleury
+Thank you, Paul. While my remarks for year-end would typically focus solely on annual results and year-over-year financial comparisons, our fiscal year 2023 results are less relevant given our over 94% growth in mining capacity year-over-year and the impact of the fourth Bitcoin mining halving event in April 2024. Therefore, in my remarks, I will focus on fourth quarter versus third quarter results in addition to year-over-year comparisons. In the fourth quarter of 2024, we self-mined 423 Bitcoin at Lake Mariner or approximately five Bitcoin per day, a 24% decrease over the 555 Bitcoin mined in 3Q '24. However, excluding the impact of the Nautilus sale, quarter-over-quarter self-mined Bitcoin at Lake Mariner was stable, declining 4% from 442 in 3Q '24 to 423 in 4Q '24. For fiscal year 2024, we mined 2,728 Bitcoin as compared to 3,343 Bitcoin in 2023. Our GAAP revenues saw growth of 29% quarter-over-quarter, reaching $35 million in 4Q '24 from $27.1 million in 3Q '24. Our value per Bitcoin self-mined in 4Q '24, a non-GAAP metric that historically includes Bitcoin mined at Nautilus, averaged $82,739 per Bitcoin as compared to $61,075 in 3Q '24.
+
+Our GAAP revenues year-over-year increased 102% from $69.2 million in 2023 to $140.1 million in 2024. Our GAAP cost of revenue, exclusive of depreciation for 4Q '24 was $19.6 million, a 34% increase over $14.7 million in 3Q '24. The quarter-over-quarter increase was due to a 55% increase in realized power prices from $0.038 per kilowatt hour in 3Q '24, $0.059 per kilowatt hour in 4Q '24, offset by demand response proceeds of $4.1 million in 3Q '24 versus $1.3 million in 4Q '24. Our GAAP cost of revenue, exclusive of depreciation year-over-year increased 129% from $27.3 million in 2023 to $62.6 million in 2024, primarily due to the 77% increase in mining capacity from 110 megawatts at year-end 2023 to 195 megawatts at year-end 2024. Our power cost or cost of energy per Bitcoin mined, a non-GAAP metric that historically includes Bitcoin mined at Nautilus, was $46,328 in 4Q '24 compared to $30,448 in 3Q '24 and $25,227 in 2024 compared to $8,676 in 2023. Realized power price for fiscal year 2024 was $0.043 per kilowatt hour, approximately 4% lower than our 2024 guidance of $0.045 per kilowatt hour. Operating expenses increased 69% quarter-over-quarter from $1.6 million in 3Q '24 to $2.7 million in 4Q '24. Annual operating expenses increased 55% year-over-year from $4.9 million in 2023 to $7.6 million in 2024.
+
+These quarterly and annual increases are primarily the result of increased staffing levels at Lake Mariner necessary to support our mining expansion as well as our entry into HPC hosting activities. SG&A expenses increased quarter-over-quarter from $11.5 million in 3Q '24 to $32.3 million in 4Q '24, primarily due to stock-based compensation in 4Q '24. Adjusting for stock-based compensation, SG&A increased quarter-over-quarter from $9.1 million in 3Q '24 to $15.5 million in 4Q '24. For the year-over-year period, SG&A expenses increased from $37 million to $70.5 million. However, this increase was almost entirely due to a $25.2 million year-over-year increase in stock-based compensation. Adjusting for this item, SG&A increased 40% year-over-year from $31.1 million in 2023 to $39.7 million in 2024 primarily the result of increased employee compensation and benefits and higher staffing levels to support our mining expansion as well as our entry into HPC hosting activities. Depreciation decreased slightly quarter-over-quarter from $15.6 million in 3Q '24 to $14.9 million in 4Q '24. Year-over-year depreciation increased materially from $28.4 million in 2023 to $59.8 million in 2024, which was the result of an increase in mining capacity and infrastructure placed into service in 2024 at Lake Mariner.
+
+During 2024, we've recorded accelerated depreciation expense of $5.1 million related to a decrease in certain miners' estimated useful lives. Gain on fair value of digital currency in 4Q '24 was $0.6 million compared to $0.9 million in 3Q '24. For 2024, the company recorded a gain on fair value of digital currency of $2.2 million. Loss on disposal of PP&E in 4Q '24 was $17.5 million compared to $0.4 million in 3Q '24 and $17.8 million in 2024 compared to $1.2 million in 2023. These losses were related to disposals of miners and write-off of deposits on miners. GAAP interest expense in 4Q '24 and 3Q '24 was $3.0 million and $0.4 million, respectively. GAAP interest expense for 2024 and 2023 was $19.8 million and $34.8 million, which includes cash interest expense, accrued interest on the 2.75% convertible senior notes due 2030 and amortization of debt issuance costs and debt discount related to the term loan financing and convertible notes. Cash interest paid during 4Q '24 was 0 and in 3Q '24 was $0.7 million due to the full repayment of our debt on July 9, ahead of the December maturity.
+
+In connection with the voluntary prepayments of debt, the company incurred a $6.3 million loss on the extinguishment of debt in 2024. Other income of $2.6 million and $0.3 million in 4Q '24 and 3Q '24, respectively, and $3.9 million in 2024 reflects interest earned on cash held in our commercial banking accounts. In 4Q '24 and 3Q '24, we reported 0 and a loss of $2.7 million, respectively, in equity and net income of investee net of tax. For the year 2024, we reported equity and net income of investee net of tax of $3.4 million as compared to a $9.3 million loss in 2023. Historically, these amounts represent TeraWulf's proportional share of income or losses of the Nautilus joint venture. For the 2023 fiscal year, this amount includes an impairment loss of $13.6 million related to the distribution of miners from Nautilus to the company, whereby the miners were marked to fair value from book value on the date distributed. Additionally, in 2024, the company recorded a gain on sale of equity interest in investee of $22.6 million as a result of the sale of its entire 25% equity interest in Nautilus effective October 2nd 2024. Our GAAP net loss in 4Q '24 was $29.2 million compared to a net loss of $22.7 million in 3Q '24.
+
+Our GAAP net loss for 2024 was $72.4 million compared to a net loss of $73.4 million in 2023. Our non-GAAP adjusted EBITDA for 4Q '24 was $2.5 million, down from $6.3 million in 3Q '24 and 2024 adjusted EBITDA was $60.4 million as compared to $31.9 million in 2023. Turning our attention now to the balance sheet. As of December 31st, we held $274 million in cash with total assets amounting to $787 million and total liabilities of $543 million. Furthermore, this cash balance does not reflect $90 million of prepaid revenue from Core42 received in 1Q '25. As disclosed on Page 10 of our February investor presentation, we achieved a total cash cost of production of approximately $79,000 per Bitcoin in 4Q '24. Regarding our financial performance and operating performance in 4Q '24, Lake Mariner was adversely impacted by a few anticipated and unanticipated factors. Number one, as discussed on our 3Q '24 earnings call, we took a planned outage in November, which impacted approximately 5.2 exahash of mining capacity for one week as we connected our ultra-high-voltage redundant power feeds from the grid to support our HPC data infrastructure.
+
+Number two, we executed a miner refresh program with Bitmain, whereby approximately 1.3 exahash of miners under warranty were inoperable and replaced throughout 4Q '24. And number three, we experienced elevated power prices in December. On Page 9 of the investor presentation, you will find our capital sources and uses bridge for 4Q '24. Regarding 2025 guidance, we are actively working with our partner and customer, Core42, who has through March 31st, 2025, to execute an option for up to a further 135 megawatts of HPC hosting capacity. As such, we anticipate providing detailed 2025 guidance to the market as soon as practical. As a reminder, we are hosting our 4Q and full year 2024 earnings call today as opposed to late March, given TeraWulf became a WICSI or large accredited (sic) [accelerated] filer in 2024 and the corresponding 10-K annual filing deadline moves from 90 days after year-end to 60 days after year-end. Absent complying with this SEC driven deadline, we would not be holding an investor update call today given the ongoing discussions with our HPC customer and partner. With that, I'll turn it back over to the operator, and we look forward to answering your questions.
+
+
+Operator
+Thank you. We'll now be conducting a question-and-answer session. [Operator Instructions] Thank you. And our first question is from the line of Nick Giles with B. Riley Securities. Please proceed with your questions.
+
+Nick Giles
+Thank you, operator. Good morning, everyone. Obviously, lots of headlines over the past week. And in a scenario where training demand doesn't appear as robust, how is Mariner positioned for inference? Could economics differ? And how does this change your site acquisition strategy? Thanks a lot.
+
+Paul Prager
+We have spoken to our customers and the existing contracting partner, Core42 is looking at how they are aggregating their customers for our site use, but they have indicated that both are capable at the Lake Mariner site without any issue. Our price is our price, as you know, we're fully contracted.
+
+Nick Giles
+Great. That's good to hear. Maybe just on the additional site acquisitions, what geographies could appear most attractive? How should we think about scale? And would this be more brownfield or greenfield in nature?
+
+Paul Prager
+Well, the obvious priority is Cayuga and we've initiated a process to integrate that into the company, which is very robust. And beyond that, you should appreciate that the root of our company is energy development, ownership and operation. So we're the only energy team out there in the space. And I think added benefit or value that our team brings to the table is that we are not just looking at the sites that everybody else is looking at, but we're looking at sites that are somewhat challenged because they've got installed generation on the site that maybe needs upgrade or repowering or some environmental mitigation or the sites that are capable of housing installed generation. So we have the unique skill set to sort of look at sites and figure out how they may best serve our customers. And because we could look at some troubled sites and figure that out from the energy perspective and the environmental perspective, I think that we're more competitive because we can source sites at a lower cost than others.
+
+Nick Giles
+That's very helpful, Paul. I appreciate that. One more, if I could. Would any decision to convert Bitcoin mining capacity to HPC, would that be driven more by HPC demand, Bitcoin mining economics or really a combination of the two?
+
+Paul Prager
+It will always be -- we'll always try and make the most prudent decision at the time given our effort to achieve the highest value per megawatt. But I think we've been clear here that we are building out a world-class HPC AI data center business. That is our focus. When the right time is to reenergize what is currently mining into HPC AI, that's a timing question that we'll have to figure out basis on customer demand and Bitcoin mining price, and it's not just the price of Bitcoin, it's the network difficulty. But we are very, very constructive right now that, that will happen within the three years that we've projected, if not much earlier. We have tremendous customer demand for our sites. And it's because we have land, water, energy, the right priced energy, the right source of energy, primarily hydro and nuke and the people to build out the data centers. So we're just seeing a lot of demand and I don't anticipate that, that will go away.
+
+
+Nick Giles
+That's very good to hear. I appreciate all the color and keep up the good work.
+
+Operator
+Our next question is from the line of Mike Grondahl with Northland Securities. Please proceed with your questions.
+
+Mike Grondahl
+Hey, thanks, guys. Two questions. First question, the 250 megawatts at Lake Mariner that's still available, have you begun marketing that yet? And kind of what are the next steps there? And then secondly, on Cayuga, could you state again what you said about the first 150 megawatts available there? Was it available in 2026 or ready to go in 2026? Just looking for some clarity there.
+
+Paul Prager
+Sure. Cayuga will be available from an energy perspective in 2026. Obviously, depending upon the needs of the customer, it takes some time to build the data center, but it will be energy available 2026, the first 150. And we're excited about it and we're talking to customers about it. And with respect to the second 250 megawatts, yes, of course, we are speaking to customers that are -- that don't just have needs today, Mike, but they have needs next year and the following year. And these are really professional teams that are investing a ton of money and time in the design of these facilities as well as the units to put in the racks. And so we are talking to people that have long-term demand and that want to scale. So, yes, we are -- we're not marketing them per se, but we're in deep discussions with potential counterparties for the use of those megawatts.
+
+
+Mike Grondahl
+Great. Thank you.
+
+Operator
+The next question is from the line of Darren Aftahi with ROTH Capital. Please proceed with your questions.
+
+Darren Aftahi
+Yes. Thanks for taking my questions. Good morning. Two, if I may. So first on the CB-1. So the initial 72 megawatts, just any kind of color, is that on track? And any sense for when that building is online? And then hypothetically, if there wasn't an exercise with Core42 on the additional capacity, I assume you guys have a plan B.
+
+And if you do, can you indulge us on what that potential customer might look like in any kind of time frame? Thanks.
+
+Paul Prager
+Sure. Darren, good questions, but I want to refrain from commenting on conversations that we're currently having with our customer, Core42, because currently, there's nothing definitive to share with you or the market regarding those discussions. The pace of the deployment and is heavily dependent upon the decisions that Core42 makes with respect to their option for additional power. And until I have additional information from them, we're going to refrain from commenting on the specifics of that business. But we expect to be back in front of you and update the market in the new future -- in the near future as those decisions get made by our customer. To the extent we had available power, I can assure you that we are in multiple dialogues and with potential counterparties. They all meet the same quality that Core42 and the guarantor 242 have met for us, which is they're great credits. They are long-term contracts.
+
+They like our design. They have an NVIDIA allocation, and they want to grow and scale their business over the long course for multiple, multiple years. Those discussions are not -- they're not immature. There have been rounds and rounds and rounds of discussions, multiple site visits and those discussions happen both between principals and respective counsel on a sort of two to three times a week basis, if that gives you any indication for how seriously we take the need to sort of meet the goals of our customers and get this power and data center set up for them.
+
+Darren Aftahi
+Helpful. Thanks, Paul.
+
+Operator
+Our next question is coming from the line of Brett Knoblauch with Cantor Fitzgerald. Please proceed with your question.
+
+Brett Knoblauch
+Hi, guys. Thanks for taking my question. I guess kind of a two-parter here. As you're looking to add additional capacity beyond Lake Cayuga, could you maybe talk about what markets you would be looking at? And in addition to that, to what extent are you thinking about the actual use case of the data centers, whether it be for trimming or inferencing as it seems like the market is shifting a bit more towards inferencing where location might matter a bit more?
+
+Paul Prager
+Yes, hi, Brett. So we've always emphasized that in order to be a credible player in the space, you needed to have not only a site with land, water, energy, access to fiber. You needed people who had the expertise. But you also needed to have an appreciation for the region and the regulatory regime of that state, municipality or region where you were going to focus. So beyond Cayuga, which obviously checks all those boxes, we're heavily focused in the West where we are looking at repowering some existing facilities that are known to us and working out there in Montana. It is very compelling. And in addition, we're really focused in the Mid-Atlantic, where we have a strong history of both power generation and appreciation for the political and regulatory environments as well as that's a high demand place that not just the hyperscalers alone, but even a lot of the colo customers want to sort of focus their data center interest in. So I would tell you that beyond New York, we're very interested in Montana.
+
+We're very interested in Maryland and Virginia. And we continue to look for opportunities elsewhere. There are a lot of sites available in Texas. We're looking at them, but we're not there yet. And we're even looking at a couple of sites that are abroad for some of the customers we have that have expressed an interest in overseas locations. But near-term, Cayuga has got to come in, and we're focused on Maryland, Virginia, and Montana.
+
+Brett Knoblauch
+Awesome. Thank you. That's extremely helpful. And then I don't know if you guys said it, but maybe just on the timing of the initial deal you signed with Core42. I know there's a couple of different buildings you guys have. What should we be expecting as for when those buildings will be energized and revenue will start generating or did you say we're going to have to wait and see until what happens with the option?
+
+Paul Prager
+Yes. As I mentioned, Darren, and you're my favorite, so I'd tell you and not answer, Darren, but the answer is same answer. Until we get through some of the conversations we're having, Brett, with our customer and fully understand all the needs that they want to put upon this data, fulfill through the use of this data center. We're going to refrain from further comment until that's locked and loaded and then we'll get before you right away. But these conversations are great, by the way, we're having with the customer. They're constantly evolving their thinking as they get more and more customers with different kind of demands put upon them by those customers. And they've got absolutely the best in business on site between their consultants and of course, Dell and NVIDIA as well. So it is a learning exercise.
+
+We're building serial model 0007 here. And so we want to make sure we can be as responsive as possible to Core42. And so we're letting them drive the direction of what this data center and the final energy date will look like.
+
+Brett Knoblauch
+Awesome. Thanks Paul. Appreciate it.
+
+Operator
+The next question is from the line of Martin Toner with ATB Capital. Please proceed with your questions.
+
+Martin Toner
+Good morning. Thanks so much for taking my question. How long do you think the process for Cayuga might take?
+
+Paul Prager
+So I mean, everybody in the management on the ground knows the Cayuga site very well. It's a plant that these people actually operated as a power facility before they shut it down, mitigated it in cooperation with the state and made it ready or started the process to make it ready for data center conversion. But we have a very robust process. The independent Members of the Board are tasked with hiring independent counsel, independent financial advisor, and there's a whole valuation process that it has to go through, and that's been tested again by the Board. But they've been through the exercise in the past on a related party transaction. They know what to do and they'll do their work and get to it. It's a great site. It's a site that we talk about with our customers all the time.
+
+It's something we committed to all of you over the course of the last year that at some point, we would start to move Cayuga in. And we now have the kind of demand that requires us to sort of have more megawatts available to potential customers. So now is the time.
+
+Martin Toner
+Fantastic. Thank you very much for that, Paul. Can you remind me, are you still waiting for approval from -- for the second 250 megawatts of power at Lake Mariner or has that already happened?
+
+Paul Prager
+We've been in the queue for a little bit. It was anticipated to be near-term. I would imagine it's at any time. The State has been great and we talk to them all the time. We don't see any issues.
+
+Martin Toner
+Wonderful. Thanks so much. That's it for me.
+
+Operator
+The next question comes from the line of John Todaro with Needham & Company. Please proceed with your question.
+
+John Todaro
+Hey, guys. Thanks for taking my question. First one, as it relates to HPC, as you look to the other sites like Cayuga and beyond, just remind us of the customer strategy. Do you start entertaining some of the hyperscalers again or is your focus kind of more that Core42 type base? And then I have a follow-up on costs.
+
+Paul Prager
+Sure. Our focus is still the colo because as opposed to other deals that you may be familiar with or other developers who were out trying to figure out how to sell their sites. We like the colocation. It's the right kind of partnership for TeraWulf. And of course we like most -- it's the highest yields for our customers. We're at mid-teens returns as opposed to the hyperscaler where maybe you're going to get 9%. That's number one. Number two is, when you have a whole new site come online, yes, the hyperscalers, and there are many now that have a real focused interest in New York State, I would tell you that.
+
+They really want to be there. So they'll show their interest. And to the extent they can get to the kind of return profile that TeraWulf will require, we're happy to engage with anybody. As long as they're a great credit, have the right culture and they can get to our return profile, we would like them to be our customer. But we're still really grateful that we selected the colo model as our business model because we have a great relationship here with that customer, we have great relationships with other possible counterparties and the returns to our investors are going to be superior. One thing I want to tell you is this is not a sprint. This is a long-term build out of a business. And so while I know a lot of investors or maybe some speculators would like to see something happen overnight, this is about putting concrete in the ground and steel into the concrete, and it takes a while, and it takes a while to do it right to meet the needs of a very particular customer who has a right to be particular because they're investing billions of dollars in machinery to go into those things.
+
+So we're going to be very customer-focused. That's where we're headed here, but it will end up yielding the highest returns to our sites.
+
+John Todaro
+Great. Thank you for that. Understood. And then just a quick follow-up on costs. Power, I think I saw $0.059 per kilowatt hour for Q4. Should we expect that moving forward? And then just on the cash G&A side, is HPC a little front loaded? Like if you do sign an additional contract with Core42, will we kind of keep cash G&A flat here or will you see some uptick still maybe some hires that still need to come in on that?
+
+
+Paul Prager
+Patrick, I'm going to defer to you.
+
+Patrick Fleury
+Yes. Hi, John. Thanks for the question. So, yes, look, December, just on power price first, as you know, Nautilus was locked in fixed $0.02 power. Lake Mariner is in New York Zone A, and we have floating power. December was very cold in the region. January was very cold like nationwide. So just to give you an idea, we did have a power spike, as I said in my remarks, in December.
+
+That did continue into January. To give you perspective, we ran an analysis. And based on the last 10 years of realized power prices at Lake Mariner, December's price was a two standard deviation event and January's was a 2.5 standard deviation event. So really abnormally high-power prices. Those have reverted. You can -- it's not a secret. As you know, we are the most transparent of our peers out there. But you can pull up Zone A around the clock power on Bloomberg.
+
+It's on there every minute of every day. You can look at every month, you can look at quarterly. But that's what we use for our projections. If you were to pull that up today, it would show you, I think, the remainder of this year average is $0.05. So a little bit elevated versus historical. But if you look at '27, if you look at '28 because the curve goes out a number of different years, it's solidly back in kind of the $0.045, and that's where we think we'll be long-term. And your other question, I think, was on SG&A, correct?
+
+John Todaro
+Yes, exactly. On being front loaded.
+
+Patrick Fleury
+Yes. So look so I think we guided last year, as you know, to $30-ish million. We finished, I think, at $39 million, as I said in my remarks, so that increase and the increase that we have at Lake Mariner is a function of increased staffing levels. We've hired a lot of folks, both on the ground at Lake Mariner and in the C-Suite to be able to handle the construction projects and customer demand and specialize in HPC. So I think sort of that run rate going forward is good. And as you know, that run rate is built for a company that could have 750 megawatts to 1,000 megawatts of high-power compute. So I think as we move forward, the incremental margins are extremely high. So I think most of that cost base is now sort of in the company on a run rate basis going forward.
+
+
+John Todaro
+Got it. That's super helpful. Thank you, Patrick.
+
+Operator
+The next question is coming from the line of Kevin Cassidy with Rosenblatt Securities. Please proceed with your question.
+
+Kevin Cassidy
+Yes. Thank you for taking my question. Just as the -- when you talk about the power, but what about the price of the Bitcoin coming down? Does that change any of your plans for Bitcoin mining? And also my follow-up question would be on the 10% of the miners that you're still waiting to bring in and deploy. Is there any issues with US customs on those -- on that equipment?
+
+Paul Prager
+Hi. Thanks for your questions. No issues at all. And with respect to the pricing, listen, the price is disappointing, but it's not as if it's been a lot of fun Bitcoin mining these days given the network difficulty. So no, it doesn't change our strategy because our strategy as announced a while ago and earlier on this call is our focus is to become the premier HPC AI data center company. We have the sites. We have the access to energy. We have the people.
+
+We're going to do it. And it's only a matter of time before we have some runway because of the tremendous scale of our Lake Mariner site. But it's a matter of time before -- if you want to stay in Bitcoin mining, you have to sort of reinvest in your machines. And I think that is currently the natural time for us to sort of to move forward with HPC AI using the energy that's currently being used by Bitcoin mining. But we have a lot of demand from customers on the HPC AI side. And so it may be earlier than that, to be quite honest with you. But that's going to be driven by our demand of meeting the needs for our customers in HPC AI far more than it's going to be by any decision to -- that's based on the price of Bitcoin.
+
+Kevin Cassidy
+Okay, great. Thank you.
+
+Operator
+Thank you. The next question is from the line of Bill Papanastasiou with Stifel. Please proceed with your questions.
+
+Bill Papanastasiou
+Good morning and thank you for taking my questions. Just had a quick question here. When searching for new sites, it seems like the market is somewhat realizing that there's an evolving set of criteria becoming more specific, whether it be with respect to training, inference, location, energization time lines. Can you shed some color in terms of the level of competition in sourcing new sites outside of the existing portfolio? And how could that impact returns down the road? Thank you.
+
+Paul Prager
+Sure. As you may have heard, because we mentioned this when we first announced the Core42 deal, which we're still kind of pretty delighted about. Our customer went and looked at over 60 sites in the United States before they selected us, and they selected us based upon the site is huge, right? We have 1,800 acres there, Lake Mariner, 400 plus acres at Cayuga. Historically low electricity pricing. The source of generation there is primarily hydro and nuke. The fact that we really were energy guys made a big difference for our customer. It's just not core to the data center business.
+
+And I think that some of the decisions recently said aloud by some of the hyperscalers indicate, hey, they want to really focus on their core business and not the energy side. They want to, Microsoft mentioned, I think, in their most recent discussion, they want to lease facilities. So we're their guy. We're not their guy now in terms of, no, we don't have a customer name Microsoft at this point, but we're the type of person they're looking for to have a relationship with. So I think that from a competitive landscape perspective, we are situated very well right now because of the scale of our sites and the cost of our energy and the mix of our energy. And the fact that we're building these models for Core42 and all of the learning that takes place when you're doing that stays in-house, and that's appealing and compelling to other customers. Second, as I mentioned, listen, there are a lot of people out there. I mean there's so much hype out there about every land real estate guy on the planet says, I got a site, I got a site.
+
+But it's really different when you understand what is required to bring power to a site. What is required to bring backup energy to make that available to a site. Does the site have water? Will the site always have water? And I think we're unique in terms of our ability to go to certain sites that are currently maybe look -- people look beyond them because they have -- they were former power plants or they have the ability to be power plants. So there's too much to do there. I mean we have actually designed and built combined cycle power plants. We built coal plants.
+
+We've built wind, solar. It is the very genesis of -- and the foundation of our company. So we could look at sites that a lot of other folks cannot look at or can't handle or can't figure out how to do in a competitive way. I think that's a gigantic advantage for us. And so that is why I think the customers are coming to us to have these discussions.
+
+Bill Papanastasiou
+Appreciate that color, Paul. And then secondly, not sure if this was discussed, but do you mind taking a second to shed some color on where project financing efforts stand today? Thank you.
+
+Paul Prager
+I'll defer to Patrick, but I will tell you, we engaged, as you know, JPMorgan and Morgan Stanley. I think they're fantastic. We've also hired Milbank as their project finance attorneys. They've been great. And we just -- I just came back from a conference in Fort Lauderdale, where all the lenders in the project finance field were. And there was -- had a ton of meetings, which were great. But what I was excited about was the massive demand on the part of these lenders for product. We were told by at least more than half a dozen possible lenders, Hey, you don't need to run a competitive process, we could do the whole thing.
+
+Of course, we're going to run a competitive process. That's why we hired JPMorgan and Morgan Stanley. But it was really enlivening to hear that there's demand on the part of the investors, and they really know the space. I mean, I still think we're at 70 plus percent leverage. I still think it's going to be priced right. But again I want to defer to Patrick on more of the meat and potatoes in terms of the response.
+
+Patrick Fleury
+Yes. Hey, Bill. I would just say confidence level increases, as Paul mentioned, every day, every week, every month, massive demand from folks that Paul mentioned, big credit funds to project lenders. As you know, I come from that world. I spent almost 20 years in that seat. So a lot of contacts there, direct contacts. And our customer -- the good news is our customer is currently being financed. Those terms are sort of broadly available in the market if you reach out and ask folks and the pricing is very attractive.
+
+So not only is our confidence level increasing, but our customer -- I think by the time we print our deal, there will be other markers out there for our customer in the US. for lending deals. So really high level of confidence. Thank you, gentlemen.
+
+Operator
+Thank you. At this time, I'll turn the floor back to Paul Prager for closing remarks.
+
+Paul Prager
+I want to thank you all again for joining us today. TeraWulf is uniquely positioned to capitalize on the convergence of power and compute. Our world-class infrastructure, industry-leading cost structure and scalable owned digital infrastructure provide a clear and lasting competitive advantage. While there is significant noise in the market about energy demand and hyperscaler strategies from day-to-day, the key takeaway is that we are witnessing the true integration of energy and technology. The market often expects immediate results, but the reality is that building large-scale, cutting-edge and cost-effective digital infrastructure takes time, expertise and precision. Success in this industry requires deep domain knowledge, strategic foresight, patience and disciplined execution. At TeraWulf, we remain laser-focused on executing our business plan to create long-term value. It's what I've been doing for over 30 years in the power sector, securing long-term contracts with high-quality counterparties, locking in that profitability, generate steady returns in strong markets and safeguard our economics during market downturns.
+
+As a significant investor in TeraWulf myself, I assure you that every decision we make is driven by our commitment to maximizing long-term shareholder value. Our mission is to deploy our megawatts where they generate the greatest returns, whether through Bitcoin mining or AI compute, and we look forward to executing on this vision in 2025 and beyond. I was a young junior officer like 40 years ago, learning to qualify as an officer of the DeCA in the Navy, and I was on the bridge driving the ship in the Western Pacific. And there was a moment when we had just departed the channel heading out to sea, there were just a lot of inputs, and I wasn't as confident. And there were just too many navigation aids, a ton of contacts, weather coming in. And the skipper could see I was nervous, but he said, Prager, I'm leaving to the bridge, go get some shut eye. You've got this. Keep doing what you're doing, maintain course and speed.
+
+Well, there is certainly a lot of noise out there. We've been living it pretty hard the last month or so. Some of it's height, a lot of it's market volatility, and some of it is that speculators simply don't appreciate this is not a sprint. This is about building a business with long-term, steady and predictable cash flows. So here is what I know. We have scalable sites with access to energy, water and fiber. We have the people to build the best-in-class data centers. We've contracted a world quality credit as a customer, and we are deep in discussions with several others, similar.
+
+So we are where we are today, and we are going to maintain course and speed. And I thank you for your investment, trust and support. Thank you.
+
+Operator
+Thank you. This does conclude today's teleconference. We thank you for your participation. You may now disconnect your lines at this time.

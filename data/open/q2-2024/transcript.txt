@@ -1,0 +1,226 @@
+July 31st, 2024
+Operator
+Good day, and thank you for standing by. Welcome to Opendoor's Second Quarter 2024 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions]. Please be advised, today's conference is being recorded. I would now like to turn the conference over to your speaker today, Kimberly Niehaus, Head of Investor Relations. Please go ahead.
+
+
+Kimberly Niehaus
+Thank you, and good afternoon. Details of our results and additional management commentary are available in our earnings release and shareholder letter, which can be found on the Investor Relations section of our website at investor.opendoor.com. Please note that this call will be simultaneously webcast on the Investor Relations section of the company's corporate website. Before we start, I would like to remind you that the following discussion contains forward-looking statements within the meaning of the federal securities laws. All statements other than statements of historical facts are statements that could be deemed forward-looking, including, but not limited to, statements regarding Opendoor's financial condition, anticipated financial performance, business strategy and plans, market opportunity and expansion and management objectives for future operations. These statements are neither promises nor guarantees and undue reliance should not be placed on them. Such forward-looking statements involve risks and uncertainties that may cause actual results to differ materially from those discussed here. Additional information that could cause actual results to differ from forward-looking statements can be found in the Risk Factors section of Opendoor's most recent annual report on Form 10-K for the year ended December 31, of 2023 as updated by our periodic reports filed after that 10-K.
+
+Any forward-looking statements made on this conference call, including responses to your questions, are based on management's reasonable current expectations and assumptions as of today and Opendoor assumes no obligation to update or revise them, whether as a result of new information, future events or otherwise, except as required by law. The following discussion contains references to certain non-GAAP financial measures. The company believes these non-GAAP financial measures are useful to investors as supplemental operational measurements to evaluate the company's financial performance. For a reconciliation of each of these non-GAAP financial measures to the most directly comparable GAAP metric, please visit our website at investor.opendoor.com. I will now turn the call over to Carrie Wheeler, Chief Executive Officer of Opendoor.
+
+Carrie Wheeler
+Good afternoon. Also on the call with me today are Christy Schwartz and Dod Fraser. At Opendoor, our vision is to build the most trusted e-commerce platform for residential real estate, and we're focused on building a durable generational business that customers love so that one day, every seller will start their home-selling journey with Opendoor. We're proud of our performance in the second quarter. Revenue, contribution margin and adjusted EBITDA all outperformed guidance and acquisitions grew nearly 80% year-over-year. At the same time, our seller NPS reached the highest level we've seen in two years, proof of the strength of our customer value proposition. Home sellers desperately need an alternative to the traditional real estate process and that's exactly what we're providing. During the quarter, we continued to make meaningful progress growing our top of funnel to reach more sellers and expanding our product offering to convert more customers.
+
+Today, our buybox is just north of $650 billion. This is a massive addressable market that we're going after. One of the most important ways we can grow our top of funnel is by increasing awareness of our brand and our products. Year-to-date, we've seen that over 1 in 4 true sellers or customers within our buybox that ultimately went on to list or sell their home had previously entered their home address on our website. And while that's something to celebrate, we also recognize that we have a significant opportunity to expand our reach. We want all sellers to start their journey with Opendoor. To do this, we have shifted our marketing mix toward brand media spend versus direct response. And as a result of our efforts to increase branded salience, aided awareness and consideration have reached the highest levels in Opendoor history.
+
+Importantly, while higher awareness brings more customers to the platform, it also improves conversion rates. As an example, in our markets where aided awareness is 45%, which is primarily our most mature markets, we see 33% higher offer to contract conversion rates when compared to markets with an awareness of 26%. Further, over half of our markets were launched in 2021 and 2022, right before the housing reset and our significant pullback in marketing spend, and these markets have awareness of less than 20%. We believe that with incremental investments in time, these cohorts should provide significant tailwinds to future volume growth. We also have the ability to drive growth by expanding our product offering with a suite of products that best suits the needs of all sellers that come to us. For a decade, our flagship all-cash offer product has provided simplicity and certainty to sellers who are looking for an easier way to sell their home. However, we know that other sellers are interested in testing the market and listing their home on the MLS. And in an effort to better serve these customers, we've expanded List with Opendoor to nearly all of our markets in the second quarter.
+
+We now give customers a choice of how they'd like to sell their home
+
+Christy Schwartz
+Thank you, Carrie. Our second quarter performance reflects strong execution and continued operating and cost discipline across the business. We delivered over 1.5 billion of revenue in the second quarter, exceeding the high end of our guidance range. This represents a 28% sequential increase in revenue, driven by acquisition volume growth over the last several quarters. On the acquisition side, we purchased 4,771 homes in the second quarter, ahead of our expectations. Acquisitions were up 78% versus 2Q '23 due to lower spreads and increase in marketing and contributions from partnership channels. Contribution margin was 6.3% in the second quarter, ahead of the high end of the implied guidance range. This outperformance was partially due to selling more newly listed homes with shorter holding times than anticipated.
+
+Adjusted operating expenses totaled 100 million for the quarter, lower than the guidance of 110 million and down from 107 million in the first quarter of 2024 due to a pullback in marketing spend and reduced fixed headcount hiring. Finally, adjusted EBITDA loss was 5 million, significantly outperforming the high end of our guidance range and an improvement from an adjusted EBITDA loss of 50 million in the first quarter. Adjusted EBITDA came in ahead of expectations due to contribution margin outperformance and ongoing cost discipline. Turning to our balance sheet. We ended the quarter with 1.2 billion in total capital, which primarily includes 809 million in unrestricted cash and marketable securities and 300 million of equity invested in homes and related assets. We also had 7 billion in non-recourse asset-backed borrowing capacity composed of 3 billion of senior revolving credit facilities and 4 billion of senior and mezzanine term debt facility, of which total committed borrowing capacity was 2.3 billion. Before we get into guidance, I'd like to provide a few additional comments on the Mainstay transaction. Mainstay will operate independently, and Opendoor will retain less than 50% ownership on a fully diluted basis.
+
+The company is in the process of assessing the financial statement impact of the fundraise, but we do not anticipate recognizing Mainstay's ongoing financial results in Opendoor's income or loss from operations going forward. In the first half of 2024, Mainstay business had a de minimis impact on Opendoor's revenue and contribution profit and incurred approximately 17 million of adjusted operating expenses. Our 3Q guidance reflects reductions in operating expenses as a result of the Mainstay transaction, which closed one month into the quarter. As Carrie mentioned, in the back half of the second quarter, we began observing signals in leading macro metrics that indicated additional slowing in the housing market. In response, we have increased spreads more than previously anticipated and slowed marketing spend to ensure dollars are being spent efficiently. These actions will put pressure on third quarter acquisitions, which we expect to be up slightly year-over-year. We will continue to acquire homes at spreads we believe are appropriate as we manage our business against a dynamic housing backdrop. We expect third quarter revenue to be between 1.2 billion and 1.3 billion, contribution profit between 35 million and 45 million, which implies a contribution margin of 2.9% to 3.5%, and adjusted EBITDA loss between 70 million and 60 million.
+
+We expect adjusted operating expenses to be approximately 105 million. We are maintaining our target clearance levels via larger than anticipated price drops on our homes, the impact of which will weigh on contribution margin, as reflected in our third quarter guidance. If current macro trends persist, there is a risk our full year contribution margin may fall below our 5% to 7% annual contribution margin target. We are pleased with our second quarter performance and continue to make progress on the things we can control. We will continue to evaluate our cost structure to mitigate losses and we remain committed to make progress in increasing acquisitions and substantially decreasing our adjusted net income losses for the year as compared to 2023. I'd now like to turn the call over to the operator to open up the line for questions.
+
+Operator
+Thank you. [Operator Instructions]. Our first question comes from Dae Lee with JPMorgan. Your line is open.
+
+Dae Lee
+Great. Thanks for taking the questions. I have two. The first one, like what do you attribute to recent softness in the housing market and wondering if this is something that continues to get worse or has it stabilized or are you seeing any signs of improvement and then secondly just given the worst macro outlook, do you feel the need to tap into the ATM program that you announced back in last earnings call?
+
+Carrie Wheeler
+Hi, Dae. It's Carrie. I'll start with that. So with respect to the macro what we saw really sort of late May was a worsening of signals as it relates to clearance. So clearance about 35% lower this year than last year. So just homes selling more slowly taking longer days on market. We saw delistings really start to accelerate and they're a decade high. We've been in the market now for 10 years and they're at a level we have not seen in our operating history.
+
+About one in five sellers are not seeing the price they hope to realize and they're putting themselves off the market. That's creating like a shadow book of inventory that's out there all of those have been weighing on home prices. And so that's what we've been responding to. We raised rates in response to that. I mean, sorry, raised spreads in response to that. Really pull back on acquisition pacing and on marketing spend. With respect to your question about the ATM, I'm going to hand it over to Christy.
+
+Christy Schwartz
+Hi, Dae. Thanks for the question. Just as a reminder as of the end of the quarter we have $1.1 billion inclusive of cash, marketable securities and equity in our homes and related assets. We'll continue to be opportunistic and flexible in managing our capital base as we demonstrated with our convertible note repurchases in 2023 and in implementing the ATM last quarter. We did not utilize the ATM in the previous quarter as you can see in our 10-Q, but we don't speak to future capital issuances.
+
+Dae Lee
+Got it. Just as a follow-up to your answer to my first question. It doesn't feel like macro conditions hasn't really changed, right? Mortgage rates are holding somewhat steady and there is [indiscernible] as the Fed will cut rate. So just wondering like why do you think sellers and buyers are behaving like this despite what seems to be a pretty stable macro environment?
+
+Carrie Wheeler
+Yes, what we're seeing now in underwriting across our buybox about a third of the U.S. residential market and we're taking in new signals every single day and this is definitely what we are seeing in terms of like where seller expectations -- or expectations are and like how buyers are responding. And I just think buyer affordability is a real issue here. We are seeing new listings coming up. We're not seeing the pace of sell-through. And this delisting phenomenon Dae like there's a chart in the back of our shareholder letter you may want to look at. I don't think this has gotten a lot of action in some of the industry talk, but I think it's a real factor that is weighing on -- weighing on the industry. Obviously, we all know that there's pretty low transaction volumes right now that would have not picked up and just the phenomenon not a lot of buyers and sellers who are relatively frozen right now.
+
+
+Dae Lee
+Thank you.
+
+Operator
+One moment for a next question. Our next question comes from Ygal Arounian with Citi. Your line is open.
+
+Unidentified Analyst
+Hi, guys. Max [ph] on for Ygal. I guess just my first question on your comments on the contribution margin may be coming in lower than that 5% to 7%. Just how do we think about kind of that as it rolls through the year? And looking through your -- like the prior book we noticed that 2Q did better with selling the -- some of the newer homes first. So can you just speak to maybe the health of kind of the older book and how that compares?
+
+Christy Schwartz
+Yes. This is Christy here. Thanks for the question. So we're not providing guidance for 4Q. We provided the guidance for 3Q. For 4Q, I'll just caution that it is seasonally a softer quarter than that typically sees lower HPA. In terms of the health of the book and the newer book, as we mentioned, in the second half of last quarter and the second quarter we saw additional softness in the housing market including slowing clearance, increased delistings, worsening HPA. And at that time we increased spreads and we feel good about the homes that we've acquired after those increases.
+
+We enacted home level price drops to operate against our resale targets and that impacts contribution margin, but it also enables us to clear that portfolio quickly.
+
+Carrie Wheeler
+Yes. I'll echo everything that Christy said. The only thing I would pile on top of that is we were acting quickly to the environment we're seeing. So yes, there's some pressure on the homes we already owned. We're operating to manage within our resale targets. That shows up in Q3 margin guide. And then we get to reset and as we raise spreads now we're buying a new set of homes, and we like the way those early cohorts are performing, and we're being nimble. We're announcing inflows and outflows.
+
+I think this is just good risk management.
+
+Unidentified Analyst
+Okay. That's helpful. And then just maybe on expenses. Just with the maybe tougher macro, do you expect that there is more like cost optimizations that you'll need to undertake to reach that adjusted net income target?
+
+Christy Schwartz
+Yes, absolutely. So I'll start by saying that we're still very focused on durably optimizing our cost structure. We've made and are continuing to make meaningful progress throughout the P&L. In terms of looking forward, we guided to 105 million. That's kind of comprised of two components for how it relates to Q2. One is that we expect to remove some costs from the system because of the Mainstay transaction, that's approximately a $5 million reduction. But then the OpEx guidance, the increase gives us some flexibility to operate in a dynamic environment, especially as we consider deploying marketing dollars later in the quarter. We've been operating at about 100 million or less of OpEx for the last six quarters at a variety of volumes.
+
+And we believe that, that 100 million does give us a lot of flexibility to scale.
+
+Carrie Wheeler
+Yes. Agree with everything Christy said, I'd also say, just stepping back, we know that we need to manage the business to a place where we are profitable, where we're generating positive cash flow and the entire organization is really geared towards that. And that is what we are going to manage for. And so if we're not pacing where we need to be in volume, we're going to continue to look hard at our cost structure.
+
+Unidentified Analyst
+Okay. Thanks, guys
+
+Operator
+One moment for our next question. Your next question comes from Nick Jones at Citizens JMP. Your line is open.
+
+Nick Jones
+Great. Thanks for taking the questions. I have two. The first one, in the letter, you called about 20% -- 28% of consumers within your buy box. Kind of came and asked for a quote or a price or an offer, went down to list homes. Can you speak to how that rate has fluctuated, particularly given, I guess, increased delistings when -- that things start to increase as maybe people have more confidence they can sell? Just curious as to how that metric maybe has moved over time?
+
+Carrie Wheeler
+I think the stat, Nick, that you're referencing is within the markets we are in today of true sellers. So those are people who with -- starting within a buy box, 28% of true sellers to find is people who they either took an Opendoor offer. If they didn't take the others up on the offer, they went and listed their home on the market. About one-third of the people in those markets have come to us and enter their home. That's the stat I think you're referring to.
+
+Nick Jones
+Yes.
+
+Carrie Wheeler
+And how is that fluctuating? I mean it's something that we are -- yes, sorry. Yes, I mean, it's higher in more mature markets, it's lower in less mature markets at a very high level. I mean a lot of that has to just do with awareness and us being in the market for longer, signs on the street, more inventory for people to go and understand the value proposition. So where we've been for longer, we have higher awareness, we convert better and more people are coming to us first to start their home selling journey. And our goal over time is to graduate our more immature markets and get them to a place where it's not one and four are people coming to us, it's hopefully all over time, frankly, are starting their home journey with us.
+
+Nick Jones
+Got it. And then maybe kind of along the same thread. As we think about more mature markets versus less mature markets and just kind of overall awareness of Opendoor I mean, how should we think about your strategy around maybe increasing brand spend or marketing spend ahead of an improving resi real estate market. It would seem like if you have quite a bit of cash, maybe you'd want to start spending ahead of things improving? Or is this kind of an indication that you and the team view things is still pretty precarious, we need kind of more quarters of evidence that volumes coming back on? I guess just overall, like why not start spending more money ahead of, I guess, rates coming down if that's just a way to unlock volume?
+
+Carrie Wheeler
+Yes, Nick, a really good question. I'd say a couple of things. If you look back at where we've been based since 2022, when we did cut a lot of marketing spend. We've been able to drive a lot more awareness on the back of, frankly, lower dollars, and that's because we've been changing mix. We've been taking money away from paid marketing and really leaning in a brand in creative, and that has been driving for what is now the highest level of awareness we've had across our markets in our history, which is great because when we have high awareness, people trust us and conversion response commensurately. We would like to invest more on brand over time. I think we're always moderating our total amount of marketing spend relative to kind of where we are and how effective that is vis-à-vis how -- where our spreads are set. But your meta point is right is that over time, the way for us to grow top of funnel and grow awareness is we're going to continue to invest in brand because we think that's just going to set us up for success in the future and just expand the pie.
+
+
+Nick Jones
+Great. If I could squeeze in one more. The buyer agent contracts are going to, I think, be implemented in a couple of weeks here. Is that included? Any impact of that included in the guidance? Is there anything to flag on how you're thinking about how that may impact the ecosystem maybe in 3Q?
+
+Carrie Wheeler
+Yes. We're -- it's early yet. I'd say we've been doing some experimentation to understand how this is all going to roll out so that we are ready. I'd say one of the things that we are seeing in our market is about 10 to 15 basis points of pressure on the commission rate since April. And while that's not a huge amount, it's decidedly different than all prior years where that rate has been pretty flat. So change is coming. We know that it's going to take some time to educate home buyers and home sellers and agents. We see that as we interact with them as we experiment how we're going to show up with like how we're going to compensate buyers.
+
+The thing we're most focused on long term is we think this is better for consumers, so it's better for us. It's going to take down the cost of the transaction. It's going to lower friction, and we can pass it on to consumers and drive more transactions. And we think as people become more educated, the potential to lean into the fact that we have the only direct e-commerce platform to buy a home is really important and people as we come educate as a cost of additional agents to help should lean into our direct platform because we can share more savings with them. So we'll see. It's going to be interesting this summer.
+
+Operator
+One moment for our next question. Our next question comes from Ben Black with Deutsche Bank. Your line is open.
+
+Unidentified Analyst
+Hi, this is Jeff [ph] on for Ben. Thanks for taking my questions. When you think about managing sort of the balance between maintaining your home clearance rates when there's sort of a multi-month period of like home price appreciation volatility -- while also having a kind of core focus on reducing spreads, how do you manage that balance? Because as you go through this period of volatility, you're lowering price in order to get the homes off your balance sheet, but then at the same time, focusing on lowering the spreads to which you acquire homes. So how do you kind of manage that balance?
+
+Carrie Wheeler
+Yes. I mean we talk a lot externally and internally about managing for growth and margin and risk. And one of the ways we manage for risk is we have the well-defined resale targets by market and in total across our portfolio. And those are pretty sacrosanct for us. We make sure that we are clearing our inventory so that we are not creating a mismatch between inflows and outflows and that we're number one, managing for risk. And there may be some cost to that sometimes. And we think that though is the appropriate risk management decision. And that's healthy.
+
+
+Unidentified Analyst
+So is this sort of the model is working as intended and maybe like the 5% to 7% contribution margin target is sort of over time target, but we're going to experience maybe some volatility in that number quarter-over-quarter depending on how HPA trends play out. Is that sort of the right way to think about it, about the model?
+
+Carrie Wheeler
+Yes. I mean we very much give an annual target by design. Like over the course of the year, we want to be within that 5% to 7% range and nothing about that has changed. In terms of where we want to manage the business to, you may have some quarter-to-quarter volatility because of seasonality or market swings. But I think the point is we want to instrument our system so that we are managing for balance sheet health and delivering margins within an annual guide.
+
+Unidentified Analyst
+Great. And 1 quick follow-up on sort of the NAR question. Did you think that that played a factor at all in kind of sellers freezing up and taking homes off the market? Do you think that there's any maybe sellers are waiting to sell their homes post-NAR settlement and get pay lower fees?
+
+Carrie Wheeler
+Not really, to be honest, I don't think so.
+
+Unidentified Analyst
+Great. Thank you.
+
+Operator
+One moment for our next question. Our next question comes from Curt Nagle with BofA. Your line is open.
+
+Curtis Nagle
+Great. Thanks so much for taking the questions. So the comment, Carrie, you just made on the 10 to 15 bps decline in commission rates is really interesting. It sounds like there's an average. So I guess, are you seeing a uniform decline across agents or are you seeing some agents getting really aggressive on rates, right, or offered rates and that's dragging down the overall average? What's the composition of that statistic?
+
+Carrie Wheeler
+That statistic is across our markets. So against sort of the market that we can underwrite today. Overall, buyer broker commission for those markets in total, putting aside what we're doing. That's where the pressure is coming in. It's pretty dispersed, like it's not any 1 market driving the vast majority of that.
+
+Curtis Nagle
+Right. No, I understand it from a market perspective, but I'm just saying are the per agent, right? Are they all kind of taking it down a little bit? Or do you have agents that are getting really aggressive on the rates, and that's dragging down the average? That's the distinction I'm trying to figure out.
+
+Carrie Wheeler
+I think we have an 80/20 rule anyway on agents in terms of the fact that length of -- a small percentage of agents drive the vast majority of the transaction volumes. So by definition, I guess, there is sort of a few number of agents who are driving most of those changes in terms of on the sell side, is the reps coming, right? The sellers deciding they want to pay less to the buyer.
+
+Curtis Nagle
+Okay. Got it. And then just what's the latest thinking on the '26 converts? I know it's I think, about a year or so before the turn current, but cash did dip a bit in 2Q. Should we expect to be opportunistic as you have been in the past in terms of buying at a discount or is the priority more preserved cash or I don't know, maybe cap ATM? How are you thinking about that?
+
+Carrie Wheeler
+Yes. Go ahead, Dod.
+
+DodFraser
+I was going to say just I think -- look, we obviously don't comment on future capital transactions, and we'll always look to optimize our capital structure, but no comment with future repurchases.
+
+Curtis Nagle
+Okay. Fair enough. Understood. Thanks.
+
+Operator
+[Operator Instructions]. Our next question comes from Ryan Tomasello with KBW. Your line is open.
+
+Ryan Tomasello
+Hi, everyone. Thanks for taking the questions. Just to put a finer point around the shifts you're making and the marketing strategy. What's driving that in terms of changes you're seeing around why you're choosing to do that now versus something you might have done earlier or later? And then in terms of mix, how has brand spend contributed to the overall marketing, but historically, where is that mix going? And do you see this as net neutral to the marketing budget on a normalized basis? I mean through the moving pieces with the 3Q OpEx guide, it sounds like that's going to be up sequentially despite the moving pieces with Mainstay. So just trying to understand if this is additive to the marketing budget overall or more of just a mix shift.
+
+Thanks.
+
+Christy Schwartz
+Ryan, it's Christy here. I can start by taking the marketing kind of budget and forward-looking question. And so we did reduce our advertising spend in the second quarter over the first quarter. I think our first quarter was 27 million. And then we brought it down to 21 million in the second quarter as we were increasing spreads. The operating expense guide that we provided for Q3 does give us some flexibility to consider deploying marketing dollars later in the quarter.
+
+Carrie Wheeler
+And maybe just a comment on your question about how marketing strategy has evolved. I would say if you go back maybe 2022, we've gone from heavy local spend and now having the size and scale to be effective at marketing nationally. You've seen some of our advertising campaigns and some of our work, but we couldn't do that cost effectively at 20 markets, we can do it at 50 plus. And the other change in mix has been mostly paid in mostly online or a lot of it direct mail too, certainly, and now being able to kind of put more and more of that mix and less there and put it into brand and creative. And even though we may have had less dollars certainly coming out of 2022, we've seen like a heavy return on investment show up in the form of higher awareness and higher conversion. I'm happy to go on from there but I wanted to make sure I responded to your question first.
+
+Ryan Tomasello
+Yes, that's helpful. I guess maybe just to clarify on 1 of the other sub questions of the question, which is if this is additive or net neutral, I guess, notwithstanding the pullback that you made last quarter in response to market conditions?
+
+Carrie Wheeler
+The shift in spend, I would call it neutral. It's been like if the pie is 6, we're just moving around the dollars differently. Obviously, we flex marketing up and down sometimes depending on where we are in the cadence of the year or when spreads are really low, we can market more aggressively. We want to market into that. We may pull back as spreads are high. But the general point is like this isn't about adding a bunch of brand dollars, it's about allocating away from other things into what's more cost-effective brand-building channels for us because we know that as we grow brand, it's like lists all our distribution channels.
+
+Ryan Tomasello
+Got it. And then just turning to the balance sheet and financing, what visibility do you feel like you have into the maturities coming on the pipeline next year and I guess, even more in 2026? Just in terms of pricing and other terms around capacity and advance rates and just generally your comfort level with having enough financing capacity at favorable enough terms to fund the business as you look to scale from here?
+
+Dod Fraser
+Yes, I'm happy to cover it. So we've set up our capital structure with a lot of different lenders for a reason, which gives us flexibility. Second, we've set up the capital structure to have staggered rolling maturities. So if you go back really each quarter, every year, we are extending maturities across our capital stack. So we continue to be able to roll them. We're comfortable with -- our lenders are comfortable with the balance sheet. So we feel very comfortable with both the relationships and the capacity that we have to continue to roll them.
+
+Operator
+Thank you. Our last question comes from one moment. It comes from the line of Ryan McKeveny with Zelman Associates. Your line is open.
+
+Nick McAndrew
+Hi, guys. This is Nick. I'm for Ryan. Thanks for taking a questions. One quick one on the partnership side. Is there any color you can add in terms of which partnership channel or channels have been the most significant in terms of volume contribution? And then I have a follow-up after this.
+
+Carrie Wheeler
+Hey, we've never broken down our partnership channel and who contributes what amongst homebuilders, agents and the online real estate players. They're all important. And as a group, as we said before, it's 40% plus of our volume. So we don't discriminate between the various mix.
+
+Nick McAndrew
+Got it. That's helpful. Thank you.
+
+Carrie Wheeler
+I can give a little more tidbit, which is like we've been with homebuilders for a long time. We've been with agents for a long time and growing. And then the online real estate folks for us are newer but important.
+
+Nick McAndrew
+Got it. Yes. Thanks for the clarity. And then maybe switching gears, just as we look around the country, there's obviously many markets seeing inventory up on a year-over-year basis with some more than others, Florida, for example. And I'm just curious if that growth in inventory is helping you expand acquisitions in certain locations more than others? And then maybe on the home price side, if there's any differences in price or margin trends on resales as a result of those inventory dynamics?
+
+Carrie Wheeler
+No. It's not really. I think the growing levels of inventory you're seeing also is weighing on things like clearance rates that we talked about and the fact that people are sitting out there for longer and not seeing their homes turn and the pressure we talked on home prices and delisting rates coming up. So we're seeing inventory growing, but inventory getting kind of stale and that pressure is clearing and that makes us very attuned to how we're clearing our book of inventory and making sure that we're managing within our resell guardrails. Particularly at this time of the year as things start to slow seasonally.
+
+Nick McAndrew
+Got it. Thank you so much.
+
+Carrie Wheeler
+You're welcome.
+
+Operator
+And I'm not showing any further questions at this time. I'd like to turn the call back over to Carrie Wheeler for any closing remarks.
+
+Carrie Wheeler
+Appreciate it. Thanks, everyone, for joining us today. We're pleased with where our results came out for the second quarter. We know the housing market continues to be challenging. We also know it will never last forever. It's going to be temporary. And the improvements we're making today to drive future growth will be enduring. Look forward to connecting with you next quarter.
+
+
+Operator
+Thank you. Ladies and gentlemen, this does conclude today's presentation. You may now disconnect, and have a wonderful day.

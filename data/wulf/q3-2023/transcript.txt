@@ -1,0 +1,221 @@
+November 12th, 2023
+Operator
+Greetings, and welcome to the TeraWulf Inc. 2023 Third Quarter Earnings Call. At this time, all participants are in listen-only mode. Brief question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Jason Assad, Director of Corporate Communications. Thank you, Mr. Assad.
+
+You may begin.
+
+Jason Assad
+Thank you, operator. Good afternoon, and welcome to TeraWulf's third quarter 2023 earnings call. Thank you for joining us today for our call. With me on today's call are Chairman and Chief Executive Officer, Paul Prager, and our Chief Financial Officer, Patrick Fleury. Before we get started, I'd like to remind everyone that our prepared remarks may contain forward-looking statements, which are subject to risk and uncertainties, and we may make additional forward-looking statements during the question-and-answer session. These forward-looking statements are subject to risk and uncertainties, and actual results may different materially. When used in this call, the words anticipate, could, enable, estimate, intend, expect, believe, potential, will, should, project, and similar expressions as they relate to TeraWulf are such forward-looking statements. Investors are cautioned that forward-looking statements involve risk and uncertainties which may cause actual results to differ materially from those anticipated by TeraWulf at this time.
+
+In addition, other risks are more fully described in TeraWulf's public filings with the U.S. Securities and Exchange Commission, which may be viewed at sec.gov and in the Investor section of our corporate website at www.terawulf.com. Finally, please note that on today's call, we'll refer to certain non-GAAP financial measures. Please refer to our company's periodic reports on Form 10-K and 10-Q and on our website for full reconciliation of these non-GAAP performance measures to the most comparable GAAP financial measures. We'll begin today's call with prepared remarks from Paul and Patrick, then we'll proceed to Q&A. It's my pleasure to now turn the call over to TeraWulf's CEO, Paul Prager. Paul?
+
+Paul Prager
+Thank you, Jason. Good afternoon, everyone, and thank you for joining us on our third quarter 2023 earnings call. During the third quarter, TeraWulf continued to take proactive steps to execute on our strategic growth plan with the goal of reaching 7.9 exahash of Bitcoin mining infrastructure capacity by year-end, further positioning the company for long-term sustainable success. Before turning the call over to our CFO, Patrick Fleury, for a review of our financial results, I would like to comment on some recent highlights from our business and on our continued confidence in the year ahead. As a reminder to everyone joining us today, TeraWulf mines Bitcoin utilizing predominantly zero-carbon energy resources at two data centers, our wholly owned and operated Lake Mariner facility in upstate New York, which utilizes 91% zero-carbon grid power, and the jointly owned 100% nuclear powered Nautilus facility in Pennsylvania. As of September 30th this year, these two industrial-scale projects had a combined self-mining hash rate of 5.5 exahash per second with approximately 50,000 miners deployed. That is more than triple where we were during the same period last year. Further, that hash rate, even with difficulty, reaching all-time highs, resulted in 994 Bitcoins mined during the third quarter.
+
+Importantly, our operations are solidly free cash flow positive, solidly free cash flow positive. During the quarter, there have been many positive headlines for Bitcoin, most notably the anticipation of an imminent approval of the U.S. spot Bitcoin ETF, which has driven a rally in the price of Bitcoin. Concurrently, there has been steady climb to an all-time high in overall network hash rate, which continues to suppress mining economics. So, what does this mean for how we are approaching the balance of 2023 and approaching the halving next year? As energy infrastructure professionals, managing through cycles is fundamental to our approach, and we remain steadfast in our strategy to leverage our resilient, low-cost infrastructure to maximize profits, repay debt, and return value to our shareholders. In terms of executing our growth initiatives, the Lake Mariner infrastructure expansion is nearing the final stage of construction. The third building is ready for racks to be installed, and we are advancing other preparatory works, so that as miners are delivered, they can be racked and online without delay.
+
+Once fully energized, this 43-megawatt expansion will bring the company's total self-mining hash rate capacity to 7.9 exahash per second, or more than 200 megawatts of Bitcoin mining capacity. That translates into a 58% increase in the company's total self-mining hash rate. Importantly, and I cannot emphasize this enough, we will continue to prioritize accretive and capital-efficient infrastructure investment and manage future capital outlays for mining equipment in a responsible manner to remain nimble during challenging markets and avoid unnecessary dilution to our shareholders. To that end, we have strategically structured our miners' purchase agreements in a capital-efficient manner to enable the company the flexibility to monetize deposits and defer payment obligations. Early in the third quarter, we announced the purchase of 18,500 S19j XP Bitcoin mining machines from Bitmain, which are targeted to be delivered next month. To preserve liquidity and avoid excessive dilution, we plan to convert our deposits on this purchase order into roughly 5,500 machines and will host to own the remaining 13,000 machines for Bitmain at a hosting fee of approximately $0.078 per kilowatt hour. The company retains the option to purchase the remaining miners at any time and currently expects to complete purchase of the balance of all 13,000 machines by the fourth quarter 2024. We believe this arrangement not only reflects our strategic relationship with Bitmain, but also underscores a strategy to prudently invest in infrastructure while opportunistically expanding our mining fleet, thereby maximizing revenue potential to every dollar spent while avoiding unnecessary dilution at depressed share price levels.
+
+To reiterate, the fact that we could plug all 18,500 S19j XP miners into building three immediately highlights the benefits of owning and prioritizing the development of our data center infrastructure, which then enables us to undertake these types of agreements without the incurrence of meaningful upfront CapEx. Once these new machines are fully self-deployed, TeraWulf will have one of the most efficient and profitable mining fleets in the sector by combining a fleet-wide efficiency of 25.7 joules per terahash and a realized average power cost of $0.035 per kilowatt. With that said, I'd like to pass it over to our CFO, Patrick Fleury, to further discuss our financials and results from the quarter.
+
+Patrick Fleury
+Thank you, Paul. TeraWulf performed exceptionally well in the third quarter, particularly as the summer months are seasonally the most challenging operating environment. However, the advantageous location of our assets in the northeastern United States means we are blessed with temperate conditions, limited high heat events and curtailments, and less wear and tear on our miners versus our peers located in the southern U.S. The operating teams at Lake Mariner and Nautilus did an outstanding job of optimizing performance of our mining rigs, resulting in positive financial improvements reflected in our Q3 financials. As Paul mentioned, with 5.5 exahash of operating capacity online for the entirety of the third quarter, we realized solid free cash flow generation with a debt repayment of approximately $7 million. Before diving into the numbers for the quarter, a quick reminder, there is a key difference between our GAAP financials and the monthly operating reports and guidance presented in our investor presentation. As a result of our 25% ownership in Nautilus, the revenue, cost of revenue, operating expenses, depreciation and amortization at Nautilus are not consolidated into our GAAP financial statements. Instead, the financial impact of the Nautilus joint venture is reflected in the equity in net income and loss of investee, net of tax line item on the GAAP income statement.
+
+In the third quarter of 2023, we mined 624 Bitcoin at Lake Mariner, and our net share of mined Bitcoin at Nautilus was 370 Bitcoin, for a total of 994 Bitcoin, or about 11 Bitcoin per day and a 10% improvement over the 908 Bitcoin mined in 2Q '23. Our GAAP revenues also saw outstanding growth of 23% quarter-over-quarter, reaching $19 million in 3Q '23 from $15.5 million in 2Q '23. Our value per Bitcoin self-mined this quarter, a non-GAAP metric that includes Bitcoin mined at Nautilus, averaged 28,104 per Bitcoin for a total of $27.9 million, as detailed and defined in our monthly operating reports and press release. Looking now at our gross profit, we saw an increase of 3% quarter-over-quarter from $10.3 million in 2Q '23 to $10.6 million in 3Q '23. Our total power cost per Bitcoin mined, a non-GAAP metric that includes Bitcoin mined at Nautilus, was $9,322 in 3Q '23 compared to $7,197 in 2Q '23. As a reminder, in our GAAP financials, unlike our monthly operating reports, the company records proceeds received and to be received for demand response programs as a reduction in cost of revenue. These expected proceeds totaled $1.7 million in 3Q '23. Operating expenses remained stable quarter-over-quarter at approximately $1.2 million.
+
+SG&A expenses increased quarter-over-quarter from $8.6 million in 2Q '23 to $10.3 million in 3Q '23. The increase was primarily due to an increase in non-cash stock compensation due related party for achieving a performance milestone. We are on track to achieve approximately $6 million of SG&A savings year-over-year, and I'm confident we can continue to drive down costs. We are committed to achieving savings of $10 million relative to 2022. We have a number of costs saving initiatives underway and remain steadfast in our objective to achieve these savings as we move into 2024. Depreciation increased modestly quarter-over-quarter from $6.4 million in 2Q '23 to $8.2 million in 3Q '23. The quarter-over-quarter increase was the result of an increase in mining capacity and infrastructure placed into service in the middle of 2Q '23. In 3Q '23, we recorded a loss on disposal of property, plant, and equipment of $0.4 million related to disposals of miners at Lake Mariner.
+
+GAAP interest expense in 3Q '23 was $10.3 million, which includes cash interest expense and amortization of debt issuance costs and debt discount related to the term loan financing. However, cash interest paid during the three and nine months ended September 30, 2023, was $4.3 million and $15.5 million, respectively. Notably, cash interest paid during the year-to-date nine-month period actually includes 11 months of interest payments due to accrued interest for the fourth quarter of 2022 paid in January 2023, and eight months of interest payments made in 2023 as interest is paid monthly in arrears as of May 2023. In 3Q '23, we reported $0.9 million in equity in net income of investee, net of tax, as compared to negative $3.3 million in 2Q '23. These amounts represent TeraWulf's proportional share of income or losses of the Nautilus joint venture. Our GAAP net loss for the third quarter was $19.4 million compared to a net loss of $17.8 million in 2Q '23. Our non-GAAP adjusted EBITDA for 3Q '23 was $9 million, an 18.5% improvement over $7.6 million in 2Q '23. And year-to-date 2023 adjusted EBITDA is $14.3 million.
+
+Turning our attention now to the balance sheet. As of September 30, we held $6.6 million in cash, with total assets amounting to $312 million and total liabilities of $158 million. With the achievement of our targeted 160 megawatts and 5.5 exahash of operating capacity exiting 3Q '23, we anticipate a consistent and rapid reduction in our long-term debt moving forward. Furthermore, year-to-date, we have reduced our networking capital, excluding the current portion of long-term debt, from approximately negative $60 million at December 31, 2022, to approximately negative $19 million as of September 30, a substantial improvement and one which will continue to normalize in the fourth quarter. As I've mentioned in previous quarters, you may note from our balance sheet that we do not hold our Bitcoin in treasury, but rather execute a "monetize what we mine" strategy, whereby we liquidate Bitcoin to pay operational expenses and capital expenses and overhead as needed, rather than dilute shareholders to fund these costs. Our job as a Bitcoin miner is to continue to mine Bitcoin more efficiently and profitably than any of our peers and return that profit to shareholders in the form of debt pay down, organic growth or dividends and share buybacks, not by hodling. As a 23-year veteran of Wall Street and long-time institutional investor in the energy, power and commodity sectors, I find the HODL strategy to be a simple marketing ploy allowing peer management teams to gamble with shareholders' money. What commodity business in the world?
+
+Copper, coal, gold, oil and gas, mine is a commodity and doesn't sell it because they think or speculate that prices will be higher in the future. With Bitcoin ETF is likely available to the masses in 2024, thereby providing exposure to the price of Bitcoin, we believe the HODL strategy will soon be antiquated and not in shareholders' best interest. Investors should own WULF equity because number one, they're aligned with management, the Board, and insiders owning roughly 50% of the company's equity; and number two, as an operating mining company, WULF can mine Bitcoin more efficiently and profitably than any of our peers and return that profit to shareholders in the form of debt pay down, organic growth, or dividends and share buybacks, not by hodling. My recommendation to the Board will always be to monetize what we mine and distribute profits via dividends, similar to the MLP or Master Limited Partnership model in the energy industry. Lastly, with regard to our ATM and further to Paul's commentary on prioritizing accretive growth, since September 30th, we issued only 4.6 million shares for net proceeds of $5.3 million, as we do not think our current stock price represents fair market value for the company, and with 50% insider ownership have no interest in material dilution at these levels. In conclusion, I hope that during this call today, our financial objectives will make clear and simple, maximize profits, repay debt, and return value to shareholders while providing investors access through transparency and accountability. With that, I'll pass it back to Paul and look forward to answering your questions.
+
+Paul Prager
+Thanks, Patrick. To summarize what we have discussed today, we are executing on the objectives we have communicated to the market. We remain confident in the strength of the business and our growth prospects and we look forward to sharing additional operational updates in the future. Before we conclude today's remarks, I want to address our balance sheet and current valuation, as I believe they go hand in hand. With free cash flow generated in the third quarter, we have reduced our debt to approximately $140 million, which I believe is certainly manageable in the context of our cash flow expectations. We also have no mandatory amortization until April 2024 and more likely until maturity of the loan well past the halving if we achieve an incremental $33 million of principal paydown by April. To put this in context, assuming the Bitcoin price of $35,000 and current network difficulty, we expect to sweep an incremental $30 million by end of the first quarter of 2024. And assuming a Bitcoin price of $40,000, the incremental paydown would be closer to $40 million by the end of the first quarter of 2024.
+
+We are fortunate to have a seasoned and constructive lender group that has consistently and continuously demonstrated their support for the company's business by agreeing to modify the terms of the credit agreement to provide more liquidity and flexibility. I expect these collaborative efforts to continue, particularly as our lenders are highly incentivized to see our share price perform, given they own 15% of the fully diluted equity of the company. My executive team has managed through multiple power and credit cycles over the last 20 years. And I believe the company has several options with regard to considering our debt. To reiterate, investors should consider the following
+
+Operator
+Thank you. We will now be conducting a question-and-answer session. [Operator Instructions] Our first question comes from the line of Josh Siegler with Cantor Fitzgerald. Please proceed with your question.
+
+Josh Siegler
+Yeah. Hi, guys. Good evening. Thanks for taking my call today. I guess first of all I'd like to better understand the unit economics of this host that on agreement. So, I believe I'm prepared remarks you mentioned it would be $0.078. Does that include a power cost flow through?
+
+Patrick Fleury
+Hey, Josh, it's Patrick, and I got the whole management team here with me as well. No, so that's all in. It's effectively fixed. And then as you know our power clause at Lake Mariner floats. And so that's how it works.
+
+Josh Siegler
+Okay. Understood on that front. And then when we're thinking about debt paydown as well as the potential option to purchase these rigs, given kind of the free cash flow sweep, I was curious if you expect to purchase any before really the back half of '24 in addition to the 5,500 or so.
+
+Patrick Fleury
+So, I think what, Josh, we're trying to message there is we think we're undervalued vis-a-vis the peers, and as we've kind of harped on time and time again, we're focused on accretive growth. And so, I think you can look at various valuation metrics and see kind of where we might see accretion, right? And I guess what we're indicating to you is it's not here at $1 or sub-$1. And so, I think as the market unfolds here, we have the option at any point in time if we think it's accretive to add those machines in and we could add one machine or we could add thousands of machines. And so, I think as we move forward, we'll see kind of what happens with the market and what happens with our valuation.
+
+Josh Siegler
+Okay. Understood that front. And if I could just sneak one more in real fast. I was curious if you could give us an update on how you're thinking about the cost of power at the Lake Mariner site as we head in the winter months here.
+
+Patrick Fleury
+Yeah. Look, I think our guidance right has been $0.045 there -- at Lake Mariner and then obviously $0.02 fixed for five years at Nautilus. I think, you can see in our results, I would say we are trending below $0.045 at Lake Mariner. And I think, Josh, also as you've probably seen in our monthly operating reports versus our GAAP financials, we do disclose demand response proceeds in the 10-Q and in the GAAP figures. It's a reduction of our cost of revenue. So, when you take into account, I think our realized power price plus those demand response revenues, I think generally speaking, we're coming in below that $0.045.
+
+Josh Siegler
+Great. I appreciate your answers. Thanks very much.
+
+Paul Prager
+Thanks, Josh.
+
+Operator
+Thank you. Our next question comes from the line of Chase White with Compass Point. Please proceed with your question.
+
+Chase White
+Thanks for taking my question, guys. So, how much CapEx do you guys have left in the Lake Mariner expansion in terms of just the infrastructure? And how do you expect that to be split between 4Q and 1Q? And then I have a follow-up. Thanks.
+
+Patrick Fleury
+Yeah. Hey, Chase, thanks for your question. So, very, I would say, minimal remaining on Lake Mariner from an infrastructure perspective. It's really at this point just the minor purchase, which like we said it's deferred into 2024.
+
+Chase White
+Got you. That's helpful. And any updates on the potential 50-megawatt expansion on Nautilus? Like, is there any internal timeframe for making that decision? And where does your JV partner stand on the issue?
+
+Patrick Fleury
+Yeah. So, I'm just looking around the management team here and seeing if Nazar wants to comment. But I think in general, nothing as of today. I don't know, Nazar, if you want to add to that.
+
+Nazar Khan
+Hey, Chase, it's Nazar here. That's correct. As of now, we haven't built out a schedule for that. That would be 50-megawatt expansion at the site. So in the near term, we see a lot more opportunity at the Lake Mariner site to expand. We've put up building three, which is a 43-megawatt building. Building four is on the drawing board as well, which we could deliver in April or May of next year. So, to the extent that we add another expansion beyond building three, it will likely be at the Lake Mariners facility before Nautilus.
+
+
+Chase White
+Got it. Thanks.
+
+Operator
+Thank you. Our next question comes from the line of Lucas Pipes with B. Riley Securities. Please proceed with your question.
+
+Lucas Pipes
+Thank you very much, operator. Good evening, everyone. Good job. Paul, my first question is on the remarks on your prepared comments with the debt to equity exchange. You mentioned some details there. I couldn't catch all of them. You mentioned the potential premium. I just wondered if you could maybe go back and revisit that and maybe also quantify how much could be exchanged?
+
+Thank you very much for any additional color.
+
+Paul Prager
+Hi. So, Nazar and I own, I would guess around $10 million worth of the debt. I think that we're very comfortable and we are exploring the notion of seeking a waiver from our lenders so that we could convert that debt into equity. We would want to do it at a premium to the market, meaning we think our stock is so undervalued. I don't think it'd be right for us to come in at the current market price and we would expect to come in at a meaningful premium. But that's something that the Board has to negotiate, and we'd also have to get approval from our lenders to do that. But I'm inclined. I like that trade a lot in the context of being further invested alongside the other shareholders.
+
+
+Lucas Pipes
+That's very helpful. Thank you, Paul. My second question is a little bit more on the industry and I wonder kind of with the halving around the corner, you mentioned M&A earlier. Is there a preference for infrastructure over miners? Is it equal? If you had to go long one or the other, which one would you choose or neither? We would appreciate your thoughts on that. Thank you.
+
+
+Patrick Fleury
+Yeah, I think -- hey, Lucas, it's Patrick. I'll answer that quickly, and then looking around the room here, I know Nazar has a strong view on this. But I think we've been pretty public with our view that not all exahash is created equal. And so, as you know, power is the number one cost input here. And when you look at our unit economic structure, we have very low power. And so for us, growing, right, either organically or inorganically, accretively is terrific because it lowers our unit economic cost. That being said, growing at our existing sites where we know we have very low cost power per term, that's a lot more attractive to us than just buying exahash that doesn't have low power, particularly as we come into the halving right when costs double. And on that, Nazar, if you want to add to that.
+
+
+Nazar Khan
+Hey, good evening, Lucas. Nazar here. To echo Patrick's comment, infrastructure is the key. And as we look at M&A activity and consolidation, we are very focused on looking at infrastructure that is at the same cost structure that we have on direct costs or lower. And so, to the extent that it would dilute our direct mining costs, it's not of interest to us. And as Patrick said, we believe we can organically grow. At a site like Mariner, we think over time that site can get up to 500 megawatts of total capacity. And so, it's at that site, that's kind of our benchmark in analyzing any M&A or consolidation type of activity.
+
+
+Patrick Fleury
+Yeah, Lucas, I would just add too, I think Paul is going to jump in too, but, as you know, I think you've been to the site, but we are blessed there with temperate conditions, right? A lot of our competitors based in the South are not. We're not mining with immersion there, right, we're mining air-cooled because of those temperate conditions. And not only that, but we're 30, 35 miles east of Niagara Falls. So, there's a lot of abundant excess cheap power, and I think you can see that. I mean our results thus far this year are proving that.
+
+Paul Prager
+The only thing I'd want to add to that is, Josh who had asked earlier, given the winter is coming, winter is coming but we're at the place where it's the source of generation for power, not the end user. So, our facility is very well located up North. The other thing is, I think strategic activity has to be mindful of an important element to everything we do, which is we're environmentally correct. We're focused on zero-carbon Bitcoin mining. So, one should assume that to the extent we're growing, we're growing consistent with that goal and also we're going to be acquiring things that are keep us the focus of everybody who's interested in zero Bitcoin mining. I think this is important because when the ETFs are approved and you see more and more institutions come to the space, this is a big focus for institutions, if it's not a binary determination of who they can invest in. And so, we could look at opportunities from acquisition of exahash, but it has to be consistent with how we're built as a company, which is very much focused on Bitcoin mining from a zero-carbon perspective.
+
+Lucas Pipes
+That's very helpful. Thank you. And I'll try to squeeze one last one in. Patrick, you mentioned additional cost savings opportunities. And I wondered if you could maybe share a little bit of where you're looking to squeeze out additional savings here. Thank you so much.
+
+Patrick Fleury
+Yeah. I mean, I'll give you an example, Lucas, and, like this is an example of low-hanging fruit in an industry that's maturing. But, our Directors' and Officers' insurance our first year was over $6 million of premiums, okay? I, like, won't even get into the specific details of what that covered, but last year, we were able to reduce that down to around $4 million to $5 million, and this year, we're going to get another really material reduction in that, right? And that policy renews in December. So, there's like -- those things, right, where again, there's public company costs, right? And as we sort of have more experience and more track record, there's a lot of juice still to squeeze out of those grapes. And that's -- those are I think examples of what we're focused on.
+
+And right, that's obviously not in the numbers you're seeing today, because like I said, that matures -- or renews, sorry, in December. The other thing is we've looked at whether it's candidly like the debt amendments in the past. We've also looked at some strategic transactions. Our third-party legal fees are definitely decreasing. And that again comes with just getting our sea legs on us on things like SEC filings and other things. And then, also workforce efficiencies, I mean as we get more experience operating, our teams are getting more experience operating, we're able to just kind of squeeze more out of the existing folks that we have. So, I think it's all of those things, but, like, there's some really big ticket items like the D&O, which is a good example, that are going to allow us to keep cutting costs that I can see in the future and I'm pretty confident, which is why I said that in my remarks.
+
+Lucas Pipes
+Thank you so much, Patrick, Paul, Nazar, team. Continue, best of luck.
+
+Paul Prager
+Lucas, before I let you go, I've been led to believe that you've just recently had another child, a son, so congratulations.
+
+Lucas Pipes
+Thank you so much.
+
+Paul Prager
+A girl.
+
+Lucas Pipes
+A girl, yeah. Three girls now. Thank you, Paul.
+
+Operator
+Thank you. Our next question comes from the line of Mike Grondahl with Northland Securities. Please proceed with your question.
+
+Mike Grondahl
+Hey guys, thanks. Two questions. One, my takeaway on the operations at Lake Mariner and Nautilus was that it was a pretty clean quarter. Was there anything to call out operationally? And then, secondly for Patrick, it sounds like SG&A and especially interest expense in 4Q kind of revert back closer to the 2Q levels. Just those were a little bit cleaner quarters. Any directional comment on that would be helpful.
+
+Patrick Fleury
+Yeah, sure, Mike. So, I think the quarter was pretty clean. I'm looking at Nazar. We did have an outage...
+
+Unidentified Company Representative
+First week of October.
+
+Patrick Fleury
+Okay, yeah. Well, that's for fourth quarter. We had an outage in October, but then in August, we were down. And I think we had a lightning strike or something.
+
+Nazar Khan
+Yeah. So Mike, to your point, it was operational. It was a fairly clean quarter. We did have a couple scheduled outages that occurred. As we continued to build up the site and getting building through ready, there was some work that we had to do to tie in that site to the rest of the site. So, there was an outage in August -- sorry -- yeah August, that was in the quarter. And as Patrick said, there was an issue just with the lightning strike, but that was only a few hours. But overall, it was a fairly clean operational quarter.
+
+Again, the time that we were down was mostly or vastly due to scheduled outages in building three.
+
+Patrick Fleury
+Yeah, Mike, on your SG&A point, so I look at SG&A in our financials and I take out stock-based comp, right, because we, as you know, the management team here has a very big stake. So, we really don't have much stock-based comp, but there is a little bit in there. So yeah, I think 2Q, if I take out stock-based comp, I think was closer to $6.8 million. 3Q, if I take out all the stock-based comp in there, because we did have a performance incentive that was triggered, it's kind of closer to $6.3 million, I think, in 3Q. But 4Q should be one of our lowest quarters for SG&A. And as you know, first quarter tends to be higher just because we have to file 10-K, 10-Q work -- proxy work, there's a lot of filings and other things that renew obviously in the first quarter. So yeah, I think if you kind of extrapolate out that trend, I think that's appropriate.
+
+Mike Grondahl
+Got it. Okay. Hey, thank you.
+
+Paul Prager
+Mike, the one other comment I'd want to just mention in terms of operations is just please recall that we're vertically integrated. We operate our own facilities. So, I think we're a little bit unique relative to a lot of the other folks in the mining space.
+
+Mike Grondahl
+Okay. Hey, thanks.
+
+Operator
+Thank you. Our next question comes from the line of Josh Siegler with Cantor Fitzgerald. Please proceed with your question.
+
+Josh Siegler
+Yeah. Hi, guys. Thanks for taking my follow-up here. Just real fast. I saw on your Q that you put down a deposit for potential S21s in the future. I was wondering if you could walk us through kind of that rationale and how you're thinking about the S21 versus the 19j XPs. Thank you.
+
+Nazar Khan
+Hey, Josh, it's Nazar here. So, the S21 came out low -- better efficiency machine, lower price out of the gate that Bitmain had put out there. And so, I think this -- there was a question earlier from Lucas just around the kind of miners versus infrastructure. And so, when we think about it, we think the infrastructure is unique, particularly the ability to procure low-cost power for term, and miners are available. So, what we see is that the S21s out there today, again under the structure that Bitmain rolled out, 80% payable before delivery and the remaining 20% a year out. Inevitably, 12 months from today there's probably going to be another more efficient machine that comes out. And so, our current fleet efficiency is 27.5 joules per terahash. Once we fully incorporate the full 18,500 j XPs, we'll be pretty close to 25 joules per terahash.
+
+And our long-term goal and trend is to continue to drive that overall fleet efficiency into low 20s. So that will mean that we'd be looking at the S21s, T21s, those types of machines to kind of further drive down that incremental efficiency.
+
+Patrick Fleury
+Yeah. And I guess, Josh -- it's Patrick. So, just to touch on the financial aspect of that, I think the right way to think about it is, we've got I think about $14.3 million of deposits that we made on the S19j XPs. So that along with the $1.2 million of deposits that we made on the S21s, we'll roll all that into -- so that's about $15.5 million, we'll roll that into the -- all into the j XP order. So that kind of converts to machines, if you will, at just under $19 a terahash. And then we'll host the remainder, so the difference, which is roughly, 13,000 of the 18,500 in 2024. And when the time is right, we'll buy some or all, if that make sense. Does that answer your question?
+
+
+Josh Siegler
+Yeah, that's very helpful. Really do appreciate the candor. And thanks for taking my follow-up.
+
+Nazar Khan
+Thank you.
+
+Operator
+Thank you. Our next question comes from the line of [Matteo Levy with Parabolic Ventures] (ph). Please proceed with your question.
+
+Unidentified Analyst
+Hey, everybody. First of all, congratulations on your hash rate expansion to 5.5. I'm not aware of another miner who's achieved that as quickly as you, so I just want to applaud that. But meanwhile my question relates to the short interest. What is the market missing? What are they misunderstandings? And how do you intend to prove them wrong? Because the short interest has grown, meanwhile, all your other metrics are looking amazing.
+
+So, I would love to get some feedback from you on this.
+
+Paul Prager
+Hi, Matteo. This is Paul. Thanks for your question. Part of the short position in the space, but I don't think it's close to even 50%. Part of that short interest would appear to be some of our lenders. And I think, by the way, they have been entirely supportive and remain, again, long the stock and willing to continue to help the company outperform its peers. I think the other shorts, part of it is I don't think they understand the debt. So, they look at the debt and don't appreciate that when cash flows -- we have free cash flow until April and then once we've paid down a certain amount, which we're clearly going to be able to do here and get it for the duration of the loan.
+
+They don't appreciate. As well that we have built our facilities to scale pretty rapidly and we could do that internally. So, I think they're just looking right now at debt maturity as a primary issue and they're being a little heavy handed in shortening the stock. I think they're making the wrong bet. I've continued to purchase throughout, and again as I've indicated earlier, I'm prepared to move my debt, which is the senior secure position, with lender's approval into our stock at a premium to its current market. So, I think at some point, it provides a great opportunity for those invested in the stock to squeeze the shorts. I mean I don't know if CEO really supposed to focus on how our stock trades, but I think it's pretty thin out there and with Bitcoin prices going up, with ETF approval, I think that you'll see that we're the most levered play out there. I think a lot of folks will roll out of companies that are sort of into the HODL strategy as opposed to companies that mine at reduced costs and generate lots of Bitcoin, particularly with the ESG component on top.
+
+So, I think they're wrong. I think it's our job to prove them wrong, and that's what we intend to do.
+
+Unidentified Analyst
+All right, Paul. Thank you. That makes sense. I mean, the debt is a function of how you scale so quickly and you're the low-cost producer, so going into the halving, that should resonate. So, is there any other actions that the company intends to take to really put exclamation point behind TeraWulf as a leader in the space?
+
+Paul Prager
+Listen, we're looking at everything, all the tools in the toolkit. So, as we think about our debt, we talk to our lenders routinely. Patrick has a great working relationship there. If there are ways to optimize that in the best interest of the company and our shareholders, we'll do that. We look at strategic acquisition opportunities all the time, consistent with their ESG core focus. And separately, we're already scaling here. Building 3 got up real fast. We've got a very -- Building 4 is on the way.
+
+And I think that we are opportunistically structured in terms of our agreements with Bitmain to sort of pay for new machines whenever we want to, as opposed to right now we are paying for some and we're hosting some. So, I think we'll get there. I have a lot of confidence in the approach. And again, I think the shorts out there are just too focused on the debt maturity, which is nine months -- or currently, as it stands, it's nine months past the halving. And we're a free cash flow sweep till then. So, I think we're in pretty good shape.
+
+Unidentified Analyst
+All right, Paul. Thank you very much. Thank you to your whole team.
+
+Operator
+Thank you. We have reached the end of our question-and-answer session. And with that, this will conclude today's teleconference. You may disconnect your lines at this time. Thank you for your participation.

@@ -1,0 +1,129 @@
+July 19th, 2023
+Operator
+Good day, and thank you for standing by. Welcome to Capital One Q2 2023 Earnings Call. [Operator Instructions]. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Jeff Norris, Senior Vice President of Finance. Please go ahead.
+
+Jeff Norris
+Thanks very much, Amy, and welcome, everybody, to Capital One's Second Quarter 2023 Earnings Conference Call. As usual, we are webcasting live over the internet. To access the call on the Internet, please log on to Capital One's website at capitalone.com and follow the links from there.
+
+Andrew Young
+Thanks, Jeff, and good afternoon, everyone. I'll start on Slide 3 of tonight's presentation. In the second quarter, Capital One earned $1.4 billion or $3.52 per diluted common share. Pre-provision earnings of $4.2 billion were up 7% compared to the first quarter and 16% compared to the year ago quarter. Both period end and average loans held for investment increased 1% relative to the prior quarter, driven by growth in our Domestic Card business. Period-end deposits declined 2% in the quarter, largely driven by tax-related outflows. Our percentage of FDIC insured deposits grew 1% to end the quarter at 79% of total deposits. We have provided additional details on deposit trends on Slide 18 in the appendix.
+
+
+Richard Fairbank
+Thank you, Andrew, and good evening, everyone. The Domestic Card business posted another quarter of strong year-over-year top line growth. Purchase volume for the second quarter was up 7% from the second quarter of last year. Ending loan balances increased $21 billion or about 18% year-over-year. And second quarter revenue was also up 18% year-over-year, driven by the growth in purchase volume and loans. Revenue margin declined 40 basis points from the prior year quarter and remained strong at 17.76%.
+
+The decline was driven by 2 factors
+first, loans grew faster than purchase volume and net interchange revenue in the quarter. This dynamic is a tailwind to revenue dollars, but a headwind to revenue margin. And second, charge-offs increased, so we reversed more finance charge and fee revenue. These factors were partially offset by an increase in the revolve rate.
+
+Jeff Norris
+Thank you, Rich. We'll now start the Q&A session [Operator Instructions]. Amy, please start the Q&A.
+
+Operator
+[Operator Instructions]. Our first question comes from Ryan Nash with Goldman Sachs.
+
+Ryan Nash
+Maybe to start on the margin, Andrew, where we saw some pressure. Can you maybe just talk about how to think about the margin from here? You talked about card loan run faster, which is a tailwind. But there's obviously -- rising deposit cost has been headwind. So when you put it all together, what do you see the trajectory of the margin shaking out? And embedded within that, what are your most updated expectations for deposit betas at this point? And I have a follow-up question.
+
+
+Andrew Young
+Sure. So why don't I start with the deposit beta speech Ryan, since that will feed into the NIM. As we talked about last quarter and you see playing out in the marketplace at this point, there's just a number of factors that are impacting beta between product mix and the competitive dynamics on pricing, just how quickly the Fed has moved over the last 5 quarters. All of this happening under the backdrop of QT. And so we put that on top of our view for deposits all of the needs that we have, our desire to grow customer relationships and the like. And so those forces, coupled with the fact that at this point in the cycle, deposit pricing just tends to lag yields.
+
+Ryan Nash
+Got it. And then Rich, maybe as my follow-up, maybe just an update on what you're seeing with the consumer. When I look in the credit -- in the card book, delinquencies in the past 4 months have been rising, let's call it, 130, 140 basis points per year. And given all the growth that has come on to the books in the past 24 months, can you give us a sense for how to think about how far past 2024 level -- 2019 levels, we could be going on losses and maybe, Andrew tie in, what this all can mean for the allowance over time?
+
+Richard Fairbank
+Okay. Thanks, Ryan. So just to put some numbers behind your comments. So the Domestic Card delinquencies in the second quarter were about 10% higher than the same quarter of 2019. Our charge-offs are still a bit below their 2019 levels. But based on what we see in our delinquencies, we think they'll get back there in the next few months.
+
+Andrew Young
+And then with respect to the allowance, Ryan, I know I've talked a lot about the mechanics in recent calls, so I'll spare all of you the tutorial. But the first thing with respect to the allowance will obviously be allowing for future growth is an obvious contributor to where the allowance goes from here. But then it's really all about the outlook for losses and in particular, what we're projecting for loss rates a year out. So Rich just described a lot of the dynamics that are at play with our outlook for [ client ] losses. So depending on how all those factors play out, that's really going to have the biggest impact, especially as you look out well into '24.
+
+Operator
+Our next question comes from Richard Shane with JPMorgan.
+
+Richard Shane
+Rich, I would describe that I think one of the hallmarks of Capital One over the decades as almost a strategic optimism. When you look at opportunities right now and where your peers are deploying capital, where is your greatest strategic optimism?
+
+Richard Fairbank
+My greatest strategic optimism, Richard, is in the card business. We've -- first of all, we've always been a big fan of the card business starting from the beginning of the company. It's not an accident that we chose the card business because we love the industry structure. We love the opportunity to leverage kind of strategies that we wanted to put in place, the information-based, technology-based strategies. And while that is something one can apply across all of financial services, it certainly has tremendous leverage in a business like the card business. So we've always loved the business.
+
+Operator
+Our next question comes from Mihir Bhatia with Bank of America.
+
+Mihir Bhatia
+I wanted to start maybe with expenses. It has come in a little bit better than I think what we were expecting, they were down quarter-over-quarter. You mentioned -- you talked a little bit about returning to normal in your prepared remarks. And I was just wondering if you could expand on that a little bit. Was there a decision like to slow down on growth investments, pullback? Like, I guess, what changed just in terms of the expenses or the cadence of expenses through the year?
+
+Andrew Young
+Typically, Mihir, I'll take that one if you're talking just Q1 to Q2. In the first quarter, we typically have seasonal effects to compensation when bonuses are paid, payroll tax issues. You see that in the ST&B, Salary Tax and Benefit line there. So that's really the largest single factor, not necessarily a fundamental shift in any trajectory.
+
+Mihir Bhatia
+Okay. And then maybe just going back to the NIM conversation. I think you talked about some of the puts and takes in the near term. But I was curious just about company-wide NIM or compared to historical, right, I mean, it wasn't atypical for Capital One's NIM to be closer to 7%, high 6s. Do you expect you'll get back there? Or have something fundamentally changed in the business, whether it's the growth in the high balance transactors or something else where you wouldn't get back there?
+
+Andrew Young
+Well, I don't think there's anything fundamentally different in the business, Mihir. I think there's a lot of question around what happens to consumer behavior when we talked about revolve rate in card and other things. And then also on the funding side, partially dependent on what the Fed ends up doing over an extended period of time where rates eventually settle out. I think those are all factors that could ultimately impact where the final resting place is for NIM, but there's nothing that is really fundamentally different across our book from where it was years ago.
+
+Operator
+Our next question comes from Betsy Graseck with Morgan Stanley.
+
+Betsy Graseck
+So I know, Rich, you mentioned marketing following the typical seasonality this year, and still expecting it to ramp up in the back half, which makes a lot of sense. And I'm just wondering, when you think about where you want to spend those dollars, is it more on new account acquisition, spurring outstanding loan utilization, is travel a relatively easier one to pull at this stage? And I guess what I'm just wondering is, is there an opportunity to even get more return for your marketing dollars now versus maybe what you've had over the past couple of quarters given the need for people to borrow perhaps more than they had to a year ago? So just those are some of the questions that I had.
+
+Richard Fairbank
+Thanks, Betsy. Let me talk about the marketing, yes, thanks for commenting about the seasonality. I mean every year is different in terms of the quarterly patterns. But we pointed out this year is, it seems like a more normal year with the back half, with the more common back half, higher back half than we've had in some of the anomalous times during the pandemic. The marketing was flat compared -- in this quarter, was flat compared to the prior quarter and down 12% year-over-year. But I wouldn't draw really strong conclusions from that because as I already talked about, we're leaning into the marketing. It's just from a timing point of view of some of our marketing, it was just didn't happen to fall as much in this quarter.
+
+
+Betsy Graseck
+And its growth rate expectations should be following similar patterns to the pre-COVID environment?
+
+Richard Fairbank
+Well, let me comment for a second. Well, let me first say, we're not really giving growth outlook. The thing I really want to say about marketing is marketing drives the origination of accounts. The real growth of our card business comes really from balanced growth and also from purchase volume growth, of course. But those are not one-for-one things. But what we have been focused on since the founding of the company is building a company that has an organic growth engine focused on originations and leveraging the technology and analytical capabilities that we built. And so our -- when you see our leaning in hard to marketing. Think about that is the engine that's driving new accounts.
+
+And over time, those accounts really are, to your point, even though the timing is not one-for-one, those accounts are really the foundation for the continued outstandings and revenue growth of the company.
+
+Operator
+Our next question comes from Sanjay Sakhrani with KBW.
+
+Sanjay Sakhrani
+Andrew, I hate to do this, but I want to go back to the allowance coverage trends going forward. If we zoom into that complex calculation of removing previous and adding future quarters of net charge-offs. In your current forecast, do you have losses sort of rising through the end of next year? And maybe you could just touch on the new macro baseline and what the unemployment rate assumption is?
+
+Andrew Young
+Yes. So the baseline assumption and our outlook focusing, I imagine you're looking mostly for unemployment rate. So we have it increasing from the 3.6% it is today to 4.3% at the end of this year and then moving higher in the 4s, but staying in the 4s through 2024. That compares to our assumption last quarter of, I believe, it was 5.1%. But remember that our models tend to use the change in unemployment rates or the rate of job creation, which we're forecasting to come down to nearly 0, rather than the level of unemployment. And so it's not just about those factors, too, in our allowance. We're also considering downside scenarios that are much more severe than that baseline.
+
+
+Sanjay Sakhrani
+Okay. Rich, I asked this question to one of your competitors earlier. But can you just pinpoint what's exactly attractive about the growth you're seeing in card today versus in the past? They are also growing at a pretty rapid rate. And obviously, you guys have been very successful at growing this business over time, but the market remains competitive. You talked about the credit normalization. There's obviously a potential for economic challenges. I'm just trying to think through the risks.
+
+
+Richard Fairbank
+So Sanjay, there certainly are things to be worried about. The economy is unusual and has aspects of a lot of strength and a lot of concern. The credit normalization, we all see it. And so I'm going to make the worry case just slightly here for a second, the credit normalization has -- credit is still at very attractive levels, but it still has an upward slope to it, and nobody -- well, we certainly don't feel in a position to predict exactly where that settles out. And so we'll have to keep that very much front and center. And the market is very competitive, absolutely.
+
+Operator
+Our next question comes from Don Fandetti with Wells Fargo.
+
+Donald Fandetti
+Yes. Rich, can you talk about what you're seeing on credit card spend growth rates recently in terms of the like-for-like account basis, I know it was sort of flat to down last quarter. And do you think that we'll continue to see moderation?
+
+Richard Fairbank
+So let's pull up, first of all, our Domestic Card purchase volume was up 7% year-over-year. But that's -- to your question, Don, that's really powered by the growth in our customer base. When you look at spend per customer, this has moderated and is now generally flat from a year ago. And the moderation in spending appears to be broad-based. We've observed it across income bands and card segments. We've also seen it across both discretionary and nondiscretionary categories.
+
+Operator
+Our next question comes from Arren Cyganovich with Citi.
+
+Dominick Gabriele
+Rich, I was just thinking about turns in the credit cycle. What are some of the mistakes that you think card issuers make and even lenders in general? And where do you look for the weakness in the overall space of lending to give you caution when you start to see that turns in the credit cycle? And I also have a follow-up.
+
+Richard Fairbank
+So yes, it's -- I really appreciate the question, Dominick, because I've often said, we're not in a position, I wouldn't have any of you put any more stock or stake. I guess you investors put stock in, but I wouldn't put any particular stake in our ability to predict the economy. But the credit cycle and the economy are not the same thing. They're correlated, but I think that the credit cycle is the thing that we really focus a lot on because I think a lot of elements of it are pretty predictable. Obviously, it is influenced by and influences the economy.
+
+Dominick Gabriele
+Yeah. Thanks, Rich. I can't agree with you more on the late fee comments as well, especially access to credit, makes perfect sense. This one is not as interesting. I guess I was just looking for some help on the model. When you look at professional fees or professional service expense, it was down pretty big year-over-year while the salaries were maybe a little elevated versus seasonality. I was wondering if you brought some of those folks in-house or how to think about the professional services given that is some of the debt collection piece, I believe. And then was there a gain in the other noninterest income from the sold portfolio?
+
+Any help there would be great. And thanks for everything and the comments.
+
+Andrew Young
+Sure. So I think you've got it right in terms of looking at salaries and benefits in professional services in conjunction with one another as we were making substantial investments in technology we were supplementing that with some third-party resources. We brought that down as we've been able to use our brand -- our recruiting brand to bring incredible talent into the organization. And so it's really looking in some ways at those 2 lines in conjunction with one another to get a sense for the kind of underlying overall labor trend. And then in other noninterest income, no, it's -- well, not specifically a sale, one of the biggest things in that creates some quarter-to-quarter fluctuation is agency income in our commercial business. So it's a little bit lumpy, but we saw some real strength in the quarter, and so that's what drove the quarter-over-quarter increase there.
+
+Jeff Norris
+Well, that concludes our Q&A session and our call for this evening. I want to thank everybody for joining us on the conference call today, and thank you for your continuing interest in Capital One. The Investor Relations team will be here this evening to answer further questions you may have. Have a good night, everybody.
+
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.

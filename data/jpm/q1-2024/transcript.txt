@@ -1,0 +1,198 @@
+April 11th, 2024
+Operator
+Good morning, ladies and gentlemen. Welcome to JPMorgan Chase's First Quarter 2024 Earnings Call. This call is being recorded. [Operator Instructions] We will now go live to the presentation. Please stand by.
+
+Jeremy Barnum
+Thank you very much, and good morning, everyone. The presentation is available on our website, and please refer to the disclaimer in the back.
+
+Operator
+The first question is coming from the line of Betsy Graseck from Morgan Stanley.
+
+Betsy Graseck
+So a couple of questions here. Just one, Jamie, could you talk through the decision to raise the dividend kind of mid-cycle, it felt like, pre-CCAR? And also help us understand how you're thinking about where that payout ratio, that dividend payout ratio range should be. Because over the past several years, it's been somewhere between 24% and 32%. And so is this suggesting we could be towards the higher end of that range or even expanding above that?
+
+James Dimon
+Yes. So Betsy, before I answer the question, I want to say something on behalf of all of us at JPMorgan and me personally. I'm thrilled to have you on this call.
+
+Jeremy Barnum
+Betsy, I just wanted to add my welcome back thoughts as well. And just a very minor edit to Jamie's answer. I think he just misspoke when he said $2 billion a year in buybacks, the trajectory. It's $2 billion a quarter.
+
+James Dimon
+I'm sorry, $2 billion a quarter.
+
+Jeremy Barnum
+Otherwise, I have nothing to add to Jamie's very complete answer. But welcome back, Betsy.
+
+Betsy Graseck
+Okay. Thank you so much, and I appreciate it. Looking forward to seeing you at Investor Day on May 20.
+
+Jeremy Barnum
+Excellent. Us too.
+
+Operator
+Our next question comes from Jim Mitchell with Seaport Global.
+
+James Mitchell
+Jeremy, can you speak to the trends you're seeing with respect to deposit migration in the quarter, if there's been any change? Have you seen that migration start to slow or not?
+
+Jeremy Barnum
+Yes, a good question, Jim. I think the simplest and best answer to that is not really. So as we've been saying for a while, migration from checking and savings to CDs is sort of the dominant trend that is driving the increase in weighted average rate paid in the consumer deposit franchise. That continues. We continue to capture that money in motion at a very high rate. So we're very happy about what that means about the consumer franchise and the level of engagement that we're seeing.
+
+James Mitchell
+Okay. And just a follow-up on that and just sort of bigger picture on NII. Is that sort of the biggest driver of your outlook? Is it migration? Is it the forward curve? Is it balances? It sounds like it's migration, but just be curious to hear your thoughts on the biggest drivers of upside or downside.
+
+
+Jeremy Barnum
+Yes. So I mean, I think the drivers of, let's say, what's embedded in the current guidance is actually not meaningfully different from what it was in the fourth quarter, meaning it's the current yield curve, which is a little bit stale now, but the snap from quarter end had roughly 3 cuts in it.
+
+Operator
+Our next question comes from John McDonald with Autonomous Research.
+
+John McDonald
+Jeremy, you had mentioned at a conference earlier this year that The Street might need to build in more reserve growth for the Card growth. You've had more reserve build. We didn't see that this quarter. Is that just kind of seasonal? And would you still expect the kind of growth math to play out in terms of Card growth and reserve build needs?
+
+Jeremy Barnum
+Yes, John. So in short, yes to both questions. So yes, the relative lack of build this quarter is a function of the normal seasonal patterns of Card. Yes, we still expect 12% card loan growth for the full year. And yes, that still means that all else equal, we think the consensus for the allowance build for the back 3 quarters is still a little too low if you map it to that expected card loan growth.
+
+John McDonald
+Okay. Got it. And then just a follow-up to make it super clear on the idea of the Markets NII, that outlook being revised down by $1 billion, but revenue-neutral. I guess the obvious thing is there, there's typically an offset in fee income, and you don't guide to that. But the idea would be, the way you're structuring trades, the way the balance sheet is evolving, there's some offset that you'd expect in Markets fees from the lower Markets NII, correct?
+
+Jeremy Barnum
+That is exactly right. And specifically, what's going on here is this shift between the on-balance sheet and off-balance sheet in the financing businesses and prime and so on within Markets. And you can actually see a little bit of a pop of the Markets balance sheet in the supplement, and these things are all related.
+
+Operator
+Our next question comes from Ebrahim Poonawala with Bank of America.
+
+Ebrahim Poonawala
+I guess just in terms of, Jamie, when you think about the outlook for the economy, would appreciate your thoughts on the health of the customer base, both commercial and consumer.
+
+James Dimon
+So I would say consumer customers are fine. The unemployment is very low. Home price dropped, stock price dropped. The amount of income they need to service their debt is still kind of low. But the extra money of the lower-income folks is running out -- not running out, but normalizing. And you see credit normalizing a little bit.
+
+Ebrahim Poonawala
+That's helpful. And just tied to that, as we look at commercial real estate, both for JP and for the economy overall, is higher rates alone enough to create more vulnerabilities and issues beyond office CRE? How would you characterize the health of the CRE market?
+
+James Dimon
+Yes. So I'll put it into 2 buckets. First of all, we're fine. We've got good reserves against office. We think the multifamily is fine. Jeremy can give you more detail on that if you want.
+
+Operator
+Our next question comes from Erika Najarian with UBS.
+
+L. Erika Penala
+Given that your response to Betsy's question is that 15% CET1 today prepares you for Basel III endgame as written. You earn 22% on -- without the FDIC assessment. Ahead of Investor Day, I guess, 6 weeks from now or 5 weeks from now, as we think about that 17% through-the-cycle target, if you're at the right capital level per you guys, where are you overearning today?
+
+Jeremy Barnum
+Right. So interesting framing of the question, Erika. So I think we've been pretty consistent about where we're overearning, right? So obviously, one major area is that we're overearning in deposit margins, especially in consumer. And that's sort of why we're expecting sequential declines in NII, why we've talked about compressing deposit margins and increases in weighted average rate paid.
+
+L. Erika Penala
+Got it. And just as a follow-up question. You mentioned that the current curve that you set your NII outlook upon is stale. I guess, does it matter? That it seems like the market down-pricing; and obviously no June cut; no September cut; and a toss-up in December, which shouldn't matter for this year. As we think about that $90 billion, does the -- if we price rate cuts out totally, does that matter much? Given that it seems like June is the only one that...
+
+
+Jeremy Barnum
+Yes. Sorry, Erika. So just quick things on this. One, let's focus on NII ex, not on total NII. So I'd anchor you to the $89 billion. Number two, if you want to do math for like the changes of the average funds rate for the rest of the year and multiply that times the EAR, like be my guest. Looks like as good as an approach as any.
+
+
+James Dimon
+Which we know are going to be wrong.
+
+Operator
+Our next question comes from Ken Usdin with Jefferies.
+
+Kenneth Usdin
+Jeremy, I was wondering if you could expand a little bit on one of your prepared comments. When you talked about -- we will have hopes and expectations for the Investment Banking pipeline to continue to move along. We obviously saw the good movement in ECM and DCM and the lag in Advisory. Can you just talk about that?
+
+Jeremy Barnum
+Sure. Yes. Let me take the IPO first. So we had been a little bit cautious there. Some cohorts and vintages of IPOs had performed somewhat disappointingly. And I think that narrative has changed to a meaningful degree this quarter. So I think we're seeing better IPO performance. Obviously, equity markets have been under a little bit of pressure the last few days.
+
+But in general, we have a lot of support there, and that always helps.
+
+Kenneth Usdin
+Got it. And I guess I'll just stick on the theme of capital markets. And not surprising at all to see a little bit tougher comp in FICC. I think you guys have kind of indicated that maybe a flattish fee pool is a reasonable place, and I know that's impossible to guide on.
+
+Jeremy Barnum
+Yes, a really good question. I would say, in general, that the sort of volatility and uncertainty in the rate environment overall on balance is actually supportive for the Markets revenue pool. And I think that, together with generally more balance sheet deployment as well as sort of some level of natural background growth, is one of the reasons that the overall level of Markets revenue has stabilized at meaningfully above what was normal in the pre-pandemic period.
+
+Operator
+Our next question comes from Mike Mayo with Wells Fargo.
+
+Michael Mayo
+Jamie, I'm just trying to reconcile some of your concerns in your CEO letter. I'm sure the 60 pages, I can see you put a lot of effort into that and it's appreciated. But you talked about scenarios, tail risk, macro risk, geopolitical risk and all that over several years, it's not weeks or months, I get it.
+
+Jeremy Barnum
+Right, Mike. So I'm sorry to tell you that Jamie actually left us because he's at a leadership offsite. That's why he was here remote. So I think he left the call in my hands for better or for worse. So -- but let me try to address some of your points and without sort of speaking for Jamie here.
+
+Michael Mayo
+Just as a follow-up to that, then. Why is it doing great in terms of Wholesale Payments, given such the dislocations in the world from wars to supply chain changes, everything else, why is Wholesale Payments doing great?
+
+Jeremy Barnum
+Well, I think one of the things about payments businesses is that, in some sense, they're -- I mean, recession-proof is probably the wrong word. And in any case, we're not dealing with a recession, but we're talking fundamentally about moving money through pipes around the world. And that's a thing that people need to do more or less no matter what. So that's one piece.
+
+Operator
+Our next question comes from Glenn Schorr with Evercore.
+
+Glenn Schorr
+Your commentary with Ken's questions were great and clear on Investment Banking for the near term and this year. I have a bigger-picture question in terms of you're so good in spelling out where you're overearning. Do you feel like you're underearning on the Investment Banking side?
+
+Jeremy Barnum
+Yes, Glenn, in short, yes. I mean, I think we're not shy about saying that we're underearning in Investment Banking now. Clearly, we're below cycle averages, as you point out. We've been talking about when do we get back to the pre-pandemic wallet. But as you know, at this point, it was like March 2020, right, it was the beginning of the pandemic. So it's like 4 years ago at this point. So there's been GDP growth, especially in nominal terms during that period, and you would expect the wallet to grow with that.
+
+
+Glenn Schorr
+Maybe one other follow-up. You're always investing. You clearly get paid in growth across the franchise as you do. But relative to a lot of other banks that have been keeping the expenses a lot closer to flat, do you envision an environment -- or maybe I should rephrase that. What type of environment would have JPMorgan pull back on this tremendous investment spending wave that you've been going through?
+
+Jeremy Barnum
+Sure. So I think the first thing to say, which is somewhat obvious, but I'm going to say it anyway, is that there are some like auto-governors in this, right? Like some portion of the expense base is directly related to revenue, whether it's volume-related commissions, whether it's incentive compensation, whether it's other things. So there are some auto-correcting elements of the expense base that would happen automatically as part of the normal discipline. So that's point one.
+
+Operator
+Our next question comes from Matt O'Connor with Deutsche Bank.
+
+Matthew O'Connor
+You mentioned one use of capital is to lean into the trading businesses with your balance sheet. And we did see the trading assets going up Q2, which is probably seasonal, but also up a lot year-over-year, but not necessarily translate into higher revenues. And I know they don't like match up necessarily each quarter. But maybe just elaborate like how you're leaning into the trading with the balance sheet and how you expect that to benefit you over time.
+
+Jeremy Barnum
+Yes, sure. So let me break this question down into a couple of different parts. So I think what Jamie was sort of suggesting is that you can think of a concept that's kind of like strategic capital versus tactical capital, for lack of a better term.
+
+Matthew O'Connor
+Got it. And then just separately, within the consumer card businesses, you highlighted volumes are up 9% year-over-year. Obviously, still a very strong piece. Any trends within that, that are worth noting in terms of changes in spend category -- either overall or among certain segments?
+
+Jeremy Barnum
+Maybe a little bit. Jamie already alluded somewhat to this. So I do think spend is fine but not boomy, broadly speaking, I would say. You can look at it a lot of different ways, inflation cohorts, et cetera. But when you kind of triangulate that, you get back to this kind of flattish picture.
+
+Operator
+Our next question comes from Gerard Cassidy with RBC Capital Markets.
+
+Gerard Cassidy
+Notwithstanding your guys' outlook for uncertainty, and of course, Jamie talked about it in the shareholder letter and addressed it also on this call when he was here earlier. Can you guys share -- or can you share with us the color on what's going on in the corporate lending market in terms of spreads seem to be getting tighter? It's not reflecting, I don't think, a real fear out there in the global geopolitical world. And any color just on what you guys are seeing in the leveraged loan market as well.
+
+Jeremy Barnum
+Right. So I think what's true about spreads in general, just broadly credit spreads, including secondary markets, and to some extent the leverage lending space, is that they're exceptionally tight.
+
+Gerard Cassidy
+And I guess as a tie-in to that question and answer. We've read and seen so much about the private credit growth in this country by private credit companies. Can you give us some color on what you're seeing there as both as a competitor but also as a client of JPMorgan, how you balance the 2 out? Where you may see them bidding on business that you'd like, but at the same time, you're supporting their business.
+
+Jeremy Barnum
+Right. Yes. I mean, I think that tension between us as a provider of secured financing to some portions of the private credit, private equity community, now you're talking about different parts of the capital structure. But we do recognize that, that we compete in some areas and we are clients of each other in other areas. And that's part of the franchise, and it's all good at some level.
+
+Operator
+Our last question comes from Charles Peabody with Portales.
+
+Charles Peabody
+A couple of questions on the First Republic acquisition. Some of us obviously thought that would be a home run, and I'm glad to see that Jamie Dimon validated that in his annual letter.
+
+Jeremy Barnum
+Okay. Thanks, Charlie. And I'm going to do my best to answer your question while sticking to my sort of guns on not giving too much First Republic-specific guidance. But I do think that kind of framework you're articulating is broadly correct. So let me go through the pieces.
+
+Charles Peabody
+As a quick follow-up, where are the next home runs going to come from? And this is more strategic beyond just JPMorgan. But there's probably going to be more regional bank failures, whether it's this year or next year, and opportunities to pick those up.
+
+Jeremy Barnum
+Right. Okay, Charlie, there's a lot in there. And to be honest, I just don't love the idea of spending a lot of time on this call speculating about bank failures. Like you obviously have a particular view about the next wave in the landscape. I'm not going to bother debating that with you. But I guess let me just try to say a couple of things, doing my best to answer your question.
+
+Operator
+We have no further questions at this time.
+
+Jeremy Barnum
+Thank you, everyone.
+
+Operator
+Thank you all for participating in today's conference. You may disconnect at this time, and have a great rest of your day.

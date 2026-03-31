@@ -1,0 +1,238 @@
+November 9th, 2025
+Operator
+Greetings, and welcome to the TeraWulf 2025 Third Quarter Earnings Conference Call. [Operator Instructions] Please note that this conference is being recorded. I will now turn the conference over to John Larkin, Senior Vice President, Director of Investor Relations. Thank you, Mr. Larkin. You may begin.
+
+John Larkin
+Good afternoon, and welcome to TeraWulf's 2025 Third Quarter Earnings Call. Joining me today are Chairman and CEO, Paul Prager; and CFO, Patrick Fleury. Before we get started, please note that our remarks today may include forward-looking statements. These statements are subject to risks and uncertainties, and actual results may differ materially. During this call, we may use words like anticipate, could, enable, estimate, intend, expect, believe, potential, will, should, project and similar expressions, which indicate forward-looking statements. For a more comprehensive discussion of these and other risks, please refer to our filings with the SEC available at sec.gov and in the Investors section of our website at terawulf.com. We will also reference certain non-GAAP financial measures today. Please refer to our 10-K and 10-Q filings on our website for a full reconciliation of these non-GAAP measures to the most comparable GAAP measures.
+
+We will start today's call with prepared remarks from Paul and Patrick, followed by a Q&A session. Now I'd like to turn the call over to our CEO, Paul Prager.
+
+Paul Prager
+Good afternoon, and thank you for joining us today. The third quarter was truly transformational for TeraWulf, both operationally and financially. During the quarter, we executed one of the most significant steps in our company's evolution, signing approximately 360 megawatts of critical IT load with Fluidstack backstopped by Google at our Lake Mariner campus in Upstate New York. This 10-year agreement representing average annual revenue of approximately $670 million and average annual net operating income of more than $565 million before extensions, firmly validates our high-performance computing hosting strategy and establishes TeraWulf as a leader in designing, building and operating low-carbon enterprise scale compute infrastructure. In October, we reinforced that leadership by closing $3.2 billion in senior secured financing backed by the Google credit enhancement to fully fund the Lake Mariner high-power compute build-out. This transaction is a milestone for the broader industry, demonstrating a repeatable end-to-end development model that begins with design and site control, extends through customer contracting and construction and culminates in long-term credit-enhanced lease revenue. The third quarter also marked an operational inflection point for TeraWulf as we recorded our first HPC revenues with lease commencement at WULF Den and CB-1. We remain on track to deliver CB-2 near year-end, subject, of course, to tenant fit-out requests, which will complete our delivery of 60 megawatts of critical IT for Core42.
+
+Across our platform, these early deployments are proof points that our strategy is working and our execution is disciplined. At Lake Mariner, our team continues to perform exceptionally well. In terms of executing for Fluidstack in Google, the majority of long lead items have been contracted through CB-5 and construction progress is both visible and measurable. CB-3 is more than 50% directed. The final concrete pour is scheduled within two weeks, and the structure will be fully enclosed before year-end. CB-4 and CB-5 are already well underway with underground work beginning next week, field deliveries arriving in early December and building erection expected to begin before Christmas. The progress our construction and operations teams have achieved and with rigorous quality standards reflects TeraWulf's deep experience in developing and delivering large-scale energy and data infrastructure. We also continue to expand our geographic footprint and customer base.
+
+Just two weeks ago, we expanded our partnership with Fluidstack and Google, announcing our joint venture to develop and operate the Abernathy HPC campus in Texas within the Southwest Power Pool market. This project adds 168 megawatts of new HPC capacity with expansion potential up to 600 megawatts and replicates the same credit-enhanced structure proven at Lake Mariner. This joint venture with Fluidstack and Google leverages our collective expertise, incorporates Hypertech as EPC partner and includes two additional options to expand the joint venture, one for future phases at Abernathy and another for a separate site elsewhere in the United States. This partnership represents the next evolution of our growth model, scalable, capital efficient and backed by world-class partners. And while we've made tremendous progress executing the business we have, what's equally important is how we're positioning TeraWulf for the next wave of growth. Our approach remains disciplined, expanding only where we have clear structural advantages in power, permitting and partnership and our opportunity set continues to broaden. In August, we signed an 80-year lease at the Cayuga site in New York, laying the groundwork for large-scale high-power compute deployment beginning in 2027. As just mentioned, the Abernathy joint venture offers meaningful embedded expansion potential, both on campus and across future projects with Fluidstack and Google.
+
+Meanwhile, our in-house development pipeline continues to mature with several high-quality opportunities now approaching realization. Together, these initiatives form the very foundation for TeraWulf's next phase of growth, executing today while methodically building the platform for tomorrow, scalable, low carbon and designed to meet the accelerating demand for high-performance compute. Reflecting that confidence, we recently increased our annual target for new HPC signings from 100 to 150 megawatts per year to 250 to 500 megawatts per year. We did not make this decision lightly. It reflects the tangible progress we've made in advancing our development pipeline and the strength of customer demand. Over the past year, we've evaluated over 150 potential sites, narrowing that list to a select group that meets our strict criteria, grid redundancy, minimum power thresholds, attractive geographies for end customers and time to power. To support this next phase, we've expanded our site acquisition and development teams, strengthening what is already the most capable organization in the sector. Our deep understanding of what hyperscale and AI customers need, combined with our access to scalable, low-cost power, positions TeraWulf at the forefront of the infrastructure transformation now underway.
+
+We are proud of what our team accomplished this quarter, but we are even more excited about what lies ahead. With that, I'll turn the call over to our CFO, Patrick Fleury, to discuss our financial results in more detail.
+
+Patrick Fleury
+Thank you, Paul. The 3Q 2025 results reflect a strong contribution from our legacy Bitcoin mining operations and more importantly, the start of HPC Leasing segment revenues. On our 2Q 2025 earnings call, we discussed a series of capital markets initiatives in the second half of 2025. I'm proud to report that with the benefit of our new financial support from Google and help of our partners, including Morgan Stanley and Paul, Weiss, we've executed beyond our expectations, raising over $5.2 billion at incredibly attractive rates, creating durable equity value for our shareholders. Now let me turn to the results. In the third quarter of 2025, GAAP revenues increased 6% quarter-over-quarter to $50.6 million from $47.6 million in 2Q '25. We recognized $7.2 million of HPC lease revenue at WULF Den and CB-1 with intra-quarter lease commencement resulting in 22.5 megawatts of energized hosting capacity. Continuing with our long-term commitment to financial transparency, we've added a page in our investor presentation detailing lease accounting nuances, which we hope you find helpful.
+
+We self-mined 377 Bitcoin at Lake Mariner or approximately four Bitcoin per day, a 22% decrease compared to the 485 Bitcoin mined in 2Q '25. Our GAAP cost of revenue, exclusive of depreciation, decreased by 22%, $22.1 million in 2Q '25 to $17.1 million in 3Q '25. Power prices in Upstate New York normalized in 2Q '25 and continued to decline in 3Q '25 to $0.047 per kilowatt hour, in line with historical levels and our previous guidance of $0.05 per kilowatt hour for the second half of 2025. Proceeds from participation in demand response programs, which are recorded as a reduction in cost of revenue during the period in which the underlying program occurs, increased to $7.4 million in 3Q '25 from $3.1 million in 2Q '25. Operating expenses increased 28% quarter-over-quarter to $4.5 million in 3Q '25 from $3.5 million in 2Q '25. This trend higher throughout 2025 is primarily the result of increased staffing levels at Lake Mariner necessary to support our entry into HPC leasing. SG&A expense for 3Q '25 was $16.7 million, a 17% increase from $14.3 million in 2Q '25. After adjusting for stock-based compensation, SG&A increased quarter-over-quarter from $10.6 million in 2Q '25 to $12.3 million in 3Q '25.
+
+Depreciation increased quarter-over-quarter from $18.8 million in 2Q '25 to $26.5 million in 3Q '25. The company recorded accelerated depreciation expense of $7.8 million related to a certain minor building and related miners, of which the company shortened its useful life based on expected shutdown of operations for purposes of supporting the HPC operations. Change in fair value of contingent consideration was $8.8 million in 3Q '25 related to fair value remeasurement of contingent consideration liabilities based on milestones achieved during the quarter related to the acquisition of Beowulf E&D. Loss on disposals of property, plant and equipment net was $2 million in 3Q '25, down from $3.8 million in 2Q '25. These losses related to the sale of 8,900 and 2,900 miners, which were sold or otherwise disposed of for proceeds of $6.9 million and $1.9 million in 3Q '25 and 2Q '25, respectively. GAAP interest expense in 3Q '25 was $9.8 million compared to $4.0 million in 2Q '25, and we recognized interest income of $4.1 million in 3Q '25 compared to $1.2 million in 2Q '25. Cash interest paid during 3Q '25 was negligible compared to $7.1 million in 2Q '25 as the 2.75% interest on our $500 million convertible notes is accrued and payable in 2Q and 4Q of each year. Change in fair value of warrant and derivative liabilities in 3Q '25 was a loss of $424.6 million related to the Google warrants and the conversion feature of the 2031 convertible notes, which was originally accounted for separately as a derivative liability.
+
+Our GAAP net loss in 3Q '25 was $455 million compared to a net loss of $18.4 million in 2Q '25. Our non-GAAP adjusted EBITDA improved 25% quarter-over-quarter, totaling $18.1 million from $14.5 million in 2Q. As a reminder, these results are inclusive of significant increases in operating expenses and SG&A over the past 12 months as we invested heavily in our HPC business. These incremental costs have been entirely borne by our legacy mining business until now. Turning our attention to the balance sheet. As of September 30, we held $712.8 million in cash and restricted cash with total assets amounting to $2.5 billion and total liabilities of $2.2 billion. In October, we closed over $4.2 billion in capital markets transactions, including $3.2 billion of 7.75% BB-rated senior secured notes due 2030 and $1.025 billion of 0% convertible notes due 2032. As seen on Page 14 of our 3Q '25 investor presentation, with these financings complete and the La Lupa and Akela data center construction projects at Lake Mariner fully funded, our pro forma liquidity totals over $1 billion, which provides cash for three important initiatives
+
+
+Operator
+[Operator Instructions] Our first question comes from Mike Grondahl with Northland Securities.
+
+Mike Grondahl
+First question for Paul. Paul, it was noted that there's some key sites that you're close to closing on. Can you talk a little bit about those sites?
+
+Paul Prager
+No. Good question, Mike. There are at least two sites that we're very, very close to sorting out. We're going for some regional diversity where we think our customers are inclined to enter into long-term agreements. We've built out our team on the front end here to focus. We've looked at over 150 opportunities. I would not be surprised if by year-end, we announced at least one, possibly two additional sites.
+
+Mike Grondahl
+That's great. And then a question for Patrick. Patrick, I noticed in the slides you're breaking out segments now with BTC and HPC. And I also noticed on the HPC side, the margins look like they were about 72%. And I think in the past, you've talked about roughly 85% margins. Can you kind of reconcile that?
+
+Patrick Fleury
+Yes. Yes, sure. Thanks, Mike. Yes, I think you'll see when we file the Q, full detail on the segments, obviously, which we're really proud of given the start of HPC leasing revenue. But yes, if you -- the actual margin was about 72%. There -- in the operating expenses, there's about $700,000 of expense development expense at Cayuga. So if you back that out, you'll see that gets you to about an 82% margin for the quarter. So obviously, much closer to that 85%.
+
+And then the quarter is a little off just because we didn't have full revenue. It was a stub period for CB-1 in particular. So I think you'll see that normalize here very quickly in the fourth quarter to right around that 85% that we've guided to.
+
+Mike Grondahl
+Great. And congrats guys on all you've accomplished the last 90 days or so.
+
+Operator
+Our next question comes from Nick Giles with B. Riley Securities.
+
+Nick Giles
+Congrats on all the progress. Obviously, your agreements to date involve top-tier credits. Just was curious to hear how you're thinking about customer diversity from here. Is there a desire to expand the customer base? Appreciate any comments.
+
+Paul Prager
+Sure. As you know, we have two/other world-class credits as our customers, Core42 backed by G42 and then the Fluidstack Google deal and those that may be associated in that deal, if you've taken a look at the recognition agreements, you're aware of that. And so I could not be happier with the credit quality of our customers, which is the critical element here and something Patrick pounds the table on because, obviously, we want to be able to get ideal credit terms for our transactions and the result in financing. So the answer is I would expect we'll continue to grow with the customers that we have. And certainly, we're continuing to have dialogue with a couple of others. But again, the key for us is credit quality. And so it's a little bit of a smaller universe as we move forward. But yes, the sites that we have and the sites that we are anticipating bringing home, all would be very compelling to a great quality credit in addition to, of course, the ones that we already currently have on the books.
+
+
+Nick Giles
+Thanks, Paul. That's helpful. My next question was just on the JV. Can you just talk about how that opportunity came about? And then just to clarify, should we consider these type of deals as part of your new updated kind of megawatt per annum guidance? And should we think about that on an attributable basis? Just appreciate any clarity there.
+
+Paul Prager
+I'll start, maybe Naz or Patrick can take it from there. We have built a great working relationship with the Fluidstack Google team. And if you think about it, there's no sort of reference models for what we're building. These are design build opportunities so that the teams -- listen, you're either going to succeed because you work together or it's going to be a disaster. So we like succeeding. So we work hard with the Fluidstack Google teams. They're on site. We meet constantly.
+
+I would tell you that they're part of our team now as we look to how we want to consider financing Abernathy. So it is in the course of that dialogue that they indicated that they had the site, they had the credit quality and that they were thinking about using an EPC, but that they recognized given our experience in energy infrastructure and financing energy infrastructure that it would be additive to the endeavor. And so everybody decided this made a lot of sense. Our primary strategy as we move ahead is to continue to do what we've done, which is have great sites and look for the right customer. But certainly, we're delighted to partner again with Fluidstack Google. And like I tell everybody, when Google says, "Hey, we'd like you to come into this project with us, you say, yes. You find a way to say yes, so that it makes sense for them and that it is a rewarding experience as well for your shareholders. That's what we did here in Abernathy.
+
+And I -- in the Abernathy deal, there's room to grow at Abernathy itself. But separately, as you are aware, we have a going-forward relationship on the next project of similar credit quality. So yes, that will be a project that we continue to evolve into, but our primary focus is additional sites and additional high-quality credit customers for those sites. I think Naz or Patrick, you may want to respond to how do we think about it from a financial perspective?
+
+Patrick Fleury
+Yes. Nick, it's Patrick. I don't really have much to add. I think as I said in my prepared remarks, we intend to finance this, be in the market, financing it before year-end, and it's substantially similar to the deal that we just printed at WULF Compute.
+
+Nick Giles
+Got it. And just to clarify, we should think about this on an attributable basis. If we see another one of these announced and we're trying to pair that against your 250 to 500, it would make sense to look at it that way.
+
+Patrick Fleury
+Yes, we own 51% of the JV. So, yes.
+
+Nick Giles
+Again congrats on the transformational quarter. Keep it up.
+
+Operator
+Our next question comes from Dillon Heslin with ROTH Capital Partners.
+
+Dillon Heslin
+Just a follow-up on sort of how you're talking about your power strategy. The non-JV sites you're looking at, are you procuring those sort of in absolute for marketing? Or do you already have customers in mind that you could basically go to right away?
+
+Paul Prager
+So we have an active dialogue with our customer base. And this is a very competitive market. So we sort of -- we're constantly discussing with them what their needs are, what it is they're seeking at the same time that we're trying to complete our diligence and negotiation over some additional sites. If you remember, we've just got one quarter of a century in energy infrastructure development and operation. It's been very helpful in identifying sites that we think will be in the next wave of data center development for these hyperscalers and high-quality credits. I think in the case of Abernathy in the Fluidstack Google relationship, I think as we look at sites with them, we're obligated, obviously, to work with the customer. In the case of TeraWulf identifying and determining that another site makes a lot of sense for us. We're going to want to make sure that it's a competitive process that we end up with a great quality credit, but that we also get rewarded for the unique and wonderful qualities of that site and that we get the most return we can for the shareholders.
+
+So it's a little bit of both.
+
+Dillon Heslin
+Great. And as a follow-up, how are you guys seeing the market in terms of build costs of -- like the sites you've been building so far have been at existing sites where you've had redundant power and then the Fluidstack Abernathy site, you're not building a substation, so the CapEx per megawatt is a little bit cheaper. And then you're talking about you've got long lead items procured for -- through CB-5. But how do you see sort of the market in general maybe beyond Lake Mariner?
+
+Paul Prager
+Naz?
+
+Nazar Khan
+Dillon, this is Nazar. Generally, what we try to do is be able to deliver capacity or the bulk of the capacity within 12 months of signing the customer. And so that often requires engaging with folks kind of on the electrical gear and the coolers and chillers in advance of that. And we've developed relationships with a number of different vendors where we have a rolling 12-month projected schedule with them, which gives us positions in queues. And then we can -- depending upon which -- how many megawatts of capacity we sign up, then we take those down. So we've tried to be ahead in being able to procure the equipment, which allows certainty to our customer when we engage with them on discussions. So that's been going well. And given the capacity that we've signed up and procured, we've been good partners for the vendors and vendors have been good partners for us as well on that equipment procurement side.
+
+So that's generally how we're approaching things. And as we look forward, I think the forecast and guidance we provided for that $250 million to $500 million, that general procurement strategy covers that capacity as well.
+
+Operator
+Our next question comes from Chris Brendler with Rosenblatt.
+
+Christopher Brendler
+Thanks and also congratulations, amazing amount of progress and looking forward to more. I wanted to ask on the -- actually a Bitcoin question. I noticed the operating hash rate was sort of 70%, I guess, of the nameplate hash rate this quarter and expect it to go down even further next quarter. Can you just give us a little color on what's going on there?
+
+Patrick Fleury
+Yes. Chris, it's Patrick. So we're running our sites for our HPC clients now. And as we get closer to bringing all of Core42's capacity online, there are some things electrically that we have to do at the site. So you noticed in my remarks, I talked about accelerated depreciation on one of our minor buildings of $7.8 million this quarter and sales of miners. So as we sort of reposition the site, particularly for two lines of power and redundancy for the HPC buildings, we're making some changes on the Bitcoin mining side. And that's reflected in those numbers. It's a combination of kind of calling our fleet to be more efficient.
+
+And then again, just operating the site really for HPC. So you'll see -- I mean, obviously, site is still very profitable. We had a great quarter from a Bitcoin mining perspective. But I think going forward, that's our approach. Hence, the sales of miners, calling the fleet and then the accelerated depreciation on the minor building.
+
+Christopher Brendler
+Makes sense. And I guess from that comment, it sounds like that continues in 2026.
+
+Patrick Fleury
+Yes, I think so. I think like we said we kind of gave you some guidance in the deck for what we thought we'd have here in the fourth quarter. And then, look, I think beyond that depends on market conditions. But yes, I think our intent is to keep mining Bitcoin through certainly the end of 2026 and then dependent upon when the next 250 megawatts that we've requested from the New York ISO comes, I think we could -- you could see us operate beyond there until the next halving. But again, I think that will be a function of additional megawatts at the site as well as just Bitcoin profitability itself.
+
+Christopher Brendler
+Excellent. Great. Speaking of additional megawatts, I like the slide that broke out how you think about the pipeline on the power side on Slide 8 and some great details there and helpful to think about where that comes together. The gigawatt plus of development pipeline, is that in the Phase 4 or the Phase 2? I wasn't quite clear where that comment on the following page fits relative to Slide 8 on the phases.
+
+Patrick Fleury
+I think, Chris, that's really just going to Paul's comments, which, again, when you think about our funnel, which is really what Page 8 is meant to kind of show you, just the amount of time and effort that goes into cultivating that pipeline. And again, I think unlike some of our peers, we're not telling you a fictitious pipeline of thousands of megawatts all in the same region. We're telling you about stuff when it's literally imminent and ready to go. So I think as Paul mentioned, we're getting very close on a handful of sites that hit on Page 9, the development pipeline of a gigawatt.
+
+Operator
+Our next question comes from Stephen Glagola with Jones.
+
+Stephen Glagola
+On the raised AI capacity growth targets to 250 to 500 megawatts net annually, are there any structural or operational constraints, like whether, I guess, like EPC capacity, financing availability or like internal bandwidth that could just limit the number of projects you can execute simultaneously?
+
+Paul Prager
+This is Paul. I'll start. The answer is yes. I mean, I think we've always tried to emphasize here a focus on our ability to execute. And I think that we're more than capable of meeting that goal of 250 to 500 megs. But it takes a lot of time to really get to the bottom of these sites. it's a very competitive market. You need to sort of look near and far afield.
+
+You have to make determinations on site suitability for the customer, but also what's power like at the node, what are the environmental and regulatory considerations. It's just a lot. So we're very confident we could do what we now say, which is an increase from where we're at. I'm not terribly worried about the EPC side. I feel pretty good about that and procurement capability and supply lines aren't what they were. I feel very good about that. I think that the key is going to be our ability to meet schedule and price. That's what the Street is looking for.
+
+That's what our customer wants. That's what we promised to our shareholders. So I'm very comfortable at 250 to 500. And as we grow, listen, we're building, as Patrick used to say, serial model # 6. As we get down to 10 or 11 and we find more efficacious ways to do this and needer ways to scale, then we could grow from there. But I think 250 to 500 is the right way to think about us for the coming year.
+
+Stephen Glagola
+And if I can just ask one more. Are you seeing any meaningful demand from tenants for the AI capacity with ready for service dates beyond 12 months? And how is that shaping your pipeline site acquisition priorities?
+
+Paul Prager
+Yes. Yes. Demand is real, and it's a constant. And I think that -- listen, I think there was a site out in Ohio the other day. They got a letter from AEP saying they were in the queue and they were in the queue for '26. And now you should probably not think about that power in '26, but you should think about it for like '29 and '30. And that is a way of saying that you've got to pick your sites really carefully. You have to understand what the grid is capable of.
+
+Are you in an area where the whole grid is only X and the demand is 3x that. So it goes to the notion that you've got to have a very good handle where you cite these things. But that then -- when you go back to the customer and you say, hey, how do you want to think about it if you want to be in this region, you're okay moving from '26 to '27. The answer has been yes, universally. The answer from '27 to '28 is yes. I don't think you get the power problem solved by then. You've got hyperscalers now looking at island generation, which means they're going to bring their own power to the table, and that's at least four to five years away. If you look at the deal that was signed with NextEra for bringing back the nuc, they looked at a 30-year transaction, which doesn't come online until '29, and I don't think there's any way that nuc is back online in '29.
+
+So the demand, I think, is just increasing. And it took a little while to get here. I think everyone was waiting to see who was going to make that first move. But now that we hear, the demand from the hyperscalers and the cloud companies is very, very significant.
+
+Operator
+Our next question comes from Justin Pan with Clear Street.
+
+Justin Pan
+This is Justin on for Brian. Obviously, the increase in incremental HPC guidance underscores a lot of optimism in demand over the next two to three years. You guys have had a great couple of months. Some of your peers have had a great couple of months. But could you dig in a little bit deeper into what gives you the confidence in the heightened demand outlook over the medium term? It seems like a pretty interesting dichotomy in the market at the moment, right? We're seeing some talk over AI valuation frothiness. But at the same time, there's been a ton of material success momentum in your space.
+
+So...
+
+Paul Prager
+I'm happy to start, maybe you could follow up. But as I just said, we're looking -- we've been asked by customers to look at opportunities where we have to bring our own generation to the table. And you have to assume that if you're bringing your own generation to the table, you're at least four years out. And so when you have those kinds of questions coming in from world-class credits, that just speaks to just massive amounts of demand. I think the shortfall in energy is real. It's greater than I think originally forecast and the demand for energy by users like these high load data centers is more significant than was originally forecast. So we we've been getting calls since -- certainly since May, and they haven't abated. Every time we come up with a site, we have at least 5 phone calls that we could go to ask, would this kind of be something that is of interest to you.
+
+So I think if you just look at the hyperscalers and two or three of the big leading cloud players, they're being very, very aggressive in how they're looking at further locations and sites. And again, a lot of these sites wouldn't have any availability for electrification for two, three years out. So I don't know what to say other than to tell you the phones ringing, they show massive demand. And -- we don't see that abating anytime in the near future.
+
+Operator
+Our next question comes from John Todaro with Needham & Co.
+
+John Todaro
+First one here, as we kind of move from a phase of signing some of these leases to executing on them, can you just give us kind of any color as it relates to penalties if you missed time line of delivery and then just kind of frame up your confidence in hitting delivery dates? And then I have a follow-up question.
+
+Patrick Fleury
+Yes, this is Patrick. Sorry, Nazar, go ahead?
+
+Nazar Khan
+No, go ahead, Patrick.
+
+Patrick Fleury
+Yes. So, John, just with regard to penalties, I'm not going to tell you the specific ones because that's confidential to the lease. But I would tell you, given the accelerated build time lines and all the work we've done with our customers here, there are pretty significant grace periods. So the leases cannot be terminated until we're over 180 days late. Obviously, as Paul said, we're meeting weekly, daily, monthly, like both in person and via teleconference with our customers. So there's no surprises. So folks are well aware of budgets, time lines, et cetera. In general, we have very minimal penalties for the first 30 to 90 days.
+
+Generally, there's a penalty for the 30 days, then there's another one for 60, another one for 90, and then the penalties start to accelerate from day 90 to 180. But those are relatively de minimis for us through 90 days and then scaled from 90 to 180.
+
+John Todaro
+Great. That's super helpful. And then second question, if we do just take a step back, I guess, how are you guys able to add more of the power pipeline? Like some of the stuff was procured pretty quickly like Abernathy. I would just have to think major hyperscalers, Neo cloud, maybe private equity, everyone is competing now. Just, I guess, give us -- frame it up a little bit more for how you guys are able to win that.
+
+Paul Prager
+Yes. I'm not sure I understand the question. I mean -- Abernathy didn't -- I wouldn't look at that as came on real quickly. I would -- again, we've had a long-term relationship now with Google and Fluidstack. And so we are aware of the strategy here, and they decided that bringing us alongside would be additive to the overall effort. But I'm not sure I understand the balance of your question.
+
+John Todaro
+I guess just the main crux of it is if we take a step back and there's such a power constrained environment, one of the biggest questions we get from investors is just how these guys are able to continue to procure capacity like that 250 to 500 megawatts you talked about when we are in still a constrained environment, and there's just likely so many bidders for these assets.
+
+Paul Prager
+Yes. I think the answer is -- so some of them are looking at island generation where they bring their own power. Some of them are looking at high electrification sites that had former industrial uses and they're looking at repositioning them into data centers. And some of them are talking to utilities about figuring out if there's a way that they could work out a deal like the NextEra transaction. I think they're following multiple strategies to get to the answer of they have long-term demand, and it's near term in terms of its immediate urgency, but they're looking at the 25- and 30-year deals. If you take a look at the Abernathy deal, it's 25 years. So I'm -- I can't tell you or opine to what the long-term answer is other than United States needs to build more generation. But I think everyone's figured that one out.
+
+The question is, are there sites that one can discover in the right regulatory frame set and from an environmental perspective, not too injurious to a customer that could enable a high-quality credit to come along and be a customer. And I think the answer is yes, but you got to know where to look. I guess I should emphasize TeraWulf where to look, which is why I think prior to year-end, we'll be bringing on at least one, maybe two other sites.
+
+Operator
+Our next question comes from Tim Horan with Oppenheimer.
+
+Timothy Horan
+Was there a specific trigger that caused you to kind of basically guide to more than doubling your incremental capacity per year or your customers? I mean it seems like demand is much stronger than maybe you were thinking about we were six, nine months ago. Yes, anything that really drove that?
+
+Paul Prager
+Is that you Naz?
+
+Nazar Khan
+Maybe I can start, Paul, you can jump in. Yes, I think there's a few things, right? So one is if you go back a year ago, we hadn't gone through the full cycle, right? As we have laid out in the deck, there's not just the site, there's not the design, there's the engineering, there's a financing and then there's a construction. So we've been through that full cycle now. And so sitting 18 months ago, looking forward, there was pieces of that process that we had not completed. Pending this quarter, through this quarter, we've completed all of those cycles. And so now we have a much better nuanced understanding of what's required for each one of those phases, what we can get done.
+
+There was a question earlier on capacity. So all of that is factored into that 250 to 500-megawatt forecast, which, again, 1.5 years ago, we didn't have that visibility. So I think that is a reflection both of our capacity capability to get each of those phases done as well as the size of the demand that's coming from the customers.
+
+Paul Prager
+Yes. I would just want to add two more things. One is, obviously, after we had 42 online, that enabled us to sort of do show and tell to other customers. So I think the level of credible incomings to us just -- it was multiples of what it was prior to that. Secondly, Patrick, who was the architect of our financing strategy from day one, we didn't want to sort of have an arrangement where our customer was also financing our CapEx. He wanted to go about it in the way which we have, which was to say we would do it, and we would require credit support to enable good financing. In our case, Patrick has been able to get absolutely great financing. So once we went through that, that also opened up the doors to our ability to sort of get the capital we needed to build these things out and also showed customers, hey, this is how we do this.
+
+And Patrick led the way. I mean everyone's followed suit since then, but we were the first through that door and it was on the back of Patrick's original vision for that. So, I think, both what Nazar and Patrick sort of were prescient in thinking about once we were able to execute on both those visions, I think that just led to increased demand that we -- you're correct, we hadn't quite anticipated.
+
+Timothy Horan
+And just two quick questions. Abernathy, do you have a sense how much equity you're going to have to put up to finish that project? And are we talking like $8 million per megawatt for the build-out? And then Lake Mariner, can you talk about what items or item is on the critical path on the construction schedule, please?
+
+Patrick Fleury
+Yes, I'll answer the first question. So, on Abernathy, we've given you guidance of $8 million to $10 million per critical megawatt. If you do that quick math and again, take the wide end of the range, it's roughly $1.7 billion, and there's a $1.3 billion Google backstop. So, again, you can kind of do that quick math. And I would, again, just say stay tuned. We're kind of sorting out the details with Morgan Stanley and our partners right now, and we'll be in the market as soon as we can be.
+
+Timothy Horan
+And then the construction item critical path.
+
+Patrick Fleury
+Nazar, do you want to take that?
+
+Nazar Khan
+Sure. On the second question on critical path, there are -- from an equipment perspective, we are on schedule or ahead of schedule for all of the long lead time pieces. So those -- mostly on site, CB-4 and CB-5 are on schedule for construction. We are currently ramping up labor at the site. We're going to peak probably sometime in the month of March. And so ramping that labor up is probably the near term, the biggest item that we're focused on. And so that's, again, we've got a number of different things ongoing to accomplish that, but that's the big driver, I think, over the next couple of months is getting that ramp up as CB-4 and CB-5 get through civil and get into kind of full swing on mechanical and electrical.
+
+Operator
+We have reached the end of our question-and-answer session. I would now like to turn the floor back over to Paul Prager for closing comments.
+
+Paul Prager
+Listen, everybody. I really appreciate you joining us today. I think if there's one takeaway from the quarter is that TeraWulf is executing. We're methodical, we're consistent, and we're doing this at scale. We are building a differentiated platform at the very intersection of AI, power and infrastructure, supported by long-term contracts, strong partners and a proven ability to deliver. I'm convinced we have the right strategy, the right team and the right assets to continue this momentum well into '26 and beyond. My focus and our focus remains disciplined execution, thoughtful expansion and creating sustainable long-term value for both our shareholders and partners. I want to thank you for your continued support and confidence in TeraWulf.
+
+Thank you again.
+
+Operator
+This concludes today's call. You may now disconnect your lines.

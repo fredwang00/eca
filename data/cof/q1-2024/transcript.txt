@@ -1,0 +1,188 @@
+April 24th, 2024
+Operator
+Good day, and thank you for standing by. Welcome to the Capital One Q1 2024 Earnings Call. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Jeff Norris, Senior Vice President of Finance. Please go ahead.
+
+Jeff Norris
+Thanks very much, Josh, and welcome to everyone. We are webcasting live over the internet this evening. To access the call on the internet, please log on to Capital One's website at capitalone.com and follow the links from there. In addition to the press release and financials, we have included a presentation summarizing our first quarter 2024 results.
+
+Andrew Young
+Thanks, Jeff, and good afternoon, everyone. I will start on Slide 3 of tonight's presentation. In the first quarter, Capital One earned $1.3 billion or $3.13 per diluted common share. Included in the results for the quarter was a $42 million additional accrual for our updated estimate of the FDIC special assessment.
+
+Richard Fairbank
+Thanks, Andrew, and good evening, everyone. Slide 10 shows first quarter results in our Credit Card business. Credit Card segment results are largely a function of our Domestic Card results and trends, which are shown on Slide 11. Top line growth trends in the Domestic Card business remained strong in the first quarter. Year-over-year purchase volume growth for the first quarter was 6%.
+
+Jeff Norris
+Thank you, Rich. We'll now start Q&A session there. [Operator Instructions]
+
+Operator
+[Operator Instructions] Our first question comes from Ryan Nash with Goldman Sachs.
+
+Ryan Nash
+So Rich, maybe just start off on credit. It sounds like you're running a little bit ahead of what you had outlined in the last quarter. But when you put aside the time the tax refund, maybe just talk about what you're seeing from the consumer? And do you think we've now reached the inflection where we can more closely follow seasonal patterns? And once the noise settles, do you think we're kind of back at that 15% level that you had outlined?
+
+Richard Fairbank
+Thank you, Ryan. Look, I think that the story continues to be one of -- well, in terms of -- there's sort of the consumer itself. Let's just talk about the consumer for a second and then let's talk about Capital One's credit performance but just the health of the consumer. I think the U.S. consumer remains a source of strength in the economy. The labor market remains strikingly resilient. Rising incomes have kept consumer debt servicing burdens relatively low by historical standards. And when we look at our customers, we see that they have higher bank balances than before the pandemic, and this is true across income levels.
+
+
+Ryan Nash
+Got it. Maybe as my quick follow-up for Andrew. I guess, given Rich's answer, what does that mean for the trajectory of the allowance? It seems like we've heard a handful of other issuers talk about us being at the peak or maybe even coming down and potentially being below where it ended the prior year. Can you maybe just talk about what you think this means for Capital One, given your credit expectations?
+
+Andrew Young
+Yes. Sure, Ryan. I'd like to say from my perspective that there's a simple answer but there's not. And then there's a host of things that are going to drive allowance from here, not the least of which is growth, but just focusing on coverage and assuming that's what others are pointing to. The first thing I'd highlight and I said in my talking points that fourth quarter had seasonal balances, they quickly pay off in the first quarter and therefore, have negligible coverage, which we see every year.
+
+Jeff Norris
+Next question, please.
+
+Operator
+Our next question comes from Mihir Bhatia with Bank of America.
+
+Mihir Bhatia
+Rich, if I could switch for a second to the Discover acquisition. There's been a lot of talk around deal approval, particularly focusing around potential antitrust issues within the Card business. And I was wondering if you could share your thoughts and perspective on that issue if you've heard anything from regulators but also just to hear how you are thinking about that issue?
+
+Richard Fairbank
+Okay. Thank you, Mihir. So we have filed our merger applications with both the Fed and the OCC and we are engaged with the -- sorry, with the DOJ as they, of course, play a key role in advising the Fed and the OCC on competition questions. We believe our applications make a very compelling case for approval. We believe strongly that this merger will increase competition among banks and credit card issuers and payment networks, and provide significant benefits for consumers, merchants and the communities that we serve. While some have raised concerns about competition, we believe that the facts in favor of the deal will be compelling.
+
+Mihir Bhatia
+Got it. That is helpful. Just turning back to the health of the consumer for a second for my follow-up. If you could just talk a little bit about the environment for card acquisitions, you did mention, I think, that the growth you see good growth opportunities in the card business. So wondering if you can expand on that. Maybe talk about just some of the puts and takes as you consider where to make those investments? Are there parts of the market where you're being more cautious given the environment?
+
+
+Richard Fairbank
+Mihir, we are leaning in pretty much across the board in the card business, powered by a healthy consumer and the traction that we're getting in our business, we are really all parts of the card business are seeing very nice account originations, seeing good traction on the purchase volume side. And -- so it's very much a positive time for leaning in, as you see reflected in our marketing, as you see reflected in some of the growth numbers, and as I see in numbers behind the numbers that you see, just a lot of traction. And just -- let's just savor for a second, some of the things that are powering that are 2 things that I would flag is
+
+Jeff Norris
+Next question, please.
+
+Operator
+Our next question comes from Rick Shane with JPMorgan.
+
+Richard Shane
+Rich, I want to make sure I fully understand what you're describing in terms of credit. The framework is that charge-off rates will be about 15% higher than '18, '19 levels in the near term. But now with tax refunds, it might be a little bit higher than that, that over time, it will converge back towards slightly above '18, '19 levels. When I look at the delinquencies. And 1 of the things we've observed is that role from delinquency to charge-off is actually higher than it has been pretty much at any time in recent history. Does that suggest that delinquencies actually need to get back below '18, '19 levels to achieve that level of charge-off performance?
+
+Richard Fairbank
+So Rick, there's a lot. First of all, let me clarify some of the things that you were saying weren't exactly I think as we intended to state them. So let me just -- so we talked about -- so yes, we talked about credit. We're saying credit settling out. We said in the very near term, where charge-offs are tend to be higher in the first half of the year. In the near term, based on extrapolation from delinquency buckets and roll rates we would expect them to settle out at 15% higher than pre-pandemic. That was a near-term forecast. That was not an annual forecast.
+
+And then you -- just to clarify your comments that, and over time, it will converge back to slightly above 2018 and 2019. I just want to say those are your words, not ours. We have not given guidance on full year charge-offs. We tend not generally to give guidance on full year charge-offs. But we very much like to give you the feel of how things are going.
+
+Jeff Norris
+Next question, please.
+
+Operator
+Our next question comes from John Pancari with Evercore ISI.
+
+John Pancari
+I guess back to the Discover combination, any update to your thoughts around the timing of the deal close? I know the Fed, the OCC just extended the comment period. And I know you put out there, you expect late '24, early '25. So any change in terms of your expectation around the timing of the close or any of the key financial metrics that you set out?
+
+Richard Fairbank
+Okay. Thanks, John. So let me comment on the Federal Reserve and the OCC extending the comment period. It's standard practice for the Federal Reserve to extend the comment period on bank mergers. We expected the extension and we don't take any signaling on our deal from the Fed's decision here. So with respect to the overall timing, the Fed and the OCC typically take several months to work through bank merger applications in consultation with the DOJ on competition questions and they engage frequently with our team along the way. And of course, that process is underway. And we continue to have the same views about the timing of all of this that we did at the time of the announcement.
+
+
+John Pancari
+Okay. Okay. Great. And then separately, just regarding the -- your expectation on the CET1 front for a pro forma CET1 ratio of about just shy of 14%. Any change to that expectation? And any change to your thoughts around buyback activity in the near term? Could you remain active on that front?
+
+
+Andrew Young
+Yes, John, with respect to the deal, I'll just say, as we talked about when we announced it, we, at the time, used a blend of consensus estimates of where we would have the CET1 at the time of close. There's a number of variables that are going to move between now and in legal day 1, not just the stand-alone performance of each of our companies but balance sheet marks, some of which are driven by credit and stock price. And so I'm not going to be in the business of sort of recasting every time a little number moves. But I will say our valuation of the deal considered a wide range of outcomes. And so we remain just as excited today about the financial and strategic benefits of the transaction as we did when we announced the deal.
+
+Jeff Norris
+Next question please.
+
+Operator
+Our next question comes from Moshe Orenbuch with TD Cowen.
+
+Moshe Orenbuch
+Rich, putting aside the tax refund thing, I mean, yours -- we're sitting here looking you've still got what has been a somewhat persistently high inflation environment and the potential for increases in unemployment, given the nature of your portfolio, you've got kind of a lower end consumer and higher-end consumer. How do you think about that, those factors in terms of thinking about what type of charge-off level you're going to reach over some period of time, not a particular point in time, but over some point in the next year or 2, like where you think about that -- they driving a higher level of charge-off expectations? Or how should we think about that?
+
+Richard Fairbank
+Moshe, so our -- I think what you're partly getting at is because we have -- part of our portfolio is subprime consumers, how do we feel about how they're performing and sort of in the context of an environment of higher inflation and so on. Let me just comment a little bit about the subprime consumer. In the global financial crisis, we observed that credit metrics in subprime moved earlier in both directions, subprime -- we saw that, but then we saw sort of everything move proportionately, in fact, subprime moved frankly, somewhat less proportionately than prime as a multiple, but obviously, all portfolios worsened quite a bit during the global financial crisis in the pandemic, subprime credit improved more and more quickly than prime but it also began to normalize more quickly, too. And of course, that's in the context of lower income consumers seeing disproportionate benefits of government aid and then unwinding that over time.
+
+Moshe Orenbuch
+Got it. And maybe just as a follow-up question. You alluded to or Andrew alluded to the fact that you expect that late fee -- you can still kind of achieve your objectives from a efficiency ratio even with the late fee coming into effect. But could you talk a little bit about your thoughts about any mitigating efforts that you're planning or in the process of doing? Or is it something that you're going to try and use from a competitive standpoint to take share? How do you think about it?
+
+Richard Fairbank
+Okay. Thanks, Moshe. So let's just pull up and reflect on the fact that the CFPB's rule on late fees is scheduled to take effect on May 14. We are prepared to implement the rule on this time line, if necessary, but ongoing litigation efforts continue to create uncertainty on the ultimate outcome and the timing of the rule. As we've said before, when the rule is implemented, there will be significant impact to our P&L. We expect that this impact will gradually resolve itself within a couple of years from the implementation of our mitigating actions. These mitigating actions include changes to our policies, products and investment choices. Some of these mitigating actions have already been implemented and are underway.
+
+We are planning on additional actions once we learn more about where the litigation settles out. Ultimately, these mitigating actions will play through different line items in the P&L and will mitigate the impact of the late fee rule on our P&L within a couple of years of their implementation.
+
+Jeff Norris
+Next question, please.
+
+Operator
+Our next question comes from Don Fandetti with Wells Fargo.
+
+Donald Fandetti
+Yes. Rich, can you provide your latest thoughts on auto lending? I know a lot of focus has been around cards, but -- and used car prices have been a little bit lighter recently as well as the tax issue. Maybe talk a bit about a potential pivot there.
+
+Richard Fairbank
+Yes. So we're feeling very good about the Auto business. So let's just pull way up. Auto industry margins have recovered somewhat over the past few quarters. Our origination volumes in Q1 were up 20% on a year-over-year basis and a quarter-over-quarter basis, and we're pleased with that growth. Now there are still headwinds to the auto business. Affordability remains a concern due to the combined effects of high interest rates and still high car prices. And even as car prices have normalized significantly from their peaks, they haven't yet reached a new equilibrium.
+
+
+Jeff Norris
+Next question, please.
+
+Operator
+Our next question comes from Sanjay Sakhrani with KBW.
+
+Sanjay Sakhrani
+Rich, I think your point on tax refund is clearly a very valid one. Interestingly, though, to your point on the second derivative, that's improved quite nicely even into March. And I think when I look at the tax refund stats now from the IRS, it seems like you've seen a catch-up in refunds and it seems like the average refund numbers have kind of come in line with last year, if not slightly higher. So I think those are improving, too. Is there a lag effect there? So like should we see that more pronounced if that's the case in April and May? How has been in the past?
+
+
+Richard Fairbank
+Yes. So I can see that you're a student of tax refunds. Just think of all the areas of expertise that you've developed over the years trying to really get your head around this credit card business, things that neither you nor I thought we would really have to learn. Let me make a couple of comments here. So a key question is what are we benchmarking things too. So relative to -- if we talk about relative to last year, the things were even lagging relative to last year, and they've actually crossed over very, very recently crossed over the curve from last year, which I think you're referring to. But then last year really was somewhat of an outlier relative to pre-pandemic.
+
+Sanjay Sakhrani
+Understood. Understood. The second derivative looked good nonetheless for March.
+
+Richard Fairbank
+Right. So look, can I just -- I want to just seize that point. The second derivative continues to be strong. In fact, when you look at sort of all the card players, you can see the strength of Capital One's second derivative. There's another topic, so you didn't know when you were studying all that calculus that this would be at the heart of what you do. But -- so there's lots of good to pull from this. I just wanted to just clarify the tax refund effect, which I think has a little bit more impact on Capital One than certain other players and to point out that we actually think we see that effect in both of our consumer businesses.
+
+
+Sanjay Sakhrani
+Great. Just one follow-up for Andrew. Just on the capital return question earlier. Can we step up the run rate relative to some of the last quarters as we look ahead? I know there's been a lot of volatility on some of the regulatory proposals on capital. But as we look ahead, I know there's no limitations but can we see a step up in the level of capital return relative to the past few quarters as we look ahead, given your capital levels today?
+
+Andrew Young
+Well, there's 2 parts to that, Sanjay. The first is, given the transaction, we are in the process of submitting a new capital plan. So that's just a procedural piece. So once that new capital plan is approved, then we have unlimited capacity relative to the SCB in this intervening period, the amount that we repurchase is constrained to what we've requested.
+
+Jeff Norris
+Next question, please.
+
+Operator
+Our next question comes from Bill Carcache with Wolfe Research.
+
+Bill Carcache
+Rich and Andrew, following up on your comments on Auto, how much of an advantage is your excess capital position? Are you seeing competitors who are capital constrained and perhaps can't take advantage of the attractive market conditions to the same degree? And then I'll just ask my follow-up now. As Capital One continues to grow, could you speak to your category 2 preparedness?
+
+Andrew Young
+Yes, I'll start, Bill, with the -- Rich, do you want to do the...
+
+Richard Fairbank
+Competitive dynamics in auto. Here my observation about the auto business is that it's still a very competitive marketplace. But when we see our opportunities to grow, we tend to zig a little bit while others zag. And so we sort of pulled back for a little while and others leaned in. And my point is really now I think we're leaning in and others are pulling back a little bit more. I hadn't really sort of analyzed it in terms of really capital choices really as much as just the very natural rhythms of the marketplace and some of the advantages that Capital One has by virtue of our choices that we made over the last couple of years. But we'll have to think about that. But I just think this is just very much sort of as you've seen numerous times in the past where there's a little bit of an inflection point for Capital One at a time that's a little different and occasionally in a different direction than the inflection points of others.
+
+
+Andrew Young
+And then, Bill, with respect to category 2. Well, first, let me just note, we're going to be below the $700 billion threshold at closing and the trigger is really a 4-quarter average beyond that. So I just wanted to mention the specifics of what is going to trigger it. But within category 2 to category 3, there's really 3 big distinctions. The first one is losing the tailoring benefit for LCR and NSFR, and you can see based on the ratios that we hold there and our conservatism around liquidity. We feel very well prepared. The other 2, which are the inclusion of AOCI in regulatory capital and the DTA threshold going from 25 to 10. Those are both already included at least in what was proposed for the Basel III end game rules.
+
+We all know that those proposals are being debated and refined. But ultimately, we're looking at those 2 implications as part of the proposal anyway.
+
+Jeff Norris
+Next question, please.
+
+Operator
+And our final question comes from Jeff Adelson with Morgan Stanley.
+
+Jeffrey Adelson
+Rich, I just wanted to circle back on your comment about how you continue to kind of trim around the edges. I think last quarter, you were suggesting that the trimming was sort of abating after a number of years of trimming. But given your comments today about how you're continuing to lean in, how the U.S. consumer remains a strength of source, how are you thinking about potentially opening up the credit box a little bit more from here? And relatedly, does the pending deal with Discover factor into how you're thinking about allocating capital at all into more growth at this point?
+
+Richard Fairbank
+Thanks, Jeff. We -- the trimming around the edges is, of course, what we do all the time and reactively to not only what we observe in the marketplace but what we think may be coming in the marketplace. We are very much sort of in the same place we were three months ago when we've been talking about this. In other words, the trimming around the edges and the dialing back was a little bit more pronounced in the quarters during the big credit normalization than it has been as we see things settling out. And the drivers of that continue to be -- probably -- in addition to what I said about the consumer, very much also the -- observing our credit performance, not only just the overall portfolio performance but very much the performance of our originations.
+
+Jeffrey Adelson
+And I also wanted to just ask really quickly about the small business car strategy. I know you recently just launched that new Venture X business card recently. It seems like a really unique value proposition with the charge card component. Can you just talk a little bit more about the opportunity to drive growth there and maybe how that's going so far? Any early reason to the type of customers you're getting?
+
+Richard Fairbank
+Okay. Yes, Jeff. So we launched the Venture X business card, broadly in the third quarter of last year, and we're pleased with the market response and the customer engagement so far. So Venture X business, much like our Spark cash plus card was developed to help business owners run and invest in their business with no preset spending limit, great travel benefits and elevated earn everywhere. And it's a great example of our business is leveraging each other's innovations because we've taken many of the industry-leading travel features of our consumer Venture X product and combine them with the business-grade capabilities of our small business offerings, including the flexible spending capacity that is designed for larger businesses.
+
+Jeff Norris
+Thanks, Rich and Andrew. Thanks, everybody, for joining us this evening and for your continuing interest in Capital One. Have a great evening.
+
+Operator
+Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect.
