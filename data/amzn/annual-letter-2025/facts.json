@@ -1,0 +1,85 @@
+{
+  "ticker": "AMZN",
+  "period": "Annual Letter FY2025",
+  "company": "Amazon.com, Inc.",
+  "document_type": "shareholder_letter",
+  "candor": {
+    "analyzed_at": "2026-04-10",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.65,
+    "composite_grade": "A",
+    "notes": "Shareholder letter only — no Q&A; grade is a ceiling, not a floor. Verify against Q1/Q2 2026 earnings calls."
+  },
+  "metrics": {
+    "source": "shareholder_letter",
+    "revenue_b": 717,
+    "revenue_growth_pct": 12,
+    "north_america_revenue_b": 426,
+    "north_america_growth_pct": 10,
+    "international_revenue_b": 162,
+    "international_growth_pct": 13,
+    "aws_revenue_b": 129,
+    "aws_growth_pct": 20,
+    "operating_income_b": 80,
+    "operating_margin_pct": 11.2,
+    "fcf_b": 11,
+    "fcf_prior_year_b": 38,
+    "capex_increase_yoy_b": 50.7,
+    "aws_revenue_run_rate_q4_2025_b": 142,
+    "aws_q4_2025_growth_pct": 24,
+    "aws_ai_revenue_run_rate_q1_2026_b": 15,
+    "chips_business_run_rate_b": 20,
+    "chips_standalone_run_rate_b": 50,
+    "grocery_gross_sales_b": 150,
+    "capex_2026_guided_b": 200,
+    "openai_commitment_b": 100
+  },
+  "key_commitments": {
+    "signed": [
+      "OpenAI: >$100B commitment to AWS",
+      "Amazon Leo — Delta Airlines: 500 planes starting 2028",
+      "Amazon Leo customers: JetBlue, AT&T, Vodafone, DIRECTV Latin America, Australia NBN, NASA",
+      "Rural delivery network: >$4B committed, 13,000+ zip codes, 1.2M sq miles",
+      "WFM: 550+ stores, 100 more planned, Daily Shop format launching"
+    ],
+    "aspirational": [
+      "Amazon Leo official launch: mid-2026",
+      "Prime Air: 30M customers by year-end 2026; 500M packages by end of decade (30-min delivery)",
+      "AWS power capacity: double by end of 2027 (added 3.9 GW in 2025)",
+      "FCF recovery: 'a couple years after being in service' for 2026 capex — implies 2027-2028",
+      "Trainium: 'tens of billions capex savings per year' + 'several hundred bps operating margin advantage' at scale",
+      "Chips business: possible third-party rack sales in future",
+      "Amazon Now expansion: US and Europe (currently India + UAE)"
+    ]
+  },
+  "operational_metrics": {
+    "robots_in_fulfillment": "1M+",
+    "same_day_fulfillment_centers": "85+",
+    "same_day_units_2026_ytd_m": 500,
+    "alexa_endpoints_m": 600,
+    "alexa_plus_purchase_lift": "3x",
+    "alexa_plus_talk_time_lift": "2x",
+    "bedrock_token_growth": "more tokens Q1 2026 than all prior years combined",
+    "bedrock_mom_growth_march_2026": "nearly doubled",
+    "mantle_build_time_days": 76,
+    "mantle_team_size": 6,
+    "amazon_now_india_mom_growth_pct": 25,
+    "amazon_now_india_micro_fulfillment_centers": "360+",
+    "perishables_sales_growth_since_early_2025": "40x",
+    "same_day_fresh_cities": "2300+",
+    "trainium2_price_perf_vs_gpu_pct": 30,
+    "trainium3_price_perf_vs_trainium2_pct": "30-40",
+    "graviton_top1000_ec2_adoption_pct": 98
+  },
+  "flags": [
+    "No Q&A section — shareholder letter only; grade is ceiling not floor",
+    "No prior-year commitment accountability — perishable goal pattern",
+    "'Substantial portion' of $200B capex committed but percentage undisclosed",
+    "FCF recovery timeline modeled but not explicitly committed"
+  ]
+}

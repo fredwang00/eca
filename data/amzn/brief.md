@@ -17,6 +17,7 @@
 | Q2 2025 | B (2.80) | C |
 | Q3 2025 | B+ (3.25) | B |
 | Q4 2025 | B+ (3.295) | B− |
+| Annual Letter 2025 | A (3.65) | B |
 
 **Direction: Recovering, with structural FOG pattern.** Q1 2024 was the nadir—a visibly abridged transcript, Q&A deflection across every numerical question, and the weakest strategic accountability in the dataset. The recovery through Q2–Q3 2024 was genuine, driven by stronger strategic clarity and A-level vision grades. Q4 2024 and Q1–Q2 2025 dipped on FOG, with Jassy's AI commentary becoming the consistent drag. Q3–Q4 2025 recovered to the high end of B on stronger financial specificity and proactive charge disclosure. The two-voice dynamic—Olsavsky providing financial precision, Jassy providing strategic narrative—has been stable throughout and is the primary structural feature of Amazon's communication profile. FOG grades have improved from their 2024–2025 trough but have not returned to the B-consistent standard of 2023.
 
@@ -48,8 +49,10 @@
 - **Enterprise middle-of-barbell AI thesis:** Jassy's claim that enterprise production workloads will become "largest and most durable" AI demand segment; no quantitative threshold or timeline.
 - **AWS 10–20 year cloud flip:** "85–90% of global IT still on-premises; that equation is going to flip." Repeated across Q2 2024, Q1 2025, Q2 2025 without new evidence.
 - **Alexa+:** "Millions of customers," "very positive feedback," $9.99/month for non-Prime; no retention data, no task completion metrics, no revenue target, no full rollout timeline.
-- **Kuiper commercial launch:** "Later this year or early next year" (Q2 2025); "wider commercial rollout later this year" (Q4 2025); $1B Q1 2026 cost increment disclosed, capitalization timing flagged.
+- **Kuiper commercial launch:** "Later this year or early next year" (Q2 2025); "wider commercial rollout later this year" (Q4 2025); $1B Q1 2026 cost increment disclosed, capitalization timing flagged. Now rebranded/referred to as Amazon Leo in Annual Letter 2025 with mid-2026 official launch date and named customers (Delta, JetBlue, AT&T, Vodafone, NASA).
 - **Rufus $10B incremental annualized sales:** Q4 2025; methodology not disclosed, no prior quarter comparison.
+- **Prime Air:** 30M customers by year-end 2026; 500M packages by end of decade; 30-minute delivery target (Annual Letter 2025).
+- **FCF recovery:** "A couple years after being in service" for 2026 capex — implies 2027-2028 inflection. Modeled explicitly via AWS cash cycle framework (6-24 month monetization lag, 30-year datacenter life, 5-6 year chip life). Not committed to a specific number or date.
 - **Gen AI revenue "tens of billions over the next several years":** Q4 2023, not subsequently updated or referenced.
 - **Grocery Fresh V2:** "Very promising results on almost every dimension" (Q4 2023); no subsequent milestone disclosure or expansion announcement.
 - **Amazon Supply Chain as "mirrors AWS":** Q1 2024; analogy immediately qualified as "very different businesses"; no revenue, timeline, or CapEx framework.
@@ -71,6 +74,7 @@
 | Q2 2025 | — | $19.2B | — | $18.2B | $31.4B |
 | Q3 2025 | $180.2B | $17.4B* | $33.0B ($132B run rate) | $14.8B | $34.2B ($89.9B YTD) |
 | Q4 2025 | $213.4B | $25.0B | — ($244B backlog) | $11.2B | ~$125B FY; $26.3B Q4 |
+| FY 2025 | $717B (+12% YoY) | $80B (11.2% margin) | $129B (+20% YoY); $142B run rate Q4 | $11B (from $38B) | ~$125B FY 2025; ~$200B guided 2026 |
 
 *Q3 2025 operating income $17.4B as reported; $21.7B excluding $2.5B FTC settlement and $1.8B severance.
 
@@ -145,4 +149,16 @@ From the Q4 2025 call, the following specific commitments require verification w
 
 5. **The ROIC/capital discipline question.** If analysts raise CapEx governors again in Q1 2026 and receive assertion rather than structure for the third consecutive quarter, flag as an escalating negative accountability signal. A specific ROIC target, minimum FCF threshold, or CapEx-as-percent-of-revenue framework would be a material positive change.
 
-6. **AI revenue specificity.** If Q1 2026 continues the "multi-billion, triple-digit growth" formulation without a specific number, that pattern will have persisted across six consecutive quarters on what management describes as the company's defining growth opportunity — confirm and flag accordingly.
+6. **AI revenue specificity.** If Q1 2026 continues the "multi-billion, triple-digit growth" formulation without a specific number, that pattern will have persisted across six consecutive quarters on what management describes as the company's defining growth opportunity — confirm and flag accordingly. Note: Annual Letter 2025 disclosed AWS AI revenue run rate ">$15B in Q1 2026" — the first specific dollar figure disclosed; check whether Q1 2026 earnings call formalizes or retreats from this specificity.
+
+**From Annual Letter 2025 (April 2026) — verify at Q2 2026 and beyond:**
+
+7. **Amazon Leo mid-2026 launch.** Specifically committed. Check Q2 2026 whether launch occurred on schedule and whether Delta/JetBlue/AT&T service initiation timelines hold.
+
+8. **Prime Air 30M customers by year-end 2026.** Specific, falsifiable. Track Q3 2026.
+
+9. **AWS power capacity doubling by end of 2027.** Check 2027 annual disclosures for GW additions relative to 3.9 GW added in 2025.
+
+10. **FCF inflection 2027-2028.** If 2027 FCF does not improve materially over 2025's $11B, either the capex cycle extended or the demand thesis was wrong — both require harder questions on capital discipline.
+
+11. **Chips business third-party sales.** Jassy floated "it's quite possible we'll sell racks of them to third parties." If this materializes, it is a new high-margin revenue stream worth tracking separately.
