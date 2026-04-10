@@ -41,12 +41,18 @@ SECTOR_MAP: dict[str, str] = {
     "COST": "base",
     "TGT": "base",
     "AFRM": "base",
+    "SOFI": "base",
     "JPM": "base",
     "COF": "base",
     "AXP": "base",
     "NFLX": "base",
+    # Discretionary bellwethers
+    "NKE": "base",
+    "RH": "base",
+    "LULU": "base",
     # Other
     "HIMS": "base",
+    "HOOD": "base",
     "SPOT": "base",
 }
 
@@ -94,7 +100,12 @@ COMPANY_NAMES: dict[str, str] = {
     "AXP": "American Express Company",
     "NFLX": "Netflix, Inc.",
     # Other
+    "NKE": "NIKE, Inc.",
+    "RH": "RH (Restoration Hardware)",
+    "LULU": "Lululemon Athletica Inc.",
     "HIMS": "Hims & Hers Health, Inc.",
+    "HOOD": "Robinhood Markets, Inc.",
+    "SOFI": "SoFi Technologies, Inc.",
     "SPOT": "Spotify Technology S.A.",
 }
 
@@ -104,9 +115,10 @@ WATCHLIST_SECTORS: dict[str, list[str]] = {
     "infra":    ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
     "crypto":   ["MSTR", "BMNR", "COIN", "GLXY", "CRCL"],
     "space":    ["RKLB", "ASTS"],
-    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT", "WMT", "COST", "TGT", "AFRM", "JPM", "COF", "AXP"],
+    "consumer": ["OPEN", "UBER", "ABNB", "SHOP", "LMND", "ROOT", "WMT", "COST", "TGT", "NKE", "RH", "LULU", "AFRM", "SOFI", "JPM", "COF", "AXP"],
     "venture":  ["EOSE"],
-    "employer": ["SPOT", "HIMS", "NFLX"],
+    "employer": ["SPOT", "NFLX"],
+    "meme":     ["HIMS", "HOOD"],
 }
 
 

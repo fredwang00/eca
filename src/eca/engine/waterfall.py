@@ -48,7 +48,7 @@ STAGE_DEFS: list[dict] = [
     {
         "id": "stage_1",
         "label": "Discretionary Cuts",
-        "tickers": ["TGT", "ABNB", "SHOP"],
+        "tickers": ["TGT", "ABNB", "SHOP", "NKE", "RH", "LULU"],
         "threshold": 2,
         "check": lambda facts, t: (
             _severity("consumer_stress_tier", _get_signal(facts, t, "consumer_stress_tier")) >= 1
@@ -69,7 +69,7 @@ STAGE_DEFS: list[dict] = [
     {
         "id": "stage_3",
         "label": "Credit Bridging",
-        "tickers": ["COF", "JPM", "AXP", "AFRM"],
+        "tickers": ["COF", "JPM", "AXP", "AFRM", "SOFI"],
         "threshold": 2,
         "check": lambda facts, t: (
             _severity("credit_quality_trend", _get_signal(facts, t, "credit_quality_trend")) >= 2

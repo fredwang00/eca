@@ -179,8 +179,8 @@ After producing the candor analysis, extract structured consumer health signals 
 
 | Field | Applies to | Values (ordered by severity) |
 |-------|-----------|------------------------------|
-| consumer_stress_tier | WMT, COST, TGT, AFRM, LMND, ROOT, ABNB, SHOP | neutral, trade_down, essentials_pressure, credit_bridging |
-| credit_quality_trend | JPM, COF, AXP, AFRM | improving, stable, normalizing, deteriorating |
+| consumer_stress_tier | WMT, COST, TGT, NKE, RH, LULU, AFRM, LMND, ROOT, ABNB, SHOP | neutral, trade_down, essentials_pressure, credit_bridging |
+| credit_quality_trend | JPM, COF, AXP, AFRM, SOFI | improving, stable, normalizing, deteriorating |
 | auto_credit_trend | COF, JPM | improving, stable, normalizing, deteriorating |
 | housing_demand | OPEN | expanding, stable, softening, contracting |
 | services_demand | UBER, ABNB, SHOP | expanding, stable, softening, contracting |

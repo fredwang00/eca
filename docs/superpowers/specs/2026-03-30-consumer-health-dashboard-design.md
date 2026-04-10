@@ -103,7 +103,7 @@ New module: `src/eca/engine/waterfall.py`
 |---|-------|------------|-----------------|-----------|
 | 1 | Discretionary Cuts | TGT, ABNB, SHOP | consumer_stress_tier in [trade_down, essentials_pressure, credit_bridging] OR pricing_power in [weak, capitulating] | 2 of 3 |
 | 2 | Essential Trade-Down | WMT, COST | consumer_stress_tier in [essentials_pressure, credit_bridging] | 1 of 2 |
-| 3 | Credit Bridging | COF, JPM, AXP, AFRM | credit_quality_trend in [normalizing, deteriorating] | 2 of 4 |
+| 3 | Credit Bridging | COF, JPM, AXP, AFRM, SOFI | credit_quality_trend in [normalizing, deteriorating] | 2 of 5 |
 | 4 | Housing Stress | OPEN | housing_demand in [softening, contracting] | 1 of 1 |
 | 5 | Services Contraction | UBER, ABNB, SHOP | services_demand in [softening, contracting] | 2 of 3 |
 | 6 | Auto/Utility Defaults | COF, JPM | auto_credit_trend in [normalizing, deteriorating] | 1 of 2 |

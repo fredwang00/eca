@@ -55,7 +55,7 @@ def test_stage1_discretionary_cuts():
     assert stage1.firing
     assert "TGT" in stage1.triggered_by
     assert "ABNB" in stage1.triggered_by
-    assert stage1.count == "2/3"
+    assert stage1.count == "2/6"
 
 
 def test_stage2_essential_trade_down():
@@ -81,7 +81,7 @@ def test_stage3_credit_bridging():
     assert stage3.firing
     assert "COF" in stage3.triggered_by
     assert "JPM" in stage3.triggered_by
-    assert stage3.count == "2/4"
+    assert stage3.count == "2/5"
 
 
 def test_stage4_housing_stress():
