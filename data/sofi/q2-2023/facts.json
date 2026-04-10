@@ -1,0 +1,32 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q2 2023",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B",
+    "composite_score": 2.97,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": "stable",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "credit_quality_trend": "Our on-balance sheet 90 day personal loan delinquency rate was 40 basis points in Q2 2023, while our annualized personal loan charge off rate was down sequentially to 2.94%... still below pre-COVID levels.",
+      "pricing_power": "We've been really successful in passing on higher rates in our loans as benchmark rates have gone... the portfolio weighted-average coupon increasing by 40 basis points to 13.6%.",
+      "management_tone_shift": "I feel really confident the flywheel is really working... we're really excited about what is in store for us over the next several quarters."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q3 2023",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "C",
+    "composite_score": 2.25,
+    "composite_grade": "C"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "stable",
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Net deposits remain strong in what is typically a seasonally slow quarter, they were $4 billion in Q3, which translates to an 18% annual growth rate.",
+      "capex_direction": "We plan to make some targeted growth investments in marketing and product launches, including for the UK, Futures and Credit Card... Q4 adjusted OpEx in the range of $375 million to $395 million.",
+      "pricing_power": "Most of our competitors are charging $0.65 per contract for typical trades... our pricing advantage is strong and continuing to drive value for us.",
+      "management_tone_shift": "We believe we have a good shot of delivering record annual revenue in 2023. And our adjusted EBITDA this year is on track to be roughly three times our prior record."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

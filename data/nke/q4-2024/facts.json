@@ -1,0 +1,32 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q4 2024",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "C",
+    "composite_score": 2.25,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "We saw softer traffic in our factory stores, highlighting increasing pressure being felt by the value consumer.",
+      "pricing_power": "NIKE Digital declined 10% in the quarter...we missed our Q4 plan on softer traffic, higher promotions, and lower sales of certain classic footwear franchises.",
+      "management_tone_shift": "We now expect fiscal 2025 reported revenue to be down mid-single digits, with the first half down high single digits...increased macro uncertainty, particularly in greater China, with uneven consumer trends continuing in EMEA."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

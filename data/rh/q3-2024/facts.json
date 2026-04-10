@@ -1,0 +1,33 @@
+{
+  "ticker": "RH",
+  "quarter": "Q3 2024",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "A-",
+    "composite_score": 2.95,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Our industry-leading growth is being driven by the RH brand, where November demand increased 24%... demonstrating the disruptive nature of our product transformation \u2014 no trade-down language; demand acceleration attributed to product, not consumer stress relief.",
+      "capex_direction": "Most of the significant investments are behind us... the cash is mostly out the door in the company, in Paris and London and so on and so forth.",
+      "pricing_power": "We think about us as a platform for taste that's going to be highly disruptive and lucrative... the brand halo and value you get when you build a brand like ours, it makes things more valuable, it renders the product more valuable.",
+      "management_tone_shift": "The next five years for this company is going to be the best five years in the history of this company... we are in an upward spiral."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

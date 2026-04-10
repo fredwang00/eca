@@ -1,0 +1,33 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q1 2023",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.59,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Nothing material by household income. We were pleased overall with guest metrics, both existing and new guest metric trends, above 20% for the quarter.",
+      "capex_direction": "Higher depreciation on current and prior year investments in terms of capital expenditure \u2014 framing implies continuation of existing spend rate rather than acceleration or reduction.",
+      "pricing_power": "We enter markets with our similar premium positioning with the intent to sell at full price... markdowns flat to 2022 and slightly under 2019 levels.",
+      "management_tone_shift": "2023 is off to a strong start, and we're pleased with our trends as we've entered quarter 2... I'm optimistic that we will continue to deliver on the goal set forth in our Power of Three x2 growth plan."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

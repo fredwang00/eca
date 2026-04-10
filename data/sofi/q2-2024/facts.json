@@ -1,0 +1,33 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q2 2024",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "A-",
+    "dim2_grade": "A",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 3.05,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "normalizing",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Our personal loan borrowers' weighted average income is $168,000 with a weighted average FICO score of 747 \u2014 high-prime borrowers showing no acute stress signals in delinquency trends.",
+      "credit_quality_trend": "Our on balance sheet 90-day personal loan delinquency rate was 64 basis points in the quarter, a decrease from 72 basis points in Q1 which is evidence of surpassing a peak \u2014 improving directionally but not yet normalized.",
+      "pricing_power": "We will maintain a high rate relative to our competition\u2026 that doesn't mean we may not change it \u2014 suggesting rate leadership is conditional on competitive dynamics, not structural pricing power.",
+      "management_tone_shift": "I could not be more confident in our ability to achieve our ambitions\u2026 I love what we have built \u2014 materially more bullish tone than cautionary language used in prior rate-environment commentary."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

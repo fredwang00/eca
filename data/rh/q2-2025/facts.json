@@ -1,0 +1,33 @@
+{
+  "ticker": "RH",
+  "quarter": "Q2 2025",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 2.9,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Revenue increased 8.4% and demand increased 13.7% despite the polarizing impact of tariff uncertainty and the worst housing market in almost 50 years \u2014 RH's luxury customer is not trade-down stressed, though housing drag is a persistent suppressor.",
+      "capex_direction": "We're opening RH Paris, 3 new brand extension galleries, London, Milan, outdoor galleries, compound formats, and a North Carolina manufacturing ramp \u2014 the investment cycle has not yet peaked.",
+      "pricing_power": "We are projecting furniture inflation in the second half everywhere... everybody has got to take price \u2014 but simultaneously acknowledges you can't raise prices fast enough to fully offset tariff costs, implying partial pass-through.",
+      "management_tone_shift": "The clouds will break as Warren Buffett said and the sun will come out again, and when it does, we'll be there \u2014 paired with explicit confidence that RH will benefit from tariff-driven industry consolidation."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

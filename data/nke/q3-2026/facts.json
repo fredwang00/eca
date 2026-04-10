@@ -1,0 +1,33 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q3 2026",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "A-",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B+",
+    "composite_score": 3.12,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "decelerating",
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Sell-through trends are not yet where we want them to be... digital is still too promotional. Markdowns across the marketplace remain elevated.",
+      "capex_direction": "We have begun to take meaningful steps to reset our cost base... our specific actions in the Supply Chain will lower costs, streamline operations, and reduce capacity in our distribution network.",
+      "pricing_power": "Despite making progress versus a year ago, digital is still too promotional. Markdowns across the marketplace remain elevated... we were also more aggressive with promotions on NIKE Digital at the end of the season, which resulted in higher markdowns and a higher off-price mix.",
+      "management_tone_shift": "While our comeback is taking longer than we would like... parts of it are taking longer than I would like... we also experienced traffic disruption from the Middle East, and we also are taking that into consideration as we are thinking about where this business stands."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

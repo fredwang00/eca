@@ -1,0 +1,34 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q3 2023",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.65,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "We're seeing balances increase on a per account basis, not just new accounts adding to our deposits. We're also seeing increased spending on a per account basis.",
+      "credit_quality_trend": "Our actual CDR rates realized in Q3 were 3.44% versus an assumed 4.6% embedded in the marks \u2014 116 basis points per year below what is actually embedded in the mark.",
+      "capex_direction": "We will continue to make sure that we balance growth versus profitability next year, committed to GAAP profitability for the full year at 30% incremental EBITDA margin.",
+      "pricing_power": "We sold at 105.1% and the book is marked at 104.0%; 219 basis points of cost savings between our deposits and warehouse facilities resulting in meaningful benefit to net interest margin.",
+      "management_tone_shift": "I remain confident that no company is better positioned than SoFi to be the winner that takes most in the digital transformation of financial services."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

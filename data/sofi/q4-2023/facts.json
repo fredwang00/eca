@@ -1,0 +1,32 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q4 2023",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A-",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A-",
+    "composite_score": 3.43,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": "normalizing",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "credit_quality_trend": "Our on-balance sheet 90-day personal loan delinquency rate was 56 basis points, while our annualized personal loan charge-off rate was 4.0%... we do expect a continued normalization towards pre-COVID levels and life of loan losses in the 7% to 8% range.",
+      "pricing_power": "Our average net interest margin of 6.02% for the quarter, up 3 basis points sequentially and 8 basis points year-over-year... we are committed to providing a top-tier APY in addition to no fees.",
+      "management_tone_shift": "We are taking a conservative and pragmatic approach toward our Lending segment revenue, expecting to largely maintain it, given our concerns about the 2024 macro environment... we assume a contraction in GDP in 2024, an increase in unemployment to higher than 5%."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

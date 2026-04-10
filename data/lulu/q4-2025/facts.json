@@ -1,0 +1,33 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q4 2025",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C+",
+    "dim3_grade": "B-",
+    "dim4_grade": "C",
+    "dim5_grade": "C",
+    "composite_score": 2.43,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "The Canadian consumer has been a little bit more sensitive to markdowns...we did have a higher markdown penetration than we would have liked...130 basis point increase in markdowns in Q4.",
+      "capex_direction": "Our plan calls for approximately 40 to 45 net new openings...we are taking a disciplined approach to capital spending and looking at our real estate project on a case-by-case basis.",
+      "pricing_power": "We are lowering that penetration [markdowns]...we're expecting a modest improvement in markdowns for the full year, predominantly driven through the second half, and we are expecting just a modest increase in Q1.",
+      "management_tone_shift": "We recognize there is more work to be done, and we have been course-correcting on a number of fronts...we lost about less than 1 point in activewear [market share]."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

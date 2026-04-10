@@ -1,0 +1,32 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q3 2024",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B+",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.8,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Unlike others in this space, we do not run sale events across our entire store... we are happy with how the guests responded to both with full-price sales driven by some of our key franchises.",
+      "pricing_power": "We really drive and we'll always drive our business through regular price through newness and innovation. Markdowns, we use as a means to clear out end of season.",
+      "management_tone_shift": "The confidence is rooted in a few of the key data points... when I look at our guests, I'm happy with the absolute growth number... I feel confident in our growth plans and strategies for 2025."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q1 2023",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "C+",
+    "composite_score": 2.575,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "There's no change to our full year outlook. We continue to expect 2023 OPEX prior to SBC to be in the range of $1.42 billion to $1.48 billion.",
+      "pricing_power": "We've kept the rebates on our crypto offering the same... we want to make sure that we offer great pricing to customers.",
+      "management_tone_shift": "While a year ago, we had our lowest quarter of adjusted EBITDA, in Q1, we matched our all-time high... our Q1 adjusted EBITDA margin of 26% was an all-time high."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

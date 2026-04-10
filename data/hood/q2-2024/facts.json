@@ -1,0 +1,33 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q2 2024",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.635,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "In July, trading volumes were more than 20% higher than June across equities, options, and crypto. And net deposits were again over $4 billion.",
+      "capex_direction": "We set aside an extra $100 million in marketing budget... we announced two acquisitions... and a $1 billion share repurchase authorization.",
+      "pricing_power": "We don't charge options contract fees... we introduced industry leading rates for active traders in May... we want to offer really competitive rates to customers.",
+      "management_tone_shift": "We have a lot of momentum entering the second half of the year, as our business is having a great start to Q3... so far [August] it looks a lot like July."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

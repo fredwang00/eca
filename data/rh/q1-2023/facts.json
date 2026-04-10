@@ -1,0 +1,32 @@
+{
+  "ticker": "RH",
+  "quarter": "Q1 2023",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.4,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Luxury housing down at the levels we've seen from recent reports and we're at 20-year high interest rates... I've never seen luxury housing down at the levels we've seen.",
+      "pricing_power": "We now believe it's going to cost us more from a markdown perspective to move through that inventory in this environment... I think we were probably somewhat too arrogant in our ability to raise pricing.",
+      "management_tone_shift": "Our initial expectations are more muted as you would expect... I'm most worried about what's next in the world of regional banks... good time to pray for peace and plan for war."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

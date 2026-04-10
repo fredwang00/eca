@@ -1,0 +1,31 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q4 2025",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "A-",
+    "dim2_grade": "C+",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "credit_quality_trend": "The gap between the newer cohort curve and the 2017 cohort curve widened by 8 basis points during the fourth quarter. In fact, this gap has widened in each of the past 6 quarters since we began measurement.",
+      "capex_direction": "We will continue to invest heavily to make our existing products even better... we're at least 30% annual revenue growth compounded between 2025 and 2028.",
+      "pricing_power": "Our personal loan borrowers have a weighted average income of $158,000 and a weighted average FICO score of 746... we closed $100 million of sales in whole loan form at a blended execution of 106.5%.",
+      "management_tone_shift": "I've never been more optimistic about our prospects than I am today... I am more excited about what lies ahead than I have ever been at SoFi."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

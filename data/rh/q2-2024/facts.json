@@ -1,0 +1,33 @@
+{
+  "ticker": "RH",
+  "quarter": "Q2 2024",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "D",
+    "dim5_grade": "A-",
+    "composite_score": 2.5,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Demand was up 7% in Q2... August up 12%... outperforming the industry by 15 to 25 points \u2014 no trade-down language present; RH's affluent customer base shows no stress signals in this transcript.",
+      "capex_direction": "Our plan to expand the RH brand globally, address new markets locally, and transform our North American Galleries represents a multi-billion-dollar opportunity \u2014 Newport Beach, Raleigh, Montecito openings confirmed, Paris/London/Milan pipeline accelerating.",
+      "pricing_power": "Product margins inflecting positive despite operating in the most challenging housing market in three decades \u2014 positive inflection confirmed but no explicit pricing increase disclosed; pricing errors on contemporary assortment acknowledged.",
+      "management_tone_shift": "We couldn't be more excited... we have a lot of confidence, we have a lot of data... I've never seen anything like that in my career \u2014 markedly more confident tone versus prior quarters where the inflection was described as anticipated but not yet arrived."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

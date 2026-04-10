@@ -1,0 +1,33 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q1 2024",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B+",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B",
+    "composite_score": 2.84,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "We know that the consumer environment remains dynamic with inflation, higher interest rates \u2014 so it's weighing on the mind of the consumer and we also know they will spend, but they're being selective.",
+      "capex_direction": "We continue to expect capital expenditures to be approximately $670 million to $690 million for 2024.",
+      "pricing_power": "We run a highly full-price business. We have no plans to change our strategy there. So I would view some of the current challenges with assortment and slightly higher markdowns as temporary.",
+      "management_tone_shift": "As it remains early in the year and the consumer environment in the U.S. is dynamic, we continue to be prudent in our planning while also continuing to invest in our strategic roadmap."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q4 2024",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "January net deposits were our second highest month ever, and equities, options, and crypto trading volumes were all up double to triple-digit growth rates from a year ago.",
+      "capex_direction": "We'll keep managing our existing businesses to low-single-digit growth or even lower. And then make focused investments for growth for both new products on our roadmap and increasing marketing by another $100 million or so this year.",
+      "pricing_power": "Take rate is up 9 basis points this quarter versus last quarter. We're not done experimenting. It doesn't mean that it's going to keep going up.",
+      "management_tone_shift": "We've built strong momentum entering 2025 and we're staying focused on delivering another year of profitable growth... we feel great about our business and financial results."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

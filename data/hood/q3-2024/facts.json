@@ -1,0 +1,32 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q3 2024",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.635,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We anticipate we'll likely finish near the top end of that range given our continued growth investments to finish the year strong.",
+      "pricing_power": "Option contracts were up 47% year-over-year to a new record... crypto rebates have increased to 48 basis points in October relative to our 44 basis point average in Q3 and 35 basis points at the start of the year.",
+      "management_tone_shift": "Our last three quarters are the three highest in company history... we've already broken records for full-year revenue, adjusted EBITDA, and earnings per share."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "RH",
+  "quarter": "Q4 2025",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "decelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Ultra-high net worth consumers with a net worth above $20 million own on average 3.7 homes... spend 6.4x more on home furnishings \u2014 RH's target customer is insulated from typical consumer stress dynamics; no trade-down language present.",
+      "capex_direction": "You're looking at $150 million to $170 million a year [in future capex] \u2014 capital investment period is explicitly described as post-peak and declining from current elevated levels.",
+      "pricing_power": "We've always been more promotional than less promotional in times like these \u2014 signals willingness to use price as a demand lever, indicating moderate rather than strong pricing power in the current environment.",
+      "management_tone_shift": "We believe it's prudent to plan conservatively this year due to uncertainties around interest rates and inflation \u2014 explicit conservatism embedded in guidance language, a shift from prior growth-forward framing."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

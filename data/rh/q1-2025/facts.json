@@ -1,0 +1,33 @@
+{
+  "ticker": "RH",
+  "quarter": "Q1 2025",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "C+",
+    "dim2_grade": "B-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.505,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "decelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Customers are 'really sensitive' and the tariff disruption caused demand to drop sharply in outdoor before the discount increase; Friedman notes competitors 'don't have the scale to deal with the tariffs' and many are 'going bankrupt'\u2014implying the high-end consumer is chooseful and price-responsive even at the RH membership tier.",
+      "capex_direction": "Adjusted CapEx guided to decrease from current elevated levels to $200\u2013$250M in 2026 and $150\u2013$200M in 2027 and beyond, explicitly described as cycling out of an aggressive investment period.",
+      "pricing_power": "Permanently increased membership discount from 25% to 30% while claiming maintained 20\u201321% EBITDA guidance; price increases taken annually but vendor absorption of tariff costs cited as a key offset\u2014net pricing position is positive but structurally compressed.",
+      "management_tone_shift": "Despite worst housing market in fifty years, tariff disruption, and elevated debt, Friedman states 'we have never been more excited or confident about the desirability of the RH brand globally' and forecasts north of 20% adjusted EBITDA margin."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

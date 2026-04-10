@@ -1,0 +1,133 @@
+April 28th, 2024
+Operator
+Good morning. My name is Jordan, and I will be your conference operator today. At this time, I'd like to welcome everyone to the SoFi Technologies Q1 2024 Earnings Conference Call. [Operator Instructions]
+
+Paulina Gutierrez
+Thank you, and good morning. Welcome to SoFi's First Quarter of 2024 earnings conference call.
+
+Anthony Noto
+Thank you, and good morning, everyone. Q1 was another exceptionally strong quarter for SoFi. We continue to successfully execute on our strategy of making SoFi the one-stop shop for digital financial services. We expected that 2024 would be an important year of transition. Heading into this year, we had a conservative outlook given interest rate volatility, industry liquidity, inflation and macroeconomic environment concerns.
+
+Chris Lapointe
+Thanks, Anthony. The first quarter demonstrates strong evidence of how our increasingly diversified and differentiated business model drive SoFi's durability and long-term growth potential. I'm going to walk through key financial highlights and our financial outlook. Unless otherwise stated, I'll be referring to adjusted results for the first quarter of 2024 versus first quarter of 2023. Our GAAP consolidated income statement and all reconciliations can be found in today's earnings release, and the subsequent 10-Q filing, which will be made available next month.
+
+Net interest income increased 106% year-over-year, primarily driven by $11.5 billion growth in deposits year-over-year. Our noninterest income increased 34% year-over-year, primarily driven by 2 factors
+interchange, which grew 65% year-over-year based on over $7.5 billion in annualized spend and referrals from our Lending as a Service product, which grew 32% versus the prior year period.
+
+Operator
+[Operator Instructions] Your first question comes from the line of John Hecht of Jefferies.
+
+John Hecht
+Chris, you gave some of the metrics in the personal lending book on charge-offs and so forth. I'm wondering, what you're looking at, at this point in terms of payment trends and kind of the underwriting factors that informs your credit outlook? And maybe if you could give us your thoughts on that as well.
+
+Chris Lapointe
+Sure. I'll start and then Anthony can chime in. So we feel really good about our credit and the underlying performance of our loans, and everything is performing in line with expectations, while we continue to see the underlying signs of improvement.
+
+When looking at recent vintages and their loss rates at comparable points in time to our Q3 2022 vintage, we've observed the following
+in Q1 -- our Q1 2023 cumulative vintage losses through 12 months of being on the books was approximately 20% better than the Q3 2022 vintage over that same period of time, 12 months of being on the books.
+
+Operator
+Our next question comes from Mark DeVries of Deutsche Bank.
+
+Mark DeVries
+Yes. I was curious whether just kind of given where you are now with the equity capital levels whether you feel you have enough sources to support future growth? Or do you potentially see yourself having to raise additional outside equity?
+
+Anthony Noto
+Thanks for the question. We had significant excess capital prior to the transactions that occurred in the quarter. Our risk-based capital level was -- over 15%. It's now over 17%, well, well, well above our regulatory department. And given our outlook on lending, there's no reason for us to change our stance in that business.
+
+Operator
+Our next question comes from Dan Dolev of Mizuho.
+
+Dan Dolev
+Really strong results, congrats. I have a question about the NIM. Really stable NIM trends. Can you, Chris comment on the future NIM trends, how you're seeing them? I would appreciate it.
+
+Chris Lapointe
+Sure. Thanks, Dan. So yes, we've been very successful in maintaining healthy net interest margins and continuing to expand them over time. In Q1, our net interest margin was 5.9%, which was up 43 basis points year-over-year. And more importantly, what we've seen is year-over-year net interest margin expansion in every single quarter throughout 2022 and 2023.
+
+Operator
+Our next question comes from Kyle Peterson of Needham & Company.
+
+Kyle Peterson
+Great. Just wanted to dive a bit more into deposit growth and pricing, obviously been really strong growth on that front. But if you could give a little more detail, specially on deposit betas and what the biggest drivers of growth will be -- particularly if we are in a higher for longer environment, that would be great?
+
+Anthony Noto
+Yes. Chris can comment on the betas. What I'd say is we raised our '24 revenue outlook in terms of the range by more than we'd be in Q1. That's because of the positive tailwinds we're seeing in both Tech Platform as well as Financial Services. We had record growth in deposits in Q1 of $3 billion. We've seen really strong debit spending trends. We're annualizing more than $8 billion now.
+
+Chris Lapointe
+And then from a beta perspective, we ended up exiting the quarter with $21.6 billion of deposits. That was up $3 billion quarter-over-quarter with more than 90% of the deposits coming from direct deposit members.
+
+Operator
+Our next question comes from Reggie Smith of JPMorgan.
+
+Reginald Smith
+I wanted to kind of dig into the Financial Services segment a little bit. One of the disclosures you guys given in the press release is the FICO score of some of your new depositors. I guess my question is, what's your appetite for really growing the Credit Card business. And maybe talk about like what that looks like ultimately growing that?
+
+Anthony Noto
+We're really excited about where we are with Credit Card. We've had a great journey in launching a credit card, learning quite a bit about our go-to-market strategy, how we're marketing and targeting potential new members with credit card in addition to understanding the underlying credit trends and what the right credit model is, in addition to other factors like fraud and risk overall.
+
+Chris Lapointe
+Yes. So right now, this is a super high ROE business. And in terms of the mix shift towards the lending product. We still have significant low cost of funding, but through our deposit base, and as Anthony mentioned, we're going to start scaling this business more rapidly. We had started to see some good green shoots in terms of early-stage delinquencies and losses that are performing materially better than historical vintages, so we can start investing more heavily in this business.
+
+Operator
+Our next question comes from Peter Christiansen of Citigroup.
+
+Peter Christiansen
+Great to be on the call. I'm curious about network fees in the Financial Services segment, which were down quarter over quarter. I'm just -- I think the expectation there was that they would rise sequentially. Just if you can give a little bit of color there.
+
+Chris Lapointe
+Yes, absolutely. So we are seeing really good spend behavior. We had about $1.9 billion of overall spend in the quarter. That was up from $1.5 billion in Q4 and $1.2 billion in Q3 of last year. We did benefit from a small onetime benefit from a partner on the network fee side. But what you can expect going forward is relatively linear growth with spend behavior over the course of 2024. So there was a one-timer in Q4 that made for a tough comp, but going forward, you can think of linear growth or relative to spend.
+
+
+Operator
+Our next question comes from Jeff Adelson of Morgan Stanley.
+
+Jeffrey Adelson
+Chris, maybe just to circle back on the improvement in the charge-off rate for personal loans. Seems like we saw a 15% sequential decline there, sort of in line with the comments you've made about the 15% of credits coming out of the system over the last quarter and in this quarter.
+
+Chris Lapointe
+Yes, sure. I'll take some of the losses. Anthony can hit on some of the excess capital. On the losses front, we did see a decline in net charge-offs, but what's important is the net charge-off rate is a function of a number of factors. It's originations in the period, it's pay downs. It's a term of the loans that we're underwriting to.
+
+Anthony Noto
+Yes. So what I'd say is we 100% have the option to drive the lending business faster if we'd like. We do stress tests, as you would imagine internally and externally for others across the entire ecosystem, which we operate. And starting the year at the risk-based capital that we had at 15% -- with stress test gave us ample opportunity to invest in that business at a rate that we wanted to.
+
+Chris Lapointe
+Yes. And the only other thing I would add to quantify some of those numbers in terms of our overall capacity is that we have more than $20 billion in capacity to originate loans. And even though we're -- even if we were to originate at that level, we would remain well above all regulatory minimums.
+
+Operator
+Our next question comes from Mihir Bhatia of Bank of America.
+
+Mihir Bhatia
+I wanted to switch to the Tech Segment for a second. You had 20% account growth this quarter. I was wondering if you could comment on a couple of things there. One is, can you just comment on what's driving that? Maybe talk about some of the key customers you may be added in the quarter.
+
+Anthony Noto
+Yes. In terms of the Tech Platform, we saw good consistent trends there. The Tech Platform grew 21%, which was an acceleration and year-over-year growth compared to Q4 and Q3 and Q4 also accelerated. We expect the trends there to continue. We have a really sizable client base with growing of underlying users in that client base in addition to driving additional product attachments to our existing clients. We're also seeing a greater contribution from new clients over the last 9 months.
+
+Operator
+Our next question comes from Terry Ma of Barclays.
+
+Terry Ma
+I just wanted to dig a little bit more on the late-stage personal loan -- delinquency personal loan sales. Can you maybe just talk about the structure and execution around that and whether or not you plan on selling more?
+
+Chris Lapointe
+Yes, absolutely. So in Q1, we ended up selling $62.5 million of late-stage delinquent personal loans in the quarter. Typically, we do not sell delinquent loans until they are charged off, but we were able to generate an opportunity where we're able to generate positive value relative to letting the loans charge off and sell after the fact.
+
+Operator
+Our final question comes from Jill Shea of UBS.
+
+Jill Glaser Shea
+So I just wanted to touch on operating expenses. And just wondering if you could highlight any opportunities there, and the largest efficiency gain areas? And then also, how does continued brand awareness improvement impact your sales and marketing spend?
+
+Chris Lapointe
+Yes. So I'll hit on some of the operating expense lines. I'll let Anthony hit on the brand awareness.
+
+Anthony Noto
+Yes. On the brand awareness side, we're really pleased with just the continued improvement we have in unaided brand awareness. Our marketing team and our businesses have done a great job of putting together a very integrated multimedia strategy that leverages partnerships with big well-known brands that help us achieve brand unaided awareness to become a household brand name.
+
+Chris Lapointe
+With that, let me add some concluding remarks. I want to thank everyone for joining us today. We're proud to kick off 2024 with an exceptionally strong first quarter. Our 26% revenue growth driven by 54% growth in revenue from the combined Tech Platform and Financial Services, which now constitutes 42% of revenue, while no growth in lending gives us a very strong outlook for the year, with 25% EBITDA margins in the quarter and for the full year, record $3 billion of deposit growth and 16% growth in tangible book value and 44% growth in members, now totaling 8.1 million in total are a great testament to the success of our bold strategy and ability to execute across an unprecedented set of financial conditions over the last 6 years.
+
+Paulina Gutierrez
+Goodbye.
+
+Operator
+This concludes today's call. You may now disconnect.

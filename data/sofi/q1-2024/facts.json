@@ -1,0 +1,32 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q1 2024",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B-",
+    "composite_score": 2.53,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": "normalizing",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "credit_quality_trend": "our Q1 2023 cumulative vintage losses through 12 months of being on the books was approximately 20% better than the Q3 2022 vintage over that same period",
+      "pricing_power": "our net interest margin was 5.9%, which was up 43 basis points year-over-year... year-over-year net interest margin expansion in every single quarter throughout 2022 and 2023",
+      "management_tone_shift": "We raised our '24 revenue outlook in terms of the range by more than we'd beat in Q1... record $3 billion of deposit growth and 16% growth in tangible book value"
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q1 2026",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B-",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.77,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Guests are choiceful \u2014 digital remains a highly promotional marketplace in Greater China, with consumer shopping moments extending longer on local platforms with deeper discounts; NIKE Digital facing headwinds from prior reliance on off-price sales across all geographies.",
+      "pricing_power": "Gross margins declined 320 basis points to 42.2% due to higher wholesale discounts, higher discounts in our NIKE factory stores, increased product costs including new tariffs, and channel mix headwinds.",
+      "management_tone_shift": "We are operating in a dynamic environment both for consumers and our global business... progress will not be linear, and there is still work to do to return to driving consistent, sustainable, profitable long-term growth."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

@@ -3,14 +3,31 @@
   "quarter": "Q4 2025",
   "company": "Uber Technologies, Inc.",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
-    "dim1_grade": "B",
+    "dim1_grade": "A",
     "dim2_grade": "B+",
-    "dim3_grade": "B-",
+    "dim3_grade": "B",
     "dim4_grade": "B",
     "dim5_grade": "A-",
-    "composite_score": 3.135,
+    "composite_score": 3.43,
     "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Trips on our platform accelerated again to a 15 billion annual run rate, and our audience grew to more than 200 million monthly active users... MAPC growth at 18% year-on-year, which is a very, very strong step up.",
+      "capex_direction": "In the first few years, we are going to be stepping in with some vehicle purchases as well... we are putting our capital up in order to guarantee supply going forward [referencing Waabi, Nuro, Lucid and additional OEM commitments].",
+      "pricing_power": "We are in a position where insurance is going from a deleveraging cost item to something that gives us leverage, and that allows us to hold prices flat or better in certain markets.",
+      "management_tone_shift": "We started 2026 with a ton of momentum... we can do both. We can invest appropriately as it relates to growth. And then at the same time, we are going to continue reducing the share count because ultimately, all of us are shareholders, and we think right now the opportunity to buy back shares is pretty awesome."
+    },
+    "extracted_at": "2026-03-31"
   }
 }

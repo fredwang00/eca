@@ -1,0 +1,32 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q3 2025",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.0,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "We continue to see sort of pressure in the apparel space... lost some slight share in the performance apparel as we see guest behavior and trading down.",
+      "pricing_power": "We took a small amount of the assortment up modestly. We've been pleased with the price elasticity on those actions... no imminent plans to go further there.",
+      "management_tone_shift": "I also want to acknowledge we have seen trends slow a bit since Thanksgiving, which we've taken into account in our Q4 guidance."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

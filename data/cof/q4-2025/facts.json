@@ -3,14 +3,33 @@
   "quarter": "Q4 2025",
   "company": "Capital One Financial Corporation",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
-    "dim1_grade": "B+",
+    "dim1_grade": "B",
     "dim2_grade": "A-",
     "dim3_grade": "B",
     "dim4_grade": "B-",
     "dim5_grade": "A-",
-    "composite_score": 3.295,
+    "composite_score": 3.12,
     "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": "improving",
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "The US consumer and the overall macro economy remain resilient. The unemployment rate inched up in 2025, but remains pretty low by historical standards. Wages are still growing in real terms and consumer spending remains robust.",
+      "credit_quality_trend": "Our domestic card charge-off rate for the fourth quarter was 4.93%... down 113 basis points from a year ago.",
+      "auto_credit_trend": "The auto charge-off rate for the quarter was 1.82%, down 50 basis points year-over-year... Auto charge-offs have been stable near pre-pandemic levels for the past year.",
+      "capex_direction": "To capitalize on these opportunities at this special moment, we need to make significant and sustained investments. And we are leaning into them.",
+      "pricing_power": "Revenue margin for the quarter was steady at 17.3%.",
+      "management_tone_shift": "I'm struck by the number and quality of the opportunities we have before us... I see more opportunities which will drive future revenues than I've seen, in some ways, ever."
+    },
+    "extracted_at": "2026-03-31"
   }
 }

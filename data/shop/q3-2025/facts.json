@@ -3,14 +3,32 @@
   "quarter": "Q3 2025",
   "company": "Shopify Inc.",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
-    "dim1_grade": "A-",
+    "dim1_grade": "A",
     "dim2_grade": "B",
     "dim3_grade": "B",
-    "dim4_grade": "C",
+    "dim4_grade": "C+",
     "dim5_grade": "B",
-    "composite_score": 2.925,
+    "composite_score": 2.915,
     "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "consumer_stress_tier": "Shoppers keep buying, they keep returning and demand remains really resilient across channels and categories... consumers are more selective right now and they're buying from brands they love.",
+      "services_demand": "Q3 GMV growth rate of 32%, representing the highest growth rate quarter that we've had since the COVID-impacted growth rates of 2021.",
+      "capex_direction": "Capital expenditures were $6 million for the quarter... for over 2 years, total head count has consistently been flat to down, both sequentially and year-over-year.",
+      "pricing_power": "We still see that our merchants have in the aggregate raised their prices some since the April tariff announcements in the U.S., but the level of pricing increases is, in fact, slightly lower than the trends that we were seeing last quarter.",
+      "management_tone_shift": "Revenue grew 27% in Q1 this year, 31% in Q2 and 32% in Q3. At the same time, free cash flow margin has held steady at 15% in Q1 to 16% in Q2 and 18% again in Q3."
+    },
+    "extracted_at": "2026-03-31"
   }
 }

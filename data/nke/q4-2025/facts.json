@@ -1,0 +1,32 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q4 2025",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "B",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B",
+    "composite_score": 2.71,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Sportswear declined in the quarter, driven by a near 40% reduction in our classic footwear franchises... traffic remains challenged.",
+      "pricing_power": "Gross margins declined 440 basis points to 40.3% on a reported basis due to higher wholesale discounts, higher discounts in our NIKE Factory Stores, supply chain cost deleverage and channel mix headwinds.",
+      "management_tone_shift": "We will continue navigating through several factors that create uncertainty in this operating environment, including for the consumer... we're going to take it 90 days at a time because we believe full recovery will take time."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

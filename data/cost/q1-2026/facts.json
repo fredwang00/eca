@@ -3,14 +3,31 @@
   "quarter": "Q1 2026",
   "company": "Costco Wholesale Corporation",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
-    "dim1_grade": "A-",
-    "dim2_grade": "B+",
+    "dim1_grade": "A",
+    "dim2_grade": "A-",
     "dim3_grade": "B",
     "dim4_grade": "B",
-    "dim5_grade": "B",
-    "composite_score": 3.25,
+    "dim5_grade": "B+",
+    "composite_score": 3.38,
     "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "consumer_stress_tier": "We've been really in that consistent range... nothing that we'd call out that we're seeing as a change in member behavior... our value is resonating with them.",
+      "capex_direction": "We estimate capital expenditure for the full year will be approximately $6.5 billion... we are making additional investments to support a higher number of new warehouse openings, increased warehouse remodels, depot network expansion, and digital.",
+      "pricing_power": "KS items typically offering 15 to 20% value compared to the national brand alternative with equal or better quality... our goal is to be the first to lower prices when we see opportunities to do so.",
+      "management_tone_shift": "Our average sales have been around that six and a half percent growth... really in that consistent range... there's a lot of consistency actually in what we're seeing."
+    },
+    "extracted_at": "2026-03-31"
   }
 }

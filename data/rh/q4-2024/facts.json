@@ -1,0 +1,33 @@
+{
+  "ticker": "RH",
+  "quarter": "Q4 2024",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "decelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "People buy less things in a bad market and they will buy more things on sale... in 2008-09, Great Recession, everybody in our category sales went down 35% to 40%\u2014we promoted more and were able to stabilize to down 15%.",
+      "capex_direction": "We may consolidate to fewer vendors... I'd say just cut back on receipts until we have clarity... there might be some [new concept] delays... the investments get delayed and the complexity gets delayed.",
+      "pricing_power": "We dealt with tariffs out of China\u2014you figure out how to be more efficient... there will be concessions on the manufacturing side, there'll be some concessions on our end.",
+      "management_tone_shift": "While we expect a higher risk business environment this year, due to the uncertainty caused by tariffs, market volatility, and inflation risk... the housing market actually got kind of worse for a period there... there's a good chance the housing market slows a little bit from here."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

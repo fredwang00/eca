@@ -1,0 +1,34 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q2 2025",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 3.05,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Our personal loan borrowers have a weighted average income of $161,000 and a weighted average FICO score of 743... The health of our consumer remains strong and we're not seeing any signs of weakness.",
+      "credit_quality_trend": "The on-balance sheet 90-day delinquency rate was 42 basis points in the quarter, a decrease of 4 basis points sequentially. The annualized charge-off rate also declined to 2.83% versus 3.31% in the prior quarter.",
+      "capex_direction": "The greatest increase in the spending in the back half of the year is in our engineering product and design areas... we're hiring significantly in crypto... we're spending a lot incrementally on AI.",
+      "pricing_power": "We're already leaders in the personal loan market with roughly 15% of the prime segment... we launched a new personal loan product for prime credit card customers that carry a revolving balance and are making mostly interest-only payments.",
+      "management_tone_shift": "We now expect adjusted net revenue of approximately $3.375 billion, above our prior guidance of $3.235 billion to $3.310 billion... we remain even more confident in the aggregate outlook of 25% or more compounded annual revenue growth."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

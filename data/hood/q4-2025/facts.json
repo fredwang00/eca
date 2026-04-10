@@ -1,0 +1,33 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q4 2025",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.4,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Trading volumes grew to new highs across equities, options, futures, and event contracts, as we continue to win market share and saw record net buying from our customers.",
+      "capex_direction": "About 10 percentage points or more than half of the 18% growth is into new and scaling businesses... Robinhood Gold Card, Robinhood Banking, strategies, prediction markets, Cortex, Robinhood Social, Robinhood Ventures, the Robinhood Chain, tokenized real-world assets, and continuing international expansion.",
+      "pricing_power": "Just to give you a little bit of color in January, to start the year, we are about five basis points lower relative to the average rebate rate we saw in Q4.",
+      "management_tone_shift": "We realize we underestimated what we could do in one year, not to mention ten years... 2026 is shaping up to be much bigger."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

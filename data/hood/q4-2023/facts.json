@@ -1,0 +1,33 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q4 2023",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "B-",
+    "dim5_grade": "C+",
+    "composite_score": 2.655,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "January net deposits were nearly $4 billion, of which about one-third was net positive transfers in from other brokers. That January result was the highest monthly total since the first half of 2021.",
+      "capex_direction": "We are planning to spend up to about $100 million more in marketing in 2024... we have a plan to take [core costs] down high-single-digits, perhaps even 10%, and redirecting that spend to fund new growth initiatives.",
+      "pricing_power": "Gold subscribers are up 25% year-over-year to 1.42 million... the $5 a month it's just a screaming deal. We want it to be obvious for every customer that they should be a Gold subscriber.",
+      "management_tone_shift": "We've already exceeded [the $1.3B Q4 brokerage transfer total] halfway through Q1... we've already grown more in the first half of Q1 than we did in each of the last eight quarters."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

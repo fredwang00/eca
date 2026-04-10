@@ -1,0 +1,32 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q2 2023",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C",
+    "dim4_grade": "C+",
+    "dim5_grade": "C+",
+    "composite_score": 2.53,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "strong",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "consumer_stress_tier": "New guest cohorts are performing and behaving very similar to how that cohort has behaved in past quarters, past years \u2014 no trade-down or stress signals cited.",
+      "pricing_power": "AUR discussion framed as moving into a higher AUR zone with newness; no promotional or markdown pressure cited in forward guidance.",
+      "management_tone_shift": "Results exceeded expectations across all geographies with no guidance revision language suggesting caution; tone consistent with prior quarters of the Power of Three x2 cycle."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

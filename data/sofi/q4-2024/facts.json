@@ -1,0 +1,33 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q4 2024",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "B",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.785,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "credit_quality_trend": "Our credit trends continue to improve after seeing delinquencies peak in the first quarter of '24... the annualized charge-off rate declined to 3.37% versus 3.52% in the prior quarter... the gap between the newer cohort curve and the 2017 cohort curve widened by 15 basis points, demonstrating continued improvement.",
+      "capex_direction": "In 2025, we're just tilting the balance back... that allows us to ensure we're investing today to drive durable growth beyond today into the future in revenue, in products and in members... [Credit Card] will continue to be losing significant amounts of money in the tens of millions of dollar range.",
+      "pricing_power": "Financial Services revenue per product increased from $59 in the fourth quarter of '23 to $81 in the fourth quarter of '24... we are still under monetized in Invest, so there's opportunity.",
+      "management_tone_shift": "We entered 2025 with the best business environment we've had in my time at SoFi... we couldn't be more confident in the long-term outlook for the company."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

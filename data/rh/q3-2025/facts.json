@@ -1,0 +1,33 @@
+{
+  "ticker": "RH",
+  "quarter": "Q3 2025",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "A",
+    "composite_score": 2.95,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "decelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "We are gaining share from the better furniture base national brands... while the worst housing market in almost fifty years continues to suppress transaction volumes across the category.",
+      "capex_direction": "We talked about reduction in capital spending last call... there's building blocks to maintain positive cash flow going forward.",
+      "pricing_power": "We've taken a lot of price increases this year... the customer is gonna have to conform. Things cost more. That's what happens.",
+      "management_tone_shift": "Not a time to underestimate risk... there could be a whole new round of tariffs... it's gonna be predictably unpredictable."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

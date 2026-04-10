@@ -1,0 +1,32 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q2 2024",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.0,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Traffic was up across both channels and Google search queries remain positive. Guests are looking for our product, coming into our stores and visiting our e-commerce sites.",
+      "pricing_power": "Markdowns were flat versus the prior year and better than expected.",
+      "management_tone_shift": "Our full-year revenue guidance acknowledges the uncertainty around the shorter holiday shopping season and the U.S. election in quarter four."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

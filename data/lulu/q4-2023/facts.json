@@ -1,0 +1,32 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q4 2023",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.65,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "In the U.S. is where we're really navigating the dynamic retail environment with the consumer. That is a little soft coming into the year.",
+      "pricing_power": "The slowdown we're experiencing in the U.S. is fairly broad-based... we have identified some opportunities on color and on women sizing.",
+      "management_tone_shift": "We've seen a slower start to Q1 in the U.S. while we continue to see strength in all other regions."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

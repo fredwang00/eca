@@ -1,0 +1,33 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q1 2025",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.635,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "My sense is that in the U.S., consumers remain cautious right now, and they are being very intentional about their buying decisions.",
+      "capex_direction": "We are managing expenses prudently while also continuing to invest to drive long-term growth... new store openings and optimizations, new market entries, growing brand awareness.",
+      "pricing_power": "We are planning to take strategic price increases, looking item by item across our assortment... price increases on a small portion of our assortment, and they will be modest in nature.",
+      "management_tone_shift": "Given the uncertainties in the macro environment, our approach to planning remains balanced... we feel it is prudent to tick up our forecast slightly on the markdown line."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

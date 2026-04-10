@@ -1,0 +1,31 @@
+{
+  "ticker": "RH",
+  "quarter": "Q1 2024",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "You always are going to have a higher degree of sale goods in a down market always. And because just demand's slower, you're going to have more markdowns.",
+      "capex_direction": "Our platform expansion plans for 2024 include the opening of five North American Design Galleries... two international galleries... our first RH Interior Design Studio.",
+      "pricing_power": "We feel like we're in a really good place. We feel for our design and our quality, we're at really good values. And in some cases, we're at disruptive values.",
+      "management_tone_shift": "Our view is probably a little bit more negative than it was a quarter ago... I think it may not be until '25 or second quarter '25 maybe [for housing recovery]."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

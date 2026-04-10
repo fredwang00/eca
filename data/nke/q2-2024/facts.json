@@ -1,0 +1,32 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q2 2024",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "C",
+    "composite_score": 2.25,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "We are seeing indications of more cautious consumer behavior around the world in an uneven macroenvironment... we saw softness in digital traffic and higher levels of promotional activity across the marketplace.",
+      "pricing_power": "Our higher-priced products, in particular, have been resilient with our $100 plus footwear models driving strong growth in units sold across the marketplace \u2014 but overall we have maintained lower markdown rates than many of our competitors.",
+      "management_tone_shift": "Looking forward, the impact of these risks is becoming clear. And as a result, we are adjusting our full-year financial outlook... we are taking a more prudent approach to our planning for the balance of the year given the increased macro headwinds."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

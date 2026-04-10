@@ -1,0 +1,32 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q2 2026",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Classic footwear franchises declining approximately 20% year over year... Sportswear saw sequential improvement up low single digits... consumers are choiceful across price points with performance and value channels gaining share over premium lifestyle.",
+      "pricing_power": "Our brands have consistently been off-price for consumers, especially in digital, affecting our premium positioning across the entire integrated marketplace \u2014 higher mix of off-price sales, higher markdowns, higher wholesale discounts.",
+      "management_tone_shift": "We're gonna continue to take it ninety days at a time for now, to give ourselves the flexibility to make the right decision for the long-term health of our brands \u2014 and we expect headwinds to continue for the balance of the fiscal year."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q1 2025",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.635,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Our personal loan borrowers have a weighted average income of $158,000 and a weighted average FICO score of 743... the American consumer is actually doing quite well, and we haven't seen signs that cause us to get a bit concerned.",
+      "credit_quality_trend": "For personal loans, the on balance sheet 90 day delinquency rate was 46 basis points in the quarter, a decrease of 9 basis points sequentially. The annualized charge off rate also declined to 3.31% versus 3.37% in the prior quarter.",
+      "capex_direction": "We are stepping on the gas to launch new products faster and iterate to improve our existing products at an even more rapid pace. The opportunity in front of us is too massive to risk under investing to capture it.",
+      "pricing_power": "Our incremental EBITDA margin was 35% as we continue to reinvest in the business... financial services revenue per product increased from $59 in the first quarter of 2024 to $88 in the first quarter of 2025.",
+      "management_tone_shift": "We didn't see any slowdown. When the tariff and volatility stuff happened, there was no slowdown. In fact, people are moving just as fast and it was a pleasant surprise."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

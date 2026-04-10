@@ -3,14 +3,32 @@
   "quarter": "Q4 2025",
   "company": "Target Corporation",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
     "dim1_grade": "B",
     "dim2_grade": "B",
-    "dim3_grade": "C+",
+    "dim3_grade": "B",
     "dim4_grade": "C",
     "dim5_grade": "B",
-    "composite_score": 2.575,
-    "composite_grade": "C+"
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "stable",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Sales trends have improved in recent months... top line performance accelerated further in February, resulting in very healthy top line growth \u2014 no language of consumer stress or trade-down behavior; management frames growth as broad-based",
+      "services_demand": "Same-day delivery was up more than 30% last year, and our Target Circle 360 membership doubled \u2014 strong service demand but no acceleration signal beyond existing trend",
+      "capex_direction": "We continue to expect that full year capital expenditures will be approximately $5 billion in 2026, up more than $1 billion from last year",
+      "pricing_power": "In any place we can bring more value through lower price, we'll lean in and do it... even this last fourth quarter, we talked about lowering price on 3,000 frequently purchased items",
+      "management_tone_shift": "I am very confident in our ability to get back to profitable growth this year and deliver strong returns to shareholders in 2026 and beyond \u2014 notably more bullish than the cautious framing of the prior year's communications"
+    },
+    "extracted_at": "2026-03-31"
   }
 }

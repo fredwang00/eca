@@ -1,0 +1,33 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q1 2024",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B-",
+    "composite_score": 2.52,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "consumer_stress_tier": "Sport is growing and the consumer is proving to be resilient... we saw momentum building throughout the quarter, heading into back-to-school.",
+      "capex_direction": "We continue to expect SG&A to slightly outpace revenue growth... more specifically at the high end of mid-single digits.",
+      "pricing_power": "NIKE Brand ASPs are up across footwear and apparel across all geographies as we focus on the price value of our products.",
+      "management_tone_shift": "Our Q1 results reaffirm our expectation for healthy profitable growth this fiscal year. For the full year, we continue to expect reported revenue to grow mid-single digits."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

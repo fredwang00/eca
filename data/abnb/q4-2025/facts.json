@@ -3,14 +3,31 @@
   "quarter": "Q4 2025",
   "company": "Airbnb, Inc.",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
-    "dim1_grade": "B+",
+    "dim1_grade": "A",
     "dim2_grade": "B",
-    "dim3_grade": "C+",
-    "dim4_grade": "C+",
-    "dim5_grade": "B-",
-    "composite_score": 2.65,
-    "composite_grade": "B-"
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.25,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "We saw a slightly better macroeconomic environment than anticipated... our product road map delivered material lift to the business.",
+      "services_demand": "Nights and seats booked grew 10%, our strongest quarter of the year... Reserve Now, Pay Later saw significant adoption... contributing to the increase in ADR.",
+      "pricing_power": "Hosts on a single service fee can adjust their prices to maintain the same net earnings while guests continue to see the full price upfront... many of the hosts did not take up their rate.",
+      "management_tone_shift": "This was our highest growth quarter in more than 2 years... we're encouraged by healthy demand and execution across our growth initiatives... NPS is the strongest it's been since the pandemic by far."
+    },
+    "extracted_at": "2026-03-31"
   }
 }

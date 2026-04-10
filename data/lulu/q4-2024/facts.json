@@ -1,0 +1,33 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q4 2024",
+  "company": "Lululemon Athletica Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.65,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Based on a survey we conducted earlier this month in conjunction with Ipsos, consumers are spending less due to increased concerns about inflation and the economy. This is manifesting itself into slower traffic across the industry in the U.S. in quarter one.",
+      "capex_direction": "We plan to grow square footage by approximately 10%, which will be driven by new store openings and our ongoing optimization program \u2014 in line with our Power of Three x2 target of low-double-digits.",
+      "pricing_power": "We'll continue to look across our cost structure as well as to pricing, should the environment change \u2014 approximately 20 basis points of tariff headwind embedded in guidance with no current pricing action taken.",
+      "management_tone_shift": "We also acknowledge the uncertainty in the retail environment as the consumer is navigating a dynamic macro environment... we continue to be thoughtful in our planning."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

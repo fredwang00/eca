@@ -1,0 +1,33 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q3 2024",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.25,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Our personal loan borrowers' weighted average income is $164,000 with a weighted average FICO score of 746 \u2014 no stress signals in borrower quality or deposit behavior.",
+      "credit_quality_trend": "Our on-balance sheet 90-day personal loan delinquency rate was 57 basis points in the quarter, a decrease from 64 basis points in Q2, which is further evidence of surpassing a peak in Q1.",
+      "pricing_power": "We've been able to maintain pricing in down rate environments due to the quality of our product... we're now generating close to $400 million in origination fees annually.",
+      "management_tone_shift": "Today, we face fewer headwinds than any point in our history. We're heading into 2025 with the most favorable conditions of the last seven years."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

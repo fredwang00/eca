@@ -1,0 +1,33 @@
+{
+  "ticker": "RH",
+  "quarter": "Q4 2023",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "RH targets wealthy and affluent consumers; no stress signals present. Management describes pent-up demand and a frozen market awaiting rate relief, not a demand destruction environment: 'There's pent up demand. And I think that's a good thing when you look at it.'",
+      "capex_direction": "International gallery openings (Brussels, Madrid, Newport Beach, Palo Alto, Raleigh, Montecito, Cleveland), RH Sydney development, and Waterworks showroom expansion represent accelerating platform investment: 'Our plan to expand the RH brand globally, address new markets locally, and transform our North American galleries represents a multi-billion dollar opportunity.'",
+      "pricing_power": "Management is actively sharpening the value equation after acknowledging prior pricing arrogance, suggesting pricing power is present but being deliberately moderated to gain share: 'I think we were arrogant about pricing... everything has to go through a lens of design quality value in that order.'",
+      "management_tone_shift": "Management is materially more confident than implied by the prior year's cautious posture, citing specific product launches, demand data, and a multi-quarter transformation thesis: 'We are highly confident. We think we have enough data and information to read... we believe we're going to deliver these numbers or more.'"
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

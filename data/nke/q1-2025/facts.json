@@ -1,0 +1,32 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q1 2025",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B+",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "C+",
+    "composite_score": 2.94,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Traffic declines across NIKE Direct were more significant than we anticipated... this included the back-to-school period as our results underperformed the market.",
+      "pricing_power": "Slightly elevating marketplace inventories requiring higher levels of promotional activity in Q1 to drive conversion... we've taken into consideration a more muted point of view on retail sales trends and also the gross margin implications of needing to not only be more promotional.",
+      "management_tone_shift": "A comeback at this scale takes time. And while there are some early wins, we have yet to turn the corner... we've moderated our near-term expectations for China for the remainder of this year."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

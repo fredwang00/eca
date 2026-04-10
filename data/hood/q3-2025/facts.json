@@ -1,0 +1,33 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q3 2025",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "October was a strong month across the business. We saw continued momentum in net deposits, new records set across equities, options, prediction markets, and margin and a nice step-up in crypto volumes.",
+      "capex_direction": "This also incorporates some increased investment in new growth areas like Prediction Markets and Robinhood Ventures... we're approaching [2026] the same way... invest for growth while delivering profitable growth.",
+      "pricing_power": "The blended take rate is kind of in the high $0.60 zone... smart exchange routing really unlocks [competitive pricing] for those that are super active and bringing a ton of volume.",
+      "management_tone_shift": "We are not slowing down. The team remains incredibly excited to continue our mission, and there's so much to do. Roadmap is full."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q3 2025",
+  "company": "SoFi Technologies, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C+",
+    "dim5_grade": "B",
+    "composite_score": 2.945,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Our personal loan borrowers have a weighted average income of $157,000 and a weighted average FICO score of 745... net charge-off rates improve, even as there has been moderate signs of stress showing up for some other companies.",
+      "credit_quality_trend": "For personal loans, the annualized charge-off rate declined by more than 20 basis points to 2.6% from 2.83% in the prior quarter.",
+      "capex_direction": "I would like to invest a lot more than we're investing... we've hired a lot more people in 2025 than we set out at the beginning of the year... we are stepping on the gas to accelerate the investment in our existing businesses.",
+      "pricing_power": "In down-rate environments, we've been able to maintain solid pricing above where rates have gone... NIM was 5.84% for the quarter, down 2 basis points sequentially.",
+      "management_tone_shift": "I've never been more optimistic about our prospects than I am today... I'm more confident than ever that our strategy and our execution will continue to deliver our sustainable competitive advantage."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

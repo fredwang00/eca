@@ -1,0 +1,33 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q2 2025",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C",
+    "dim5_grade": "B-",
+    "composite_score": 2.65,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Equity and options trading volumes are setting new monthly records... crypto volumes for both Robinhood and for Bitstamp are at 6-month highs.",
+      "capex_direction": "We ask existing businesses to improve process and use technology so that their cost growth stays in the low single digits... adjusted OpEx and SBC was up just 6% year-over-year.",
+      "pricing_power": "Just last week, we moved the rebate rate to 85 bps... the blended rate at 58 basis points in Q2; in July, kind of in the mid-60s.",
+      "management_tone_shift": "I tend not to really worry about competitors unless they have a product in market that's actually beating us... this is probably the least diversified you should ever see Robinhood."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

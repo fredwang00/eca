@@ -3,14 +3,31 @@
   "quarter": "Q3 2025",
   "company": "Opendoor Technologies Inc.",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
     "dim1_grade": "B",
-    "dim2_grade": "B",
-    "dim3_grade": "B-",
-    "dim4_grade": "C+",
+    "dim2_grade": "A-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C",
     "dim5_grade": "B",
-    "composite_score": 2.815,
-    "composite_grade": "B"
+    "composite_score": 2.65,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": "softening",
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "weak",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "housing_demand": "Home prices have increased by something like 50% since 2020. Mortgage rates are much higher than they used to be. Housing inventory is far too low. Typical sale is taking like 60-plus days and like 1 in 7 deals are falling through.",
+      "capex_direction": "We expect fourth quarter 2025 acquisitions to increase by at least 35% from Q3 as our product launches and pricing strategy changes take hold.",
+      "pricing_power": "We started reducing our average spread while increasing our operational rigor and selection, stronger offers for high velocity, high-quality homes.",
+      "management_tone_shift": "I am more bullish today than I was when I took this job. And I think we're going to actually make a change and make a real difference in the future of homeownership in this country."
+    },
+    "extracted_at": "2026-03-31"
   }
 }

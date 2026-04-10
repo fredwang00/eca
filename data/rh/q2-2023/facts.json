@@ -1,0 +1,32 @@
+{
+  "ticker": "RH",
+  "quarter": "Q2 2023",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "A-",
+    "dim3_grade": "B",
+    "dim4_grade": "C+",
+    "dim5_grade": "A",
+    "composite_score": 2.95
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "weak",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "We believe our new collections reflect a level of design and quality inaccessible in our current market and a value proposition that will be disruptive across multiple markets \u2014 context: management explicitly acknowledges prior pricing was too high ('we were arrogant looking back') and is deliberately repositioning price points downward to recapture demand from a stressed luxury housing customer base",
+      "capex_direction": "Our plan to open immersive Design Galleries in every major market... we continue to plan opening RH Indianapolis and RH Cleveland in the second half of this year \u2014 international and domestic gallery pipeline is active but no step-change in capital intensity disclosed; new design studios are low-capital-intensity format",
+      "pricing_power": "I think we probably were a bit arrogant looking back... we're going to be very aggressive [on pricing]... we're going to use the size and strength of our platform and the leverage it gives us to be disruptive from a pricing point of view",
+      "management_tone_shift": "I think we've never been more excited about the future... we've set up better than we've ever been set up in the history of the business... I think we'll have the biggest inflection point we've ever had"
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

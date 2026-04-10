@@ -3,14 +3,31 @@
   "quarter": "Q4 2025",
   "company": "JPMorgan Chase & Co.",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
     "dim1_grade": "A",
-    "dim2_grade": "A",
+    "dim2_grade": "A-",
     "dim3_grade": "B",
     "dim4_grade": "B",
-    "dim5_grade": "A",
-    "composite_score": 3.65,
-    "composite_grade": "A"
+    "dim5_grade": "A-",
+    "composite_score": 3.25,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "stable",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": null,
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Consumers and small businesses remain resilient... trends in our data are largely consistent with historical norms and we are not currently seeing deterioration. Cross income groups, debit and credit sales volume continued to perform well, up 7% year on year.",
+      "credit_quality_trend": "At a high level, I would say nothing that concerning... in wholesale, tend to be a lot more lumpy. And, you know, any given moment, you don't know whether something is idiosyncratic or the a sign of a larger trend. But at a high level, I would say nothing that concerning.",
+      "capex_direction": "We expect 2026 adjusted expense to be about $105 billion. Broadly, the expense growth continues to align with where we see the greatest opportunities across our businesses.",
+      "management_tone_shift": "When we look through the cycle, as well as some optimism about the near-term revenue outlook... the environment is only getting more competitive, and so it remains critical that we are making the necessary investments to secure our position."
+    },
+    "extracted_at": "2026-03-31"
   }
 }

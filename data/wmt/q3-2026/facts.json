@@ -3,14 +3,31 @@
   "quarter": "Q3 2026",
   "company": "Walmart Inc.",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
     "dim1_grade": "A",
-    "dim2_grade": "A-",
+    "dim2_grade": "A",
     "dim3_grade": "B",
     "dim4_grade": "B",
-    "dim5_grade": "B",
-    "composite_score": 3.33,
-    "composite_grade": "B+"
+    "dim5_grade": "A",
+    "composite_score": 3.65,
+    "composite_grade": "A"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "strong",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "consumer_stress_tier": "When we look by low-income cohort versus middle versus higher income, we have seen some moderation in spending in the low income cohort... the disparity in wage growth between those cohorts was as large as it's been in almost a decade.",
+      "capex_direction": "The investments to automate our supply chain continue to go well. The team is delivering according to plan... we'll take a disciplined measured approach to those investments.",
+      "pricing_power": "We have about 7,400 active rollbacks in Walmart U.S. right now... since the beginning of the year, more than 2,000 rollbacks have become the new everyday price.",
+      "management_tone_shift": "The quarter was actually quite consistent. When we look across the entire business, there wasn't necessarily 1 month that was an outlier... our outlook into the fourth quarter [is] pretty similar to the other quarters this year."
+    },
+    "extracted_at": "2026-03-31"
   }
 }

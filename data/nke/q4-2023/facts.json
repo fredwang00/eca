@@ -1,0 +1,33 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q4 2023",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.65,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Strong consumer demand drove total retail sales across the marketplace up double-digits versus the prior year.",
+      "capex_direction": "We will continue to increase investment in innovation...we expect SG&A to grow slightly above revenue as we increase investment in demand creation and invest in capabilities to transform NIKE's operating model.",
+      "pricing_power": "Our top franchises drove strong full price sales with mid-single-digit price increases...we are planning for low-single-digit price increases in fiscal 2024.",
+      "management_tone_shift": "We are entering fiscal 2024 on our front foot, ready to navigate any uncertainty that may be ahead of us, and ready to compete from a position of strength."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

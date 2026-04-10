@@ -1,0 +1,32 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q1 2024",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.635,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We are making a really big step up in marketing, about $100 million year-over-year is our plan to spend in marketing versus last year.",
+      "pricing_power": "Gold subscribers had 8 times the assets with an average of over $40,000, grew net deposits roughly twice as fast, and had 5 times the retirement account adoption... Gold ARPU is also multiples of our average customer.",
+      "management_tone_shift": "We've already brought in more net deposits year-to-date than the $17 billion we did in all of 2023, with most of the year still in front of us."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

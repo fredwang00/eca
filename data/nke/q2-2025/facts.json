@@ -1,0 +1,32 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q2 2025",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B+",
+    "dim3_grade": "A-",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.18,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Traffic and retail sales across the marketplace falling below our expectations, especially in September and October... our digital platforms were delivering roughly a 50/50 split of full price to promotional sales.",
+      "pricing_power": "Gross margins declined 100 basis points to 43.6% on a reported basis, due to higher markdowns on NIKE Direct, wholesale discounts to liquidate inventory... we've become far too promotional.",
+      "management_tone_shift": "I recognize that some of these actions will have a negative impact on our near-term results... we expect a greater headwind in the fourth quarter compared to the third quarter."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

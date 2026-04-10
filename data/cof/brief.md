@@ -1,118 +1,130 @@
-# Capital One Financial Corporation (COF) — Institutional Brief
-
-**Coverage: Q2 2023 – Q4 2025 | 10 Quarters**
+# Capital One Financial Corporation (COF) — Earnings Call Brief
+## Q2 2023 through Q4 2025 (9 Quarters)
 
 ---
 
 ## Candor Trajectory
 
-**Grade progression:** B (2.85) → B+ (3.39) → B (2.85) → B- (2.45) → B+ (3.31) → B+ (3.40) → A (3.65) → A- (3.40) → A (3.65) → B+ (3.295)
+| Quarter | Composite | Key Inflection |
+|---------|-----------|----------------|
+| Q2 2023 | B (2.85) | Baseline |
+| Q3 2023 | B+ (3.39) | **First inflection up** — Fairbank's proactive resistance to bullish pressure ("head fake" framing) signals analyst responsiveness |
+| Q4 2023 | B (2.85) | Pullback — marketing/tech FOG concentration offsets strong credit disclosure |
+| Q1 2024 | B- (2.45) | **Trough** — Discover deal opacity, truncated answers, weakest FOG score in the series |
+| Q2 2024 | B+ (3.31) | Recovery — transparent Walmart disaggregation, strong Q&A responsiveness |
+| Q3 2024 | B+ (3.40) | Sustained — self-correction under questioning, voluntary dual reporting of adjusted metrics |
+| Q4 2024 | A (3.65) | **Second inflection up** — "area under the curve" credit framework, explicit prior-choice accountability, 20 consecutive months of second-derivative improvement disclosed |
+| Q1 2025 | A- (3.40) | Moderate pullback from A — Discover integration deferral pattern dominates |
+| Q2 2025 | B (2.90) | **Post-close dip** — first Discover quarter; "somewhat higher than $2.8B" integration costs without range, vision passages drift aspirational |
+| Q3 2025 | A (3.65) | **Third inflection up** — voluntary brownout disclosure, specific capital target (11% CET1), $16B repurchase authorization |
+| Q4 2025 | B+ (3.12) | Brex opacity pulls score down — strategic logic strong, financial framework for $5.15B transaction entirely absent |
 
-**Direction:** Improving with two named inflection points and one late-stage regression.
-
-**Inflection 1 — Q4 2023 (stabilization):** After a competent but compressed Q2 2023 baseline, Q3 2023 marked the first meaningful quality jump (B → B+) driven by Fairbank's explicit resistance to analyst-induced bullishness ("head fake" language) and the first use of benchmarked, falsifiable credit assumptions. Q4 2023 held at B despite strong credit communication, held back by recurring FOG in technology and marketing passages.
-
-**Inflection 2 — Q1 2024 (trough):** The acquisition announcement quarter produced the weakest call in the series (B-, 2.45). Fairbank deployed repeated belief-assertions on the Discover deal with no supporting evidence, answers were visibly truncated mid-sentence, and the CFPB late fee impact was acknowledged as "significant" without any quantification of a known, dated regulatory event. The strategic clarity grade fell to B- — the only time it dropped below B across the full series.
-
-**Inflection 3 — Q4 2024 / Q3 2025 (peak):** Two calls reached A (3.65). Q4 2024 was distinguished by explicit prior-choice accountability on auto underwriting, the "area under the curve" delayed charge-off framework stated with honest measurement limits, and quantified seasonality mechanics. Q3 2025 matched that score through proactive "brownout" disclosure on Discover card growth, voluntary macro risk enumeration, and segment-level allowance decomposition. Both peak calls share the same structural feature: Fairbank voluntarily disclosed a problem or constraint in the middle of otherwise strong results.
-
-**Late regression — Q4 2025 (B+, 3.295):** The Brex acquisition announcement introduced a new disclosure gap. The CFO declined to provide EPS dilution magnitude, earnback timeline, or IRR on a $5.15B deal with 80% goodwill. FOG concentration in the Brex rationale (roughly 2,500 words of prepared and Q&A remarks) drove the FOG dimension to B-, the lowest since Q1 2024. The regression mirrors the Q1 2024 pattern: a new strategic transaction produces aspirational framing that displaces the quantitative discipline visible in the operating business discussion.
+**Direction:** Improving overall, with two structural dips at moments of major undisclosed complexity (Q1 2024 = Discover regulatory opacity; Q2 2025 = first post-close quarter). The A achieved in Q4 2024 and Q3 2025 represents genuine high-water marks. The Q4 2025 score reflects a recurring pattern: when a new transaction is announced, disclosure density on that transaction drops to near-zero while narrative confidence stays high.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-No named counterparty contracts with disclosed values appear in the earnings call transcripts beyond acquisitions and completed transactions:
-- **Discover Financial acquisition:** Announced February 2024, closed May 18, 2025. Purchase price implied by regulatory filings; Q4 2024 call references $15B EPS accretion timing and $175B network volume migration target as the deal model anchors.
-- **Walmart co-brand termination:** Effective 2024. Walmart agreement termination generated a one-time $826 million allowance build (Q2 2024) and eliminated the revenue-sharing structure that inflated reported NIM. The charge-off rate adjustment was 19 basis points at close, rising to 42 basis points in Q1 2025.
-- **Discover home loans portfolio sale:** $8.8 billion portfolio sold in Q4 2025, generating a net gain of $483 million.
-- **Brex acquisition:** Announced Q4 2025, purchase price of $5.15 billion with $950 million in transaction costs and incremental investments. Close pending; no close-date commitment on record.
+No named counterparty contracts with disclosed values appear in the earnings call record beyond:
+- **Walmart partnership termination** — agreement ended, loss sharing concluded; impacted charge-off rate quantified at +42bps in Q1 2025, NIM impact disclosed across multiple quarters
+- **ING Direct acquisition** (historical, 2012) — referenced as the founding event of the national bank strategy; outcomes now measurable in deposit balances
+- **Discover Financial acquisition** — closed May 18, 2025; consideration not re-disclosed on calls; Day 1 purchase accounting marks provided: $220M domestic card loans, $114M personal loans, $30M deposits, $10.3B purchase credit card relationship intangibles, $1.5B network relationship intangibles, $1B core deposit intangibles
+- **Brex acquisition** — announced Q4 2025 call; price $5.15B plus $950M in transaction costs and incremental investments; 40bps CET1 dilution confirmed; not yet closed as of the call date
 
 ### Aspirational
-- **Discover deal earnings power:** "The earnings power of our combined company that we envision on the other side of the deal integration is consistent with what we assumed at the time of our deal announcement." Repeated across Q3 2025 and Q4 2025 without updated financial specifics. Original deal model EPS accretion figure (15%) and $175B network volume target referenced in Q4 2024 but not re-affirmed with updated assumptions post-close.
-- **$2.5B net synergy target:** Cited consistently since deal announcement. Integration costs acknowledged as "somewhat higher than $2.8 billion" original estimate in Q2 2025 and Q3 2025 without a revised figure. Synergy realization described as back-loaded to platform conversion events, with some conversions "coming closer to the end of integration." No annual realization schedule disclosed.
-- **24-month synergy run-rate:** "We continue to believe that we'll achieve the synergies run rate in about 24 months following the May 18 closing date." Establishes an approximately May 2027 falsifiable endpoint. Not updated in Q4 2025.
-- **International network acceptance build:** Described as a "multiyear journey" prerequisite before global brand investment. No acceptance country count, transaction volume target, or partnership milestone disclosed across any quarter.
-- **Brex growth acceleration:** "Capital One can accelerate Brex's growth almost from day one." No origination, customer addition, or purchase volume targets disclosed.
-- **AI/technology transformation payoff:** "700 basis points of improvement" in efficiency ratio since 2013 attributed to technology transformation (Q1 2025), but no forward capability deliverable, revenue inflection point, or AI deployment timeline specified.
-- **National bank strategy:** "Thin physical distribution plus massive full-service digital capability" built over 12 years. No disclosed customer acquisition target, deposit account penetration rate, or branch reduction schedule.
+- **Discover synergies:** $2.5B net synergies stated at deal announcement, restated on every subsequent call without quarterly phasing, without year-by-year schedule, and without a revised integration cost figure beyond "somewhat higher than $2.8B"
+- **Network volume migration:** $175B network volume target referenced at deal announcement; never updated or phased on any subsequent call
+- **24-month synergy run-rate:** Referenced as "approximately 24 months following the May 18 closing date" — implies ~May 2027 delivery; no interim milestones disclosed
+- **Debit conversion:** "Majority of customers on Discover network by Q4 2025"; "largely completed in early 2026"; "nearly complete" as of Q4 2025 call — directional, no customer count provided
+- **Credit card origination on Discover network:** "By the middle of 2026" — binary, time-bound, not yet verified
+- **Efficiency ratio:** "Low 42s" delivered for 2024 (reported 42.35%); no comparable anchor for 2025 despite multiple analyst requests across three consecutive quarters
+- **Capital return:** CET1 long-term target of 11% disclosed Q3 2025; $16B repurchase authorization disclosed; pace described as "stepping up" without a quarterly rate commitment
+- **Brex integration:** "Accelerate Brex's growth almost from day one"; no revenue, profitability, customer count, or earn-back metrics disclosed; EPS dilution confirmed, timeline not given
+- **CFPB late fee mitigation:** "Will gradually resolve within a couple of years" of May 14, 2024 implementation — no dollar magnitude, no mechanism specified; rule implementation and litigation outcomes not tracked in subsequent calls
 
 ---
 
 ## Capital Figures
 
-All figures from structured quarterly disclosures:
+All figures from structured financial disclosures; quarters noted.
 
-| Quarter | EPS (Reported) | EPS (Adjusted) | Pre-Provision Earnings | NIM | CET1 | Allowance Balance | Coverage Ratio | Net Charge-Off Rate | Buybacks |
-|---------|---------------|----------------|----------------------|-----|------|------------------|----------------|---------------------|---------|
-| Q2 2023 | $3.52 | — | $4.2B (+7% QoQ, +16% YoY) | — | — | — | — | — | — |
-| Q3 2023 | $4.45 | — | $4.5B (+7% LQ, +17% YoY) | 6.69% (+21bps LQ) | 13.0% (+30bps) | $15.0B | 4.75% | — | — |
-| Q4 2023 | $1.67 | $2.24 | — | 6.73% (+4bps LQ) | 12.9% | $15.3B | 4.77% (domestic card 7.63%) | — | — |
-| Q1 2024 | $3.13/share | — | — | — | — | — | — | — | — |
-| Q2 2024 | $1.38 | $3.14 | — (+7% LQ) | 6.70% (+1bp QoQ, +22bps YoY) | 13.2% | $16.6B | — | — | $150M |
-| Q3 2024 | — | — | — | 7.11% (+41bps LQ) | 13.6% (+40bps) | — | — | 5.61% (5.23% ex-Walmart) | — |
-| Q4 2024 | $2.67 | $3.09 | $4.1B (-13% LQ) | — | — | $16.3B | 4.96% (-20bps) | — | $150M |
-| Q1 2025 | $3.13/share | — | — | 6.93% | 13.6% | — | — | 6.19% (5.77% ex-Walmart) | $150M |
-| Q2 2025 | — | — | — | — | — | — | — | 5.25% (5.50% legacy COF) | — |
-| Q3 2025 | — | — | — | 8.36% (+74bps from Q2) | 14.4% (+40bps) | — | — | 4.63% | — |
-| Q4 2025 | — | $19.61 (FY) | — | — | — | — | — | 4.93% (+30bps LQ, -113bps YoY) | $2.5B |
+| Metric | Q2 2023 | Q3 2023 | Q4 2023 | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
+|--------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| EPS (reported) | $3.52 | $4.45 | $1.67 | $3.13 | $1.38 | — | $2.67 | — | — | — | $3.26 |
+| EPS (adjusted) | — | — | $2.24 | — | $3.14 | — | $3.09 | — | — | — | $3.86 |
+| Pre-provision earnings | $4.2B | $4.5B | — | — | — | — | $4.1B | — | — | — | — |
+| NIM | — | 6.69% | 6.73% | — | 6.70% | 7.11% | — | 6.93% | — | 8.36% | — |
+| CET1 | — | 13.0% | 12.9% | — | 13.2% | 13.6% | — | 13.6% | — | 14.4% | — |
+| Total allowance | — | $15.0B | $15.3B | — | $16.6B | — | $16.3B | — | — | — | — |
+| Allowance coverage | — | 4.75% | 4.77% | — | — | — | 4.96% | — | — | — | — |
+| Domestic card coverage | — | — | 7.63% | — | — | — | — | — | — | 7.28% | — |
+| NCO rate (domestic card) | — | — | — | — | — | 5.61% | — | 6.19% | 5.50% (excl. Discover) | 4.63% | 4.93% |
+| Buybacks | — | — | — | — | $150M | — | $150M | $150M | — | — | $2.5B |
+| Liquidity reserves | — | — | — | — | ~$123B | — | — | — | — | — | — |
+| Cash | — | — | — | — | — | $49B | — | — | — | — | — |
+| Home loan sale | — | — | — | — | — | — | — | — | — | — | $8.8B (gain: $483M) |
+| Allowance release | — | — | — | — | — | — | $245M | — | — | $760M | — |
 
-**Selected additional data points:**
-- Q3 2023: Unemployment assumption for allowance — mid-4s by mid-2024
-- Q4 2023: $289M FDIC special assessment; provision $2.9B ($2.5B NCO + $326M build); commercial office portfolio $2.3B remaining
-- Q2 2024: Walmart allowance build $826M; total liquidity $123B; stress capital buffer 5.5%
-- Q3 2024: Cash reserves $49B; Walmart NIM impact +12bps QoQ, +22bps YoY
-- Q3 2025: Allowance release $760M; $16B repurchase authorization; long-term CET1 target declared at 11%; dividend raised $0.60→$0.80
-- Q4 2025: Discover home loans sold for $8.8B, $483M gain; auto NCO rate 1.82%
+**Notes:** NIM jump from 7.11% (Q3 2024) to 8.36% (Q3 2025) reflects full-quarter Discover consolidation plus day count; 45bps of the sequential increase explicitly attributed to Discover. Charge-off rate comparison across 2025 quarters requires Walmart adjustment: Q1 2025 headline 6.19% = 5.77% ex-Walmart. Discover NCO rate "peaked about a quarter later" than Capital One's legacy portfolio per Q2 2025 disclosure.
 
 ---
 
 ## FOG Patterns
 
-**Recurring phrases across quarters:**
-- **"Lean into"** — appears in every quarter from Q2 2023 onward, including six to seven instances in Q4 2025. Functions as enthusiasm-signaling without investment magnitude. Never paired with a dollar amount or return threshold.
-- **"Compelling growth opportunities"** — used in prepared remarks in Q3 2024, Q4 2024, Q1 2025, Q2 2025, and Q3 2025. Unanchored to a benchmark in every instance.
-- **"Singular opportunity"** — introduced with the Discover announcement in Q1 2024 and repeated through Q3 2024. No criterion establishing what would make an opportunity non-singular.
-- **"Well positioned"** — persistent across the full series in contexts ranging from regulatory approval to network synergies. Functions as a status claim without evidence at the moment of assertion.
-- **"Earnings power remains consistent"** — introduced post-close in Q2 2025 and repeated in Q3 2025 and Q4 2025. Used in response to direct numerical questions; provides no basis for independent verification because the original deal model assumptions are not restated.
-- **"Working backwards from where winning is"** — introduced in Q2 2025, repeated in Q3 2025 and Q4 2025 as a strategic framework description. States the method without demonstrating its application to any specific current decision.
-- **"Modern technology"** — appears in acquisition contexts (Discover Q1–Q3 2024, Brex Q4 2025) without definition of the comparison set.
+**Recurring phrases across the series (with frequency assessment):**
 
-**Precision trajectory:** FOG is concentrated in two recurring contexts — new acquisition rationale and technology investment framing — while credit and financial metric discussion has consistently improved in precision from Q2 2023 through Q3 2025. The FOG Index dimension grades confirm this bifurcation: the operating business narrative earned A- in Q3 2023 and the credit discussion has been largely FOG-free since Q4 2023, but acquisition-related language scores C-level in isolation whenever a new transaction is announced. The Brex announcement in Q4 2025 produced the second-lowest FOG grade in the series (B-), matching Q1 2024's Discover announcement trough. This is a structural pattern, not a random variation.
+- **"Lean in" / "leaning in"** — appears in every quarter from Q2 2023 through Q4 2025; used to describe marketing, credit underwriting, auto originations, Discover card, AI investment, and Brex. Frequency escalated to 7+ instances in Q3 2025. The phrase carries no information about magnitude, direction, or stopping conditions.
+- **"Compelling growth opportunities"** — present in at least 7 of 9 quarters in nearly identical formulations. Never followed by a specific return metric.
+- **"We remain well-positioned"** — appears across every Discover-related discussion from Q1 2024 through Q4 2025; used for regulatory approval, integration, and competitive positioning; unfalsifiable by construction.
+- **"Singular opportunity"** — introduced Q1 2024 for Discover; repeated through Q4 2025 without evidence of singularity relative to other large-bank combinations.
+- **"Earnings power remains consistent with what we expected"** — first appears Q4 2024; repeated across Q1 2025, Q2 2025, Q3 2025, Q4 2025 as the response to any financial question about Discover deal progress. A qualitative assertion substituting for updated financial metrics.
+- **"Modern technology"** — used across Q3 2023 through Q4 2025 to describe both Capital One's and Discover's capabilities without definition of what makes either system "modern" or a metric against which modernity is measured.
+- **"Pulling way up"** — introduced Q1 2025, repeated 6+ times in Q2 2025 as a transitional phrase; functions as a verbal placeholder before strategic assertions that are less specific than the preceding discussion.
+- **"Positioned to win where the world is going"** — Q4 2025; pure temporal assertion with no falsifiable content.
+
+**Linguistic precision trend:** Degraded modestly from Q3 2023 (A- FOG grade) to Q4 2025 (B- FOG grade). The degradation is concentrated in acquisition-adjacent language — Discover commentary consistently scores 1–2 letter grades below the credit and financial discussions in the same call. FOG in the credit and allowance discussions remained consistently low throughout the series; Fairbank is precise when discussing things with measurable outcomes. The pattern is structural, not random: promotional language correlates with strategic announcements, not with operational performance.
 
 ---
 
 ## Flags & Risks
 
-**Disclosure architecture risks:**
-- **Integration cost overrun without magnitude.** "Somewhat higher than $2.8 billion" was first disclosed in Q2 2025 and repeated in Q3 2025 and Q4 2025 without a revised figure. Three consecutive quarters of acknowledging an overrun without quantifying it constitutes a disclosure gap on a material financial commitment. If the overrun is 5%, it is immaterial. If it approaches 30%, it is strategically significant. The current disclosure does not allow investors to determine which.
-- **Synergy realization schedule absent.** The $2.5B synergy figure has no disclosed annual split. With integration costs higher than estimated and synergies described as back-loaded to conversion events, investors cannot construct a net synergy cash flow timeline.
-- **Brex financial disclosure refusal.** CFO declined EPS dilution magnitude, earnback period, and IRR on a $5.15B deal with 80% goodwill at a non-profitable private company. Fairbank confirmed initial dilution but no magnitude. The 80% goodwill ratio on a non-profitable acquiree with undisclosed revenues is structurally significant.
-- **Efficiency ratio guidance perpetually deferred.** Two analysts in Q3 2025, one in Q4 2025 asked directly about efficiency ratio trajectory. All received philosophical explanations for why Capital One doesn't guide to efficiency ratios. With the 2024 target of "low 42s" (delivered at 42.35%) now lapsed, there is no current quantitative forward anchor on the expense line.
-- **"Earnings power on the other side" as an unbounded qualifier.** The phrase "on the other side of the Discover integration" has been used across five quarters to defer specific financial commitments. Its temporal boundary is undefined; "early 2026" for credit card origination on the Discover network is the nearest named milestone, but the overall integration completion date is unstated.
+**Data quality flags:**
+- Q4 2023 lacks a formal composite score in the analysis history (no letter grade assigned, only component scores)
+- Q4 2024 marks "First evaluation" in the tracking notes despite earlier quarters being analyzed — internal inconsistency in the evaluation history
+- Multiple quarters note prepared remarks as "truncated" in the transcript (Q2 2023, Q3 2023) — completeness of source material uncertain for early quarters
+- NIM figures have a structural discontinuity at Q3 2025 (8.36%) due to Discover consolidation; pre- and post-merger NIM are not directly comparable
 
-**Credit and macro flags:**
-- **Delayed pandemic charge-off thesis is load-bearing and perpetually extendable.** Introduced pre-Q2 2023 and still active in Q4 2025. The thesis that elevated losses reflect delayed pandemic-era charge-offs is probably correct, but it cannot be falsified quarter-to-quarter. Investors should establish a date or condition under which this explanation would no longer apply.
-- **Brex credit risk is unacknowledged.** Capital One's stated plan to accelerate Brex's origination using its marketing machine introduces corporate liability card and startup-stage credit exposures for which Capital One has no disclosed underwriting history. This risk received no acknowledgment in Q4 2025.
-- **Discover card "brownout" timeline is vague.** Named in Q3 2025 as a "couple of years" headwind, not linked to a specific integration milestone date.
+**Communication-level risks, aggregated:**
+
+1. **The "earnings power consistent with expectations" commitment is structurally unfalsifiable.** It has now appeared across five consecutive quarters without a timeline, a metric, or a mechanism by which investors could determine if it has been met. This is the series' most persistent accountability gap.
+
+2. **Integration cost overrun was disclosed without a range.** "Somewhat higher than $2.8B" has appeared across Q2 2025, Q3 2025, and Q4 2025 without resolution to a specific number. Three separate analysts across two calls asked follow-up questions; all received the same hedge. If a 5% overrun, immaterial. If 30%+, strategically significant. Investors cannot determine which.
+
+3. **Efficiency ratio guidance has been structurally retired without replacement.** "Low 42s" delivered in 2024 (42.35% reported); no 2025 anchor established despite being asked in Q3 2024, Q4 2024, Q1 2025, Q2 2025, Q3 2025, and Q4 2025. Fairbank's Q4 2025 response — several hundred words on organic growth philosophy — is the most developed non-answer in the series.
+
+4. **Brex transaction presents a $5.15B commitment with no disclosed financial framework.** 80% goodwill allocation confirmed by analyst ($4.1B of $5.15B); EPS dilution confirmed; earn-back timeline, revenue targets, and profitability benchmarks all declined. Management's explicit rationale for non-disclosure ("relative size of Brex to Capital One") is inadequate given the absolute dollar magnitude and the confirmed goodwill concentration.
+
+5. **Technology advantage claims remain unverified after 9 quarters.** "Technology transformation," "modern technology," and "AI at the heart of operations" appear across the entire series. The only measurable output disclosed is "700 basis points of efficiency ratio improvement since 2013" — provided once in Q1 2025 and not repeated. No cost-per-acquisition, model lift, or conversion rate metric has been disclosed.
+
+6. **The Discover brownout introduces a multi-year headwind without a timeline.** "A couple of years" for the brownout resolution was offered in Q3 2025; no quarterly phasing or measurable milestone was provided. The brownout becomes a permanent explanatory buffer unless a specific endpoint is disclosed.
 
 ---
 
 ## Verify Next Quarter
 
-From Q4 2025 tracking commitments, verify in Q1 2026 (and Q2 2026 for close-contingent items):
+From Q4 2025 tracking commitments, check the following when Q1 2026 drops:
 
-1. **Debit migration completion.** Q4 2025 stated debit migration "nearly complete." Q1 call should confirm full completion and report first full-quarter network synergy contribution flowing through reported NIM and interchange.
+1. **Credit card origination on Discover network:** Fairbank committed "by the middle of this year" (mid-2026). Q1 call should confirm timeline is intact or provide a revised date with explanation.
 
-2. **Credit card origination on Discover network by mid-2026.** Fairbank committed to this milestone explicitly. If Q2 2026 passes without confirmation, this is a material miss from a stated, falsifiable commitment.
+2. **Debit network conversion completion:** Described as "nearly complete" at Q4 2025 call; Q1 should confirm final completion and begin reporting post-conversion network transaction volume or synergy contribution.
 
-3. **Brex close and initial financial disclosure.** Fairbank stated purchase accounting impacts will be "broken out in financial statements over coming quarters." Q1 or Q2 should produce Brex revenues, losses, and integration costs with sufficient granularity to begin evaluating the $5.15B financial case. Absence of disaggregated disclosure would itself be a negative accountability signal.
+3. **Integration cost specificity:** "Somewhat higher than $2.8B" has appeared three consecutive quarters. Q1 2026 is the accountability point — if a specific revised figure is not disclosed, the hedge has become a structural omission warranting escalation in risk assessment.
 
-4. **Integration cost specificity.** "Somewhat higher than $2.8B" has held for three quarters. Q1 2026 should produce either a specific revised figure or a range. A fourth consecutive quarter of the same hedge phrase without quantification should be flagged as a deliberate withholding pattern.
+4. **Brex close and initial integration metrics:** Acquisition announced but not closed as of Q4 2025. Q1 should disclose: (a) whether the transaction closed, (b) purchase accounting mechanics at minimum, (c) any qualitative integration milestone framework. Absence of any milestone language would confirm the Discover pattern — large transaction opacity sustained post-announcement.
 
-5. **Capital return pace step-up.** Q4 2025 buybacks reached $2.5B in a single quarter against a $16B authorization and 14.4% CET1 versus an 11% long-term target. Verify whether this pace is sustained, accelerated, or pulled back, and whether any CCAR or regulatory constraint is cited as the cause.
+5. **Efficiency ratio trajectory:** Management has deferred this question across six consecutive quarters. Q1 2026, the first full post-Discover-integration quarter, is the logical point for a new anchor. If deferred again, that deferral is itself the signal — the metric has been functionally retired from guidance.
 
-6. **Earnings power reaffirmation with specificity.** The statement "earnings power consistent with Discover deal announcement expectations, inclusive of Brex" from Q4 2025 is the strongest near-term accountability anchor. Q1 2026 is the first post-Brex-close quarter; if the earnings power framing is maintained without any updated financial parameter, the anchor will have become unfalsifiable.
+6. **Share repurchase pace:** $16B authorization, CET1 at 14.4% vs. 11% long-term target implies ~$9–10B+ of excess capital. Q1 repurchase figure should be materially above the $150M/quarter pace seen through mid-2025. Absence of step-up would require explanation.
 
-7. **Discover card loan balance trajectory.** Establish Q3 2025 Discover card ending loans as the brownout baseline. Q4 2025 and Q1 2026 directional movement should be tracked against the stated multi-year headwind and the integration milestone of credit card origination on the Discover network by mid-2026.
+7. **"Earnings power consistent with expectations" resolution:** This commitment has been recycled for five quarters. Q1 2026, the first full quarter with Discover in the base and integration well underway, is the logical point to replace qualitative reassurance with specific segment targets, return-on-equity trajectories, or efficiency ratio anchors for the combined entity.

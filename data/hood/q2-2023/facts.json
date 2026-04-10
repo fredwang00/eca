@@ -1,0 +1,32 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q2 2023",
+  "company": "Robinhood Markets, Inc.",
+  "candor": {
+    "analyzed_at": "2026-03-31",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C+",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "C+",
+    "composite_score": 2.37,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "Even while onboarding X1, we are keeping the midpoint of our full year outlook range unchanged... we are getting more efficient.",
+      "pricing_power": "Gold cash sweep balances grew nearly 40% in Q2 and 130% year-to-date to reach $11 billion. Last week, we increased the interest rate to 4.9%.",
+      "management_tone_shift": "In Q2, we reached GAAP profitability for the first time as a public company... fifth consecutive quarter of revenue and adjusted EBITDA growth... adjusted EBITDA margin also reached a new high of 31%."
+    },
+    "extracted_at": "2026-03-31"
+  }
+}

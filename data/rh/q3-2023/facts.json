@@ -1,0 +1,33 @@
+{
+  "ticker": "RH",
+  "quarter": "Q3 2023",
+  "company": "RH (Restoration Hardware)",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C+",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "The home furnishings market has become increasingly promotional, and we believe that it will create a mix shift towards clearance products, pressuring gross margins.",
+      "capex_direction": "We are in contract to make an opportunistic purchase of the New York Guesthouse property for approximately $58 million... our current plans call for opening both [London and Milan] Galleries in 2025... RH Sydney... plans to open in late 2025 or early 2026.",
+      "pricing_power": "We believe our latest collections reflect a level of design and quality inaccessible in our current market and a value proposition that will be disruptive across multiple markets... where we got arrogant around pricing during COVID... there's no arrogance anymore.",
+      "management_tone_shift": "With 82% of homeowners having mortgages below 5%, and 62% below 4%, we continue to expect the existing housing market to remain frozen until interest rates and/or home prices fall meaningfully... we experienced increased headwinds in early October when mortgage rates peaked above 8%."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

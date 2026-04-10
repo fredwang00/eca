@@ -1,0 +1,32 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q3 2024",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Consumers are moving quickly to access new products... particularly in an uneven macro environment, newness and innovation are what drives brand distinction.",
+      "pricing_power": "We now expect Q4 gross margins to expand approximately 160 to 180 basis points... our outlook is now partially offset by higher markdowns.",
+      "management_tone_shift": "We are prudently planning for revenue in the first half of the fiscal year to be down low single digits... this also continues to reflect the subdued macro outlook around the world."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}

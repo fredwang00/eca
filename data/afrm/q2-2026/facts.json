@@ -3,14 +3,32 @@
   "quarter": "Q2 2026",
   "company": "Affirm Holdings, Inc.",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-03-31",
     "skill_version": "base",
     "dim1_grade": "B",
-    "dim2_grade": "B",
+    "dim2_grade": "B+",
     "dim3_grade": "B",
     "dim4_grade": "B",
-    "dim5_grade": "B",
-    "composite_score": 3.0,
-    "composite_grade": "B"
+    "dim5_grade": "A-",
+    "composite_score": 3.13,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "stable",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "consumer_stress_tier": "The consumer we see today is quite healthy. They're able and willing to pay us back. They're borrowing money.",
+      "credit_quality_trend": "If you look at the chart of the NACO curves, you'll see that these are super tightly run lines that are just one on top of the other.",
+      "services_demand": "Services is a good example [of a category broken out from 'other']. We started breaking that out, I believe, two quarters ago now... the business is growing quite well.",
+      "pricing_power": "Flat pricing in a declining rate environment is actually the same thing as taking price.",
+      "management_tone_shift": "I don't have anything dramatic or alternative to offer on the state of affairs in the current quarter either. We're not seeing a big deviation from what I just said about the past."
+    },
+    "extracted_at": "2026-03-31"
   }
 }

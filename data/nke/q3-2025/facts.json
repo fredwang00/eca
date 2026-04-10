@@ -1,0 +1,32 @@
+{
+  "ticker": "NKE",
+  "quarter": "Q3 2025",
+  "company": "NIKE, Inc.",
+  "candor": {
+    "analyzed_at": "2026-04-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "weak",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "The market continues to be promotional, especially in consumer moments and in the digital channel... traffic declined double digits, and retail sales underperformed our plan.",
+      "pricing_power": "Gross margins declined 330 basis points to 41.5% on a reported basis, due to higher markdowns on NIKE Direct, higher wholesale discounts, inventory obsolescence, and product costs and channel mix headwinds.",
+      "management_tone_shift": "We are also navigating through several external factors that create uncertainty in the current operating environment, including geopolitical dynamics, new tariffs, volatile foreign exchange rates, and tax regulations, as well as the impact of this uncertainty and other macro factors on consumer confidence."
+    },
+    "extracted_at": "2026-04-05"
+  }
+}
