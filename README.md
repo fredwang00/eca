@@ -80,14 +80,19 @@ Each ticker gets a directory under `data/` with one subdirectory per quarter:
 ```
 data/
   goog/
+    brief.md            # per-ticker candor trajectory, FOG patterns, key commitments
     q1-2025/
       transcript.txt    # raw earnings call text
       analysis.md       # Rittenhouse framework analysis
       facts.json        # structured grades, signals, metadata
     q2-2025/
+    annual-letter-2025/ # annual shareholder letters follow the same structure
+      transcript.txt
+      analysis.md
+      facts.json
     metrics-raw.json    # yfinance financial data (ticker-level)
   synthesis/
-    consumer/           # sector-level synthesis output
+    consumer-YYYY-MM-DD.md  # sector-level synthesis output
   eca.db                # SQLite index (rebuilt from facts.json)
   dashboard.md          # latest dashboard render
 ```
@@ -100,9 +105,9 @@ The dashboard aggregates cross-company signals into a macro regime assessment us
 
 | Stage | What it detects | Key tickers |
 |-------|----------------|-------------|
-| 1. Discretionary Cuts | Trade-down or pricing capitulation | TGT, ABNB, SHOP |
+| 1. Discretionary Cuts | Trade-down or pricing capitulation | TGT, ABNB, SHOP, NKE, RH, LULU |
 | 2. Essential Trade-Down | Stress reaching essentials | WMT, COST |
-| 3. Credit Bridging | Credit quality deteriorating | COF, JPM, AXP, AFRM |
+| 3. Credit Bridging | Credit quality deteriorating | COF, JPM, AXP, AFRM, SOFI |
 | 4. Housing Stress | Housing demand softening | OPEN |
 | 5. Services Contraction | Services demand falling | UBER, ABNB, SHOP |
 | 6. Auto/Utility Defaults | Auto credit deteriorating | COF, JPM |
