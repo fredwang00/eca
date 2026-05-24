@@ -1,0 +1,33 @@
+{
+  "ticker": "SPOT",
+  "quarter": "Q1 2026",
+  "company": "Spotify Technology S.A.",
+  "candor": {
+    "analyzed_at": "2026-05-23",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "C+",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "services_demand": "MAU grew by 10 million to 761 million in total, surpassing our guidance by 2 million. Our growth rate accelerated 12% year-over-year, up from 11% in quarter 4.",
+      "capex_direction": "We expect operating expenses to remain at these levels for the next quarter or 2... it's a mix of increased compute, not increased headcount... we are training rather large models in-house.",
+      "pricing_power": "We saw no surprises with respect to price increase related churn following our January U.S. price increase... ARPU expansion of 5.7% year-over-year.",
+      "management_tone_shift": "We reiterate our previous statement that we expect another full year of healthy subscriber growth... we continue to expect both to improve in 2026 on a full year basis."
+    },
+    "extracted_at": "2026-05-23"
+  }
+}
