@@ -1,0 +1,34 @@
+{
+  "ticker": "SPOT",
+  "quarter": "Investor Day 2026",
+  "company": "Spotify Technology S.A.",
+  "notes": "Investor Day presentation, May 21, 2026. Not a quarterly earnings call \u2014 held approximately every 4 years. Multiple presenters.",
+  "candor": {
+    "analyzed_at": "2026-05-23",
+    "skill_version": "base",
+    "dim1_grade": "A-",
+    "dim2_grade": "A-",
+    "dim3_grade": "A-",
+    "dim4_grade": "C+",
+    "dim5_grade": "A-",
+    "composite_score": 3.6,
+    "composite_grade": "A-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Free users increased roughly 90% since last Investor Day; 2025 was our strongest year ever for subscriber intake in Brazil; India added three times as many net subscribers in 2025 as in 2022.",
+      "capex_direction": "In 2026 we are investing in areas where we see clear returns...the OPEX will step up in quarter two and quarter three before moderating...a temporary increase of roughly 200 million on marketing and R&D.",
+      "pricing_power": "We've raised prices multiple times now with minimal churn...even us we were surprised that the churn was so minimal...the consumer or subscriber should always win but we will monetize when we need to.",
+      "management_tone_shift": "The opportunity ahead has never been greater...we're entering this next phase from a position of real strength...capital is not a constraint."
+    },
+    "extracted_at": "2026-05-23"
+  }
+}
