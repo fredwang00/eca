@@ -1,0 +1,32 @@
+{
+  "ticker": "TSM",
+  "quarter": "Q4 2025",
+  "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+  "candor": {
+    "analyzed_at": "2026-05-21",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A-",
+    "dim3_grade": "B+",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.6,
+    "composite_grade": "A-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "In 2026, we expect our capital budget to be between USD52 billion and USD56 billion...In the next three years, significantly higher.",
+      "pricing_power": "In the last few years, the pricing benefits to the profitability was just enough to cover the inflation cost from tools, equipment, materials, labor, etc.",
+      "management_tone_shift": "We now expect our overall long-term revenue growth to approach a 25% CAGR in US dollar terms for the five-year period starting from 2024...we used to be conservative, you know that."
+    },
+    "extracted_at": "2026-05-21"
+  }
+}

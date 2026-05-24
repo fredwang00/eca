@@ -1,0 +1,32 @@
+{
+  "ticker": "AVGO",
+  "quarter": "Q1 2026",
+  "company": "Broadcom Inc.",
+  "candor": {
+    "analyzed_at": "2026-05-21",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A",
+    "dim3_grade": "C+",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.395,
+    "composite_grade": "A"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "Today, in fact, we have line of sight to achieve AI revenue from chips, just chips, in excess of $100 billion in 2027. We have also secured the supply chain required to achieve this.",
+      "pricing_power": "Our Tomahawk 6 switch at 100 terabit per second as well as our 200G SerDes are capturing demand from hyperscalers, whether they use XPUs or GPUs this year \u2014 we are clearly gaining share in networking.",
+      "management_tone_shift": "In Q2, this momentum accelerates, and we expect semiconductor revenue to be $14.8 billion, up 76% year-on-year. Driving this is AI revenue growth, which will accelerate very sharply to 140% year-on-year to $10.7 billion."
+    },
+    "extracted_at": "2026-05-21"
+  }
+}

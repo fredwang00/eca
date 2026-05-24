@@ -1,0 +1,32 @@
+{
+  "ticker": "NVDA",
+  "quarter": "Q1 2027",
+  "company": "NVIDIA Corporation",
+  "candor": {
+    "analyzed_at": "2026-05-21",
+    "skill_version": "base",
+    "dim1_grade": "A-",
+    "dim2_grade": "B+",
+    "dim3_grade": "B-",
+    "dim4_grade": "B-",
+    "dim5_grade": "A-",
+    "composite_score": 3.25,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "With analysts now forecasting hyperscale CapEx to exceed $1 trillion by 2027 and Agentic AI beginning to proliferate all industries, AI infrastructure spending is on track to reach $3 trillion to $4 trillion annually by the end of this decade.",
+      "pricing_power": "The price of renting an H100 has risen 20% year to date, while A100 cloud pricing is up nearly 15%.",
+      "management_tone_shift": "Demand has gone parabolic. The reason is simple. Agentic AI has arrived. AI can now do productive and valuable work. Tokens are now profitable, so model makers are in a race to produce more."
+    },
+    "extracted_at": "2026-05-21"
+  }
+}

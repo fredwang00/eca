@@ -1,0 +1,32 @@
+{
+  "ticker": "TSM",
+  "quarter": "Q1 2026",
+  "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+  "candor": {
+    "analyzed_at": "2026-05-21",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A-",
+    "dim3_grade": "B+",
+    "dim4_grade": "B",
+    "dim5_grade": "A-",
+    "composite_score": 3.525,
+    "composite_grade": "A-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "capex_direction": "We now expect our 2026 capital budget to be towards the high end of our range of between USD52 billion and USD56 billion...we expect the CapEx in the next few years, in the next three years will be significantly higher than the past few years.",
+      "pricing_power": "We always view our customers as our partners...we don't change our pricing dramatically or something like that. We just try to make sure that our customers can be successful in their market.",
+      "management_tone_shift": "We are very mindful of the impact of rising component prices, especially in consumer and price-sensitive end market segment. In addition, the recent situation in the Middle East also brings further macroeconomic uncertainties. As such, we are being prudent in our business planning."
+    },
+    "extracted_at": "2026-05-21"
+  }
+}

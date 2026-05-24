@@ -1,0 +1,32 @@
+{
+  "ticker": "AVGO",
+  "quarter": "Q4 2025",
+  "company": "Broadcom Inc.",
+  "candor": {
+    "analyzed_at": "2026-05-21",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B+",
+    "dim3_grade": "C+",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.19,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We have never seen bookings of the nature that what we have seen over the past three months... we fully expect for that $73 billion over the eighteen months to keep growing.",
+      "pricing_power": "Our current order backlog for AI switches exceeds $10 billion as our latest 102 terabit per second Tomahawk six switch, the first and only one of its capability out there, continues to book at record rates.",
+      "management_tone_shift": "We originally, six months ago said maybe year on year AI revenues would grow in 2026 sixty, seventy percent. Q1, we doubled. And when we're looking at it, because all the fresh orders keep coming in... it's likely to be an accelerating trend as we progress through 2026."
+    },
+    "extracted_at": "2026-05-21"
+  }
+}

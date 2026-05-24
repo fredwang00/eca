@@ -15,6 +15,10 @@ SECTOR_MAP: dict[str, str] = {
     "AAPL": "base",
     "TSLA": "base",
     "PLTR": "base",
+    # AI supply chain
+    "TSM": "base",
+    "AVGO": "base",
+    "SPACEX": "base",
     # Alpha portfolio / Bitcoin-miner-to-AI
     "IREN": "base",
     "CIFR": "base",
@@ -69,6 +73,10 @@ COMPANY_NAMES: dict[str, str] = {
     "AAPL": "Apple Inc.",
     "TSLA": "Tesla, Inc.",
     "PLTR": "Palantir Technologies Inc.",
+    # AI supply chain
+    "TSM": "Taiwan Semiconductor Manufacturing Co Ltd",
+    "AVGO": "Broadcom Inc.",
+    "SPACEX": "Space Exploration Technologies Corp.",
     # Alpha portfolio / Bitcoin-miner-to-AI
     "IREN": "IREN (formerly Iris Energy)",
     "CIFR": "Cipher Digital (formerly Cipher Mining)",
@@ -111,7 +119,7 @@ COMPANY_NAMES: dict[str, str] = {
 
 
 WATCHLIST_SECTORS: dict[str, list[str]] = {
-    "ai":       ["NVDA", "MSFT", "GOOG", "META", "AMZN", "AAPL", "TSLA", "PLTR"],
+    "ai":       ["NVDA", "MSFT", "GOOG", "META", "AMZN", "AAPL", "TSLA", "PLTR", "TSM", "AVGO", "SPACEX"],
     "infra":    ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
     "crypto":   ["MSTR", "BMNR", "COIN", "GLXY", "CRCL"],
     "space":    ["RKLB", "ASTS"],
