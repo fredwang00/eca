@@ -1,0 +1,51 @@
+{
+  "ticker": "CRCL",
+  "quarter": "Q2 2026",
+  "company": "Circle Internet Group, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 701.3,
+    "gross_profit_m": 154.8,
+    "operating_income_m": 33.7,
+    "net_income_m": 48.2,
+    "eps": 0.19,
+    "total_equity_m": 3508.6,
+    "total_assets_m": 77165.5,
+    "cash_and_equivalents_m": 1730.1,
+    "shares_outstanding_m": 252.64,
+    "free_cash_flow_m": 497.3,
+    "operating_cash_flow_m": 517.4,
+    "capital_expenditure_m": -20.2,
+    "bvps": 13.89
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C",
+    "dim5_grade": "B-",
+    "composite_score": 2.575,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "CPN reached nearly $15 billion annualized total payment volume on a trailing 30-day basis at the end of Q2 and grew to $23 billion as of July 31, representing 130% growth since our last earnings report.",
+      "capex_direction": "Adjusted operating expenses were $146 million, up 23% year-over-year, driven by continued investment in product development, go-to-market infrastructure and our AI capabilities... our guidance range of $570 million to $585 million remains unchanged, although we expect to land at the higher end of that range.",
+      "pricing_power": "Revenue less distribution cost margin was 41.2%, up 3 percentage points year-over-year, driven by our strategy to increase USDC held on our platform and grow high-margin other revenue streams.",
+      "management_tone_shift": "Circle enters this moment from a position of extraordinary strength... Our position has never been stronger... We are thrilled with the progress we made this past quarter."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

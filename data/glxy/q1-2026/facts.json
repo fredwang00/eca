@@ -1,0 +1,50 @@
+{
+  "ticker": "GLXY",
+  "quarter": "Q1 2026",
+  "company": "Galaxy Digital Holdings Ltd.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 10041.4,
+    "gross_profit_m": -73.6,
+    "operating_income_m": 66.7,
+    "net_income_m": -216.3,
+    "eps": -0.48,
+    "total_equity_m": 1811.7,
+    "total_assets_m": 9992.0,
+    "cash_and_equivalents_m": 910.7,
+    "shares_outstanding_m": 191.85,
+    "free_cash_flow_m": -421.2,
+    "operating_cash_flow_m": -83.3,
+    "capital_expenditure_m": -337.9,
+    "bvps": 9.44
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "D",
+    "dim2_grade": "C",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B-",
+    "composite_score": 1.86,
+    "composite_grade": "C"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We have placed deposits and issued purchase orders on main power transformers and circuit breakers for the first phase of that [830MW] development and have secured capacity for the balance of long-lead electrical infrastructure.",
+      "pricing_power": "Our headline rent number with CoreWeave is a standout in the market... on an after-financing cost basis, the economics to us, both on a dollar and on an IRR basis to build for this next capacity, is going to be equally attractive.",
+      "management_tone_shift": "So far in Q2, we have seen an improvement in digital asset prices and overall activity. This has translated into a strong start to the quarter for Galaxy, with second quarter-to-date adjusted EBITDA estimated at approximately $90 million through last Friday."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

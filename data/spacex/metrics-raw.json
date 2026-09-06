@@ -1,0 +1,58 @@
+{
+  "source": "yfinance",
+  "ticker": "SPCX",
+  "note": "Public trading symbol for SpaceX; internal data-tree label is 'SPACEX'",
+  "fetched_at": "2026-09-05",
+  "quarters": {
+    "Q2 2026": {
+      "revenue_m": 7814.0,
+      "gross_profit_m": 4319.0,
+      "operating_income_m": -141.0,
+      "net_income_m": -541.0,
+      "eps": -0.09,
+      "total_equity_m": 127224.0,
+      "total_assets_m": 192770.0,
+      "cash_and_equivalents_m": 93522.0,
+      "shares_outstanding_m": 13176.0,
+      "free_cash_flow_m": -16819.0,
+      "operating_cash_flow_m": 2419.0,
+      "capital_expenditure_m": -19238.0,
+      "bvps": 9.66
+    },
+    "Q1 2026": {
+      "revenue_m": 4694.0,
+      "gross_profit_m": 2306.0,
+      "operating_income_m": -1954.0,
+      "net_income_m": -4276.0,
+      "eps": -0.41,
+      "total_equity_m": 34533.0,
+      "total_assets_m": 102094.0,
+      "cash_and_equivalents_m": 15852.0,
+      "shares_outstanding_m": 13075.87,
+      "free_cash_flow_m": -9067.0,
+      "operating_cash_flow_m": 1047.0,
+      "capital_expenditure_m": -10114.0,
+      "bvps": 2.64
+    },
+    "Q2 2025": {
+      "revenue_m": 4071.0,
+      "gross_profit_m": 1789.0,
+      "operating_income_m": -775.0,
+      "net_income_m": -1008.0,
+      "eps": -0.34,
+      "free_cash_flow_m": -3223.0,
+      "operating_cash_flow_m": -376.0,
+      "capital_expenditure_m": -2847.0
+    },
+    "Q1 2025": {
+      "revenue_m": 4067.0,
+      "gross_profit_m": 2105.0,
+      "operating_income_m": 55.0,
+      "net_income_m": -528.0,
+      "eps": -0.049778,
+      "free_cash_flow_m": -3413.0,
+      "operating_cash_flow_m": 727.0,
+      "capital_expenditure_m": -4140.0
+    }
+  }
+}

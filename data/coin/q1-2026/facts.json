@@ -1,0 +1,51 @@
+{
+  "ticker": "COIN",
+  "quarter": "Q1 2026",
+  "company": "Coinbase Global, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 1413.0,
+    "gross_profit_m": 984.4,
+    "operating_income_m": 13.7,
+    "net_income_m": -394.1,
+    "eps": -1.49,
+    "total_equity_m": 13480.6,
+    "total_assets_m": 28848.8,
+    "cash_and_equivalents_m": 10205.0,
+    "shares_outstanding_m": 263.41,
+    "free_cash_flow_m": 182.7,
+    "operating_cash_flow_m": 182.7,
+    "capital_expenditure_m": null,
+    "bvps": 51.18
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.65,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "stable",
+    "capex_direction": "decelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "services_demand": "Our Q1 results underscore the message we control what we can control... we delivered within or better than every range we set.",
+      "capex_direction": "We expect 2026 adjusted expenses to be between $4.3 billion and $4.6 billion. This is roughly $500 million lower than our Q4 2025 annualized exit rate at the midpoint.",
+      "pricing_power": "Our clients are not choosing us because we're the cheapest... over the long term, we've always said that we believe that fees could come down as things become commoditized.",
+      "management_tone_shift": "Total crypto market cap and total crypto trading volume were both down more than 20% quarter-over-quarter. And volatility in the long tail assets was at historic lows."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

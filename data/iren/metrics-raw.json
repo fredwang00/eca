@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "IREN",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-06",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 184.7,
@@ -53,13 +53,13 @@
       "gross_profit_m": 137.4,
       "operating_income_m": 27.9,
       "net_income_m": 24.2,
-      "eps": 0.11,
+      "eps": -0.07,
       "total_equity_m": 1425.6,
       "total_assets_m": 1989.8,
       "cash_and_equivalents_m": 184.3,
       "shares_outstanding_m": 224.46,
       "free_cash_flow_m": -654.7,
-      "operating_cash_flow_m": null,
+      "operating_cash_flow_m": 93.1,
       "capital_expenditure_m": -443.8,
       "bvps": 6.35
     },
@@ -91,6 +91,36 @@
       "free_cash_flow_m": null,
       "operating_cash_flow_m": null,
       "capital_expenditure_m": null
+    },
+    "Q2 2026": {
+      "revenue_m": 137.2,
+      "gross_profit_m": 85.4,
+      "operating_income_m": -140.6,
+      "net_income_m": -684.0,
+      "eps": null,
+      "total_equity_m": 4185.6,
+      "total_assets_m": 15790.0,
+      "cash_and_equivalents_m": 5895.6,
+      "shares_outstanding_m": 380.19,
+      "free_cash_flow_m": -167.1,
+      "operating_cash_flow_m": 1811.1,
+      "capital_expenditure_m": -1978.2,
+      "bvps": 11.01
+    },
+    "Q1 2026": {
+      "revenue_m": 144.8,
+      "gross_profit_m": 93.6,
+      "operating_income_m": -93.3,
+      "net_income_m": -247.8,
+      "eps": -0.74,
+      "total_equity_m": 2664.5,
+      "total_assets_m": 7264.9,
+      "cash_and_equivalents_m": 2213.3,
+      "shares_outstanding_m": 340.98,
+      "free_cash_flow_m": -1279.9,
+      "operating_cash_flow_m": 75.3,
+      "capital_expenditure_m": -1355.2,
+      "bvps": 7.81
     }
   }
 }

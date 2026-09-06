@@ -1,0 +1,52 @@
+{
+  "ticker": "CIFR",
+  "quarter": "Q2 2026",
+  "company": "Cipher Digital (formerly Cipher Mining)",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 24.8,
+    "gross_profit_m": -32.6,
+    "operating_income_m": -72.6,
+    "net_income_m": -267.5,
+    "eps": -0.65,
+    "total_equity_m": 562.1,
+    "total_assets_m": 7501.5,
+    "cash_and_equivalents_m": 831.8,
+    "shares_outstanding_m": 414.25,
+    "free_cash_flow_m": -653.8,
+    "operating_cash_flow_m": -243.5,
+    "capital_expenditure_m": -410.3,
+    "bvps": 1.36
+  },
+  "flags": [
+    "equity_declining_yoy"
+  ],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.0,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "In Q2, we spent about $400 million in CapEx... construction-in-progress grew $1.4 billion to $1.68 billion, reflecting simultaneous construction ramp at Barber Lake, Black Pearl and Stingray.",
+      "pricing_power": "I have never seen a better environment for us in terms of how lease terms are evolving with higher rents, longer time periods, triple net structures, et cetera.",
+      "management_tone_shift": "This is the best demand environment we've ever seen. Terms continue to improve for developers."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

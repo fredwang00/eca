@@ -1,0 +1,51 @@
+{
+  "ticker": "SPOT",
+  "quarter": "Q2 2026",
+  "company": "Spotify Technology S.A.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 4777.0,
+    "gross_profit_m": 1596.0,
+    "operating_income_m": 655.0,
+    "net_income_m": 545.0,
+    "eps": 2.65,
+    "total_equity_m": 8385.0,
+    "total_assets_m": 13748.0,
+    "cash_and_equivalents_m": 5938.0,
+    "shares_outstanding_m": 205.58,
+    "free_cash_flow_m": 796.0,
+    "operating_cash_flow_m": 816.0,
+    "capital_expenditure_m": -20.0,
+    "bvps": 40.79
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "A-",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.15,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "We added 7 million net subscribers during the quarter, growing quarter-on-quarter across all regions with notable outperformance in Rest of the World and North America.",
+      "capex_direction": "We continue to expect these marketing and AI-related investments to drive approximately EUR 200 million in incremental operating expense for the full year... operating expense growth is not coming from people, it's coming from compute and marketing.",
+      "pricing_power": "Premium revenue rose approximately 16% year-over-year versus 15% last quarter, driven by subscriber growth of 9% and ARPU expansion of 7.4% year-over-year.",
+      "management_tone_shift": "Gustav and I believe there are opportunities only Spotify is positioned to invest in because of our scale, the health of our business and our focus... we have achieved consequential scale."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

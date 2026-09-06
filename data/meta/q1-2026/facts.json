@@ -1,0 +1,51 @@
+{
+  "ticker": "META",
+  "quarter": "Q1 2026",
+  "company": "Meta Platforms, Inc.",
+  "candor": {
+    "analyzed_at": "2026-05-06",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "B-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.77,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "We now have more than 10 million conversations each week being facilitated through business AIs, up from 1 million at the start of the year.",
+      "capex_direction": "We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $125 to $145 billion, increased from our prior range of $120 to $135 billion.",
+      "pricing_power": "The global average price per ad increased 12% year over year in Q1 with broad-based growth as we benefited from ad performance improvements, better macro conditions versus Q1 of last year, and currency tailwinds in international regions.",
+      "management_tone_shift": "Our experience so far has been that we have continued to underestimate our compute needs even as we have been ramping capacity significantly, as the advances in AI have continued and our teams continue to identify compelling new projects and initiatives."
+    },
+    "extracted_at": "2026-05-06"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 56311.0,
+    "gross_profit_m": 46093.0,
+    "operating_income_m": 22872.0,
+    "net_income_m": 26773.0,
+    "eps": 10.57,
+    "total_equity_m": 243681.0,
+    "total_assets_m": 395250.0,
+    "cash_and_equivalents_m": 23426.0,
+    "shares_outstanding_m": 2538.38,
+    "free_cash_flow_m": 13229.0,
+    "operating_cash_flow_m": 32226.0,
+    "capital_expenditure_m": -18997.0,
+    "bvps": 96.0
+  },
+  "flags": []
+}

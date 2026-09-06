@@ -28,5 +28,23 @@
       "management_tone_shift": "In Q2, this momentum accelerates, and we expect semiconductor revenue to be $14.8 billion, up 76% year-on-year. Driving this is AI revenue growth, which will accelerate very sharply to 140% year-on-year to $10.7 billion."
     },
     "extracted_at": "2026-05-21"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 19311.0,
+    "gross_profit_m": 13157.0,
+    "operating_income_m": 8666.0,
+    "net_income_m": 7349.0,
+    "eps": 1.55,
+    "total_equity_m": 79872.0,
+    "total_assets_m": 169903.0,
+    "cash_and_equivalents_m": 14174.0,
+    "shares_outstanding_m": 4736.0,
+    "free_cash_flow_m": 8010.0,
+    "operating_cash_flow_m": 8260.0,
+    "capital_expenditure_m": -250.0,
+    "bvps": 16.86
+  },
+  "flags": []
 }

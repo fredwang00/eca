@@ -1,0 +1,50 @@
+{
+  "ticker": "AVGO",
+  "quarter": "Q2 2026",
+  "company": "Broadcom Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 22187.0,
+    "gross_profit_m": 15415.0,
+    "operating_income_m": 10859.0,
+    "net_income_m": 9310.0,
+    "eps": 1.96,
+    "total_equity_m": 87691.0,
+    "total_assets_m": 179158.0,
+    "cash_and_equivalents_m": 19628.0,
+    "shares_outstanding_m": 4758.0,
+    "free_cash_flow_m": 10262.0,
+    "operating_cash_flow_m": 10493.0,
+    "capital_expenditure_m": -231.0,
+    "bvps": 18.43
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B+",
+    "dim3_grade": "C+",
+    "dim4_grade": "B",
+    "dim5_grade": "B+",
+    "composite_score": 3.13,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "AI semiconductor bookings in the quarter exceeded $30 billion against the $10.8 billion we shipped... our visibility runs all the way to 2028 right now. Just 3 months ago, I can tell you visibility ran pretty much to 2027.",
+      "pricing_power": "Our content, per gigawatt will increase... our compute chip, the XPU, will go up in price very dramatically.",
+      "management_tone_shift": "We expect AI Semiconductor revenue growth to continue in fiscal 28 based on the following initiatives we have with our 6 core customers... we reiterate our AI semiconductor revenue guidance to be in excess of $100 billion [in FY27]."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

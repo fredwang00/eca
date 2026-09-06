@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "MSFT",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-06",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 81273.0,
@@ -12,11 +12,11 @@
       "total_equity_m": 390875.0,
       "total_assets_m": 665302.0,
       "cash_and_equivalents_m": 24296.0,
-      "shares_outstanding_m": 7429.0,
+      "shares_outstanding_m": 7428.84,
       "free_cash_flow_m": 5882.0,
       "operating_cash_flow_m": 35758.0,
       "capital_expenditure_m": -29876.0,
-      "bvps": 52.61
+      "bvps": 52.62
     },
     "Q3 2025": {
       "revenue_m": 77673.0,
@@ -77,6 +77,36 @@
       "operating_cash_flow_m": 22291.0,
       "capital_expenditure_m": -15804.0,
       "bvps": 40.71
+    },
+    "Q2 2026": {
+      "revenue_m": 90007.0,
+      "gross_profit_m": 60482.0,
+      "operating_income_m": 40603.0,
+      "net_income_m": 35766.0,
+      "eps": 4.82,
+      "total_equity_m": 442387.0,
+      "total_assets_m": 758376.0,
+      "cash_and_equivalents_m": 20935.0,
+      "shares_outstanding_m": 7427.0,
+      "free_cash_flow_m": 19639.0,
+      "operating_cash_flow_m": 55441.0,
+      "capital_expenditure_m": -35802.0,
+      "bvps": 59.56
+    },
+    "Q1 2026": {
+      "revenue_m": 82886.0,
+      "gross_profit_m": 56058.0,
+      "operating_income_m": 38398.0,
+      "net_income_m": 31778.0,
+      "eps": 4.28,
+      "total_equity_m": 414367.0,
+      "total_assets_m": 694228.0,
+      "cash_and_equivalents_m": 32105.0,
+      "shares_outstanding_m": 7429.0,
+      "free_cash_flow_m": 15803.0,
+      "operating_cash_flow_m": 46679.0,
+      "capital_expenditure_m": -30876.0,
+      "bvps": 55.78
     }
   }
 }

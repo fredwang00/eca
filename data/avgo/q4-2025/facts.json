@@ -28,5 +28,23 @@
       "management_tone_shift": "We originally, six months ago said maybe year on year AI revenues would grow in 2026 sixty, seventy percent. Q1, we doubled. And when we're looking at it, because all the fresh orders keep coming in... it's likely to be an accelerating trend as we progress through 2026."
     },
     "extracted_at": "2026-05-21"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 18015.0,
+    "gross_profit_m": 12249.0,
+    "operating_income_m": 7654.0,
+    "net_income_m": 8518.0,
+    "eps": 1.8,
+    "total_equity_m": 81292.0,
+    "total_assets_m": 171092.0,
+    "cash_and_equivalents_m": 16178.0,
+    "shares_outstanding_m": 4741.0,
+    "free_cash_flow_m": 7466.0,
+    "operating_cash_flow_m": 7703.0,
+    "capital_expenditure_m": -237.0,
+    "bvps": 17.15
+  },
+  "flags": []
 }

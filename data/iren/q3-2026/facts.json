@@ -1,0 +1,32 @@
+{
+  "ticker": "IREN",
+  "quarter": "Q3 2026",
+  "company": "IREN (formerly Iris Energy)",
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "C+",
+    "dim2_grade": "B-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.52,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "In 2027, we are scaling to 1.21 gigawatts, with an additional 730 megawatts currently under construction across British Columbia and Texas, including Childress and the initial phase at Sweetwater One.",
+      "pricing_power": "In some instances, you are actually seeing pricing for older-generation units climbing significantly, and there are observable pricing points in the market where you can see that happening.",
+      "management_tone_shift": "We are not chasing demand; we are racing to build supply fast enough to meet it. In this market, the moment compute comes online, it goes to work."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

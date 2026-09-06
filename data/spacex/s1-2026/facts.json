@@ -2,5 +2,33 @@
   "ticker": "SPACEX",
   "quarter": "S1 2026",
   "company": "Space Exploration Technologies Corp.",
-  "notes": "S-1 filing (SEC), filed May 20, 2026. Pre-IPO prospectus, not an earnings call. Financial data covers Q1 2026 and FY 2025/2024/2023."
+  "notes": "S-1 filing (SEC), filed May 20, 2026. Pre-IPO prospectus, not an earnings call. Financial data covers Q1 2026 and FY 2025/2024/2023.",
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.6,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Starlink Subscribers totaled approximately 10.3 million as of March 31, 2026, up approximately 105% from 5.0 million subscribers a year prior, across 164 countries, territories, and other markets.",
+      "capex_direction": "For the three months ended March 31, 2026, capital expenditures for our Space segment was $1,052 million, for our Connectivity segment was $1,332 million and for our AI segment was $7,723 million\u2014total of $10.1B in a single quarter versus $4.1B in Q1 2025.",
+      "pricing_power": "Our Starlink Subscriber monthly ARPU decreased from $86 per month for the three months ended March 31, 2025 to $66 per month for the three months ended March 31, 2026, driven primarily by international expansion and the addition of lower priced service plans.",
+      "management_tone_shift": "We believe we have identified the largest actionable total addressable market ('TAM') in human history... We were the first company to deploy a coherent gigawatt-scale AI training cluster... We believe orbital AI compute is an incredibly difficult technical challenge that only we can solve at scale in the near term."
+    },
+    "extracted_at": "2026-09-05"
+  }
 }

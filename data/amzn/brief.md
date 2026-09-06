@@ -1,164 +1,131 @@
-# Amazon.com, Inc. (AMZN) — Earnings Call Brief
+# Amazon.com, Inc. (AMZN) — Earnings Brief
 
 ---
 
 ## Candor Trajectory
 
-| Quarter | Composite | FOG Grade |
-|---------|-----------|-----------|
-| Q2 2023 | B (2.85) | B |
-| Q3 2023 | B (3.25) | B |
-| Q4 2023 | B (3.25) | B |
-| Q1 2024 | **C (2.25)** | C |
-| Q2 2024 | B+ (3.40) | B |
-| Q3 2024 | B+ (3.235) | B− |
-| Q4 2024 | B (3.05) | **C** |
-| Q1 2025 | B (2.80) | C |
-| Q2 2025 | B (2.80) | C |
-| Q3 2025 | B+ (3.25) | B |
-| Q4 2025 | B+ (3.295) | B− |
-| Annual Letter 2025 | A (3.65) | B |
+**Grade progression:** Q2 2023: B (2.85) → Q3 2023: B (3.25) → Q4 2023: B (3.25) → Q1 2024: C (2.25) → Q2 2024: B+ (3.40) → Q3 2024: B+ (3.235) → Q4 2024: B (3.05) → Q1 2025: B (2.80) → Q2 2025: B (2.80) → Q3 2025: B+ (3.25) → Q4 2025: B+ (3.295) → Q1 2026: A− (3.455) → Q2 2026: A (3.65) → Annual Letter FY2025: A (3.65)
 
-**Direction: Recovering, with structural FOG pattern.** Q1 2024 was the nadir—a visibly abridged transcript, Q&A deflection across every numerical question, and the weakest strategic accountability in the dataset. The recovery through Q2–Q3 2024 was genuine, driven by stronger strategic clarity and A-level vision grades. Q4 2024 and Q1–Q2 2025 dipped on FOG, with Jassy's AI commentary becoming the consistent drag. Q3–Q4 2025 recovered to the high end of B on stronger financial specificity and proactive charge disclosure. The two-voice dynamic—Olsavsky providing financial precision, Jassy providing strategic narrative—has been stable throughout and is the primary structural feature of Amazon's communication profile. FOG grades have improved from their 2024–2025 trough but have not returned to the B-consistent standard of 2023.
+**Direction:** Improving, with two notable inflection points.
 
-**Named inflection points:**
-- *Q1 2024 (nadir):* Abridged transcript; every specific numerical question deflected; C grades across four of five dimensions.
-- *Q2 2024 (recovery):* First A-grades on Strategic Clarity and Vision; backlog and operational specifics restored.
-- *Q4 2024/Q1–Q2 2025 (FOG plateau):* Jassy's AI Q&A reverted to length-as-candor, "every application generative AI-infused," "unusual opportunity" patterns; FOG returned to C in three consecutive quarters.
-- *Q3–Q4 2025 (partial recovery):* Proactive special-charge disclosure, Trainium roadmap specificity, candid acknowledgment of agentic commerce limitations lifted overall grades. FOG concentrated but confined to capital-allocation Q&A.
+**First inflection — Q1 2024 (trough):** The abridged transcript produced the series' lowest score (C, 2.25). Every Q&A answer with a specific numerical ask — CapEx intensity, AWS reacceleration durability, grocery contribution — received a qualitative deflection. This quarter established the systematic evasion pattern that persisted at lower intensity into 2025.
+
+**Second inflection — Q4 2025 to Q1 2026 (breakout):** The series' most consequential shift. In Q4 2025, analysts asked directly about financial guardrails on CapEx; Jassy responded with "extraordinarily unusual opportunity" — pure conviction, no constraint. Q1 2026 reversed this: Jassy provided a structural FCF/ROIC framework ("free cash flow and ROIC for these investments are cumulatively quite attractive a couple of years after being in service"), Olsavsky proactively flagged accounting items before being asked, and AWS backlog ($364B) was disclosed without prompting. Q2 2026 sustained and extended this improvement, earning the series' first A-composite.
+
+The persistent weakness throughout: FOG dimension never exceeds B across any earnings call, and "What Went Wrong" disclosure is essentially absent from the entire series.
 
 ---
 
 ## Key Commitments
 
-**Signed**
+### Signed
 
-- **AWS contracted backlog:** $244B as of Q4 2025, +40% YoY, +22% QoQ, 4.1-year weighted average remaining life (Q4 2025 call, Q1 2025 call: $189B, +20% YoY).
-- **Trainium/Graviton combined run rate:** "$10B+ annualized" disclosed Q4 2025; Trainium 2 "fully subscribed," 1.4M chips deployed; Trainium 3 supply "nearly all committed by mid-2026."
-- **Named AWS customer agreements (Q3 2025):** Anthropic (Project Rainier, 500,000 Trainium 2 chips scaling to 1 million), Thomson Reuters, Capital One, Toyota, American Airlines, Netflix, Spotify, Roku, ANZ Banking Group, T-Mobile, NVIDIA Project Ceiba — all cited by name with described deal structures.
-- **Named AWS customer agreements (Q2 2025):** PepsiCo, Airbnb, NASDAQ, London Stock Exchange, Nissan Motor, GitLab, SAP, Warner Bros. Discovery.
-- **Amazon Pharmacy same-day expansion:** Committed Q2 2024 to "more than a dozen cities by end of year" from 8 at time of call; Q3 2024 cited 95% of U.S. customers within two business days and 20 new cities planned for 2025.
-- **FTC settlement:** $2.5B charge disclosed Q3 2025 as a completed payment.
-- **Anthropic investment gain:** $9.5B pretax gain recognized Q3 2025; $3.3B recognized Q1 2025.
+- **Anthropic:** AWS infrastructure agreement, >$100 billion value (disclosed Q1 2026, excluded from $364B backlog figure). Trainium2: 500,000 chips going to 1 million. Project Rainier named.
+- **OpenAI:** Named as customer commitment in annual letter, >$100 billion relationship referenced.
+- **AWS Backlog:** $189B (Q1 2025, +20% YoY, 4.1-year weighted average remaining life), $244B (Q4 2025, +40% YoY), $364B (Q1 2026).
+- **Delta Air Lines:** Kuiper/LEO service, at least half of fleet committed, starting 2028.
+- **Apple:** Kuiper direct-to-device for iPhones and Watches, partnership structure named.
+- **Named AWS customers with described agreements (Q2 2026):** Anthropic, OpenAI, Uber, Pinterest, Neurorobotics, Poolside AI, 3M, Allianz, AstraZeneca, Procter & Gamble, Southwest Airlines.
+- **Named AWS customers with described agreements (Q3 2025):** ANZ Banking Group, Capital One, Sony, T-Mobile, Toyota, Thomson Reuters (1.5M lines of code/month), American Airlines, Booking.com, Netflix, Spotify, Roku.
+- **Trainium/Graviton combined ARR:** $10B+ (Q4 2025), >$20B (Q1 2026), $25B+ (Q2 2026). Combined with $225B in stated "revenue commitments" for Trainium (Q1 2026).
+- **Supply Chain Services customers:** Procter & Gamble, 3M, Lands' End, American Eagle Outfitters (Q2 2026).
 
-**Aspirational**
+### Aspirational
 
-- **AI revenue:** Described as "multi-billion dollar annual revenue run rate" with "triple-digit year-over-year growth" across Q1, Q2, Q3, Q4 2025 — no specific dollar amount ever disclosed. Scope undefined (does not specify whether Trainium/Inferentia, Bedrock API, Amazon Q, or all three are included).
-- **Bedrock as "biggest inference engine in the world":** Stated goal, Q3 2025; no market share data, no timeline, no comparative metric.
-- **"Bedrock could be as big a business for AWS as EC2":** Q3 2025; no timeline, no revenue anchor.
-- **Enterprise middle-of-barbell AI thesis:** Jassy's claim that enterprise production workloads will become "largest and most durable" AI demand segment; no quantitative threshold or timeline.
-- **AWS 10–20 year cloud flip:** "85–90% of global IT still on-premises; that equation is going to flip." Repeated across Q2 2024, Q1 2025, Q2 2025 without new evidence.
-- **Alexa+:** "Millions of customers," "very positive feedback," $9.99/month for non-Prime; no retention data, no task completion metrics, no revenue target, no full rollout timeline.
-- **Kuiper commercial launch:** "Later this year or early next year" (Q2 2025); "wider commercial rollout later this year" (Q4 2025); $1B Q1 2026 cost increment disclosed, capitalization timing flagged. Now rebranded/referred to as Amazon Leo in Annual Letter 2025 with mid-2026 official launch date and named customers (Delta, JetBlue, AT&T, Vodafone, NASA).
-- **Rufus $10B incremental annualized sales:** Q4 2025; methodology not disclosed, no prior quarter comparison.
-- **Prime Air:** 30M customers by year-end 2026; 500M packages by end of decade; 30-minute delivery target (Annual Letter 2025).
-- **FCF recovery:** "A couple years after being in service" for 2026 capex — implies 2027-2028 inflection. Modeled explicitly via AWS cash cycle framework (6-24 month monetization lag, 30-year datacenter life, 5-6 year chip life). Not committed to a specific number or date.
-- **Gen AI revenue "tens of billions over the next several years":** Q4 2023, not subsequently updated or referenced.
-- **Grocery Fresh V2:** "Very promising results on almost every dimension" (Q4 2023); no subsequent milestone disclosure or expansion announcement.
-- **Amazon Supply Chain as "mirrors AWS":** Q1 2024; analogy immediately qualified as "very different businesses"; no revenue, timeline, or CapEx framework.
+- **$1 trillion AWS revenue:** Introduced Q2 2026 without timeline, milestone ladder, or falsifiability conditions. "Very possibly."
+- **"Middle of the barbell" enterprise adoption:** Core thesis that enterprise production AI workloads will become the dominant AWS demand driver. Directional framing with no timeline or quantitative threshold.
+- **"Tens of billions of dollars" from Gen AI "over several years":** First stated Q4 2023; persisted through Q1 2025 without quantification. Absorbed into the ">$15B AI run rate" figure disclosed in annual letter.
+- **AI pipeline as "biggest technology shift since the internet":** Repeated across Q4 2024, Q1 2025, Q1 2026. Assertion without calibration.
+- **Alexa+ commercial opportunity:** Described as having "millions of customers" with positive feedback; no retention data, revenue model, or penetration target. Commercial model ($9.99 non-Prime) disclosed but not validated with conversion data.
+- **Same-day/next-day expansion to 4,000+ smaller communities by year-end 2025:** Stated Q2 2025, quantified target with year-end deadline.
+- **Amazon Now expansion to U.S. and Europe:** Named in annual letter without timeline or city count.
+- **"$50B hypothetical standalone chips revenue":** Introduced Q1 2026 as a transfer-pricing construct. Not reconciled to any reported figure. Perishable goal risk flagged.
+- **Rufus "$10 billion in incremental annualized sales":** Large specific claim (Q3 2025) without disclosed methodology.
+- **Grocery coverage of 2,300 cities by end of 2025:** Stated Q3 2025 (was at 1,000 cities).
 
 ---
 
 ## Capital Figures
 
-| Quarter | Revenue | Operating Income | AWS Revenue | Trailing 12M FCF (adj.) | CapEx |
-|---------|---------|-----------------|------------|------------------------|-------|
-| Q2 2023 | — | — | ~$22B implied (12% growth) | — | ~$50B FY guidance |
-| Q3 2023 | $143.1B | $11.2B | — | — | $50B trailing 12M |
-| Q4 2023 | $170.0B | $13.2B | — | $35.5B | — |
-| Q1 2024 | $143.3B | $15.3B | — | $48.8B | $24.3B (Q1) |
-| Q2 2024 | $148.0B | $14.7B | $26.3B ($105B run rate) | $51.4B | $30.5B (H1) |
-| Q3 2024 | $158.9B | $17.4B | $27.5B ($110B run rate) | $46.1B | $75B (FY guidance) |
-| Q4 2024 | $187.8B | $21.2B | — | $36.2B | $26.3B (Q4) |
-| Q1 2025 | $155.7B | $18.4B | $29.3B ($117B run rate) | $25.9B | $24.3B |
-| Q2 2025 | — | $19.2B | — | $18.2B | $31.4B |
-| Q3 2025 | $180.2B | $17.4B* | $33.0B ($132B run rate) | $14.8B | $34.2B ($89.9B YTD) |
-| Q4 2025 | $213.4B | $25.0B | — ($244B backlog) | $11.2B | ~$125B FY; $26.3B Q4 |
-| FY 2025 | $717B (+12% YoY) | $80B (11.2% margin) | $129B (+20% YoY); $142B run rate Q4 | $11B (from $38B) | ~$125B FY 2025; ~$200B guided 2026 |
+All figures from structured financial data or explicitly disclosed in transcripts.
 
-*Q3 2025 operating income $17.4B as reported; $21.7B excluding $2.5B FTC settlement and $1.8B severance.
+| Quarter | Revenue | Operating Income | CapEx | FCF | Cash |
+|---|---|---|---|---|---|
+| Q4 2024 | $187,792M | $21,203M | $27,834M (quarterly) | $17,802M (TTM) | $78,779M |
+| Q1 2025 | $155,667M | $18,405M | $25,019M | −$8,004M | $66,207M |
+| Q2 2025 | $167,702M | $19,171M | $32,183M | $332M | $57,741M |
+| Q3 2025 | $180,169M | $17,422M | $35,095M | $430M | $66,922M |
+| Q4 2025 | $213,386M | $24,977M | $39,522M | $14,937M | $86,810M |
+| Q1 2026 | $181,519M | $23,852M | $44,203M | −$18,171M | $101,816M |
 
-**Additional capital notes:**
-- Q4 2024: FX headwind of ~$900M, $700M above guidance expectation; three useful-life accounting adjustments disclosed with net 2025 impact of approximately −$400M operating income.
-- Q3 2024: Server useful-life change contributed ~200 basis points to AWS margin; disclosed proactively.
-- Q2 2024: Same disclosure; 200 bps AWS margin tailwind flagged.
-- Q4 2025: Full-year 2025 CapEx ~$125B; Jassy signaled 2026 will be higher. Trailing 12M FCF of $11.2B versus operating cash flow of $139.5B — gap not bridged in the call.
-- Q3 2025: CapEx guidance ~$125B for 2025, increasing in 2026; power capacity doubling by 2027; 1 GW planned for Q4 addition.
+**Additional disclosed capital figures (from transcripts, not structured data):**
+- **2025 full-year CapEx guidance:** ~$125B (Q3 2025), raised to implied ~$130B+ by year-end.
+- **2026 CapEx guidance:** Initially ~$200B (annual letter), raised to ~$220B in Q2 2026. Attributed partially to higher memory costs.
+- **Q2 2026 CapEx:** $53.1B (single quarter, transcript-disclosed).
+- **AWS Q2 2026:** Revenue $42.2B (+36.7% YoY), operating income $16.6B. Q3 2025: Revenue $33B, operating income $11.4B.
+- **AWS annualized run rates:** $105B (Q2 2024), $110B (Q3 2024), $117B (Q1 2025), $132B (Q3 2025), $150B (Q1 2026).
+- **Full-year operating cash flow FY2025:** $139.5B (+20% YoY, Q4 2025 call).
+- **FY2025 FCF (annual letter):** $11B (down from $38B prior year; driven by $50.7B increase in property and equipment purchases).
+
+**Equity trend:** $285,970M (Q4 2024) → $305,867M (Q1 2025) → $333,775M (Q2 2025) → $369,631M (Q3 2025) → $411,065M (Q4 2025) → $441,914M (Q1 2026). Consistently rising. No equity decline flag.
 
 ---
 
 ## FOG Patterns
 
-**Recurring phrases across quarters (with frequency):**
+FOG is the only dimension that has never scored above B across any earnings call in the series. It degraded to C in Q1 2024, Q4 2024, Q1 2025, and Q2 2025 before recovering to B in Q3 2025 and holding at B through Q2 2026.
 
-1. **"It's still early days"** — AWS AI monetization (Q3 2023, Q1 2024, Q2 2024, Q4 2024, Q1 2025, Q2 2025). Universal hedge that forecloses accountability by preemptively excusing any absence of measurable progress.
+**Recurring phrases across multiple quarters:**
 
-2. **"Multi-billion dollar revenue run rate" / "triple-digit year-over-year growth"** — AI revenue descriptor used identically across Q4 2024, Q1 2025, Q2 2025, Q3 2025, Q4 2025. Never given a specific number. A metric whose precision has not increased across five consecutive quarters.
+- **"It's still early days"** — AWS generative AI (Q2 2023, Q3 2023, Q1 2025, Q2 2025). Used as a hedge against quantification requests. Never retired, only displaced.
+- **"We're not dabbling"** / **"we are not close to being done"** — Confidence assertions without constraining evidence. Q4 2024, Q1 2025.
+- **"Every single one of our businesses"** — Used for Gen AI (Q2 2023: "every single business has multiple generative AI initiatives"), AI applications (Q4 2024: "about a thousand different generative AI applications"). Sweeping quantification without verification basis.
+- **"Very promising"** / **"off to a really good start"** / **"growing very significantly"** — Applied to Amazon Fresh V2 (Q4 2023), Prime Video ads (Q1 2024), Amazon Haul (Q4 2024), Alexa+ (Q1 2025). Pattern: positive modifier + zero metric.
+- **"Unusually large opportunity"** / **"very unusual opportunity"** / **"extraordinarily unusual opportunity"** — Escalating superlatives across Q3 2024, Q4 2024, Q4 2025. Third instance used explicitly to deflect the ROIC governor question in Q4 2025 — its highest-stakes deployment.
+- **"Selection, price, and convenience"** — Amazon's institutional three-word mantra, flagged as a verbal tic as early as Q2 2023, persists through Q2 2026.
+- **"The biggest technology shift since the internet"** — AI framing, Q4 2024 through Q1 2026. Circular and unanchored.
+- **"We are in the middle of some of the biggest inflections of our lifetime"** — Q3 2025 and Q1 2026 prepared remarks closings. Verbatim repetition.
 
-3. **"Strong pipeline" / "customers are renewing larger commitments"** — AWS deal commentary (Q4 2023, Q1 2024, Q2 2024, Q3 2024). As Q4 2023 analysis noted: "what would a weak pipeline look like?"
-
-4. **"Extraordinarily unusual opportunity" / "once in a lifetime type of opportunity"** — AI CapEx justification (Q3 2024, Q4 2024, Q4 2025). Used specifically when financial-discipline questions are asked; functions as conviction language substituting for ROIC framework.
-
-5. **"Every application / every customer experience will be reinvented with AI"** — Q4 2023, Q2 2024, Q3 2024, Q4 2024, Q1 2025, Q2 2025, Q4 2025. Unfalsifiable universal claim; repeated in every call.
-
-6. **"Price, selection, and convenience continues to resonate"** — Retail mantra across every quarter evaluated; functions as verbal tic per Q2 2023 analysis.
-
-7. **"Strong start" / "off to a very strong start"** — Amazon Haul (Q4 2024), Prime Video ads (Q1 2024), Alexa+ (Q1 2025, Q2 2025). Pattern of launch language without follow-up metrics.
-
-**Trajectory:** Linguistic precision improved materially from Q1 2024 nadir through Q2–Q3 2024, driven by stronger operational specificity in retail and AWS. It degraded in Q4 2024 and Q1–Q2 2025 as AI became the dominant call topic and Jassy's AI commentary reverted to assertion-heavy patterns. Q3–Q4 2025 improved on FOG overall but the AI revenue and capital-allocation zones remain persistently vague. The structural pattern is stable: FOG concentrates where quantitative accountability would be most consequential—AI revenue, Alexa+ metrics, Kuiper timelines, and CapEx return frameworks.
+**Trend:** FOG precision improved in Q1–Q2 2026, primarily because the capital-allocation Q&A — the primary FOG zone — received structural answers rather than assertion language. However, closing rhetorical moves in prepared remarks retain a consistent FOG signature that has not been cleaned up across the series.
 
 ---
 
 ## Flags & Risks
 
 **Data quality flags:**
-- Q1 2024 analysis explicitly flagged that the transcript appears "significantly abridged" (~2,500 words versus a standard call length), limiting reliability of grades on four of five dimensions.
-- Q4 2025 Q1 guidance contains an apparent transcription error ("between $616.5 billion and $21.5 billion") — either a formatting artifact or a communication control failure.
-- Q3 2023 transcript truncated mid-sentence twice on "re:Invent" references; analysis flags this as a disclosure gap requiring webcast verification.
-- FCF figures across quarters use the "adjusted for equipment finance leases" definition; comparability requires consistent application of this adjustment, which is not always stated explicitly in every quarter's reporting.
+- FCF turned negative in Q1 2025 (−$8,004M) and near-zero in Q2 and Q3 2025 ($332M and $430M), recovered in Q4 2025 ($14,937M) but turned sharply negative again in Q1 2026 (−$18,171M). The FCF compression is explained by CapEx front-loading (management's stated thesis), but the magnitude — a $29B swing from Q4 2023's $35.5B TTM FCF to near-zero — is significant and the recovery timeline is modeled but not committed.
+- Total equity is rising consistently (no flag).
+- Q1 2025: One-time charges (historical customer returns, forward inventory pull) quantified by Olsavsky but never causally explained. Neither executive owned what process failed. Flagged as potentially recurring — watch for reappearance.
+- Q4 2025: Three separate useful-life accounting adjustments in a single quarter (server depreciation shortened, early retirement charges, fulfillment equipment extended). Net impact modest (−$400M for 2025), but frequency and multiplicity warrant ongoing normalization effort.
+- Q2 2026: Derivative accounting gain on energy contracts (~$600M) proactively disclosed. First appearance of this item; disclosed as potentially recurring as Amazon scales multi-gigawatt energy commitments.
+- Q1 2026: Apparent transcription error in operating income guidance ("between $616.5 billion and $21.5 billion"). Minor but signals a documentation control gap.
 
-**Recurring communication risks:**
-
-- **ROIC question unanswered.** At CapEx now guided above $125B annually and rising, the question of financial governors on spend was raised explicitly by analysts in Q4 2025 and received only conviction language. This is the highest-stakes unanswered question across the dataset.
-
-- **AI revenue is the central growth claim and the least disclosed metric.** Across five consecutive quarters, AI contribution to AWS remains bounded only by "multi-billion, triple-digit growth." A metric this important to the investment case, with this little precision, is a structural accountability gap.
-
-- **Useful-life accounting changes create compounding complexity.** Three separate useful-life adjustments have been disclosed across Q2 2024, Q3 2024, Q4 2024, and Q4 2025. Each is individually disclosed, but their cumulative effect on reported AWS margins versus cash economics is not bridged in any single call.
-
-- **Alexa+, Amazon Haul, Fresh V2, grocery — repeated "strong start" language without milestone conversion.** Four different initiatives have followed the same disclosure arc: enthusiastic launch, "off to a strong start," no subsequent measurable target. The absence of accountability markers creates a "perishable goal" pattern where failed initiatives can be quietly retired.
-
-- **Kuiper disclosure is thin relative to investment scale.** $1B incremental Q1 2026 cost, capitalization timing shift flagged for mid-year, "wider commercial rollout later this year" — but no revenue target, coverage milestone, or return timeline.
-
-- **FTC settlement treated as a line item.** $2.5B settlement disclosed quantitatively but with no description of required behavioral changes, compliance obligations, or what conduct was at issue. This is a governance event being communicated as an accounting entry.
-
-- **Length-as-candor in AWS Q&A.** Identified in Q2 2025 and Q3 2024: Jassy's longest responses to AWS competitive questions contain the least verifiable information. This pattern has not improved in Q3–Q4 2025.
+**Communication-level risks (aggregated):**
+- **No prior-year accountability loop.** Neither quarterly calls nor the annual letter explicitly revisits prior-period commitments by name and declares them met or missed. Goals arrive fully formed each quarter. This is the "perishable goal" pattern at its most persistent.
+- **AI revenue deliberately unquantified through Q1 2025.** Described as "multi-billion dollar annual run rate" with "triple-digit growth" across Q1 2024 through Q1 2025 without a specific number. First falsifiable figure (">$15B run rate") appeared in the FY2025 annual letter. The pattern of three consecutive calls declining to quantify the company's most-discussed growth driver is a structural opacity risk.
+- **AWS competitive claims without evidence.** "Most functionality by a large amount," "stronger security and operational performance than you can find elsewhere," "pretty significant advantage" — asserted without independent benchmarks, customer evidence, or data across Q3 2023, Q2 2025. Credibility liability if publicly challenged.
+- **ROIC discipline question repeatedly deflected until Q1 2026.** Q4 2025 and Q3 2025 both featured analyst questions on financial governors for CapEx; both received conviction language. Q1 2026 was the first call with a structural answer. Improvement is real but the low-pressure Q&A environment in Q1 2026 means it is not yet confirmed under adversarial conditions.
+- **Alexa+ lacks any accountability structure.** Launched with enthusiasm in Q1 2025, rolled out to "millions" by Q2 2025, described positively but without retention, task completion, revenue, or timeline data across five quarters. Classic perishable goal risk.
+- **FTC settlement ($2.5B, Q3 2025) disclosed as a line item, never explained.** No description of what conduct triggered it, what behavioral changes it requires, or how management thinks about compliance culture. A governance event treated as an accounting entry.
+- **$50B hypothetical chips figure (Q1 2026).** Introduced mid-call without accounting definition or prior mention. Perishable goal risk flagged — if it disappears in Q2 2026 without explanation, that confirms the concern.
+- **Kuiper/LEO capitalization transition mid-2026.** ~$1B/quarter cost run rate; costs transitioning to capitalization in Q4 2026. Will create structural complexity in segment profitability comparisons without explicit modeling guidance.
 
 ---
 
 ## Verify Next Quarter
 
-From the Q4 2025 call, the following specific commitments require verification when Q1 2026 results are reported:
+*Carrying forward from Q2 2026 analysis (July 30, 2026 call):*
 
-1. **Trainium 3 supply commitment.** Jassy stated "we expect nearly all of our Trainium 3 supply of chips to be committed by mid-2026." Q2 2026 at latest should confirm whether this occurred and whether medium-sized customer adoption expanded beyond the current concentration in a small number of large accounts (primarily Anthropic).
+1. **CapEx trajectory and FCF emergence.** 2026 CapEx raised to ~$220B; Jassy explicitly said capacity will remain constrained through 2027. Q3 call should be checked for: whether CapEx is tracking to $220B or moving higher again; whether FCF guidance or visibility is introduced as datacenter monetization clarifies; whether memory cost inflation cited as the $20B guidance increase has moderated.
 
-2. **LEO/Kuiper capitalization transition.** Olsavsky flagged that "later in the year, many of these costs will be capitalized." Track whether Q2–Q3 2026 reporting reflects this transition visibly in segment margins, and whether the timing and magnitude are disclosed explicitly or absorbed silently.
+2. **"Middle of the barbell" enterprise production signal.** This is the load-bearing assumption for the AWS growth thesis and the $1 trillion revenue aspiration. Q3 should be evaluated for any metrics distinguishing frontier-lab AI workloads from enterprise production inference deployments. If Jassy continues to describe this as "evaluating" rather than "in production," the timeline has slipped.
 
-3. **AWS operating margin.** Q4 2025 margin was approximately 35% (+40 bps YoY). Olsavsky has stated margins "will fluctuate." With AI depreciation headwinds acknowledged and CapEx increasing, the Q1 2026 AWS margin should be checked against both the Q4 reported figure and the ~200 bps useful-life tailwind that created a favorable year-over-year comparison in 2024.
+3. **AWS margin sustainability ex-one-time items.** Q2 AWS margin was ~39% including ~$600M derivative gain; ex-derivative it was 520bps expansion. The energy contract derivative can recur. Q3 call should be assessed for: whether another derivative gain appears, whether Olsavsky proactively disaggregates it again, and whether the underlying margin is holding as capacity expansion continues.
 
-4. **Enterprise middle-of-barbell thesis.** Jassy's "barbell" framework predicts enterprise production workloads become the dominant AWS AI revenue source. Q1 commentary should be examined for whether characterization shifts from "enterprises evaluating" to "enterprises in production" — the specific language tells investors where in the adoption curve the thesis stands.
+4. **Kiro and Amazon Q traction.** Kiro "tripled usage quarter-over-quarter" and Q has 15+ named enterprise customers in production — both Q2 2026 claims. These should either be updated with revenue or retention data in Q3, or their disappearance should be flagged as a perishable metric.
 
-5. **The ROIC/capital discipline question.** If analysts raise CapEx governors again in Q1 2026 and receive assertion rather than structure for the third consecutive quarter, flag as an escalating negative accountability signal. A specific ROIC target, minimum FCF threshold, or CapEx-as-percent-of-revenue framework would be a material positive change.
+5. **Trainium third-party sales.** Jassy said "I expect there's a real chance we'll do that in the future" regarding selling Trainium chips to third-party data centers. If not revisited in Q3, flag as an introduced-and-dropped commitment.
 
-6. **AI revenue specificity.** If Q1 2026 continues the "multi-billion, triple-digit growth" formulation without a specific number, that pattern will have persisted across six consecutive quarters on what management describes as the company's defining growth opportunity — confirm and flag accordingly. Note: Annual Letter 2025 disclosed AWS AI revenue run rate ">$15B in Q1 2026" — the first specific dollar figure disclosed; check whether Q1 2026 earnings call formalizes or retreats from this specificity.
+6. **$50B hypothetical chips revenue figure.** Does this reappear? If yes, does it gain an accounting definition? If it disappears without explanation, the Q1 2026 perishable goal concern is confirmed.
 
-**From Annual Letter 2025 (April 2026) — verify at Q2 2026 and beyond:**
-
-7. **Amazon Leo mid-2026 launch.** Specifically committed. Check Q2 2026 whether launch occurred on schedule and whether Delta/JetBlue/AT&T service initiation timelines hold.
-
-8. **Prime Air 30M customers by year-end 2026.** Specific, falsifiable. Track Q3 2026.
-
-9. **AWS power capacity doubling by end of 2027.** Check 2027 annual disclosures for GW additions relative to 3.9 GW added in 2025.
-
-10. **FCF inflection 2027-2028.** If 2027 FCF does not improve materially over 2025's $11B, either the capex cycle extended or the demand thesis was wrong — both require harder questions on capital discipline.
-
-11. **Chips business third-party sales.** Jassy floated "it's quite possible we'll sell racks of them to third parties." If this materializes, it is a new high-margin revenue stream worth tracking separately.
+7. **The adversarial ROIC test.** If Q3 analysts return to capital discipline questions and Jassy provides the same structural FCF/ROIC framework from Q1 2026, that confirms genuine communication evolution. If the answer reverts to conviction language ("extraordinarily unusual opportunity"), Q4 2025's deflection pattern was not resolved — it was merely untested in Q1 2026's compressed six-question format.

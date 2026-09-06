@@ -1,118 +1,141 @@
 # Alphabet Inc. (GOOG) — Earnings Call Brief
 
+**Coverage:** Q2 2023 through Q2 2026 (11 quarters)
+
 ---
 
 ## Candor Trajectory
 
-| Quarter | Composite | Score |
+| Quarter | Composite | Grade |
 |---------|-----------|-------|
-| Q2 2023 | D+ | 1.55 |
-| Q3 2023 | C | 2.25 |
-| Q4 2023 | C+ | 2.40 |
-| Q1 2024 | C | 1.65 |
-| Q2 2024 | B- | 2.40 |
-| Q3 2024 | B | 2.55 |
-| Q4 2024 | B | 2.80 |
-| Q1 2025 | B | 2.71 |
-| Q2 2025 | B- | 2.71 |
-| Q3 2025 | B | 3.10 |
-| Q4 2025 | B | 2.785 |
+| Q2 2023 | 1.55 | D+ |
+| Q3 2023 | 2.25 | C |
+| Q4 2023 | 2.40 | C+ |
+| Q1 2024 | 1.65 | C |
+| Q2 2024 | 2.40 | B− |
+| Q3 2024 | 2.55 | B |
+| Q4 2024 | 2.80 | B |
+| Q1 2025 | 2.71 | B |
+| Q2 2025 | 2.71 | B− |
+| Q3 2025 | 3.10 | B |
+| Q4 2025 | 2.785 | B |
+| Q1 2026 | 2.785 | B |
+| Q2 2026 | 2.80 | B |
 
-**Direction: Improving, with a notable plateau.** The trajectory moves from D+ to B over eleven quarters, but progress stalled after Q4 2024. The inflection point was Q2 2024, when the composite crossed into B territory for the first time. Q1 2024 (1.65) is an anomalous regression — stakeholder balance graded D, FOG graded D — driven by near-total absence of employee acknowledgment and Pichai's most content-free Q&A performance on record. The Q4 2024 high watermark (2.80) coincided with Ashkenazi's first full cycle as CFO and the explicit revisitation of the $100B run-rate goal. Subsequent quarters have not exceeded that mark. Q3 2025's 3.10 is the numerical peak, driven by Ashkenazi's A-grade financial disclosure, but Pichai's FOG patterns have not materially improved since Q2 2024.
+**Direction: Improving overall, then plateauing.**
 
-The structural driver of the improvement is CFO succession. Porat's financial candor was already strong in Q3–Q4 2023; Ashkenazi has maintained and slightly extended that standard. The structural driver of the ceiling is Pichai's Q&A style, which has graded C or below in every quarter evaluated. The gap between CFO-level and CEO-level disclosure precision is the defining communication pattern of this series.
+The inflection point was Q2 2024, where Ruth Porat's departure as CFO catalyzed a structural shift. Her final calls established a financial disclosure standard; Anat Ashkenazi's Q3 2024 debut maintained and extended it, driving the composite from C-range into the B-range, where it has remained for seven consecutive quarters. The Q1 2024 regression to 1.65 (lowest scored quarter after Q2 2023) reflects a transcript-level gap in financial specificity and elevated FOG. The Q3 2025 peak of 3.10 reflects Ashkenazi's strongest single financial disclosure performance. Since Q3 2024, the composite has oscillated between 2.71 and 3.10 — improvement has stalled. The CFO dimension consistently grades B to A; the CEO and CRO dimensions consistently grade C+ to B−. Two consecutive quarters (Q4 2025 and Q1 2026) produced identical composite scores of 2.785 across all five dimensions, indicating institutionalized patterns rather than active improvement.
 
 ---
 
 ## Key Commitments
 
-**Signed**
-- **Cloud customer contracts:** Named counterparties with disclosed commercial relationships across multiple quarters — Deutsche Bank, Citadel Securities, Mercedes-Benz, Airbus, Honeywell, BNY, Wayfair (specific outcome: "performance and scalability improved by nearly 25%"), AstraZeneca, Vodafone, Mercado Libre. Q4 2025: "deals in 2025 over $1 billion surpassed the previous three years combined"; "14 product lines each exceeding $1 billion in annual revenue."
-- **Cloud backlog:** Q2 2025: $106 billion, up 38% YoY. Q3 2025: $155 billion, up 46% sequentially and 82% YoY. Q4 2025: $240 billion.
-- **Waymo investment:** Q2 2024: $5 billion multi-year commitment, disclosed as "consistent with recent annual investment levels." Q4 2025: quarterly operating loss of $1.4 billion in Other Bets, with Waymo SBC charge of $2.1 billion called out explicitly.
-- **$100B run-rate goal:** Set at start of 2024 for combined YouTube + Cloud annual revenue run rate. Q4 2024: "We met that goal and ended the year at a run rate of $110 billion."
-- **NFL Sunday Ticket:** Q4 2023: characterized as supporting "long-term strategy" and expected to deliver "an attractive return over the life of the deal." No counterparty value disclosed; return claim remains unverified in subsequent calls.
-- **Advertiser performance metrics (named):** Lionsgate/Demand Gen: "85% more efficient CPC, 96% more efficient cost per page view" (Q1 2024). PayPal: "18% more conversions at similar cost per action" (Q3 2023). Aritzia/Gymshark: "54% more reach at 42% lower cost" (Q3 2023). SoFi: "39% improvement in conversion volume" (Q3 2025). Kayak: "12% conversion value growth" (Q3 2025).
+### Signed
+- **NFL Sunday Ticket (YouTube/Google):** Multi-year content acquisition deal, disclosed in Q4 2023 as generating "an attractive return over the life of the deal." Full-quarter revenue impact confirmed Q4 2023; costs disclosed as content acquisition charges.
+- **Waymo investment:** $5 billion multi-year commitment disclosed Q2 2024 as "consistent with recent annual investment levels." Expanded to $1.4 billion quarterly operating loss (Other Bets) by Q3 2025. Six-generation driver development underway.
+- **Wiz acquisition:** Closed mid-Q1 2026 at implied ~$32 billion. Margin impact quantified: "low single-digit percentage point headwind to cloud's operating margin for the remainder of 2026."
+- **Intersect acquisition:** Disclosed Q1 2026 as the specific driver of CapEx guidance revision from $175–185B to $180–190B.
+- **Cloud customer contracts:** Named counterparties with disclosed deal sizes — deals over $1 billion in 2025 "surpassed the previous three years combined"; "14 product lines each exceeding $1 billion in annual revenue" (Q4 2025). Specific named customers in Q2 2026: PepsiCo, Intel, HSBC, Bell Canada, Macy's, Citadel Securities, Mercedes-Benz, Airbus, Honeywell, BNY, Wayfair (25% platform improvement quantified).
+- **Cloud backlog:** $106B (Q2 2025) → $155B (Q3 2025) → $240B (Q4 2025) → $462B (Q1 2026) → $514B (Q2 2026). Conversion schedule explicitly disclosed: "just over 50% recognized as revenue over the next 24 months."
+- **TPU hardware agreements:** Included in Cloud backlog. "Vast majority of revenues from these agreements will be realized in 2027" (Q2 2026). Constitutes a minority of the $514B backlog; exact split not disclosed.
+- **Google-Apple distribution:** Material but economics not disclosed; direct question evaded in Q4 2025.
 
-**Aspirational**
-- AI Overviews monetization "at approximately the same rate" as traditional Search — stated Q3 2024, repeated Q1 2025, Q2 2025, Q3 2025. No click-through rate data, revenue-per-query comparison, or conversion mechanics disclosed in any quarter despite multiple direct analyst questions.
-- Gemini is "the best model in the industry" / "consistently tops industry leaderboards" — Q1 2025, Q4 2025. No specific benchmark scores cited.
-- "Expansionary moment" for Search from AI — deployed by both Pichai and Schindler across Q3–Q4 2025 without definition, measurement, or prior baseline.
-- AI Mode "100 million MAU in U.S. and India" (Q2 2025) — introduced without prior target or monetization context.
-- "2026 to be the year in which people kind of use agentic experiences more broadly" — Pichai, Q2 2025 Q&A. No capability targets, adoption metrics, or revenue implications attached.
-- Gemini consumer monetization: "for this year, I think you will see us be focused on the subscription direction" — Pichai, Q4 2024. No subscriber target, price point, or conversion rate disclosed.
-- Universal Commerce Protocol — Pichai, Q4 2025. No partner count, transaction volume, or adoption metric.
-- Project Astra shipping "as early as 2025" — Q3 2024. Not verified in subsequent calls.
+### Aspirational
+- Gemini models "consistently top industry leaderboards" — no specific benchmark scores or comparisons named.
+- AI Overviews monetize "at approximately the same rate" as standard Search — metric asserted since Q3 2024, click-through and conversion mechanics explicitly withheld from investors across five consecutive calls.
+- "Expansionary moment" for Search — deployed by both Pichai and Schindler since Q4 2025, undefined and unquantified after two quarters.
+- AI Mode at 100M MAU (Q2 2025) — no revenue contribution, monetization rate, or trajectory provided.
+- Gemini 3.0 release "later this year" (Q3 2025) — no capability targets or release confirmation disclosed.
+- Gemini 4 "most ambitious pretraining run yet" (Q2 2026) — no timeline, capability targets, or external preview.
+- "2026 to be the year people use agentic experiences more broadly" (Pichai, Q2 2025) — no adoption metric attached.
+- 2027 CapEx "will significantly increase compared to 2026" — "significantly" undefined; no range provided.
+- Universal Commerce Protocol — Amazon, Meta, Microsoft, Salesforce, Stripe named as ecosystem members; no transaction volume or adoption rate disclosed.
+- Gemini app: 750M MAU (Q4 2025) → tracking metric shifted to "350M paid subscriptions" (Q1 2026) without consistent definition.
 
 ---
 
 ## Capital Figures
 
-| Quarter | Revenue | CapEx | Operating Margin | Free Cash Flow | Cash & Securities |
-|---------|---------|-------|-----------------|----------------|-------------------|
-| Q3 2023 | $76.7B (+11%) | — | 28% | $22.6B (Q3); $78B TTM | $120B |
-| Q4 2023 | $86.3B (+13%) | $11B | — | — | — |
-| Q1 2024 | — | $12B | — | — | — |
-| Q2 2024 | $84.7B (+14%) | $13B | 32% (+26% OI) | $13.5B (Q2); $60.8B TTM | $101B |
-| Q3 2024 | — | $13B (60/40 servers/DC) | — | $17.6B (Q3); $55.8B TTM | $93B |
-| Q4 2024 | $96.5B (+12%) | ~$75B (2025 guidance) | 32% (+4.6 pts) | $24.8B (Q4); $72.8B FY | $96B |
-| Q1 2025 | $90.2B (+12%) | $75B (FY guidance) | 33.9% (+2.3 pts) | $19B (Q1); $74.9B TTM | $95B |
-| Q2 2025 | $96.4B (+14%) | $22.4B (Q2); $75B FY | — | $5.3B (Q2); $66.7B TTM | — |
-| Q3 2025 | $102.3B | — | 30.5% (33.9% ex-EC fine) | $24.5B (Q3); $73.6B TTM | $98.5B |
-| Q4 2025 | $113.8B (+18%) | $175–185B (2026 guidance) | — | $24.6B (Q4); — | $120.8B / $46.5B LTD |
+All figures from structured financial data or explicit CFO disclosures in transcripts.
 
-**Segment specifics:** Cloud revenue — Q3 2023: $8.4B (+22%), 3% operating margin. Q2 2024: $10.3B (+29%). Q4 2024: $12B (+30%). Q2 2025: 32% growth, margin expanded from 11.3% to 20.7%. Capital returns — Q3 2024: $15.3B buybacks + $2.5B dividends. Q4 2024: $70B returned FY. Q1 2025: $15.1B buybacks + $2.4B dividends. Q2 2025: $13.6B buybacks + $2.5B dividends. Q3 2025: $11.5B buybacks + $2.5B dividends. Depreciation — Q3 2025: $5.6B growing at 41%, flagged to accelerate in Q4. Q4 2025: $15.3B → $21.1B (38% growth, acceleration expected in 2026).
+| Quarter | Revenue | CapEx | Free Cash Flow | Operating Income | Cash & Equivalents |
+|---------|---------|-------|----------------|------------------|--------------------|
+| Q3 2023 | $76,693M | NR | $22,600M (Q) / $78,000M (TTM) | $21,300M | $120,000M |
+| Q4 2023 | $86,310M | $11,000M | NR | NR | NR |
+| Q2 2024 | $84,742M | $13,000M | $13,500M (Q) / $60,800M (TTM) | $27,400M | $101,000M |
+| Q3 2024 | NR | $13,000M | $17,600M (Q) / $55,800M (TTM) | NR | $93,000M |
+| Q4 2024 | $96,469M | NR | $24,800M (Q) / $72,800M (TTM) | $31,000M | $96,000M |
+| Q1 2025 | $90,234M | $12,000M+ (quarterly guidance) | $19,000M (Q) / $74,900M (TTM) | NR | $95,000M |
+| Q2 2025 | $96,428M | $22,446M | $5,301M | $31,271M | $21,036M |
+| Q3 2025 | $102,346M | $23,953M | $24,461M | $31,228M | $23,090M |
+| Q4 2025 | $113,829M | $27,851M | $24,551M | $35,934M | $30,708M |
+| Q1 2026 | $109,896M | $35,674M | $10,116M | $39,696M | $38,063M |
+| Q2 2026 | $119,796M | $44,924M | -$5,855M | $40,770M | $55,911M |
+
+**CapEx guidance trajectory (full-year):**
+- 2024: "Above full-year 2023" (Q3 2023); $12B+ quarterly (Q1 2024 guidance)
+- 2025: $75B (Q4 2024) → $85B (Q3 2025 revision) → $91–93B (Q3 2025 revision) → Ashkenazi confirmed updated outlook in Q2 2025
+- 2026: $175–185B (Q4 2025) → $180–190B (Q1 2026, Intersect attribution) → $195–205B (Q2 2026)
+- 2027: "Significantly increase" — no range provided
+
+**Total equity** per ground truth: Q2 2025 $362.9B → Q3 2025 $386.9B → Q4 2025 $415.3B → Q1 2026 $478.7B → Q2 2026 $622.5B. The Q2 2026 jump of $143.8B in one quarter reflects unrealized equity securities gains ($98B OI&E contribution noted on call). The stated "$242.5B cash and marketable securities" includes $87.1B in equity securities, against ground-truth Cash & Equivalents of $55.9B — a presentation gap.
 
 ---
 
 ## FOG Patterns
 
-Recurring vague language is concentrated in Pichai's prepared remarks and Q&A, with Schindler as secondary contributor. Ashkenazi is consistently the lowest-FOG speaker across all quarters.
+**Institutionalized phrases that have recurred across multiple quarters:**
 
-**Persistent phrases across multiple quarters:**
-- "Once-in-a-generation opportunity" — Q1 2024, Q2 2024
-- "Uniquely well-positioned" — Q2 2024, Q3 2024
-- "Excited" / "super excited" / "super, super excited" — present in every quarter from Q2 2023 through Q4 2025; graders note it appears 8+ times per call in later quarters
-- "Great momentum" / "strong momentum" / "robust momentum" — Q2 2025, Q3 2025, Q4 2025
-- "Expansionary moment" — Q3 2025, Q4 2025 (multiple speakers, no definition provided)
-- "Extraordinary" applied to infrastructure, innovation, progress, talent, and performance — Q2 2024 through Q4 2025
-- "The opportunity space expands" / "far from a zero-sum game" — Q4 2024, Q1 2025
+1. **"Expansionary moment"** — First appeared Q4 2025, reused Q1 2026 and Q2 2026. Used by both Pichai and Schindler to answer direct monetization questions about AI Search. Never defined, never quantified. Confirmed as scripted deflection after three quarters.
 
-**Structural FOG patterns:**
-- Confidence assertion as answer: "I feel good about," "all indications are positive," "we are confident" — deployed in lieu of data across Q2 2023 through Q1 2025
-- Historical analogy substituting for analysis: "just like YouTube," "like featured snippets 10 years ago" — Q3 2024, Q3 2025
-- Q&A deflection: Direct questions on AI Mode economics, SGE monetization, inference cost efficiency, and Apple partnership structure consistently receive Alphabet-internal metrics as responses rather than engaging the comparative dimension of the question
+2. **"Excited / super excited / super, super excited"** — Present in every quarter from Q2 2023 through Q2 2026. Applied to AI models, product launches, partnerships, and entire quarters indiscriminately. Eight-plus appearances in Q4 2025 alone. Erodes signal value of any genuine positive disclosure.
 
-**Precision trend:** Linguistic precision has not materially improved at the CEO level despite eight additional quarters of practice. Ashkenazi's arrival as CFO maintained Porat's disclosure standard but did not pull Pichai's communication upward. The gap between CFO and CEO FOG density widened in Q2–Q4 2025.
+3. **"We are uniquely well-positioned"** — Q2 2024, Q3 2024, Q2 2026. Always asserted, never evidenced with competitive data.
+
+4. **"At approximately the same rate" (AI Overviews monetization)** — Q3 2024 through Q1 2025. Schindler explicitly declined to discuss click-through or conversion mechanics each time the claim was asserted.
+
+5. **"Early days"** — Q2 2023 (SGE), Q3 2023 (SGE), Q2 2024 (enterprise AI), Q2 2025 (agentic experiences). Functions as a perpetual deferral of accountability without a disclosed graduation criteria.
+
+6. **"Laser-focused on building great products" / "great rhythm and cadence"** — Q3 2024, Q4 2025. Clichés with zero informational content.
+
+7. **Generic employee acknowledgment** — Every quarter, word-for-word repetition: Ashkenazi's "I want to take this opportunity to thank our employees for their contribution" and Schindler's "I'd like to thank Googlers everywhere for their contributions to our success" appear verbatim across Q3 2025, Q4 2025, Q1 2026, and Q2 2026.
+
+**Linguistic precision assessment:** Ashkenazi's sections have improved across quarters — she now routinely decomposes CapEx, flags one-time items, and provides conversion schedules for backlog. Pichai's linguistic precision has not improved since Q2 2024. The gap between the two speakers has widened rather than narrowed, suggesting this is a structural communication policy rather than individual style.
 
 ---
 
 ## Flags & Risks
 
 **Data quality flags:**
-- Q2 2023 transcript was materially incomplete — prepared remarks sections missing; financial candor likely understated relative to what a complete transcript would show
-- Q1 2024 revenue figures largely absent from excerpted prepared remarks; income statement not walked through despite being described as "a great quarter"
-- Free cash flow distortion in Q2 2025 ($5.3B quarterly vs. $66.7B TTM) explained by federal tax payment timing but not benchmarked against prior guidance
+- Q2 2025 Cash & Equivalents ground truth ($21,036M) is anomalously low relative to the prior quarter ($23,090M in Q3 2025) — in the wrong temporal order as presented; Q2 2025 precedes Q3 2025. The figures imply Q2 2025 cash was lower, which is consistent with elevated CapEx that quarter.
+- Q2 2026 "cash and marketable securities" of $242.5B stated on call vs. Cash & Equivalents of $55,911M in ground truth — the $186B gap is attributable to short-term investments and $87.1B in marketable equity securities, but this aggregation in the prepared remarks may mislead investors on actual liquid cash position.
+- Q2 2026 total equity of $622.5B reflects a $143.8B single-quarter jump driven by unrealized securities gains, not operating performance. This inflates book value in a way that may not persist.
+- Free cash flow turned negative in Q2 2026 ($-5,855M) for the first time in the analyzed period, driven by $44.9B CapEx. Not flagged as unusual in prepared remarks.
 
-**Recurring communication risks:**
-- **SGE/AI Overviews monetization evasion:** The question of whether AI in Search compresses or expands revenue per query has been asked in every quarter from Q2 2023 through Q4 2025 and has never received a quantified answer. This is eleven consecutive quarters of deflection on the most consequential strategic question for the core business.
-- **Perishable goals:** Multiple metrics introduced and never revisited — SGE "early feedback positive" (Q2–Q3 2023, then dropped), six-point strategic framework (Q1 2024, never revisited), NFL Sunday Ticket return claim (Q4 2023, never quantified), Project Astra "as early as 2025" (Q3 2024, unverified). New metrics in Q4 2025 (325M paid subscriptions, 8M Gemini Enterprise seats) may follow the same pattern.
-- **CapEx without return framework:** CapEx has grown from $8B/quarter (Q3 2023) to $175–185B annual guidance (2026) with no disclosed ROIC target, payback period, or hurdle rate across any quarter.
-- **Cost reengineering without finish line:** "Durably reengineer our cost base" used across Q4 2023 and Q1 2024 with no defined endpoint, savings target, or completion criteria.
-- **DOJ/regulatory deflection:** Antitrust litigation questions received non-substantive responses in Q4 2023 and Q3 2024; Apple partnership question (distribution economics in AI era) unanswered in Q4 2025.
-- **Zero voluntary problem disclosure:** No quarter in this series contains a "what went wrong" moment. At a company running this many concurrent bets at this investment scale, the absence is structural, not incidental.
+**Communication-level risks (aggregate):**
+- **ROI framework permanently absent.** CapEx has scaled from ~$11B/quarter (Q4 2023) to $44.9B/quarter (Q2 2026) without a single disclosed ROIC target, hurdle rate, or payback framework. Pichai has described this repeatedly as "extraordinary returns" without evidence.
+- **AI Overviews monetization systematically withheld.** Five consecutive quarters of "approximately the same rate" with explicit refusal to discuss underlying mechanics. This is the single most important revenue question for the Search business and has not been answered.
+- **Perishable metrics confirmed.** "8 million Gemini Enterprise seats" (Q4 2025) became "40% QoQ MAU growth" (Q1 2026). "Gemini app 750M MAU" (Q4 2025) merged into "350M paid subscriptions" (Q1 2026). "Six-point strategic framework" (Q1 2024) was never revisited. SGE rollout metrics were prominent through Q2 2024 then quietly replaced by "AI Overviews."
+- **DOJ/regulatory risk undisclosed.** Zero substantive discussion of antitrust remedies, distribution risk, or Apple partnership renegotiation across all analyzed calls.
+- **Debt build underdiscussed.** ~$98B in long-term debt by Q2 2026 with no interest expense trajectory or coverage ratio disclosed.
+- **2027 CapEx opacity.** "Significantly increase" from a $195–205B baseline with no range, no demand-side metric attached, and no scenario where the investment would be curtailed.
 
 ---
 
 ## Verify Next Quarter
 
-From Q4 2025 tracking commitments, verify in Q1 2026:
+From Q2 2026 analysis, the following should be checked when Q3 2026 drops:
 
-1. **2026 CapEx actuals vs. $175–185B guidance.** First quarterly data point on 2026 spend. If revised upward again, assess whether explanation acknowledges prior variance.
-2. **325 million paid subscriptions and 8 million Gemini Enterprise seats.** Both introduced as new metrics in Q4 2025 without baselines. If absent from Q1 2026, confirm perishable-goal pattern.
-3. **Cloud backlog conversion.** $240B backlog stated at Q4 2025. Track Q1 Cloud revenue growth rate for evidence of conversion and whether management discusses conversion dynamics or backlog duration.
-4. **"Expansionary moment" quantification.** Either total query volume, monetized query growth, or revenue-per-query data should accompany this claim if it persists. Continued qualitative deployment is a negative signal.
-5. **AI Mode monetization.** Schindler declined to discuss economics in Q3 2025 ("too early to tell"). A second consecutive deflection in Q1 2026 should be flagged as a structural disclosure gap, not a timing issue.
-6. **Gemini 3.0.** Pichai committed to a 2025 release. Verify whether it shipped, and whether any capability or performance benchmarks are disclosed retroactively.
-7. **Depreciation acceleration.** Ashkenazi flagged acceleration beyond Q3 2025's 41% growth rate. Q1 2026 should confirm the trajectory and whether margin guidance is updated accordingly.
-8. **Universal Commerce Protocol.** First introduced Q4 2025 with no adoption metrics. Track whether partner count or transaction data appears, or whether the initiative quietly disappears.
+1. **Third-party capacity margin impact:** Ashkenazi guided "modest margin pressure" to Cloud margins in Q3 2026. Benchmark Q3 Cloud operating margin against Q2's 35.6%. If the decline exceeds ~200 basis points, "modest" was misleading.
+
+2. **CapEx delivery against $195–205B guidance:** Q1 ($35.7B) + Q2 ($44.9B) = $80.6B YTD through H1 2026. Q3 + Q4 must deliver $114–125B to hit guidance. Track actual vs. range.
+
+3. **TPU revenue ramp:** Ashkenazi stated revenues from TPU hardware agreements will ramp "as we exit 2026" with the "vast majority in 2027." Q3 Cloud revenue segment should show early evidence of this ramp or provide updated timing.
+
+4. **Gemini 4 / monthly model release cadence:** Pichai committed to "monthly cadence" model releases. Count Gemini releases between July and October 2026. Confirm whether Gemini 4 has shipped or whether the "most ambitious pretraining run yet" has a revised timeline.
+
+5. **Cloud backlog conversion:** $514B backlog with "just over 50%" to be recognized in 24 months implies ~$257B in Cloud revenue from backlog through mid-2028. Q3 Cloud revenue should be directionally consistent with this implied pace.
+
+6. **"Expansionary moment" — first quantitative disclosure or fourth consecutive deflection:** If Q3 2026 produces no query volume index, monetization coverage rate, or revenue-per-query trend to substantiate this claim, it should be treated as a confirmed communication policy of withholding, not a timing issue.
+
+7. **2027 CapEx range:** Ashkenazi explicitly deferred this to "future earnings calls" in Q1 2026. Q3 2026 is the second opportunity. If no range is provided, assess whether the absence signals internal uncertainty about demand sustainability or deliberate disclosure management.

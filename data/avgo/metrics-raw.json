@@ -1,0 +1,103 @@
+{
+  "source": "yfinance",
+  "ticker": "AVGO",
+  "fetched_at": "2026-09-06",
+  "quarters": {
+    "Q3 2026": {
+      "revenue_m": null,
+      "gross_profit_m": null,
+      "operating_income_m": null,
+      "net_income_m": null,
+      "eps": 2.75
+    },
+    "Q2 2026": {
+      "revenue_m": 22187.0,
+      "gross_profit_m": 15415.0,
+      "operating_income_m": 10859.0,
+      "net_income_m": 9310.0,
+      "eps": 1.96,
+      "total_equity_m": 87691.0,
+      "total_assets_m": 179158.0,
+      "cash_and_equivalents_m": 19628.0,
+      "shares_outstanding_m": 4758.0,
+      "free_cash_flow_m": 10262.0,
+      "operating_cash_flow_m": 10493.0,
+      "capital_expenditure_m": -231.0,
+      "bvps": 18.43
+    },
+    "Q1 2026": {
+      "revenue_m": 19311.0,
+      "gross_profit_m": 13157.0,
+      "operating_income_m": 8666.0,
+      "net_income_m": 7349.0,
+      "eps": 1.55,
+      "total_equity_m": 79872.0,
+      "total_assets_m": 169903.0,
+      "cash_and_equivalents_m": 14174.0,
+      "shares_outstanding_m": 4736.0,
+      "free_cash_flow_m": 8010.0,
+      "operating_cash_flow_m": 8260.0,
+      "capital_expenditure_m": -250.0,
+      "bvps": 16.86
+    },
+    "Q4 2025": {
+      "revenue_m": 18015.0,
+      "gross_profit_m": 12249.0,
+      "operating_income_m": 7654.0,
+      "net_income_m": 8518.0,
+      "eps": 1.8,
+      "total_equity_m": 81292.0,
+      "total_assets_m": 171092.0,
+      "cash_and_equivalents_m": 16178.0,
+      "shares_outstanding_m": 4741.0,
+      "free_cash_flow_m": 7466.0,
+      "operating_cash_flow_m": 7703.0,
+      "capital_expenditure_m": -237.0,
+      "bvps": 17.15
+    },
+    "Q3 2025": {
+      "revenue_m": 15952.0,
+      "gross_profit_m": 10703.0,
+      "operating_income_m": 6074.0,
+      "net_income_m": 4140.0,
+      "eps": 0.88,
+      "total_equity_m": 73277.0,
+      "total_assets_m": 165621.0,
+      "cash_and_equivalents_m": 10718.0,
+      "shares_outstanding_m": 4722.0,
+      "free_cash_flow_m": 7024.0,
+      "operating_cash_flow_m": 7166.0,
+      "capital_expenditure_m": -142.0,
+      "bvps": 15.52
+    },
+    "Q2 2025": {
+      "revenue_m": 15004.0,
+      "gross_profit_m": 10197.0,
+      "operating_income_m": 5915.0,
+      "net_income_m": 4965.0,
+      "eps": null,
+      "total_equity_m": 69586.0,
+      "total_assets_m": 164630.0,
+      "cash_and_equivalents_m": 9472.0,
+      "shares_outstanding_m": 4703.0,
+      "free_cash_flow_m": 6411.0,
+      "operating_cash_flow_m": 6555.0,
+      "capital_expenditure_m": -144.0,
+      "bvps": 14.8
+    },
+    "Q1 2025": {
+      "revenue_m": null,
+      "gross_profit_m": null,
+      "operating_income_m": null,
+      "net_income_m": null,
+      "eps": null,
+      "total_equity_m": null,
+      "total_assets_m": null,
+      "cash_and_equivalents_m": null,
+      "shares_outstanding_m": null,
+      "free_cash_flow_m": null,
+      "operating_cash_flow_m": null,
+      "capital_expenditure_m": null
+    }
+  }
+}

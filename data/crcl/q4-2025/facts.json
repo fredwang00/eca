@@ -1,0 +1,47 @@
+{
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 770.2,
+    "gross_profit_m": 172.2,
+    "operating_income_m": 56.6,
+    "net_income_m": 133.4,
+    "eps": 0.56,
+    "total_equity_m": 3329.3,
+    "total_assets_m": 78713.2,
+    "cash_and_equivalents_m": 1526.0,
+    "shares_outstanding_m": 242.26,
+    "free_cash_flow_m": 233.4,
+    "operating_cash_flow_m": 249.1,
+    "capital_expenditure_m": -15.7,
+    "bvps": 13.74
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "C",
+    "composite_score": 2.5,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We anticipate FY '26 adjusted operating expenses to be between $570 million and $585 million, reflecting growing investments in building our platform capabilities and global partnerships \u2014 up from $478M comparable in FY25.",
+      "pricing_power": "We are disciplined about where we think it makes sense to have an incentive relationship where we can see that the partner can actually drive growth \u2014 implying selective rather than broad pricing concessions to maintain distribution.",
+      "management_tone_shift": "I've never been more excited about Circle's market position, platform stack and our growth opportunities \u2014 alongside specific claims of 99% of agentic payments in USDC and CCTP reaching 62% of all cross-chain bridge volume in January."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

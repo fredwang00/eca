@@ -1,0 +1,32 @@
+{
+  "ticker": "MSFT",
+  "quarter": "Q3 2026",
+  "company": "Microsoft Corporation",
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.65,
+    "composite_grade": "A"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We expect CapEx spend to increase to over $40 billion [in Q4]... for calendar year 2026, we expect to invest roughly $190 billion in capital expenditures.",
+      "pricing_power": "ARPU growth was again led by both E5 and Microsoft 365 Copilot... Microsoft 365 Consumer cloud revenue increased 33% in constant currency, again driven by ARPU growth.",
+      "management_tone_shift": "Strong customer demand across workloads, customer segments, and geographic regions continues to exceed available capacity... we feel very good about that number."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

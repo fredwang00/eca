@@ -1,0 +1,248 @@
+July 30th, 2026
+Summary
+Earnings Call Date:
+Jul 30, 2026
+Change Since:
++12.87%
+Next Earnings Date:
+Oct 29, 2026
+Earnings Call Sentiment
+Positive
+The call emphasized strong product momentum, continued diversification away from Bitcoin-centric revenue, growing subscription engagement (Coinbase One surpassing one million subscribers), and leadership in Base and USDC transaction volume. These operational and product positives were tempered by regulatory uncertainty (CLARITY Act), lower overall crypto trading volumes this quarter, senior leadership turnover, and competitive/structural pressures (new L2s, AI-driven price sensitivity, concentration risk in stablecoin economics). Overall, the company presented a confident growth and diversification story while acknowledging near-term market and regulatory headwinds.
+
+Company Guidance
+Management’s guidance was largely qualitative but included several key metrics: they’re optimistic CLARITY will reach a Senate floor vote (prediction‑market/Galaxy Research odds ~30%) ahead of the August recess, though they expect “business as usual” if it doesn’t pass and noted the Circle contract will auto‑renew on the same terms; Coinbase reported an all‑time high in paid Coinbase One members (now over 1 million), said Bitcoin’s share of company revenue has fallen from >50% historically to ~12% today, and highlighted Base metrics — roughly 32 trillion in stablecoin transfer volume over the last 12 months, sub‑cent and sub‑1‑second settlement, and >90% of agentic stablecoin transaction volume settling on Base — plus that marketing payback is typically ~1 year (recently outperforming) and Coinbase One members trade more and generate higher unit economics while agentic finance remains early but growing.
+
+
+Highlights
+
+Lowlights
+Coinbase One Subscriber Growth
+Reached an all-time high in paid Coinbase One subscribers (past one million). Management noted Coinbase One members trade more, generate higher revenue per user, have better retention, and drive cross-product adoption (staking, card, other services), with membership growth occurring even while crypto trading volumes were down.
+
+Revenue Diversification (Trading + Subscription/Services)
+Business is diversifying away from Bitcoin trading: Bitcoin-related transactions now comprise ~12% of company revenue (previously over 50%), with growth in other trading products (prediction markets, perpetual futures, stocks) and rising non-trading subscription and services revenue, increasing predictability.
+
+Product Velocity and Cross-Sell Traction
+Accelerated product launches since late December and focused growth marketing. Management cited ~1-year payback on growth marketing (recently outperforming) and early evidence that new products (e.g., prediction markets) drive incremental spot trading rather than cannibalizing it.
+
+Base L2 Leadership & Agentic Finance Positioning
+Base described as the largest L2 on Ethereum and leader in stablecoin transaction volume (management cited ~32 trillion in stablecoin transfer volume over the last 12 months per the call). Management stated over 90% of agentic stablecoin transaction volume settles on Base and emphasized Base's sub-cent / sub-1-second settlement and early lead in servicing AI/agentic finance.
+
+USDC and Multi-Stablecoin Strategy
+Coinbase reiterated strong partnership with Circle and commitment to grow USDC (described as the number-one regulated stablecoin by transaction volume). Coinbase emphasized a multi-stablecoin platform approach (supporting USDC, PYUSD, USDT, etc.) and continued investment/sharing of economics to drive network effects.
+
+New Product Traction — Pre-IPO Perpetuals
+Launched pre-IPO perpetual futures for non-U.S. traders (example: SpaceX) with encouraging early traction; U.S. access is on the roadmap, reflecting efforts to expand productable addressable market.
+
+Anil K. Gupta
+During today's discussion, we may make forward looking statements that may vary materially from our actual results. Please refer to our SEC filings and earnings presentation for information concerning risks, uncertainties and other that could cause these results to differ. In addition, our discussion today may include certain non GAAP financial measures. Reconciliations to the most directly comparable GAAP financial measures are provided in the earnings presentation on our Investor Relations website.
+
+Alesia Jeanne Haas
+Hey, everyone. Thanks for joining us live on X today. I am Alesia Jeanne Haas. CFO of Coinbase, and I am here with our cofounder and CEO, Brian Armstrong. We are also joined today by a group of independent and institutional research analysts. We are excited to connect directly with you, our customers, our community, our shareholders to talk about our quarter and answer your questions.
+
+Operator
+So we are going to take our first question from an independent analyst named Eric Pan. Eric, over to you.
+
+Eric Pan
+Hey there. Eric Pan. Ericdomics here. Great to see you guys again since the systems update in New York. My question is around CLARITY. As CLARITY is at the 1-yard line and now out for the senate for a vote, Prediction markets and Galaxy Research have odds a bit passing around roughly 30%, and August recess is right around the corner. Now I really wanna be optimistic about this, but also imagining a scenario of a world where it does not really get passed. So my question is, what is going to happen with 1 Coinbase Are you guys just going to be more careful while kind of being in this limbo between CFTC and SEC?
+
+And then 2, us, the everyday consumers, if it does not get passed.
+
+Brian Armstrong
+Yeah. I will take that 1. So, first off, I am pretty optimistic that it will get to a full senate floor vote. there is a lot of last minute negotiations happening, which to me is a sign that everyone is invested in getting something over the line. I mean, there is just thousands and thousands of hours that have been spent by the senate staff and the senators themselves on getting a really good work product. And like every good negotiation, there is a lot of last minute details to get right, but having a deadline or a forcing function with this August recess for the senate is actually a good thing. It tends to get people to the table at the last minute. So there is been lots of phone calls happening this week.
+
+Now, of course, there is more steps that would need to happen for it to become law after the senate floor vote, and you can never say 100% with these things. So I am anyway, I am optimistic it can get done. By the way, big shout out to the Stand with Crypto advocates who sent, I think, over a million emails and phone calls to their representatives to help get that through. But your question was about what happens if it does not pass, and I think in that world, it is actually kind of just business as usual for Coinbase for a few reasons. 1 is that, I mean, we already do many of the things that would be required by the CLARITY Act as just a good best practice. But more importantly, maybe Chair Atkins and Gensler at the SEC and the CFTC respectively, they have publicly said that they are poised to pass clear rules whether CLARITY passes or not. I think they have been kind of in a holding pattern do not speak for them, but I think they are in a bit of a holding pattern waiting to see what happens with CLARITY. And if it does not, go through for some reason, then they would come out with their own rules that would allow businesses like Coinbase to continue to operate.
+
+And have more clarity. So we still think on margin, it is better if the CLARITY Act passes. It creates durability through multiple administrations. People can make longer term investments. But it is really the American consumers, as you mentioned, who would lose if CLARITY does not, I think Coinbase would be fine.
+
+Eric Pan
+Thank you.
+
+Operator
+Alright. We are moving to our next question, and this is going to come from institutional research analyst Owen Lau at Clear Street.
+
+Owen Lau
+Thank you, Alesia, and also Brian. Could you please talk about the reason Coinbase joining Onyx USD? Some people think, Onyx USD is a major threat. to USDC. Obviously, Onyx USD is not even launched yet, so there are no hard figures we can compare with But why does Coinbase participate in a competing stablecoin platform? Competing stablecoins? And in relation to that, does it increase your leverage to negotiate the contract with Circle? I actually saw that it is auto renewed on the same terms, but I keep getting this question.
+
+Do you need to self partnerships for negotiation? Thanks.
+
+Alesia Jeanne Haas
+Can I address the partnership with Circle first, Brian, and then we can talk about our platform if that is okay with you?
+
+Brian Armstrong
+Yeah. Sure.
+
+Alesia Jeanne Haas
+So we have already met the conditions for the circle contract to renew, it will renew on the same terms. I wanna take away any ambiguity about that, for the market. Owen. So we will continue to work on growing USDC partnering with Circle, driving that ecosystem. Now why Onyx USD, Brian?
+
+Brian Armstrong
+Over to you. Yeah. I mean, the short reason is that we are a multi stablecoin platform. We wanna provide stablecoins that all of our customers want to use And where possible, we want to strike good economic arrangements with them. Now we have a great partnership with Circle and USDC. that is been-- we have arguably the strongest economics on that point from that point of view. But make sure that we strike economic deals with every major stablecoin out there and support everything. So we actually already support other stablecoins, things like PayPal, PYUSD, USD USDT, Tether.
+
+Right? So we are excited about this open USDC consortium, and we will keep investing in that. I think this just creates additional business opportunities and revenue opportunities for us to be a multi stable coin platform. Not to mention, I guess, you know, FX trading, things like that. Thank you.
+
+Operator
+Alright. Next question. Brian Jung.
+
+Brian Jung
+Hey, Brian. Hey, Alesia. it is good to see you guys again. I am really curious about your relationship right now that you have with retail. You had your appearance on Market Bubble. You announced Cobie was taking over the base app. I feel like these are some early signals that Coinbase here wants to really reconnect with the crypto native users. Can you just tell me more about your thoughts on this and what made you really take this kind of pivot recently?
+
+
+Brian Armstrong
+Yeah. So we have lots of different groups that like to use Coinbase and build on top of the base chain is even probably a broader group. And so, we try to make an effort to connect with all of them. it is really a pretty diverse group of people that use Coinbase. Right? there is the largest, like, G SIB banks in the world are building on our infrastructure. We also are having AI agents spin up wallets on top of our architecture. We have, fintechs and payment service providers.
+
+We have a huge segment of retail have simple traders. We have advanced traders. And, of course, there is this crypto native community that you mentioned. So that is a very important constituency that we go connect with. They are more Internet native, you know, sometimes I have to make sure I-- you know, I am 43 now, so I have to in the weeds on some of the lingo and the norms and whatnot, but we have great people on our team to go speak to all of these different constituencies with more depth than I than I have. And, you know, you mentioned Cobie. he is 1 of the folks that just joined recently, and I think he comes from that community, which is really good. And I will continue to go on podcasts that speak to all these different groups, including the crypto native community.
+
+
+Brian Jung
+I appreciate that. Thanks.
+
+Brian Armstrong
+Yeah. Thank you.
+
+Operator
+Alright. Next question from Kenneth Worthington Hi, Brian and Alesia.
+
+Kenneth Worthington
+Nice seeing you both, and thank you for letting me participate here. There were a number of departures from your senior leadership team this quarter. Why did you hire these high profile trainers a short period of time? what is the strategy with regard to HR? Faith? Legal, and institutional, with new--
+
+Brian Armstrong
+You broke up there for a little bit, but I think I got the gist of it and you mentioned strategy. there is nothing that is changing about the strategy, but I guess what I would say is 1 of the I am most proud about Coinbase is we have a really deep bench of talent We have a really good succession planning process. And so we have had lots of folks that are long tenured. it is normal for people to turn over at different points. But what I am really bullish about is we just have amazing talent that is at the company a while that is ready to go step up into these roles. And I think it is really a strength of ours. So, yeah, I am exciting. Excited to see what that turns out to be.
+
+
+Alesia Jeanne Haas
+Yeah. I just wanna underpin my excitement around the bench of talent that we have and all of the folks that you have been introduced to. Dominique, who will lead our people function, Molly leading our new legal function, or Liz. Each of them has been groomed by the outgoing leaders, and I think that we are excited for generation of talent. But these are all individual decisions, so there is nothing from a strategy standpoint to read into these changes.
+
+Operator
+Alright. Next question. Austin Hankwitz.
+
+Austin Hankwitz
+Hey, y'all. How's it going? Austin Hankwitz here, cohost of the Rich Habits Podcast. And head analyst at GRID Capital. Thanks again so much for letting me tag along. Brian, you all said last quarter that customers do not choose Coinbase because you are the cheapest. They choose you because you are the most trusted. You also said over 90% of agentic stablecoin transaction volume settles on base, but an AI agent has no brand loyalty It simply optimizes for cost and latency.
+
+So as agents become a larger share of volume, does that trust mode transfer to them, or does agentic commerce structurally now push Coinbase toward competing on price? In a way that maybe the consumer business never had to? Would love to get your take.
+
+Brian Armstrong
+Well, I am glad you are thinking about how we are going to serve AI agents as customers. Along with humans, which, you know, I have been thinking a lot about as well. I think the short answer to your question is that actually, I think AI agents are probably going to care about a similar set of things that humans would. Certainly, price is 1 of those factors and, you know, Base actually delivers, like, subcent and sub 1 second settlement. So it is, like, very competitive from that point of view. But I also think AI agents are going to choose infrastructure that is reliable and safe and liquid and compliant and has good uptime. Just like they might choose AWS or some kind of cloud vendor for different types of infrastructure, you could imagine. So long way of saying, I think trust will continue to be important in that world.
+
+And we are gonna be rolling out the red carpet for AI agents and make sure that we are serving them appropriately.
+
+Austin Hankwitz
+Love it.
+
+Operator
+Alright. Our next question, Alexander Markgraf from KeyBanc Capital Markets.
+
+Alexander Markgraff
+Hey, Brian. Hey, Alesia. Thanks for doing this and including me. Coinbase has launched many new products since December 25th. I think the product velocity has certainly stepped up. I am curious to understand how the team is thinking about driving cross product adoption. And specifically bringing new users in through various entry points that are newer products to the platform. So would be helpful just to understand the strategy there and then if there is any detail on sort of marketing dollar allocation as you think about that approach would be helpful.
+
+Thanks.
+
+Alesia Jeanne Haas
+Alright. Why do not I start on this 1? So our whole strategy starts with providing safe storage of customer assets and driving our assets on platform. We find when customers store with us, they transact with us. So then when we get to our growth marketing strategy, it really looks to what product is meeting the market need and where do we see activity coming from in our retail customer base. Currently, we are seeing a lot of success with growth marketing efforts around markets and also crypto trading, some of the new products that we have offered in derivatives as well. We are typically seeing a 1-year payback on growth marketing efforts but recently we have outperformed this benchmark. We have also early signals customers who are engaging with these new products, for example, prediction markets, are also driving incremental spot trading volume.
+
+So we are not seeing cannibalization. These early days are actually indicating that we are seeing incremental trading coming as we then cross sell and have more customers adopt more products on our platform.
+
+Brian Armstrong
+Yeah. Just to underscore that, I mean, the asset accumulation is a core part of the strategy there. When we see customers trust us, we have the most trusted brand in crypto. We store crypto more than any other company out there. If they are willing to store a customer to store their assets with us, then whenever they come back for the 1 product that they are using today, we have a chance to put something in front of them and over time, they can adopt additional products. And it tends to be good for user retention, the more products they use and the more assets they store with us. So we have various incentives set up to encourage more of that. For instance, you can get a higher rate on the coinbase 1 card, the more that your more assets you are storing with us.
+
+We look at tiers like that to get people incentivized to store more assets with us over time.
+
+Operator
+Alright. Now we are gonna go back to the top. So, Eric Pan, question number 2.
+
+Eric Pan
+Sure. Thank you. So Coinbase continues to diversify and decouple your revenue streams as Bitcoin related transactions used to comprise more than half the entire company's revenue, and now it is at a staggering 12% of the business. So what other revenue verticals are you guys really focusing on? I know you guys are making a big push on the Agentic commerce side, so we would love to hear more about that along with other verticals.
+
+Brian Armstrong
+Yeah. Well, thanks for noticing that. I mean, we are diversifying revenue both on the trading fee side, and on subscription and services with nontrading fees. So on the trading fee side, I mean, you are seeing we are seeing good adoption of things like, yeah, prediction markets, perpetual futures. Seeing our overall trading volume share grow. Know, we added stock trading. there is various things that we have talked about on the horizon, you know, like, stock options trading. So I think that the diversity of revenue on trading fees specifically will continue to happen.
+
+And I think Bitcoin will come back in a big way too. By the way, it keeps going through these cycles. So at any given time in trading, there is always something that is up and something that is down. And so you have to have-- really that is part of the everything exchange strategy. You have got to have all the stock the shelves stocked so you have the inventory when people when that thing trends that week. And then on the non trading fee side with subscription and services, we have seen good growth of that over the past years as well. And it just allows our business to be a bit more predictable. So yeah.
+
+Alesia, anything you wanna add on that?
+
+Alesia Jeanne Haas
+1 thing I wanted to share that maybe people looked past is that we saw an all time high in paid Coinbase 1 subscribers this quarter. And what that is really indicating to us and this is during a down market, We saw crypto trading volumes down, but growth in Coinbase 1 memberships. And so it really speaks to then the value of the subscription product, and these tend to be our most deeply engaged customers that try out the most products and services we offer. So that is another important growth factor that we think we can really drive membership and engagement through our platform through that subscription product.
+
+Eric Pan
+Thank you.
+
+Brian Armstrong
+Yeah. You asked I think you asked about Agentic finance as well or-- yes, AIFI. I think it is still very early days on that. I would say Coinbase has an early lead, you know, from an agentic finance point of view. We are seeing the majority of the transactions happening on with USDC and base and X402 and Coinbase developer platform has been a really great resource for people on that. But it is still quite early, so do not think we have any specific numbers or forecast to share on that at the moment.
+
+Eric Pan
+Sounds good. And I just really wanna make a comment that I really love the fact you guys are building the rails amongst all of this. So when the $450 trillion global asset market moves on chain, when the rails get rebuilt, Coinbase is well positioned to be able to capitalize on all of that because you guys own the plumbing. So I really love that. Thank you.
+
+Brian Armstrong
+Yeah. Yeah. Thank you. Building for the future here.
+
+Operator
+Alright. Owen. Owen Lau from Clear Street. Back to you.
+
+Owen Lau
+Thank you, Alesia. Last month, Coinbase started to offer pre IPO perpetual futures for non US traders to gain access to private companies. The first 1 was SpaceX. Could you please talk about the next step and the pipeline you are building When should we expect to see more private companies? And do you have timeline for when this product can be offered to US customers? Thanks a lot.
+
+Brian Armstrong
+Yeah. So the early traction is definitely encouraging on the pre IPO perps. And there is a lot of customer demand for it. In terms of US access, that is on the road map. I will keep pushing on that. Yeah, I think it is important to get people access to these kinds of things that they historically could not get access to. it is a good part of democratizing the financial system. So we will keep pushing on that from a US approval point of view.
+
+
+Owen Lau
+Thanks a lot.
+
+Operator
+Alright. Brian Jung, back over to you.
+
+Brian Jung
+Yeah. Thanks, guys. So, Brian, I am particularly interested the evolving competitive landscape right now in crypto, especially with Robinhood. They announced that they were expanding deeper into crypto. They recently launched their own L2. How do you view them as a competitor? And particularly, how do you view them in relation to the whole base ecosystem?
+
+Brian Armstrong
+Yeah. So we are seeing lots of different companies come out and launch their own chain now, which, you know, in a way is normal. Like, whenever you have an a growing market, you see initially fragmentation And then over time, you typically see consolidation. We have seen that, you know, that is this has been true for automobiles and you know, trains and all kinds of things historically. But even in the crypto space, I think we saw this with stablecoins where just it seemed like there was a period of time where every company was coming out with their own stablecoin, and there was a belief that we all have to have our own. And then it is turned out that despite all of those new stablecoins being announced, the market share of say, USDC and Tether has not really shrunk by almost any amount over the last year or so. So maybe a very de minimis amount. So I think what we are what people found out in stablecoins is that there is an actual network effect to stablecoins.
+
+And customers if you are sending and receiving between platforms, which is a big part of the utility of it, then you want to keep it all in a stablecoin that you know. You do not wanna have to be paying sort of an x FX or conversion fee every time you use a stablecoin. So my guess is we are gonna see something similar happen with blockchains and you know, Stripe is has launched 1 and Robinhood has launched 1. Some of them are a little bit more special purpose, I guess, in what they are they are targeting. And then know, the largest blockchains out there, Ethereum and Solana, are still kinda more general purpose. So an interesting question about whether where when the consolidation phase will start to happen. And, of course, Base has been doing really well as the largest L2 on Ethereum. You know, it is it is the it is the most liquid market for instance, like, with crypto spot trading, like Bitcoin and Ethereum.
+
+You know, I think it is number 1 now in terms of stablecoin volume. I think it did about, like, 32 bill 32 trillion in the last 12 months of stablecoin transfer volume. it is also the leader in AgenTic. Finance. Right? We have seen like I mentioned earlier, the payments that are happening with X402 and those kind things. They are happening predominantly on base. So you know, I am very excited about base.
+
+I think it is an incredible innovation. I think you know, there is a path to, decentralize it over time, which we have said publicly in the past. Where we want lots of companies to be able to build on it as neutral infrastructure, and we have been making good progress on that through the different stages of decentralization. We have got really like a 2-year head start, I would say. We are gonna continue to invest in base. We are gonna make sure everyone can build on top of it. And then you know, we probably will see more companies launch their own. And then the question is, how and when will that consolidation phase happen?
+
+And how might there be sort of an M&A-type process in the world of blockchains? Like, we have seen small examples of that in the past, but who knows? We might have to become a bit of a specialist in that area.
+
+Brian Jung
+I love it. Thank you.
+
+Operator
+Alright. Kenneth Worthington from JPMorgan.
+
+Kenneth Worthington
+Hi. The relationship with Hyperliquid seems to demonstrate that if a third party has enough USDC, it can leverage the position into commanding the majority of the USDC economics. How do you continue to invest in the USDC network, bring in new participants, and still protect the longer term economics as the network strengthens.
+
+Alesia Jeanne Haas
+Maybe I will start with this 1, Kenneth. So anybody is welcome to come to Coinbase and become a customer and hold USDC on our platform and participate in rewards. We want to welcome institutional customers to do this, if you are a Coinbase 1 member as a retail holder, you are also welcome to come and earn rewards on your USDC by participating in our products and services. So we did not view Hyperliquid any differently in that way. They are obviously a very important market player in the overall perpetual futures ecosystem, and we believe that this partnership will drive broader network effect, broader USDC by deeply embedding it in an important player that has a lot of its own market maker activity. With stablecoins, with underlying protocols, even base, Liquidity network effect are critically important, and so bringing USD deeply into this ecosystem just further drives USDC growth and adoption throughout the globe. So that was our strategy. This is what we think is the right long term strategy for stablecoins, and we are happy to share economics to drive this network effect.
+
+
+Brian Armstrong
+Just to underscore that, We are going to keep investing in USDC to keep growing it. And you know, it is actually it is already number 1 if you look at, stablecoin transaction volume. Which is great. it is it is already number 1, the number 1 regulated stablecoin in the world. The only 1 that it has not achieved the number 1 on is if you look at regulated and under regulated, and then you say, what is the market cap or the assets under management? That then you know, you could say it is number 2 compared to Tether. So I do think it is important for us to continue sharing economics to grow USDC and get it to be number 1 across all of those categories, not just 2 out of 3. And you know, that there is disproportionate gains to being the number 1 in the market.
+
+So we are gonna keep doing that to try to help it out.
+
+Alesia Jeanne Haas
+Absolutely.
+
+Operator
+Alright.
+
+Austin Hankwitz
+Austin Hankwitz, over to you. Hey, Alesia. So you already alluded to this earlier, but I kind of want to linger on it for a little bit, which is Coinbase 1 past a million subscribers. Now you just said, you know, new all time highs. You have also said that members trade more and generate higher revenue per user. But that said, members do get these zero fee trading, and you have noted that you can still capture a spread that books to, you know, that retail transaction revenue. But as more volume shifts under this Coinbase 1 umbrella, is revenue per dollar traded higher or lower for a Coinbase 1 member than a nonmember? So, you know, should investors read this growth in Coinbase 1 as accretive or as take rate compression?
+
+Thank you.
+
+Alesia Jeanne Haas
+Great question. I am gonna give an unsatisfying answer because when I look at the data on average Coinbase 1 subscribers trade more and have higher unit economics, there is always examples on the edges. And so I think that what you will see obviously is the revenue will not just all accrue to the trading revenue area because those Coinbase 1 users, they are also staking. They are also using their Coinbase 1 credit card. So we are earning revenue in multiple ways to the Coinbase 1 membership, but what we see is it is an accretive relationship because it is just driving up and down the product stack. So I think overall, this will be more net unique economic positive to us. We also see better retention rates and better engagement rates. But you will see the revenue shift through the p and l if we see broad adoption and a shift from just a la carte users to Coinbase 1.
+
+Subscribers.
+
+Austin Hankwitz
+That makes a ton of sense to me. Thank you so much for walking me through that.
+
+Operator
+Alright. Next, we have Alexander Markgraf. Alexander, we are not able to hear you. If you wanna try something with your mic. Alright. We will give them a minute. And if we lose him, then think then we will have ended the call for this quarter. Give him 2 more seconds.
+
+Alright. Well, that wraps up our Q2 2026 earnings call on x. Thank you all for joining us, and we look forward to seeing you next quarter. Thanks, y'all.

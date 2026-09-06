@@ -15,7 +15,7 @@
   },
   "metrics": {
     "source": "yfinance",
-    "ingested_at": "2026-03-30",
+    "ingested_at": "2026-09-06",
     "revenue_m": 81273.0,
     "gross_profit_m": 55295.0,
     "operating_income_m": 38275.0,
@@ -24,11 +24,11 @@
     "total_equity_m": 390875.0,
     "total_assets_m": 665302.0,
     "cash_and_equivalents_m": 24296.0,
-    "shares_outstanding_m": 7429.0,
+    "shares_outstanding_m": 7428.84,
     "free_cash_flow_m": 5882.0,
     "operating_cash_flow_m": 35758.0,
     "capital_expenditure_m": -29876.0,
-    "bvps": 52.61
+    "bvps": 52.62
   },
   "flags": []
 }

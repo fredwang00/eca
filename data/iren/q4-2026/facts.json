@@ -1,0 +1,32 @@
+{
+  "ticker": "IREN",
+  "quarter": "Q4 2026",
+  "company": "IREN (formerly Iris Energy)",
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "For FY27, we're guiding CapEx of approximately $25 billion to $30 billion... covering delivery of contracted Microsoft capacity, air-cooled 2027 builds and a large portion of 2H-2027 liquid-cooled work.",
+      "pricing_power": "3-year contract pricing is up about 125% since November... recent 3-year contracts are pricing in excess of $20 million per megawatt of IT load... active discussions are now at around $25 million per megawatt.",
+      "management_tone_shift": "GPU financing barely existed as an asset class 12 months ago, and in the last 3 months we've raised $6.5 billion of it at both ends of the credit spectrum. That's not us getting lucky with financing, that's a market forming."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

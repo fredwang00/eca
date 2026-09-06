@@ -1,0 +1,32 @@
+{
+  "ticker": "MSFT",
+  "quarter": "Q4 2026",
+  "company": "Microsoft Corporation",
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A",
+    "dim3_grade": "B+",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.575,
+    "composite_grade": "A"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We expect FY'27 capital expenditures will grow year-over-year given demand signals across our portfolio... CapEx spend will be over $50 billion [in Q1 alone].",
+      "pricing_power": "We're adding this capacity and a lot of this is being sold in newer contracts and we're able to have the pricing reflect it... Premium offerings including Copilot, E5, and early traction in E7 drove ARPU growth this quarter.",
+      "management_tone_shift": "I've never been more confident in Microsoft's opportunity to drive durable long-term growth... we continue to expect another fiscal year of double-digit revenue and operating income growth."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

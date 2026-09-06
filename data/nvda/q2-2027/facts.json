@@ -1,0 +1,32 @@
+{
+  "ticker": "NVDA",
+  "quarter": "Q2 2027",
+  "company": "NVIDIA Corporation",
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "A-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C+",
+    "dim5_grade": "A-",
+    "composite_score": 3.17,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "CapEx by the top 5 hyperscalers is expected to reach nearly $800 billion in 2026 and $1.3 trillion in 2027.",
+      "pricing_power": "We are experiencing extreme pricing conditions in memory... we have executed price increases [that] take effect in Q1 [FY2028].",
+      "management_tone_shift": "Customers forecasts point to our growth, doubling next year... The unconstrained would be a lot higher."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

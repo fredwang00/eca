@@ -1,0 +1,50 @@
+{
+  "ticker": "GLXY",
+  "quarter": "Q2 2026",
+  "company": "Galaxy Digital Holdings Ltd.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 8576.2,
+    "gross_profit_m": -9.9,
+    "operating_income_m": 77.5,
+    "net_income_m": -170.6,
+    "eps": -0.09,
+    "total_equity_m": 1823.4,
+    "total_assets_m": 10844.0,
+    "cash_and_equivalents_m": 895.7,
+    "shares_outstanding_m": 194.8,
+    "free_cash_flow_m": -26.8,
+    "operating_cash_flow_m": 372.0,
+    "capital_expenditure_m": -398.8,
+    "bvps": 9.36
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "C+",
+    "dim2_grade": "B-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.52,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "Data center CapEx was $448 million in Q2, up from $354 million in Q1. In the coming quarters, you should expect CapEx to continue increasing alongside the pace of construction at Helios.",
+      "pricing_power": "New guarantee and lease wrap structures are being formalized to help better shape the risk/reward opportunity for us as a long-term infrastructure owner... new potential tenants are showing up to the market regularly now.",
+      "management_tone_shift": "We've delivered 133 megawatts to CoreWeave on schedule in an industry where timely execution has become a meaningful differentiator... What you're seeing is a business that's moved beyond proving it can execute."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

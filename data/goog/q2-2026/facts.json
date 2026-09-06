@@ -1,0 +1,51 @@
+{
+  "ticker": "GOOG",
+  "quarter": "Q2 2026",
+  "company": "Alphabet Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 119796.0,
+    "gross_profit_m": 73853.0,
+    "operating_income_m": 40770.0,
+    "net_income_m": 112193.0,
+    "eps": 9.23,
+    "total_equity_m": 622457.0,
+    "total_assets_m": 921983.0,
+    "cash_and_equivalents_m": 55911.0,
+    "shares_outstanding_m": 12229.93,
+    "free_cash_flow_m": -5855.0,
+    "operating_cash_flow_m": 39069.0,
+    "capital_expenditure_m": -44924.0,
+    "bvps": 50.9
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "A-",
+    "dim2_grade": "B-",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Cloud revenue grew 82% year-over-year to $24.8 billion; Cloud backlog increased by more than $50 billion sequentially, reaching $514 billion in the second quarter.",
+      "capex_direction": "We are updating our full year 2026 CapEx guidance range to $195 billion to $205 billion, up from our previous estimate of $180 billion to $190 billion.",
+      "pricing_power": "Those who adopt our AI-powered campaigns like AI Max or PMax see an average of 15% more conversions or value on search at a similar ROAS.",
+      "management_tone_shift": "If anything, over the past year, we've gotten more bullish on the opportunities ahead... the dynamics look healthier than where we were about a year ago."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

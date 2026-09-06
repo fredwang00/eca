@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "COIN",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-06",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 1781.1,
@@ -28,14 +28,14 @@
       "total_assets_m": 31351.4,
       "cash_and_equivalents_m": 8676.3,
       "shares_outstanding_m": 268.74,
-      "free_cash_flow_m": -784.5,
-      "operating_cash_flow_m": -784.5,
+      "free_cash_flow_m": -1731.5,
+      "operating_cash_flow_m": -1731.5,
       "capital_expenditure_m": null,
       "bvps": 59.62
     },
     "Q2 2025": {
       "revenue_m": 1497.2,
-      "gross_profit_m": 1071.0,
+      "gross_profit_m": 1071.9,
       "operating_income_m": -33.4,
       "net_income_m": 1428.9,
       "eps": 5.6,
@@ -43,8 +43,8 @@
       "total_assets_m": 23476.0,
       "cash_and_equivalents_m": 7539.4,
       "shares_outstanding_m": 256.43,
-      "free_cash_flow_m": 328.5,
-      "operating_cash_flow_m": 328.5,
+      "free_cash_flow_m": 240.1,
+      "operating_cash_flow_m": 240.1,
       "capital_expenditure_m": null,
       "bvps": 47.17
     },
@@ -91,6 +91,36 @@
       "free_cash_flow_m": null,
       "operating_cash_flow_m": null,
       "capital_expenditure_m": null
+    },
+    "Q2 2026": {
+      "revenue_m": 1220.1,
+      "gross_profit_m": 828.6,
+      "operating_income_m": -29.4,
+      "net_income_m": -359.5,
+      "eps": -1.36,
+      "total_equity_m": 13079.7,
+      "total_assets_m": 26460.3,
+      "cash_and_equivalents_m": 8614.1,
+      "shares_outstanding_m": 263.78,
+      "free_cash_flow_m": 197.3,
+      "operating_cash_flow_m": 197.3,
+      "capital_expenditure_m": null,
+      "bvps": 49.59
+    },
+    "Q1 2026": {
+      "revenue_m": 1413.0,
+      "gross_profit_m": 984.4,
+      "operating_income_m": 13.7,
+      "net_income_m": -394.1,
+      "eps": -1.49,
+      "total_equity_m": 13480.6,
+      "total_assets_m": 28848.8,
+      "cash_and_equivalents_m": 10205.0,
+      "shares_outstanding_m": 263.41,
+      "free_cash_flow_m": 182.7,
+      "operating_cash_flow_m": 182.7,
+      "capital_expenditure_m": null,
+      "bvps": 51.18
     }
   }
 }

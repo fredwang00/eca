@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "GOOG",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-06",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 113829.0,
@@ -88,6 +88,36 @@
       "total_assets_m": null,
       "cash_and_equivalents_m": null,
       "shares_outstanding_m": null
+    },
+    "Q2 2026": {
+      "revenue_m": 119796.0,
+      "gross_profit_m": 73853.0,
+      "operating_income_m": 40770.0,
+      "net_income_m": 112193.0,
+      "eps": 9.23,
+      "total_equity_m": 622457.0,
+      "total_assets_m": 921983.0,
+      "cash_and_equivalents_m": 55911.0,
+      "shares_outstanding_m": 12229.93,
+      "free_cash_flow_m": -5855.0,
+      "operating_cash_flow_m": 39069.0,
+      "capital_expenditure_m": -44924.0,
+      "bvps": 50.9
+    },
+    "Q1 2026": {
+      "revenue_m": 109896.0,
+      "gross_profit_m": 68625.0,
+      "operating_income_m": 39696.0,
+      "net_income_m": 62578.0,
+      "eps": 5.17,
+      "total_equity_m": 478746.0,
+      "total_assets_m": 703919.0,
+      "cash_and_equivalents_m": 38063.0,
+      "shares_outstanding_m": 12116.0,
+      "free_cash_flow_m": 10116.0,
+      "operating_cash_flow_m": 45790.0,
+      "capital_expenditure_m": -35674.0,
+      "bvps": 39.51
     }
   }
 }

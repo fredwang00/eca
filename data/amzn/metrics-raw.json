@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "AMZN",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-06",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 213386.0,
@@ -77,6 +77,28 @@
       "operating_cash_flow_m": 45636.0,
       "capital_expenditure_m": -27834.0,
       "bvps": 27.0
+    },
+    "Q2 2026": {
+      "revenue_m": null,
+      "gross_profit_m": null,
+      "operating_income_m": null,
+      "net_income_m": null,
+      "eps": 5.82
+    },
+    "Q1 2026": {
+      "revenue_m": 181519.0,
+      "gross_profit_m": 94056.0,
+      "operating_income_m": 23852.0,
+      "net_income_m": 30255.0,
+      "eps": 2.82,
+      "total_equity_m": 441914.0,
+      "total_assets_m": 916630.0,
+      "cash_and_equivalents_m": 101816.0,
+      "shares_outstanding_m": 10754.25,
+      "free_cash_flow_m": -18171.0,
+      "operating_cash_flow_m": 26032.0,
+      "capital_expenditure_m": -44203.0,
+      "bvps": 41.09
     }
   }
 }

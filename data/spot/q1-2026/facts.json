@@ -29,5 +29,23 @@
       "management_tone_shift": "We reiterate our previous statement that we expect another full year of healthy subscriber growth... we continue to expect both to improve in 2026 on a full year basis."
     },
     "extracted_at": "2026-05-23"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 4533.0,
+    "gross_profit_m": 1495.0,
+    "operating_income_m": 715.0,
+    "net_income_m": 721.0,
+    "eps": 3.5,
+    "total_equity_m": 8010.0,
+    "total_assets_m": 13128.0,
+    "cash_and_equivalents_m": 5255.0,
+    "shares_outstanding_m": 205.62,
+    "free_cash_flow_m": 831.0,
+    "operating_cash_flow_m": 836.0,
+    "capital_expenditure_m": -5.0,
+    "bvps": 38.96
+  },
+  "flags": []
 }

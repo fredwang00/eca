@@ -1,0 +1,50 @@
+{
+  "ticker": "TSLA",
+  "quarter": "Q2 2026",
+  "company": "Tesla, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 28236.0,
+    "gross_profit_m": 4751.0,
+    "operating_income_m": 398.0,
+    "net_income_m": 1114.0,
+    "eps": 0.34,
+    "total_equity_m": 86858.0,
+    "total_assets_m": 148524.0,
+    "cash_and_equivalents_m": 15219.0,
+    "shares_outstanding_m": 3949.0,
+    "free_cash_flow_m": -1099.0,
+    "operating_cash_flow_m": 4697.0,
+    "capital_expenditure_m": -5796.0,
+    "bvps": 21.99
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "CapEx more than doubled sequentially, and we expect it to increase further in the second half of 2026... CapEx for this year will be more than $25 billion. CapEx will grow for the next two to three years.",
+      "pricing_power": "Controlling for the impact of those benefits from the prior quarter, our automotive gross margins, excluding credits would have been approximately flat. This demonstrates the effective pricing and cost management done by the Tesla team as we continue to drive demand.",
+      "management_tone_shift": "This is going to be a great year for Tesla, I think one of our best years ever. And then I think next year will be even better."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

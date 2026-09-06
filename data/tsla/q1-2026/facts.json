@@ -1,0 +1,51 @@
+{
+  "ticker": "TSLA",
+  "quarter": "Q1 2026",
+  "company": "Tesla, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 22387.0,
+    "gross_profit_m": 4720.0,
+    "operating_income_m": 941.0,
+    "net_income_m": 477.0,
+    "eps": 0.15,
+    "total_equity_m": 84116.0,
+    "total_assets_m": 143724.0,
+    "cash_and_equivalents_m": 16603.0,
+    "shares_outstanding_m": 3755.0,
+    "free_cash_flow_m": 1444.0,
+    "operating_cash_flow_m": 3937.0,
+    "capital_expenditure_m": -2493.0,
+    "bvps": 22.4
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "C",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.3,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "stable",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "We grew the Robotaxi fleet quarter-over-quarter, and we expect to keep ramping the fleet as we accelerate and get into other geographies.",
+      "capex_direction": "Our current expectation for 2026 is over $25 billion of CapEx... we are paying for 6 factories which we're going to go into operation.",
+      "pricing_power": "The starting price of Model 3 today is way less than that when the product is way more compelling from where it started.",
+      "management_tone_shift": "We're going to be substantially increasing our investments in the future... I think it's going to pay off in a very big way."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

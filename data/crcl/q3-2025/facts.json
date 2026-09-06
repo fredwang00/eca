@@ -1,0 +1,47 @@
+{
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 739.8,
+    "gross_profit_m": 162.9,
+    "operating_income_m": 79.3,
+    "net_income_m": 214.4,
+    "eps": 0.93,
+    "total_equity_m": 3023.4,
+    "total_assets_m": 76781.0,
+    "cash_and_equivalents_m": 1348.9,
+    "shares_outstanding_m": 234.21,
+    "free_cash_flow_m": -26.3,
+    "operating_cash_flow_m": -10.7,
+    "capital_expenditure_m": -15.6,
+    "bvps": 12.91
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.4,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We are increasing our adjusted operating expenses for the year to $495 million to $510 million, reflecting growing investments in building our platform capabilities and global partnerships.",
+      "pricing_power": "We need to see a real path, a win-win path where partners are going to lean in... only when we see that are we going to really step in and try and get economic incentives in place.",
+      "management_tone_shift": "We are at the beginning of meaningful shifts in the global markets for money... we are leaning into this. We're seeing growth in major platform developments that we think are critical to winning the Internet platform game."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

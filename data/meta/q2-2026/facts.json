@@ -1,0 +1,51 @@
+{
+  "ticker": "META",
+  "quarter": "Q2 2026",
+  "company": "Meta Platforms, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 60801.0,
+    "gross_profit_m": 49471.0,
+    "operating_income_m": 18775.0,
+    "net_income_m": 15848.0,
+    "eps": 6.23,
+    "total_equity_m": 261221.0,
+    "total_assets_m": 449956.0,
+    "cash_and_equivalents_m": 15462.0,
+    "shares_outstanding_m": 2548.38,
+    "free_cash_flow_m": 1746.0,
+    "operating_cash_flow_m": 31862.0,
+    "capital_expenditure_m": -30116.0,
+    "bvps": 102.5
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "B",
+    "dim3_grade": "B-",
+    "dim4_grade": "B",
+    "dim5_grade": "B+",
+    "composite_score": 3.075,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "For the first time, quarterly Family of Apps other revenue reached $1 billion and grew 73% year-over-year, driven primarily by WhatsApp paid messaging and subscriptions revenue.",
+      "capex_direction": "We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $130 billion to $145 billion, narrowed from our prior outlook of $125 billion to $145 billion.",
+      "pricing_power": "The global average price per ad increased 12% year-over-year, driven by ad performance gains, improvements in macro conditions relative to Q2 of last year and currency tailwinds.",
+      "management_tone_shift": "We are very optimistic that we are building a positive future for everyone... I feel very good about this... we're very focused on delivering it for our community."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

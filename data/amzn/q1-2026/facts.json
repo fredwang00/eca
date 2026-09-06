@@ -1,0 +1,52 @@
+{
+  "ticker": "AMZN",
+  "quarter": "Q1 2026",
+  "company": "Amazon.com, Inc.",
+  "candor": {
+    "analyzed_at": "2026-05-06",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.455,
+    "composite_grade": "A"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "In Q1, the average prices of products offered on Amazon.com decreased compared to the same period last year... Units grew 15% year over year, the highest we have seen since the tail end of COVID lockdowns.",
+      "services_demand": "AWS is now a $150 billion annualized revenue run rate business... growth continued to accelerate, up 28% year over year, the fastest growth rate in 15 quarters.",
+      "capex_direction": "Our cash CapEx is $43.2 billion in Q1... We will continue to make significant investments, especially in AI, as we believe it to be a massive opportunity with the potential to drive long-term revenue and free cash flow.",
+      "pricing_power": "We remain committed to meeting or beating other retailers on price. In Q1, the average prices of products offered on Amazon.com decreased compared to the same period last year.",
+      "management_tone_shift": "AWS is now a $150 billion annualized revenue run rate business... It is very unusual for a business to grow this fast on a base this large, and the last time we saw growth at this clip, AWS was roughly half the size."
+    },
+    "extracted_at": "2026-05-06"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 181519.0,
+    "gross_profit_m": 94056.0,
+    "operating_income_m": 23852.0,
+    "net_income_m": 30255.0,
+    "eps": 2.82,
+    "total_equity_m": 441914.0,
+    "total_assets_m": 916630.0,
+    "cash_and_equivalents_m": 101816.0,
+    "shares_outstanding_m": 10754.25,
+    "free_cash_flow_m": -18171.0,
+    "operating_cash_flow_m": 26032.0,
+    "capital_expenditure_m": -44203.0,
+    "bvps": 41.09
+  },
+  "flags": []
+}

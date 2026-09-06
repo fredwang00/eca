@@ -1,0 +1,50 @@
+{
+  "ticker": "GOOG",
+  "quarter": "Q1 2026",
+  "company": "Alphabet Inc.",
+  "candor": {
+    "analyzed_at": "2026-05-06",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "B",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.785,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We expect our 2027 CapEx to significantly increase compared to 2026... We are seeing unprecedented internal and external demand for AI compute resources.",
+      "pricing_power": "Revenue from products built on our GenAI models grew nearly 800% year-over-year... doubling the number of $100 million to $1 billion deals year-on-year and signing multiple billion dollar plus deals.",
+      "management_tone_shift": "Cloud revenues accelerate across all key areas and were up 63% to $20 billion... our backlog nearly doubled quarter-on-quarter to over $460 billion."
+    },
+    "extracted_at": "2026-05-06"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 109896.0,
+    "gross_profit_m": 68625.0,
+    "operating_income_m": 39696.0,
+    "net_income_m": 62578.0,
+    "eps": 5.17,
+    "total_equity_m": 478746.0,
+    "total_assets_m": 703919.0,
+    "cash_and_equivalents_m": 38063.0,
+    "shares_outstanding_m": 12116.0,
+    "free_cash_flow_m": 10116.0,
+    "operating_cash_flow_m": 45790.0,
+    "capital_expenditure_m": -35674.0,
+    "bvps": 39.51
+  },
+  "flags": []
+}

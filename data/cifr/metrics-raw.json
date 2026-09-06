@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "CIFR",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-06",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 59.7,
@@ -36,7 +36,7 @@
     "Q2 2025": {
       "revenue_m": 43.6,
       "gross_profit_m": 12.6,
-      "operating_income_m": -41.6,
+      "operating_income_m": -28.1,
       "net_income_m": -45.8,
       "eps": -0.12,
       "total_equity_m": 748.9,
@@ -91,6 +91,36 @@
       "free_cash_flow_m": null,
       "operating_cash_flow_m": null,
       "capital_expenditure_m": null
+    },
+    "Q2 2026": {
+      "revenue_m": 24.8,
+      "gross_profit_m": -32.6,
+      "operating_income_m": -72.6,
+      "net_income_m": -267.5,
+      "eps": -0.65,
+      "total_equity_m": 562.1,
+      "total_assets_m": 7501.5,
+      "cash_and_equivalents_m": 831.8,
+      "shares_outstanding_m": 414.25,
+      "free_cash_flow_m": -653.8,
+      "operating_cash_flow_m": -243.5,
+      "capital_expenditure_m": -410.3,
+      "bvps": 1.36
+    },
+    "Q1 2026": {
+      "revenue_m": 34.8,
+      "gross_profit_m": -17.9,
+      "operating_income_m": -64.3,
+      "net_income_m": -114.3,
+      "eps": -0.28,
+      "total_equity_m": 714.2,
+      "total_assets_m": 6393.6,
+      "cash_and_equivalents_m": 715.2,
+      "shares_outstanding_m": 405.27,
+      "free_cash_flow_m": -462.5,
+      "operating_cash_flow_m": 91.5,
+      "capital_expenditure_m": -554.0,
+      "bvps": 1.76
     }
   }
 }

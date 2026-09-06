@@ -1,0 +1,51 @@
+{
+  "ticker": "SPACEX",
+  "quarter": "Q2 2026",
+  "company": "Space Exploration Technologies Corp.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-05",
+    "revenue_m": 7814.0,
+    "gross_profit_m": 4319.0,
+    "operating_income_m": -141.0,
+    "net_income_m": -541.0,
+    "eps": -0.09,
+    "total_equity_m": 127224.0,
+    "total_assets_m": 192770.0,
+    "cash_and_equivalents_m": 93522.0,
+    "shares_outstanding_m": 13176.0,
+    "free_cash_flow_m": -16819.0,
+    "operating_cash_flow_m": 2419.0,
+    "capital_expenditure_m": -19238.0,
+    "bvps": 9.66
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-05",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "We added net more than 1.7 million Starlink subscribers globally... our best quarter of new customers to date... enterprise & government revenue grew 108% year-over-year.",
+      "capex_direction": "Total company capital expenditures in the second quarter were approximately $18.4 billion... I think you should probably think that the next 2 quarters are very similar to the current quarter from a CapEx level perspective.",
+      "pricing_power": "The current economics have translated into a less than 1 year payback on our new capital deployments for compute... if you've got demand increasing much faster than supply, then Economics 101 would suggest that the price increases. It does not decrease.",
+      "management_tone_shift": "The $100 billion ARR in December is not a question mark... our internal projections for reaching $1 trillion in revenue have moved up from 2031 to 2030... there's a non-zero chance of that being in 2029."
+    },
+    "extracted_at": "2026-09-05"
+  }
+}

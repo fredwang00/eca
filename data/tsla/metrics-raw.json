@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "TSLA",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-06",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 24901.0,
@@ -91,6 +91,36 @@
       "free_cash_flow_m": null,
       "operating_cash_flow_m": null,
       "capital_expenditure_m": null
+    },
+    "Q2 2026": {
+      "revenue_m": 28236.0,
+      "gross_profit_m": 4751.0,
+      "operating_income_m": 398.0,
+      "net_income_m": 1114.0,
+      "eps": 0.34,
+      "total_equity_m": 86858.0,
+      "total_assets_m": 148524.0,
+      "cash_and_equivalents_m": 15219.0,
+      "shares_outstanding_m": 3949.0,
+      "free_cash_flow_m": -1099.0,
+      "operating_cash_flow_m": 4697.0,
+      "capital_expenditure_m": -5796.0,
+      "bvps": 21.99
+    },
+    "Q1 2026": {
+      "revenue_m": 22387.0,
+      "gross_profit_m": 4720.0,
+      "operating_income_m": 941.0,
+      "net_income_m": 477.0,
+      "eps": 0.15,
+      "total_equity_m": 84116.0,
+      "total_assets_m": 143724.0,
+      "cash_and_equivalents_m": 16603.0,
+      "shares_outstanding_m": 3755.0,
+      "free_cash_flow_m": 1444.0,
+      "operating_cash_flow_m": 3937.0,
+      "capital_expenditure_m": -2493.0,
+      "bvps": 22.4
     }
   }
 }

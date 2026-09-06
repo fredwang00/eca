@@ -15,7 +15,7 @@
   },
   "metrics": {
     "source": "yfinance",
-    "ingested_at": "2026-03-30",
+    "ingested_at": "2026-09-06",
     "revenue_m": 68127.0,
     "gross_profit_m": 51093.0,
     "operating_income_m": 44299.0,
