@@ -20,18 +20,39 @@ def parse_grades(text: str) -> dict:
         result["quarter"] = header.group(2).strip()
         result["call_date"] = header.group(3).strip()
 
-    # Dimension grades: **Grade: X** after ### N. heading
-    # Handles split grades like "A-/B+" by taking the first grade
-    dim_pattern = re.compile(
-        r"###\s+(\d)\.\s+.*?\n\*\*Grade:\s*([A-F][+-]?)", re.DOTALL
+    # Dimension grades: **Grade: X** within each "### N. ..." section (bounded
+    # by the next "###"-prefixed heading of any kind). Some LLM output states
+    # a preliminary grade right after the heading (sometimes split, e.g.
+    # "A-/B+"), then restates a single, more considered grade later in the
+    # same section's prose -- take the LAST "Grade:" line in the section,
+    # which is what the LLM's own composite calculation actually uses.
+    dim_section_pattern = re.compile(
+        r"###\s+(\d)\.\s+.*?(?=\n###\s|\Z)", re.DOTALL
     )
-    for match in dim_pattern.finditer(text):
-        result[f"dim{match.group(1)}_grade"] = match.group(2)
+    dim_grade_line = re.compile(r"\*\*Grade:\s*\**([A-F][+-]?)")
+    for section in dim_section_pattern.finditer(text):
+        grades = dim_grade_line.findall(section.group())
+        if grades:
+            result[f"dim{section.group(1)}_grade"] = grades[-1]
 
-    # Composite grade: ### Composite Grade: X
-    comp = re.search(r"###\s+Composite Grade:\s*([A-F][+-]?)", text)
-    if comp:
-        result["composite_grade"] = comp.group(1)
+    # Composite grade: "### Composite Grade: X", tolerating markdown bold
+    # around the letter (e.g. "### Composite Grade: **B**"). Some LLM output
+    # repeats this heading (once bare, once with the grade) — take the last
+    # match rather than the first. A bare heading (no colon) never matches
+    # here, so it's naturally skipped.
+    heading_grades = re.findall(
+        r"###\s+Composite Grade:\s*\**([A-F][+-]?)\**(?![a-zA-Z])", text
+    )
+    if heading_grades:
+        result["composite_grade"] = heading_grades[-1]
+    else:
+        # Fall back: the grade sometimes appears inline with no "###" prefix
+        # at all, e.g. "**Weighted Score: 3.65 → Composite Grade: A**".
+        inline_grade = re.search(
+            r"Composite Grade:\s*\**([A-F][+-]?)\**(?![a-zA-Z])", text
+        )
+        if inline_grade:
+            result["composite_grade"] = inline_grade.group(1)
 
     # Composite score extraction — multiple LLM output formats:
     # 1. "Weighted Total: 3.015 → Composite Grade: B"
@@ -59,6 +80,20 @@ def parse_grades(text: str) -> dict:
             )
             if scores:
                 result["composite_score"] = float(scores[-1])
+
+    if "composite_score" not in result:
+        # Final fallback (e.g. a bare "### Composite Grade" heading followed
+        # by a "**Calculation:**" block, with the real grade only restated in
+        # a later, separately-anchored heading): scan the whole document for
+        # the final "<number> → <grade>" result token, wherever it lands, and
+        # take the last one.
+        final_result = re.findall(
+            r"(\d+\.\d+)\**\s*(?:→|->|-→)\s*\**(?:Composite Grade:\s*)?"
+            r"\**[A-F][+-]?(?![a-zA-Z])",
+            text,
+        )
+        if final_result:
+            result["composite_score"] = float(final_result[-1])
 
     return result
 
