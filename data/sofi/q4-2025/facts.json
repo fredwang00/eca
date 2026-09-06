@@ -3,13 +3,15 @@
   "quarter": "Q4 2025",
   "company": "SoFi Technologies, Inc.",
   "candor": {
-    "analyzed_at": "2026-03-31",
+    "analyzed_at": "2026-09-05",
     "skill_version": "base",
     "dim1_grade": "A-",
     "dim2_grade": "C+",
     "dim3_grade": "C",
     "dim4_grade": "C",
-    "dim5_grade": "B"
+    "dim5_grade": "B",
+    "composite_score": 2.4,
+    "composite_grade": "C"
   },
   "signals": {
     "consumer_stress_tier": null,
@@ -26,6 +28,6 @@
       "pricing_power": "Our personal loan borrowers have a weighted average income of $158,000 and a weighted average FICO score of 746... we closed $100 million of sales in whole loan form at a blended execution of 106.5%.",
       "management_tone_shift": "I've never been more optimistic about our prospects than I am today... I am more excited about what lies ahead than I have ever been at SoFi."
     },
-    "extracted_at": "2026-03-31"
+    "extracted_at": "2026-09-05"
   }
 }

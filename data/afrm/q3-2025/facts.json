@@ -3,13 +3,14 @@
   "quarter": "Q3 2025",
   "company": "Affirm Holdings, Inc.",
   "candor": {
-    "analyzed_at": "2026-03-30",
+    "analyzed_at": "2026-09-05",
     "skill_version": "base",
     "dim1_grade": "B",
     "dim2_grade": "A-",
     "dim3_grade": "B",
     "dim4_grade": "B+",
     "dim5_grade": "A-",
-    "composite_score": 3.24
+    "composite_score": 3.24,
+    "composite_grade": "B"
   }
 }

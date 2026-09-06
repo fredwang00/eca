@@ -3,13 +3,14 @@
   "quarter": "Q1 2024",
   "company": "RH (Restoration Hardware)",
   "candor": {
-    "analyzed_at": "2026-04-05",
+    "analyzed_at": "2026-09-05",
     "skill_version": "base",
     "dim1_grade": "C",
     "dim2_grade": "B",
     "dim3_grade": "C",
     "dim4_grade": "C",
-    "dim5_grade": "B"
+    "dim5_grade": "B",
+    "composite_score": 2.4
   },
   "signals": {
     "consumer_stress_tier": "trade_down",
@@ -26,6 +27,6 @@
       "pricing_power": "We feel like we're in a really good place. We feel for our design and our quality, we're at really good values. And in some cases, we're at disruptive values.",
       "management_tone_shift": "Our view is probably a little bit more negative than it was a quarter ago... I think it may not be until '25 or second quarter '25 maybe [for housing recovery]."
     },
-    "extracted_at": "2026-04-05"
+    "extracted_at": "2026-09-05"
   }
 }
