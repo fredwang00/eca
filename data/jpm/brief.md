@@ -1,5 +1,6 @@
 # JPMorgan Chase & Co. (JPM) — Earnings Call Brief
-## Q2 2023 through Q4 2025 (9 Quarters)
+
+**Coverage:** Q2 2023 through Q2 2026 (10 quarters)
 
 ---
 
@@ -11,112 +12,132 @@
 | Q3 2023 | 3.40 | B+ |
 | Q4 2023 | 3.10 | B |
 | Q1 2024 | 3.05 | B |
-| Q2 2024 | 3.50 | A– |
-| Q3 2024 | 3.58 | A– |
-| Q4 2024 | 3.635 | A– |
-| Q1 2025 | 3.715 | A– |
+| Q2 2024 | 3.50 | A- |
+| Q3 2024 | 3.58 | A- |
+| Q4 2024 | 3.635 | A- |
+| Q1 2025 | 3.715 | A- |
 | Q2 2025 | 3.40 | B+ |
-| Q3 2025 | 3.30 | B+ |
-| Q4 2025 | 3.25 | B |
+| Q3 2025 | 3.30 | B |
+| Q4 2025 | 3.25 | B+ |
+| Q1 2026 | 3.55 | A- |
+| Q2 2026 | 3.25 | B |
 
-**Direction:** V-shaped with a plateau. The trough was Q1 2024 (3.05), driven by Dimon's mid-call departure, Q&A-only format, and deflection of AI/First Republic questions to Investor Day. Recovery through Q4 2024–Q1 2025 produced the series high (3.715). The subsequent decline from Q2 2025 onward reflects not a collapse in capital-stewardship candor — which has held at A throughout — but recurring C grades on Stakeholder Balance and declining scores on Strategic Clarity, as stablecoin evasion, technology-expense opacity, and vague inorganic strategy language accumulated.
+**Direction:** Declining from the Q4 2024–Q1 2025 peak (3.715), with no quarter since Q1 2025 exceeding 3.55. The trajectory has two distinct arcs: a trough in Q4 2023–Q1 2024 driven by Dimon's near-absence and boilerplate stakeholder language; a recovery through Q4 2024–Q1 2025 on the strength of voluntary self-criticism and scenario-specific disclosure; and a renewed decline from Q2 2025 onward attributable to succession opacity, recurring expense guidance revision patterns, and thin stakeholder breadth.
 
-**Inflection points:**
-- *Q3 2023 → Q4 2023:* First material step-down. Dimon nearly silent; AI and First Republic questions parked at Investor Day; stakeholder language collapses to boilerplate ("laser-focused on executing for shareholders, clients, and communities").
-- *Q1 2024 → Q2 2024:* Recovery begins. Full prepared remarks return, over-earning narrative sustained through a record-revenue quarter, specific capital-hierarchy logic offered under analyst pressure.
-- *Q1 2025:* Series peak. Dimon's voluntary self-criticism ("I apologize to my shareholders for not having done this sooner"), COVID reserve comparison as investor education, and Barnum's "we should have not given you that forecast" on card charge-offs represent the strongest candor cluster in the dataset.
-- *Q2 2025 → Q4 2025:* Gradual slide. Stablecoin evasion cluster, technology-expense black box, and the structural persistence of C-grade stakeholder language pull composites back toward B territory despite Dimension 1 remaining at A throughout.
+**Named inflection points:**
+- *Q2 2023* — High-water mark. Proactive counter-narrative disclosure on NII normalization, surgical First Republic disaggregation, and EAR methodology transparency set a benchmark not since matched.
+- *Q1 2024* — Trough inflection. Dimon departed mid-call; no prepared remarks available; CRE reassurance was thin ("we're fine").
+- *Q1 2025* — Secondary peak. Dimon's voluntary apology to shareholders ("I'm mad at myself"), the COVID reserve comparison as investor education, and the CECL probability-weighting disclosure set the clearest "What Went Wrong" standard in the entire series.
+- *Q2 2026* — Current floor. "You know it when you see it" on CEO succession criteria at a SIFI institution, AI ROI philosophically honest but financially opaque, and a third consecutive midyear expense guidance revision.
+
+**Structural constant:** Capital Stewardship earns A in every quarter where prepared remarks are available. The variance is entirely in Dimensions 2–5.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-No contracts with named counterparties, disclosed values, or binding terms were disclosed across these calls. The Apple Card portfolio acquisition (Q4 2025) is the closest analog — Barnum discloses $110 billion in advanced RWA at closing, expected to reduce to ~$30 billion "in the near term," with a $23 billion standardized RWA impact — but no counterparty-specific deal economics or binding return targets are stated.
+No named counterparty contracts with disclosed values appear in any transcript. The Apple Card portfolio acquisition (Q4 2025) is the closest analog: Barnum disclosed the RWA impact ($23B standardized, $110B advanced at closing, expected to reduce to ~$30B "in the near term") and the purchase commitment structure, but the transaction value and counterparty terms were not recited on the call.
 
 ### Aspirational
-The following claims lack counterparty names, binding values, or falsifiable terms:
+The following claims lack counterparty names, binding terms, or dollar values sufficient for receivables treatment:
 
-- **NII ex-Markets normalization:** "Mid-70s" (Q3 2023) → ~$80B (Q4 2023) → $89B (Q1 2024) → $91B (Q2 2024) → $91.5B (Q3 2024) → $90B (Q4 2024/Q1 2025) → $92B (Q2 2025) → $95B preliminary (Q3 2025) → $95B ex-markets/$103B total (Q4 2025). The number has migrated upward across ten quarters without a systematic prior-miss acknowledgment. Each revision is individually explained; the cumulative pattern is unaddressed.
-- **15% retail deposit market share:** Stated as a long-term target in Q3 2024 and reiterated in Q3 2025. No timeline, no interim milestones, no defined measurement methodology disclosed.
-- **Direct lending at $20–$30 billion:** Dimon announced in Q3 2024 that the $10B commitment was deployed and the firm was prepared to scale to $20–$30B with no exclusive partner. No quantitative update has appeared in subsequent calls.
-- **AI investment returns:** Described across multiple quarters as "great stuff over time" (Q3 2024), "high-impact use cases" (Q4 2023), and "proof in the pudding" (Q3 2025). No baseline metrics, no use cases with measurable outcomes, no timeline.
-- **International consumer banking:** Active capital commitment confirmed in Q4 2024 and Q4 2025; zero performance metrics in any quarter.
-- **IB fee pipeline for 2026:** "Deals pushed to 2026," "strong client engagement and deal activity expected" — no named pipeline, no deal values, no counterparties.
-- **Stablecoin/tokenization positioning:** Three consecutive question clusters (Q2–Q4 2025) deflected without strategic resolution.
+- **NII ex-Markets guidance** — revised quarterly: $87B (Q3 2023) → $88B (Q4 2023) → $89B (Q1 2024) → $91B (Q2 2024) → $91.5B (Q3 2024) → $90B (Q4 2024/2025 guidance) → $92B (Q2 2025) → $95B (Q3 2025 preliminary) → $96.5B (Q2 2026). Each figure carries stated rate-curve assumptions Dimon himself called "guaranteed not to happen" (Q1 2025).
+- **Card NCO rate guidance** — $3.5% normalized (Q2 2023) → ~2.6% (2023 guide) → ~3.4% (2024 guide, Q2 2024) → ~3.6% (Q4 2024, Q1 2025 — subsequently described as "we should have not given you that forecast") → ~3.3% (Q3 2025) → ~3.4% (Q1 2026) → ~3.2% (Q2 2026).
+- **Retail deposit market share 15% long-term target** — stated Q3 2024, no timeline attached.
+- **Direct lending: $10B committed, scalable to $20–30B** — stated Q3 2024 by Dimon, no milestone update since.
+- **European consumer banking ("pan-European successful digital bank")** — Germany "not quite profitable yet" as of Q2 2026; no profitability timeline.
+- **AI efficiency savings** — "great stuff over time" (Q3 2024); "proof in the pudding" (Q3 2025); ~1,000 use cases, 50 important ones (Q2 2026). No baseline metrics, no accountability structure.
+- **Smart cash tool: "you'll see something this year"** (Q2 2026 — Dimon).
+- **First Republic integration "substantially complete by mid-2024"** — stated Q2 2023; not revisited subsequently.
+- **Streamlining war room: "significant amount of saves"** — stated Q1 2025 by Dimon, naming Jenn Piepszak. No quantified update in subsequent calls.
+- **NBFI sub-category breakdown** — Dimon said he would ask Michael Greff to produce a structured breakdown (Q3 2025). Not confirmed delivered in subsequent transcripts.
 
 ---
 
 ## Capital Figures
 
-All figures from structured financial data or explicitly stated in transcript analyses. No interpolation.
+All figures from structured financial metrics where available; management-cited figures otherwise, attributed to quarter.
 
-| Quarter | Net Income | EPS | Revenue | ROTCE | CET1 | NII ex-Markets Guidance | Expense Guidance | Card NCO Guidance |
-|---------|-----------|-----|---------|-------|------|------------------------|-----------------|-------------------|
-| Q2 2023 | — | — | — | — | — | ~$87B (FY) | — | ~2.6% (FY) |
-| Q3 2023 | $13.2B | $4.33 | $40.7B | 22% | — | ~$80B (normalized) | — | — |
-| Q4 2023 | $9.3B | $3.04 | — | 15% | 15.0% (+70bps) | ~$88B (FY 2024) | $90B (FY 2024) | <3.5% (FY 2024) |
-| Q1 2024 | — | — | — | — | — | $89B (FY 2024) | — | — |
-| Q2 2024 | — (ex-items: $13.1B) | $4.40 (adj.) | — | 20% | — | $91B (FY 2024) | $92B (FY 2024) | ~3.4% (FY 2024) |
-| Q3 2024 | — | — | — | — | 15.3% | $91.5B (FY 2024) | — | ~3.4% (FY 2024) |
-| Q4 2024 | $14.0B | $4.81 | $43.7B | 21% | 15.7% | $90B (FY 2025) | — | ~3.6% (FY 2025) |
-| Q1 2025 | $14.6B | $5.07 | $46.0B | 21% | 15.4% | $90B (FY 2025) | — | ~3.6% (flagged unreliable) |
-| Q2 2025 | $15.0B | $5.24 | $45.7B | 21% | — | $92B (FY 2025) | $95.5B (FY 2025) | ~3.6% (FY 2025) |
-| Q3 2025 | $14.4B | $5.07 | $47.1B | 20% | 14.8% | $95B (FY 2026, preliminary) | ~$100B+ (2026) | ~3.3% (FY 2025) |
-| Q4 2025 | $13.0B | $4.63 | $46.8B | 18% | — | $95B ex-markets / $103B total (FY 2026) | $105B (FY 2026) | ~3.4% (FY 2026) |
+| Quarter | Revenue | Cash & Equivalents | Total Equity | Key Guidance |
+|---------|---------|-------------------|--------------|--------------|
+| Q2 2025 | $44,882M | $420,327M | $336,879M | NII ex-Mkts ~$92B; Adj. expense ~$95.5B |
+| Q3 2025 | $46,430M | $303,436M | $340,167M | NII ex-Mkts ~$95B (prelim 2026); NCO ~3.3% |
+| Q4 2025 | $45,796M | $343,338M | $342,393M | NII ex-Mkts $95B (2026); Total NII $103B; Adj. expense $105B |
+| Q1 2026 | $49,833M | $312,142M | $343,993M | NII ex-Mkts ~$95B; Total NII ~$103B; Card NCO ~3.4%; Excess capital ~$40B |
+| Q2 2026 | $52,852M | $309,811M | $353,558M | NII ex-Mkts ~$96.5B; Total NII ~$105.5B; Adj. expense ~$107.5B; Card NCO ~3.2% |
 
-**Notable capital return disclosures:** $12B buyback authorization cited Q2 2023; $7.1B net buybacks Q1 2025; dividend increased to $1.05/share (Q2 2023), $1.40/share (Q1 2025). SCB: 4.0% current vs. 2.9% new (Q2 2023); 3.3% preliminary (Q2 2024). Apple Card acquisition: $23B standardized RWA, $110B advanced RWA at closing, guided to ~$30B advanced RWA "near term" (Q4 2025). Tricolor charge-off: $170M disclosed Q3 2025.
+**Management-cited figures (from transcripts, no structured data for earlier quarters):**
+- Q2 2023: Net income $14.5B; ROTCE 25%; NII guide $87B; CET1 undisclosed in summary
+- Q3 2023: Net income $13.2B; ROTCE 22%; CET1 unspecified; normalized NII ~$80B stated
+- Q4 2023: Net income $9.3B (Q)/$50B (FY); ROTCE 15%/21%; CET1 15% (+70bps); FY NII guide $88B; adj. expense guide $84B
+- Q1 2024: CET1 not cited in Q&A-only transcript; NII ex-Mkts anchored at $89B; buybacks ~$2B/quarter
+- Q2 2024: Net income $13.1B ex-items; ROTCE 20%; NII ex-Mkts ~$91B; adj. expense ~$92B; SCB preliminary 3.3%
+- Q3 2024: Net income not cited explicitly; ROTCE cited; NII ex-Mkts raised to $91.5B; CET1 15.3%; card NCO ~3.4%
+- Q4 2024: Net income $14B; EPS $4.81; ROTCE 21%; CET1 15.7%; NII ex-Mkts 2025 guide ~$90B; adj. expense 2025 guide ~$95B
+- Q1 2025: Net income $14.6B; EPS $5.07; ROTCE 21%; NII ex-Mkts ~$90B held; CET1 15.4%; buybacks $7.1B net; dividend $1.40/share
+- Q4 2025 (full year): FY net income ex-items $57.5B; FY EPS $20.18; FY ROTCE 20%; Q4 ROTCE 18%; Q4 revenue $46.8B
+- Q1 2026: Net income $16.5B; EPS $5.94; ROTCE 23%; expenses $26.9B; CET1 14.3%; excess capital ~$40B
+- Q2 2026: Net income $16.9B; EPS $6.14; ROTCE 23%; CET1 14.1%; standardized RWA +$103B QoQ; dividend raised to $1.65/share
+
+**Notable capex/investment signals:** Adjusted expense guidance has been revised upward every year — from $84B (2023) to $92B (2024) to $95B (2025) to $105B (2026) to $107.5B (2026 mid-year revision). Technology/AI spending is the primary cited driver but has never been quantified on any call.
 
 ---
 
 ## FOG Patterns
 
-**Recurring phrases across quarters:**
+**Recurring phrases across multiple quarters (with pattern assessment):**
 
-- **"Over-earning" / "not sustainable" / "through-the-cycle":** Appears in every quarter Q2 2023–Q2 2025. This began as a genuine candor signal (Q2 2023, specific numerical framing); by Q3 2025 it has calcified into a ritual disclaimer. The phrase now precedes rather than substitutes for analysis.
-- **"Laser-focused on executing for shareholders, clients, and communities":** Q4 2023 closing line. Cliché trifecta; reappears in modified form ("eager to do our part to support our clients, the markets and the broader economy") in Q1 2025 and Q2 2025.
-- **"Prudently" / "disciplined":** Appears in Q3 2023 ("invest prudently"), Q4 2023 ("extremely disciplined"), Q2 2024 ("executing with discipline"). Now standard qualifier, carrying no information.
-- **"Well-positioned" / "cautiously optimistic":** Q3 2023 ("cautiously optimistic about the pipeline"), Q2 2024 ("cautiously optimistic about the pipeline"). Verbatim repetition across two quarters; flagged in both analyses.
-- **"Pipeline remains robust":** Q3 2025 prepared remarks for CIB. Generic to the point of being indistinguishable from any peer bank's Q&A.
-- **"Constructive market dynamics":** Q4 2025. The canonical earnings-call non-phrase.
-- **"Firing on all cylinders":** Q2 2025 (Barnum self-aware: "when you see that, you're like, well, that's not normal"). Self-awareness noted; the phrase still appeared.
-- **AI language — "great stuff over time," "high-impact use cases," "proof in the pudding":** Consistent across Q4 2023, Q3 2024, Q3 2025, Q4 2025. The language has not become more specific. Technology expense opacity hardened in Q4 2025 into an explicit refusal to quantify.
+| Phrase / Pattern | Quarters Observed | Trajectory |
+|---|---|---|
+| "Well-positioned" | Q3 2023, Q4 2023, Q2 2024 | Declining frequency after Q2 2024 |
+| "Laser-focused on executing for shareholders, clients, and communities" | Q4 2023 (verbatim); variants in Q3 2025, Q1 2026 | Persistent in closings |
+| "Prudently" as filler qualifier | Q3 2023, Q4 2023, Q1 2024 | Less frequent Q2 2024 onward |
+| "Over-earning" (anti-FOG positive) | Q3 2023 through Q3 2024 | Drops in frequency Q4 2024 onward as ROTCE normalizes |
+| "Cautiously optimistic about the pipeline" / "pipeline remains robust" | Q2 2024, Q3 2024, Q1 2026, Q2 2026 | Persistent; no quarter provides pipeline dollar value |
+| "It's going pretty well" / "going pretty well" | Q4 2024 (international consumer banking), Q2 2026 (Europe) | Repeated without metrics |
+| "We'll report to you" / "We'll know more next quarter" | Q1 2025, Q3 2025, Q4 2025 | Increasing frequency |
+| AI: "great stuff over time" / "proof in the pudding" / "kind of just starting" | Q3 2024, Q3 2025, Q2 2026 | Degrading specificity |
+| "Constructive market dynamics" | Q4 2025, Q2 2026 | Stable boilerplate |
+| Succession: "You know it when you see it" | Q2 2026 (most explicit); thematic in Q4 2024, Q1 2025 | Degrading precision as timeline shortens |
 
-**Linguistic trend:** Precision is consistently maintained in Dimension 1 (financial results and guidance mechanics). FOG concentrates in three persistent zones: (1) AI/technology investment returns, where specificity has declined rather than improved over nine quarters; (2) stakeholder language, where boilerplate is structural and appears to be draft-review residue rather than intentional; and (3) strategic aspirations (15% deposit share, international consumer banking, direct lending scale), where the language is aspirational and unanchored to timeline or metric. The Q&A register is consistently cleaner than prepared remarks, which is the opposite of the expected pattern and suggests the prepared remarks are over-edited.
+**Linguistic precision assessment:** Prepared remarks have maintained high precision throughout (Barnum's habit of stating driver + magnitude + comparison period). FOG is concentrated in (1) Q&A on AI, succession, and inorganic strategy; (2) closing boilerplate; and (3) forward-looking claims about businesses not yet producing measurable results (European consumer, AI, private credit). The pattern is degrading on the non-financial topics precisely as those topics become more material.
 
 ---
 
 ## Flags & Risks
 
-**Data quality and structural flags:**
-- Q1 2024: No prepared remarks available; analysis based solely on Q&A. Capital Stewardship grade and stakeholder scoring are necessarily incomplete.
-- Q4 2025: Technology and AI spending — described as the primary driver of above-inflation expense growth — is explicitly unquantified by management on competitive grounds. The largest categorical driver of a $9B year-over-year expense increase is unverifiable.
-- Apple Card (Q4 2025): "Near term" reduction from $110B to ~$30B advanced RWA has no disclosed timeline. This is a $80B RWA gap without a date.
+**Data quality:**
+- Free cash flow figure is negative and large in three of five quarters with structured data (Q3 2025: -$45.2B; Q1 2026: -$211.8B; Q2 2026: -$25.3B). Barnum does not cite FCF as a metric on any call — appropriate for a bank, but these figures will distort any model applying industrial FCF logic to JPM.
+- Cash & Equivalents declined from $420B (Q2 2025) to $303B (Q3 2025) to $343B (Q4 2025) to $312B (Q1 2026) to $310B (Q2 2026). No management explanation for the Q3 2025 step-down appears in the transcript. Worth verifying against the published balance sheet.
+- Revenue (structured) for Q1 2026 is $49,833M; management cited $50.5B. The ~$670M gap (1.3%) is unexplained and warrants reconciliation.
 
-**Communication-level risks (synthesized across quarters):**
-- **Single-speaker dependency:** Barnum carries analytical depth across all nine quarters. Dimon's absence (Q2 2024, partial Q1 2024) produces measurably thinner strategic content. The Q2 2023 analysis explicitly flagged this as a structural risk; it has materialized in subsequent calls.
-- **NII guidance drift without cumulative acknowledgment:** The NII ex-markets target has moved from "mid-70s" to $103B total over nine quarters. Each individual revision is explained; the cumulative pattern — ten upward revisions without a retrospective — is never addressed.
-- **Technology expense opacity as structural feature:** Dimon's Q4 2025 "trust me, I'm sorry" formulation on tech spending is the explicit endpoint of a pattern visible since Q4 2023, when AI was first described with no baseline metrics. This is now a standing unverifiable claim attached to a material expense driver.
-- **NBFI disclosure incomplete:** Dimon's Q3 2025 voluntary "one cockroach, probably more" disclosure is candor-positive but structurally unresolved. The promise to provide a categorized NBFI exposure breakdown is forward-dated and untracked.
-- **Capital patience narrative without falsifiable endpoint:** The "excess capital / markets inflated / Buffett's cash" framing has appeared across Q3 2024, Q4 2024, Q1 2025, and Q2 2025. Patience is only a strategic position if it resolves. CET1 declined from 15.7% (Q4 2024) to 14.8% (Q3 2025), suggesting organic deployment is proceeding, but the macro-caution rationale has never been explicitly retired.
-- **Stakeholder balance is a structural deficit:** Dimension 3 has graded C or low-B in every quarter. This is not a trend; it is a format choice. Employee acknowledgment appears exclusively as a compensation line item. Customer references are behavioral/statistical rather than relational.
+**Communication risks (aggregated):**
+- **CEO departure mid-call** (Q1 2024): One instance; not repeated. Monitor.
+- **Investor Day deferral pattern** (Q4 2023): AI, private credit, First Republic disaggregation all deferred in a single call. Investor Day subsequent disclosures were not verified across these transcripts.
+- **Technology expense black box**: The single largest categorical driver of a nine-year consecutive expense guide increase has never been quantified. Dimon explicitly declined ("puts us at a competitive disadvantage"). This is a verifiable claim that cannot be verified.
+- **Expense guidance revision pattern**: Midyear upward revision occurred in 2024 and 2026 (at minimum), both attributed to variable revenue-linked compensation. The initial guide may be systematically understated.
+- **Succession opacity at SIFI scale**: No process, no measurable criteria, no timeline. The most material single-point governance risk at a systemically important institution is disclosed in aphorism. This has not improved across any quarter analyzed.
+- **NBFI exposure framework promised but unverified**: Dimon's Q3 2025 commitment to produce a structured breakdown with Greff has no confirmed follow-through in the Q4 2025 or Q1 2026 transcripts.
+- **Apple Card "near term" RWA reduction**: $110B advanced RWA at closing, targeted to ~$30B. "Near term" undefined. Material for capital planning.
+- **Stablecoin/tokenization evasion cluster** (Q2 2025): Three consecutive questions produced non-answers. Either active negotiations (cannot disclose) or genuine unresolved strategy. No resolution evident in subsequent calls.
 
 ---
 
 ## Verify Next Quarter
 
-The following commitments are carried forward from Q4 2025 and Q3 2025 analyses for verification at Q1 2026 earnings (~April 2026):
+From the Q2 2026 call, the following commitments require verification at Q3 2026 (expected October 13, 2026):
 
-1. **Apple Card advanced RWA:** Management guided reduction from $110B to ~$30B "in the near term." Q1 2026 should show the actual advanced RWA figure and — if the reduction has not occurred — a revised timeline. If "near term" remains undefined, flag as accountability gap.
+1. **NII ex-Markets ~$96.5B full year.** H1 actuals are now in. Derive the implied H2 run rate and verify Q3 actuals against it. Any miss should be checked against the deposit-beta convexity and wholesale deposit assumptions Barnum cited.
 
-2. **IB fee pipeline conversion:** Barnum attributed Q4 2025 IB fee weakness (down 5% YoY) to "deals pushed to 2026" and described "strong client engagement and deal activity" expected in 2026. Q1 2026 IB fee revenue should reflect the claimed timing shift. If fees do not recover, the attribution requires revisiting.
+2. **Card NCO rate ~3.2% full year.** Barnum revised down from 3.4% citing better-than-expected delinquencies. Q3 actuals will either validate or contradict this. The labor market is the stated singular determinant — track any labor market deterioration as a leading indicator.
 
-3. **Card net charge-off rate vs. ~3.4% 2026 guidance:** Track Q1 NCO and delinquency trends. The prior guidance of ~3.6% was flagged as unreliable in Q1 2025 and revised to ~3.3% in Q3 2025 before a Q4 2025 re-guide to ~3.4%. Any further revision should be accompanied by explicit reconciliation to the series of prior guidance figures.
+3. **"You'll see something this year" on the smart cash tool** (Dimon, Q2 2026). A product test or rollout should be publicly visible by Q3 2026. If not mentioned, flag as a perishable goal.
 
-4. **Consumer deposit balance-per-account inflection:** Barnum stated explicitly in Q4 2025 that the inflection in balance per account is expected "to kick in in 2026." Q1 and Q2 CCB deposit per-account metrics are directly testable against this claim.
+4. **European consumer banking profitability signal.** Germany is "not quite profitable yet." Check whether any milestone (breakeven timeline, customer count target, revenue disclosure) is offered or whether the "patient" framing continues without a horizon.
 
-5. **NBFI exposure framework:** Dimon said in Q3 2025 that he would ask Michael Greff to produce a categorized NBFI breakdown. Q4 2025 did not contain this disclosure. It should appear in Q1 2026 materials or the February 2026 company update. Absence = accountability gap.
+5. **Succession process.** With two co-presidents elevated and the prior COO departed, the Q3 call is the next occasion to press for process description — not timeline — on Dimon's succession. If "you know it when you see it" recurs unchanged, mark as an accountability regression.
 
-6. **Technology/AI expense quantification:** Dimon refused to quantify in Q4 2025 on competitive grounds. Track whether any specificity emerges — use cases, productivity metrics, headcount ratios, ROI framing — or whether the opacity persists as the AI investment narrative ages.
+6. **Expense guide integrity.** Full-year guide is $107.5B. Q1 + Q2 = ~$54.2B, implying ~$53.3B needed in H2. With Barnum's explicit signal that H2 will be lower due to reduced revenue-linked compensation, verify whether H2 actuals come in below $26.5B/quarter or whether another upward revision materializes.
 
-7. **Credit card rate cap regulatory development:** Live policy risk explicitly punted in Q4 2025 ("so little flow of information"). Should be revisited on every call. Note any change in advocacy posture, disclosure of internal impact modeling, or regulatory outcome.
+7. **NBFI sub-category breakdown.** Promised by Dimon in Q3 2025 ("I'll ask Michael Greff"). No evidence of delivery in Q4 2025 or Q1 2026 transcripts. Either confirm delivery or flag as an outstanding accountability gap.

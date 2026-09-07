@@ -1,0 +1,50 @@
+{
+  "ticker": "PLTR",
+  "quarter": "Q2 2026",
+  "company": "Palantir Technologies Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 1935.5,
+    "gross_profit_m": 1638.6,
+    "operating_income_m": 912.0,
+    "net_income_m": 1061.9,
+    "eps": 0.44,
+    "total_equity_m": 9774.2,
+    "total_assets_m": 11678.6,
+    "cash_and_equivalents_m": 2030.0,
+    "shares_outstanding_m": 2402.9,
+    "free_cash_flow_m": 1201.6,
+    "operating_cash_flow_m": 1216.2,
+    "capital_expenditure_m": -14.6,
+    "bvps": 4.07
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B+",
+    "dim3_grade": "B",
+    "dim4_grade": "C+",
+    "dim5_grade": "B",
+    "composite_score": 3.02,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "Q2 adjusted expense was $741 million, up 14% sequentially and 37% year-over-year, primarily driven by the continued investment in our AI platform and technical hiring... we expect a significant ramp in expense in the third quarter due to the seasonality of new hire starts and other product and marketing initiatives.",
+      "pricing_power": "We closed $2.132 billion of U.S. commercial TCV bookings, representing growth of 153% year-over-year... net dollar retention was 157%, an increase of 700 basis points from last quarter.",
+      "management_tone_shift": "I am driving the business to grow at a rate equal or above to what we have in U.S. commercial for the next 18 months, which is a very high goal, but it is one we can actually get to."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

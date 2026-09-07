@@ -30,5 +30,23 @@
       "management_tone_shift": "I am very confident in our ability to get back to profitable growth this year and deliver strong returns to shareholders in 2026 and beyond \u2014 notably more bullish than the cautious framing of the prior year's communications"
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 25270.0,
+    "gross_profit_m": 7133.0,
+    "operating_income_m": 948.0,
+    "net_income_m": 689.0,
+    "eps": 1.52,
+    "total_equity_m": 15501.0,
+    "total_assets_m": 59991.0,
+    "cash_and_equivalents_m": 3822.0,
+    "shares_outstanding_m": 452.8,
+    "free_cash_flow_m": 149.0,
+    "operating_cash_flow_m": 1127.0,
+    "capital_expenditure_m": -978.0,
+    "bvps": 34.23
+  },
+  "flags": []
 }

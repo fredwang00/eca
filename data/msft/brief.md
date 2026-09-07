@@ -4,139 +4,141 @@
 
 ## Candor Trajectory
 
-**Grade progression:** Q4'23 (3.45, A-) → Q1'24 (3.44, A-) → Q2'24 (3.05, B) → Q3'24 (3.25, B) → Q4'24 (3.42, B+) → Q1'25 (3.25, B) → Q2'25 (3.53, A) → Q3'25 (3.59, A) → Q4'25 (3.65, A) → Q1'26 (3.40, B+) → Q2'26 (2.90, B) → Q3'26 (3.65, A) → Q4'26 (3.575, A)
+**Grade progression across 11 quarters (FY2023 Q4 through FY2026 Q4):**
 
-**Direction:** Improving overall, with one notable trough and a recurring floor.
+| Quarter | Composite Score | Letter |
+|---------|----------------|--------|
+| Q4 FY23 | 3.45 | A− |
+| Q1 FY24 | 3.44 | A− |
+| Q2 FY24 | 3.05 | B |
+| Q3 FY24 | 3.25 | B |
+| Q4 FY24 | 3.42 | B+ |
+| Q1 FY25 | 3.25 | B |
+| Q2 FY25 | 3.53 | A |
+| Q3 FY25 | 3.59 | A |
+| Q4 FY25 | 3.65 | A |
+| Q1 FY26 | 3.40 | B+ |
+| Q2 FY26 | 2.90 | B |
+| Q3 FY26 | 3.65 | A |
+| Q4 FY26 | 3.58 | A− |
 
-**Named inflection points:**
+**Direction: Improving overall, with two notable inflection points.**
 
-- **Q2'24 inflection downward:** FOG Index dropped to C (2.0), driving the series low of 3.05. Cause: Nadella's prepared remarks functioned as a product catalog—~80 named customers across 15 product lines—without strategic prioritization. The security breach disclosure (one sentence, zero Q&A) was the period's most significant candor failure.
+*First inflection (Q2 FY24, 3.05):* The lowest score in the series. Nadella's prepared remarks adopted a product-catalog format that generated persistent C-grade FOG, and the nation-state security breach received one sentence and zero Q&A follow-up. This quarter established the floor.
 
-- **Q2'25 inflection upward:** First A-composite in the series (3.53). Hood voluntarily disclosed that Azure's non-AI scale motion was underperforming before analysts asked, and provided a structural explanation—the clearest "What Went Wrong" disclosure in the entire series. This quarter also contained the most substantive CEO response to a competitive threat (DeepSeek).
+*Second inflection (Q2 FY25, 3.53):* Marked recovery driven by Hood's voluntary disclosure of Azure non-AI execution shortfall in prepared remarks—before analysts asked—and Nadella's substantive DeepSeek response. This quarter established the ceiling pattern that has since been approximated.
 
-- **Q2'26 inflection downward:** The series' second-lowest score (2.90, B), driven by Stakeholder Balance (C) and FOG Index (C) in Nadella's prepared remarks. Customers appeared primarily as demand signals rather than named partners; the nation-state security breach pattern recurred with gaming impairment disclosed but unexplained.
+*Regression (Q2 FY26, 2.90):* The second-lowest score in the series, driven by Nadella's Q&A dissolving into product enumeration and FOG, near-total absence of named customer outcomes, and the C-grade Stakeholder Balance score. This was the first quarter where customer outcomes were subordinated entirely to demand-signal language. The Q3 FY26 rebound to 3.65 suggests this was a quarterly aberration rather than a structural decline.
 
-- **Q3'26 recovery:** Returned to 3.65 (A), matching the series high. Both Capital Stewardship and Strategic Clarity graded A for the first time simultaneously.
-
-The **floor** across all quarters is Stakeholder Balance (consistently B or C) and FOG in Nadella's prepared remarks. The **ceiling** is Hood's financial disclosure, which has graded A in every evaluated quarter without exception.
+**Persistent structural pattern:** Hood grades A on Capital Stewardship in every quarter without exception. Nadella grades B or lower on FOG in every quarter. The gap between them is the dominant feature of Microsoft's communication profile.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-
-- **Commercial RPO $269B** (Q4'24), growing to **$315B** (Q3'25), **$368B** (Q4'25), **$627B** (Q3'26), and per Q4'26 **84% growth** with the ex-OpenAI portion growing 25%.
-- **OpenAI: incremental $250B Azure services commitment** announced Q1'26; OpenAI constituted ~45% of a $625B RPO as of Q2'26.
-- **Vodafone: $1.5B in Cloud and AI services over 10 years** (named, Q2'24).
-- **Azure contracted backlog $368B** (Q4'25), with 35% recognized in next 12 months.
-- **Barclays: seat expansion from 15,000 to 100,000** (Q4'25).
-- **NHS England: 505,000 seats** (Q4'26).
-- **EY: 400,000 seats, E7 licensing tier** (Q4'26).
-- **KPMG: 276,000-person workforce deployment** (Q4'26).
-- **HSBC: 200,000 seats** (Q4'26).
-- **Accenture: 740,000 Copilot seats, "largest Copilot win to date"** (Q3'26).
-- **Lloyds Banking Group: 30,000 seats** (Q1'26).
-- **UBS: 50,000 seats** (Q1'25); expanded with mainframe migration of ~400B records (Q2'25).
-- **Novartis: expanded to 40,000 seats** (Q2'25).
-- **GitHub Copilot: 1.3M paid subscribers, 50,000 organizations** (Q1'24); 20M users (Q4'25); 225M total GitHub users (Q4'26).
-- **Fabric: 25,000+ customers, revenue up 55% YoY** (Q4'25).
-- **Dragon Copilot: 17M patient encounters documented, up ~5x YoY** (Q1'26).
-- **Annual operating cash flow exceeding $100B** (first time, Q4'24: $119B).
-- **FY25 operating margin commitment exceeded** (explicitly confirmed Q4'26).
+- **Vodafone:** "$1.5 billion in Cloud and AI services over 10 years" (Q2 FY24 prepared remarks). Terms beyond total value undisclosed.
+- **OpenAI:** "Incremental $250 billion of Azure services" commitment announced the day before Q1 FY26 earnings call. Q3 FY26 discloses OpenAI constituted 45% of the then-$625 billion RPO. By Q4 FY26, RPO stood at $627 billion with weighted average duration of ~2.5 years. Hood reports "all sequential commercial RPO growth was driven by commitments from customers outside of frontier model companies" in Q4 FY26.
+- **Commercial RPO (aggregate):** $224B (Q4 FY23) → $269B (Q4 FY24) → $315B (Q3 FY25) → $368B (Q4 FY25) → $627B (Q3 FY26) → disclosed with 99% YoY increase in Q3 FY26 primarily attributable to OpenAI.
+- **Enterprise seat contracts (named):** Barclays (15,000 → 100,000 M365 Copilot seats, Q4 FY25), KPMG (276,000 users, Q4 FY26), NHS England (505,000 seats, Q4 FY26), EY (400,000 seats, Q4 FY26), UBS (50,000 seats), Lloyds Banking Group (30,000 seats saving 46 min/day).
+- **Accenture:** "Our largest Copilot win to date" at 740,000 seats (Q3 FY26).
 
 ### Aspirational
-
-- "AI is the largest opportunity in our lifetime" and "TAM will grow substantially across every layer of the tech stack" — no quantification.
-- "Enterprises are beginning to move from proof-of-concepts to enterprise-wide deployments" — no adoption rate or timeline.
-- "We are off to a solid/strong start" — appears as a prepared-remarks opener in multiple quarters (Q1'24, Q1'25) with no informational content.
-- "Win back fans" in Windows, Xbox, Bing, Edge (Q3'26) — no metrics, milestones, or timeline attached.
-- "Another year of double-digit revenue and operating income growth" for FY27 (Q4'26) — directional only; no segment-level targets.
-- "The secular shift is clear" and "expanding opportunity" across AI TAM — Q4'26 and multiple prior quarters; no market definition or quantitative floor.
-- Microsoft Frontier Co.: "330 projects across 164 customers" cited as a one-year test; no scaling benchmarks or revenue attribution disclosed (Q4'26).
+- Azure growth to "accelerate in H2" — stated in Q4 FY24, Q1 FY25, Q2 FY25, Q3 FY25, and Q3 FY26. No defined threshold.
+- M365 Copilot revenue will "grow gradually over time" — first stated Q1 FY24, repeated without quantification through Q2 FY25.
+- "Another year of double-digit revenue and operating income growth" — stated for FY26 in multiple quarters, carried into FY27 in Q4 FY26.
+- Xbox "return to growth in FY2027" — stated Q4 FY26 without baseline metrics, remediation specifics, or milestone definition.
+- AI capacity constraints will resolve "by end of FY25" (Q2 FY25), then "through H1 FY26" (Q4 FY25), then "through at least end of fiscal year" (Q1 FY26), then "at least through 2026" (Q3 FY26). Target has migrated forward four consecutive times.
+- "Win back fans" in consumer (Windows, Xbox, Bing, Edge) — stated Q3 FY26 with no metrics, timeline, or definition of success.
+- Microsoft Frontier Co. — "6,000 industry and engineering experts," "330 projects across 164 customers" (Q4 FY26). No revenue attribution, no scale targets.
 
 ---
 
 ## Capital Figures
 
-All figures from structured financial data, attributed to the quarter of reported metrics.
+All figures from structured financial data unless otherwise noted from call-disclosed specifics.
 
-| Quarter | Revenue | Capex | Free Cash Flow | Operating Income | Cash | Equity |
-|---------|---------|-------|----------------|-----------------|------|--------|
-| Q4'24 | $69,632M | -$15,804M | $6,487M | $31,653M | $17,482M | $302,695M |
-| Q1'25 | $70,066M | -$16,745M | $20,299M | $32,000M | $28,828M | $321,891M |
-| Q2'25 | $76,441M | -$17,079M | $25,568M | $34,323M | $30,242M | $343,479M |
-| Q3'25 | $77,673M | -$19,394M | $25,663M | $37,961M | $28,849M | $363,076M |
-| Q4'25 | $81,273M | -$29,876M | $5,882M | $38,275M | $24,296M | $390,875M |
-| Q1'26 | $82,886M | -$30,876M | $15,803M | $38,398M | $32,105M | $414,367M |
-| Q2'26 | $90,007M | -$35,802M | $19,639M | $40,603M | $20,935M | $442,387M |
+| Quarter | Revenue | CapEx | Free Cash Flow | Operating Income | Cash |
+|---------|---------|-------|----------------|-----------------|------|
+| Q4 FY24 | $69,632M | $15,804M | $6,487M | $31,653M | $17,482M |
+| Q1 FY25 | $70,066M | $16,745M | $20,299M | $32,000M | $28,828M |
+| Q2 FY25 | $76,441M | $17,079M | $25,568M | $34,323M | $30,242M |
+| Q3 FY25 | $77,673M | $19,394M | $25,663M | $37,961M | $28,849M |
+| Q4 FY25 | $81,273M | $29,876M | $5,882M | $38,275M | $24,296M |
+| Q1 FY26 | $82,886M | $30,876M | $15,803M | $38,398M | $32,105M |
+| Q2 FY26 | $90,007M | $35,802M | $19,639M | $40,603M | $20,935M |
 
-**Notable capital figures from call narratives (not in structured data):**
-- Q4'23: Revenue $56.2B; FCF $19.8B; CapEx $10.7B (incl. finance leases); shareholder returns $9.7B quarterly, $38B full year.
-- Q1'24: Revenue $56.5B; FCF $20.7B; CapEx $11.2B.
-- Q2'24: Revenue $62.0B; FCF $9.1B; CapEx $11.5B.
-- Q3'24: Revenue $61.9B; FCF $21.0B; CapEx $14.0B.
-- Q3'26: CapEx $31.9B; FCF $15.8B; RPO $627B.
-- Q4'26: FCF $19.6B; operating cash flow $55.4B (up 30%); CapEx guided >$50B for Q1'27; FY27 annual CapEx guided higher than FY26.
+**Call-disclosed CapEx specifics (not from structured data):**
+- Q4 FY23: $10.7B total including finance leases; $8.9B cash paid PP&E
+- Q1 FY24: $11.2B total including finance leases; $9.9B cash paid PP&E
+- Q2 FY24: $11.5B; Q3 FY24: $14B; Q3 FY25: $21.4B ($16.7B cash PP&E)
+- Q4 FY25: $24.2B disclosed ($6.5B finance leases + $17.1B cash PP&E)
+- Q3 FY26: $31.9B (~2/3 short-lived, ~1/3 long-lived)
+- Q4 FY26: Hood revised FY26 total to ~$175B following useful-life extension (15→25 years) reclassifying finance leases to operating leases; Q1 FY27 guided at "over $50 billion"
+- FY26 calendar year CapEx guided at ~$190B (Q3 FY26), revised to ~$175B (Q4 FY26)
 
-**CapEx trajectory:** Accelerating consistently from ~$10.7B (Q4'23) through $35.8B (Q2'26) and guided above $50B/quarter entering FY27. Hood decomposed CapEx into short-lived assets (primarily GPUs/CPUs, ~2/3 of spend) and long-lived infrastructure (~1/3, 15-to-25-year monetization horizon) beginning Q4'24, with a useful-life extension from 15 to 25 years disclosed in Q4'26.
+**Azure AI revenue run-rate:** $10B (Q1 FY25) → $13B+ (Q2 FY25, "up 175% YoY"). No subsequent structured disclosure of AI-specific revenue in later quarters.
+
+**Operating cash flow milestone:** Surpassed $100B annually for first time (Q4 FY24, reported as $119B).
 
 ---
 
 ## FOG Patterns
 
-**Structural pattern — Nadella prepared remarks vs. Hood financial commentary:** Across all thirteen quarters, Hood's language has been nearly FOG-free; Nadella's prepared remarks have been the primary FOG source. Q&A performance for both executives is consistently better than prepared remarks. This divergence is the single most durable pattern in the series.
+**Structural pattern unchanged across all 11 quarters:** Hood grades B or above on FOG in every quarter. Nadella grades B or below in every quarter. The divergence is not narrowing.
 
-**Recurring phrases across multiple quarters:**
-- "We are off to a strong/solid start" — Q4'23, Q1'24, Q1'25; a prepared-remarks opener that precedes data and adds nothing.
-- "We feel good / we feel well positioned" — Q4'23, Q3'24, Q1'25, Q4'24; terminal sentiment without incremental evidence.
-- "AI advancements with real-world impact / real-world value" — Q1'26, Q4'25; signals intent, verifies nothing.
-- "Expansive opportunity / expansive in terms of addressable market" — Q4'23, Q3'26; recurring with no quantitative grounding.
-- "Every role and every industry / every layer of the tech stack" — Q1'24, Q2'24, Q3'24; sweeping and unverifiable.
-- "Compounding S-curves across silicon, systems, and models" — Q4'25, Q3'26; evocative but analytically vague; no falsifiable content.
-- "I've never been more confident/excited" — Q2'24 (gaming), Q4'26 (closing); classic unsupported superlative.
-- "We continue to say no to certain demand" (Q1'26) and "demand continues to exceed supply" (Q2'26, Q3'26, Q4'26) — used as a strategic discipline signal, but "demand exceeds supply" appears five times in Q2'26 alone, functioning cumulatively as a deflection device.
+**Recurring phrases across multiple quarters (with first appearance):**
 
-**Linguistic precision trajectory:** Marginally improving overall, driven by Hood's consistently disciplined language and Nadella's improving Q&A specificity. The Q2'26 regression (C on FOG) represents the series' worst prepared-remarks quality; Q3'26 and Q4'26 recovered. The customer-name-as-evidence pattern (substituting brand recognition for outcome data) peaked in Q2'24 (~80 named customers) and has since evolved toward fewer, more outcome-specific examples.
+- *"Well positioned"* — Q4 FY23, Q2 FY25, Q1 FY26. Classic Rittenhouse FOG term flagged in Q4 FY23 and never retired.
+- *"Demand continues to exceed supply"* — First Q3 FY24, appeared five times in Q2 FY26 transcript alone. Functions as a deflection device that forecloses questions about demand quality.
+- *"Real-world impact/value"* — Q1 FY26, Q3 FY26. Used as a terminal phrase that signals intent without verifying anything.
+- *"Off to a solid/strong start"* — Q1 FY24, Q1 FY25. Opener framing that precedes actual data and adds nothing.
+- *"We feel good/great"* — Q3 FY24, Q1 FY25, Q1 FY26. Terminal sentiment without additional specificity.
+- *"Every role and industry / every layer of the tech stack"* — Q4 FY23, Q1 FY24, Q2 FY24. "Every" constructions that are sweeping and unverifiable.
+- *"Compounding S-curves across silicon, systems, and models"* — Q4 FY25, Q3 FY26, Q4 FY26. Recurring as a structural metaphor without falsifiable content.
+- *"I've never been more confident/excited"* — Q1 FY25 (games), Q4 FY26 (overall opportunity). Rhetorical escalation device with no underlying evidence.
+
+**Linguistic precision trajectory:** Modestly improving in prepared remarks (more metrics-anchored customer examples by Q3–Q4 FY26), but Q2 FY26 represents a regression where customer outcomes were nearly absent and FOG density spiked to C-grade levels. No sustained improvement trend is demonstrable across the full series.
 
 ---
 
 ## Flags & Risks
 
-**Recurring communication risks:**
-
-1. **Security and operational incidents are systematically underdisclosed.** The nation-state breach (Q2'24) received one sentence and zero Q&A. The gaming impairment (Q2'26) was disclosed without magnitude, root cause, or remediation timeline. The pattern: material operational failures appear in prepared remarks in a single clause and are not addressed in Q&A. This is the most consistent accountability gap in the series.
-
-2. **The "demand exceeds supply" framing has become load-bearing and potentially self-referential.** Beginning Q3'25 and persisting through Q4'26, supply constraints are cited as the primary limit on Azure revenue in at least five consecutive quarters. While disclosed honestly, the phrase now functions as a standing explanation for any Azure underperformance. As capacity comes online, the test will be whether demand proves as robust as implied or whether the constraint was masking a demand-quality issue.
-
-3. **OpenAI concentration is disclosed but not dimensioned.** OpenAI constituted ~45% of a $625B RPO as of Q2'26. RPO grew 84% in Q4'26 against 25% ex-OpenAI growth. Revenue-share percentage, royalty elimination magnitude, drawdown pace, and contract conditions have not been quantified across any quarter. Hood has announced a prospective accounting change (removing OpenAI from other income/expense guidance) that reduces comparability. The OpenAI relationship is now large enough that its opacity constitutes a modeling gap for investors.
-
-4. **The customer-name pattern substitutes breadth for depth.** Nadella's prepared remarks enumerate named customers at scale (Q2'24: ~80; Q1'25: ~60-70; subsequent quarters: stabilizing at ~20-30 with more outcome specificity). The evolution toward fewer, more specific examples is positive. The residual risk: named examples without contract values, ARR contribution, or churn data cannot distinguish material revenue from early-access pilots.
-
-5. **Prior-quarter guidance is not systematically revisited in prepared remarks.** Hood's "ahead of/in line with/below expectations" language creates implicit accountability, but explicit revisitation of prior-quarter numerical targets against actuals is not a structural practice. Key moments—the Azure growth miss (Q4'24), the supply constraint slip (Q4'25, Q3'26), the non-AI ACR execution gap (Q2'25)—were disclosed accurately but only when analysts pressed or when the miss was embedded in guidance itself.
-
-6. **Xbox/Gaming is a persistent accountability gap.** Gaming weakness began appearing in Q1'25, with impairment charges in Q2'26, a "reset the business" framing in Q3'26 and Q4'26, and a Q4'26 commitment to "return to growth in FY2027" with no baseline, no root cause, and no measurable milestone. This is the textbook "perishable goal" pattern.
-
 **Data quality flags:**
-- FCF volatility is significant: $5,882M (Q4'25), $15,803M (Q1'26), $19,639M (Q2'26)—driven by accelerating CapEx but not consistently reconciled to operating cash flow in call narratives.
-- Equity is growing ($302B → $442B across structured data period), confirming no equity-decline flag.
+- Free cash flow is highly volatile: $25.7B (Q2 FY25) → $5.9B (Q4 FY25) → $15.8B (Q1 FY26) → $5.9B (Q4 FY26). The FCF decline in Q4 FY25 received minimal narrative treatment despite being a 77% sequential drop. CapEx acceleration is the primary driver, but the magnitude of quarterly swings warrants investor attention.
+- Total equity rising steadily ($302.7B Q4 FY24 → $442.4B Q2 FY26), no equity stress signals.
+- Cash position declining from peak: $30.2B (Q2 FY25) → $20.9B (Q2 FY26), coincident with CapEx acceleration.
+
+**Communication-level risks (synthesized across quarters):**
+
+1. **Supply constraint guidance credibility is depleted.** Hood has missed her supply-normalization prediction in at least four consecutive quarters. Each miss is disclosed honestly, which earns partial credit, but the pattern of optimistic capacity timing that systematically slips suggests either demand is systematically underforecast or the constraint framing is being managed to dampen expectations. The end-date has migrated from "end of FY25" (Q2 FY25) to "at least through 2026" (Q3 FY26).
+
+2. **OpenAI concentration in RPO is structurally opaque.** The $250B commitment disclosed Q1 FY26, 45% RPO concentration disclosed Q3 FY26, the renegotiated rev-share and royalty structure disclosed qualitatively in Q3 FY26 but never quantified. Hood bifurcates "ex-OpenAI" metrics in Q4 FY26 across four separate figures (bookings 18% ex vs. 10% reported; RPO 25% ex vs. 84% reported). Investors cannot dimension OpenAI's contribution to or drag on margins. The $250B commitment's drawdown pace, minimum consumption obligations, and performance conditions have never been disclosed.
+
+3. **CapEx useful-life accounting change (Q4 FY26).** Extension from 15 to 25 years reclassifies finance leases to operating leases, reducing stated CapEx from ~$190B to ~$175B. Hood discloses this proactively and explains mechanics. But the change materially reduces comparability of CapEx as a tracked metric and warrants investor adjustment of prior-period models.
+
+4. **Customer-name pattern substitutes for outcome data in weaker quarters.** Q2 FY24 cited ~80 named customers without material outcome specifics. Q2 FY26 reduced named customer examples substantially while increasing demand-signal language. The inverse correlation between FOG and named outcomes is a reliable indicator of underlying confidence in the period's results.
+
+5. **Xbox accountability gap.** Impairment charges appear in Q2 FY26 without magnitude disclosure, and Q4 FY26 states "return to growth in FY2027" without explaining what failed, what was decided, or what the measurement baseline is. This is the most sustained accountability avoidance across the series.
+
+6. **Nation-state security breach (Q2 FY24):** One sentence in prepared remarks, zero Q&A discussion. No subsequent follow-up in Q3 FY24 or later quarters on Secure Future Initiative remediation specifics.
 
 ---
 
 ## Verify Next Quarter
 
-From the Q4'26 analysis, carry forward these tracking commitments for the Q1'27 call (expected October 2026):
+From Q4 FY26 (most recent analysis), the following must be checked when Q1 FY27 results drop:
 
-1. **Azure ~45% constant-currency growth.** Hood guided this explicitly. The series' most precisely testable single-quarter commitment. Verify actuals against guidance and whether supply-constraint language is offered again as an explanatory buffer.
+1. **Azure ~45% constant-currency growth guidance.** Hood stated this explicitly as Q1 FY27 guidance. Any deviation—up or down—requires management's explanation against the "supply efficiency unlock" thesis used to justify the guidance. If supply constraints are again cited as a limiter, note that this will be the fifth consecutive quarter of that explanation.
 
-2. **CapEx >$50B in Q1'27.** Explicitly guided. Track actuals and whether the short-lived/long-lived asset split (guided similar to Q4'26's 2/3 short, 1/3 long) is maintained or shifts. The useful-life extension (15→25 years) means prior CapEx figures are not directly comparable; Hood should be pressed on restated comparables.
+2. **CapEx "over $50 billion" in Q1 FY27.** Hood guided this explicitly. Verify against actual figure and check whether the short-lived/long-lived asset mix (~2/3 short-lived) is maintained as guided. Any meaningful shift in this mix changes the revenue-recognition timeline.
 
-3. **Xbox return to growth in FY2027.** Committed in Q4'26 with no milestones, no root cause, and no baseline. The Q1'27 call should be evaluated for: (a) what specific decisions were made, (b) the revenue baseline being grown against, and (c) how "growth" is defined. Silence on any of these is a negative signal.
+3. **Xbox "return to growth" evidence.** The Q4 FY26 commitment ("FY2027 growth") must now produce its first observable data point. Press for: (a) what revenue baseline is being used, (b) which decisions were made, and (c) what the content/platform strategy actually is. If the answer is still "making necessary decisions," flag as a persistent accountability gap.
 
-4. **OpenAI $250B commitment drawdown pace.** First disclosed Q1'26; still not quantified by structure, drawdown timeline, or minimum consumption obligations as of Q4'26. Q1'27 should show whether this appears in consumption-related Azure metrics or remains in RPO stock without visible drawdown.
+4. **M365 Commercial cloud growth acceleration.** Hood projected acceleration "through this fiscal year" citing usage-based billing on Cowork added in July. Q1 baseline of ~15-16% growth is the benchmark. Any deceleration requires explanation.
 
-5. **M365 Commercial cloud growth acceleration.** Hood projected acceleration "through this fiscal year" (FY27), citing usage-based billing on Cowork added in July. Q1'27 is the first test. Track whether seat growth and ARPU are disclosed with the same granularity or whether qualitative framing replaces metrics.
+5. **OpenAI RPO consumption pace.** The $250B commitment's drawdown should be detectable as the OpenAI portion of RPO either holds, grows, or begins converting to recognized revenue. If RPO duration shortens while balance grows, that is a positive consumption signal. If the balance grows without consumption movement, the commitment is functioning as a confidence prop rather than a revenue anchor.
 
-6. **Microsoft Frontier Co. scaling.** Introduced in Q4'26 as "6,000 industry and engineering experts" completing "330 projects across 164 customers" in a test year. Q1'27 should provide updated customer count, revenue attribution, or project velocity—or the absence of these metrics should be flagged as a perishable goal pattern.
+6. **Microsoft Frontier Co. economics.** Introduced Q4 FY26 as "330 projects across 164 customers." Q1 FY27 should provide early data on customer count trajectory, revenue attribution, and whether the model is scaling.
 
-7. **Non-AI Azure scale-motion execution.** Flagged in Q2'25 and acknowledged in Q3'25 for "the second consecutive quarter." Q4'25 through Q4'26 did not provide a resolved quantification. If Q1'27 contains identical directional language without a specific improvement metric, flag this as a four-quarter-plus unresolved execution acknowledgment.
+7. **Consumer "win back fans" milestones.** Nadella has now used this directional framing for two consecutive quarters with no metrics. Three consecutive calls without a falsifiable milestone on consumer strategy would represent a deteriorating accountability signal.

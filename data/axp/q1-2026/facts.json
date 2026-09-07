@@ -1,0 +1,53 @@
+{
+  "ticker": "AXP",
+  "quarter": "Q1 2026",
+  "company": "American Express Company",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 18908.0,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": 2971.0,
+    "eps": 4.29,
+    "total_equity_m": 33995.0,
+    "total_assets_m": 308894.0,
+    "cash_and_equivalents_m": 53647.0,
+    "shares_outstanding_m": 682.0,
+    "free_cash_flow_m": 2655.0,
+    "operating_cash_flow_m": 3804.0,
+    "capital_expenditure_m": -1149.0,
+    "bvps": 49.85
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.25,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "stable",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Spend growth stepped up to 10%... the highest level we've seen in 3 years... luxury retail spending was up 18%, reflecting the continued strength of our premium customer base.",
+      "credit_quality_trend": "Delinquency rates were flat to last quarter while write-off rates were slightly down. These results are consistent with our expectations for generally stable credit metrics throughout 2026.",
+      "services_demand": "T&E spending up 9% FX adjusted... restaurant spending was up 9% once again this quarter... airline spending picked up, growing 8%.",
+      "capex_direction": "Given the strong performance we saw in Q1 and our confidence in the balance of the year, we plan to increase our marketing investments... we now expect marketing expenses to grow in the mid-single digits for the full year.",
+      "pricing_power": "Net card fees continue to be our fastest-growing line, up 16% FX adjusted... about 1/4 of the overall U.S. consumer Platinum portfolio has been billed for the higher annual fee, and we have seen no change to our very high retention rates.",
+      "management_tone_shift": "We've just delivered a quarter of 11% [revenue growth]... we have decided to increase investments in marketing and technology... we increased our dividend by 16%, demonstrating our confidence in the sustainability of earnings."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

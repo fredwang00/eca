@@ -1,134 +1,122 @@
 # Uber Technologies, Inc. (UBER) — Earnings Call Brief
-**Covering: Q2 2023 – Q4 2025 (9 quarters)**
+**Coverage: Q2 2023 through Q4 2025 (9 quarters)**
 
 ---
 
 ## Candor Trajectory
 
-| Quarter | Composite Score | Grade |
-|---------|----------------|-------|
-| Q2 2023 | 2.80 | B |
-| Q3 2023 | 3.10 | B |
-| Q4 2023 | 2.80 | B |
-| Q1 2024 | 2.70 | B |
-| Q2 2024 | 3.00 | B |
-| Q3 2024 | 2.715 | B- |
-| Q4 2024 | 2.65 | B |
-| Q1 2025 | 2.65 | B |
-| Q2 2025 | 2.78 | B- |
-| Q3 2025 | 2.65 | B |
-| Q4 2025 | 3.43 | B+ |
+| Quarter | Composite | Score |
+|---------|-----------|-------|
+| Q2 2023 | B | 2.80 |
+| Q3 2023 | B | 3.10 |
+| Q4 2023 | B | 2.80 |
+| Q1 2024 | B | 2.70 |
+| Q2 2024 | B | 3.00 |
+| Q3 2024 | B- | 2.715 |
+| Q4 2024 | B | 2.65 |
+| Q1 2025 | B | 2.65 |
+| Q2 2025 | B- | 2.78 |
+| Q3 2025 | B | 2.65 |
+| Q4 2025 | B+ | 3.43 |
 
-**Direction: Stagnating with a late-stage inflection upward.**
+**Direction: Stagnating with a terminal inflection.** Eight of nine quarters sit in a narrow 2.65–3.10 band — functionally flat despite the company's operational maturation. The score dipped to its floor at Q3 2024 through Q4 2024 (2.65–2.715), driven by thin prepared remarks, stakeholder balance erosion, and increasingly formulaic CFO language. The terminal inflection is Q4 2025 (3.43), attributable to two structural changes: incoming CFO Balaji Krishnamurthy immediately adding quantitative texture to the CEO's directional claims, and an unusually explicit accountability callback to the February 2024 three-year framework with actual-vs-committed disclosure. Whether this inflection is durable or a debut-quarter performance premium is the primary tracking question for 2026.
 
-Eight consecutive quarters occupied a narrow B-to-B- band (2.65–3.10), driven primarily by persistently low Stakeholder Balance scores (C range throughout) and chronic FOG Index underperformance (C to B- in most quarters). The primary inflection point was **Q4 2025**, where a new CFO (Balaji Krishnamurthy) delivered quantitative texture that pushed Capital Stewardship to an A for the first time in the series, lifting the composite to 3.43. The prior low-water mark was **Q3 2024 and Q4 2024/Q1 2025** (each at 2.65–2.715), where thin prepared remarks, opaque capital allocation, and a degraded Stakeholder grade converged. The improvement in Q4 2025 is real but narrow—FOG in CEO remarks on AV and the absence of "What Went Wrong" disclosure remain structural drags that have not been resolved across any quarter in this series.
+FOG Index showed the sharpest within-period decline: Q2 2023 (C), partially recovering to B- in Q3 2023, then oscillating between C and B- through Q4 2025's B. Stakeholder Balance has been structurally weak — C or C+ in five of nine quarters — and never reached A in any period.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-*Contracts or deals with named counterparties, disclosed values, or specific terms:*
-
-- **Waymo (Mobility):** Named partnership with commercial deployments in San Francisco, Austin, and Atlanta. Austin fleet stated as "over 100 vehicles" (Q1 2025). Waymo utilization benchmark disclosed: "average Waymo in Austin is busier than 99% of Austin drivers by trips per day" (Q1 2025). "30% higher trips per vehicle per day" for 3P vs. 1P cited from publicly available data (Q4 2025).
-- **Waabi / Avride / Nuro / Lucid:** Named in Q4 2025 with specific deal terms: "first 25,000 vehicles exclusive on Uber." Described as "profitable economics" but no quantitative basis disclosed.
-- **BYD EV Partnership (Q2 2024):** Named counterparty; specific target of 100,000 EVs disclosed.
-- **Darden / Trendyol Go:** Darden named as delivery partner (Q3 2024). Trendyol Go acquisition announced (Q1 2025) — no deal terms, purchase price, or closing timeline disclosed as of announcement.
-- **Foodpanda:** Named acquisition with specific EBITDA accretion estimate: "$150 million in EBITDA pretty shortly after we close" (Q3 2024).
-- **Massachusetts IC-Plus Settlement:** Named counterparty (Massachusetts AG); structure disclosed (healthcare benefits, time definitions, no ballot initiative); financial impact never quantified despite direct analyst question (Q2 2024).
-- **NVIDIA Partnership:** Named in Q3 2025; described as AV data/sensor stack collaboration. No financial terms, milestones, or exclusivity disclosed.
-- **Toast Partnership:** Named in Q3 2025; described as benefiting merchant selection. No financial terms disclosed.
-- **Delta SkyMiles / OpenTable:** Named in Q1 2025 as partnerships. No financial contribution, exclusivity, or terms disclosed.
+- **Advertising $1B run-rate target** (prior commitment): Confirmed tracking at $900M+ in Q4 2023, crossed $1B annualized run rate in Q2 2024 at 50%-plus growth. Named counterparties not disclosed; 550,000 advertisers cited as base.
+- **Waymo partnership — Austin and Atlanta deployments**: Named counterparty, specific geography, Q1 2025 launch. Austin fleet described as "over 100 vehicles soon" (Q4 2024). Waymo's Austin utilization cited as "busier than 99% of Austin drivers" (Q1 2025).
+- **Waabi, Avride, Nuro, Lucid AV partnerships**: Named counterparties. First 25,000 Nuro/Lucid vehicles described as "exclusive on Uber." Deal terms, financial structure, and exclusivity duration not disclosed.
+- **Massachusetts IC-plus settlement**: Named counterparty (Massachusetts Attorney General), deal structure described (healthcare benefits, time definitions, no ballot initiative). Financial impact never quantified despite direct analyst question.
+- **Trendyol Go acquisition** (Q1 2025): Named target, Turkey market. No deal size, purchase price, or closing timeline disclosed as of announcement quarter.
+- **Foodpanda EBITDA accretion** (Q3 2024): Named target. Specific claim: "$150 million in EBITDA pretty shortly after we close."
+- **$20B share repurchase authorization** (Q2 2025): Sized at "roughly 12% of market cap." Execution cadence committed at "at least 50% of free cash flow." Share count down 1% in Q2 2025.
 
 ### Aspirational
-*Claims about demand, pipeline, or opportunity lacking counterparty names, dollar values, or binding terms:*
-
-- **AV partnership announcements "in the coming weeks and months"** — stated in Q2 2024, Q3 2024, and Q1 2025 without resolution in the quarter promised. Classic perishable goal pattern.
-- **"15 cities by end of 2026"** AV deployment commitment (Q4 2025) — no named markets, no deployment timelines, no counterparty confirmations.
-- **OEM partnership announcements "in the next couple of years"** (Q2 2025) — no named counterparties.
-- **Advertising reaching "2%+ of gross bookings"** — a stated target across multiple quarters with no timeline or named advertiser milestones to anchor it.
-- **Grocery/retail path to profitability** — described as "improving" and "accretive" (Q1 2025) but no target margin or timeline ever committed.
-- **Uber AI Solutions as a large opportunity** — described as "enormous" and "really exciting" (Q2 2025, Q3 2025) with no revenue figures, named customers, or deployment specifics.
-- **Cross-platform penetration growth** — "can and will go much higher over time" (Q2 2025) with no target penetration rate or timeline.
-- **AV economics: "healthy, positive"** — asserted across Q4 2024 and Q4 2025 without any disclosed take rate, unit economics, or counterparty confirmation.
-- **"Supercharge growth in Turkey"** via Trendyol Go — tagline without financial rationale (Q1 2025).
+- **"15 cities by end of 2026" AV deployments** (Q4 2025): No named cities beyond Austin and Atlanta, no partner assignments per city, no deployment timelines.
+- **AV partnerships with NVIDIA, Momenta, WeRide, Pony** (Q1–Q4 2025): Named but no commercial terms, deployment timelines, or financial structure disclosed.
+- **Cross-platform penetration growth** (Q2 2025 onward): "Fewer than 1 in 5 consumers active across both platforms" established as baseline. No target penetration rate or timeline.
+- **Grocery/retail path to profitability**: Variable contribution breakeven reached Q4 2024; Q1 2025 described as "first quarter of accretion." No absolute margin target or profitability timeline stated across any quarter.
+- **Uber One global penetration toward Taiwan-level** (50%+): Cited as proof-of-concept benchmark in Q2 2023. Never revisited. Global penetration reached 36M members by Q3 2025 but Taiwan benchmark quietly dropped from subsequent calls.
+- **OEM partnership announcements**: "Stay tuned, you'll see more announcements with OEMs" — Q2 2025. No named OEM beyond Lucid as of Q4 2025.
+- **"AV partnerships will have healthy, positive economics"**: Asserted across multiple quarters; no unit-level data, take-rate figures, or partner-confirmed economics disclosed.
+- **Uber AI Solutions**: Described as "enormous potential" (Q2–Q3 2025). No revenue, customer count, or product definition provided.
+- **Insurance savings passed to consumers as lower fares** (Q3 2025): "Hundreds of millions of dollars" committed for "next year." No baseline fare level, geography, or verification mechanism defined.
 
 ---
 
 ## Capital Figures
 
-*All figures from structured financial data or direct transcript citations. No interpolation.*
+*All figures from structured financial data in quarterly analyses. No inferred numbers.*
 
 | Quarter | Gross Bookings Growth (CC) | Adj. EBITDA | Free Cash Flow | Advertising Run Rate | Uber One Members |
-|---------|--------------------------|-------------|---------------|---------------------|-----------------|
-| Q2 2023 | Not disclosed on call | Not specific | Not disclosed | ~$650M annualized | Not disclosed |
-| Q3 2023 | Not specified | Exceeded "3% margin for first time" | Not disclosed | ~$1B+ target (no current rate) | Not disclosed |
-| Q4 2023 | 21% CC | $1.3B | Not disclosed | $900M+ run rate | 19M members |
-| Q1 2024 | Mobility +26%, Delivery +17% CC | $1.4B (+82% YoY) | $4.2B (TTM) | $900M annualized | 32% of GBs |
-| Q2 2024 | +27% CC | Not specified | Not disclosed | >$1B annualized | Not disclosed |
-| Q3 2024 | +20% CC | EBITDA grew ~3x rate of GBs | Not disclosed | +80% YoY growth rate | 25M (+70% YoY) |
-| Q4 2024 | +21% CC | 7.8% of GBs (+30 bps YoY) | Not disclosed | Not disclosed | 30M |
-| Q1 2025 | Not specified | $1.9B (+35% YoY) | $2.3B | Not disclosed | 36M |
-| Q2 2025 | Trips +18%, GBs +18% | Not specified | Not disclosed (cited as "new highs") | Not disclosed | 36M |
-| Q3 2025 | Not specified | Margins "all-time high" 4.5% of GBs | ~$9B (TTM) | Not disclosed | 36M |
-| Q4 2025 | +22% YoY | $8.7B (+35%) | $9.8B (+42%) | Not disclosed | Not disclosed |
+|---------|---------------------------|-------------|----------------|---------------------|-----------------|
+| Q2 2023 | Not cited | Not cited | Not cited | $650M ann. | Not cited |
+| Q3 2023 | $35B quarterly | 3%+ margin (first time) | Not cited | "On track to $1B+" | Not cited |
+| Q4 2023 | 21% | $1.3B | Not cited | $900M+ run rate | 19M |
+| Q1 2024 | Mob 26%, Del 17% | $1.4B (+82% YoY) | $4.2B TTM | $900M ann. | Not cited |
+| Q2 2024 | 27% | Not cited | Not cited | >$1B ann. (+50% YoY) | Not cited |
+| Q3 2024 | 20% | Not cited | Not cited | +80% YoY | 25M (+70% YoY) |
+| Q4 2024 | 21% | 7.8% of GBs (+30 bps YoY) | Not cited | Not cited | 30M |
+| Q1 2025 | Not cited | $1.9B (+35% YoY) | $2.3B | Not cited | Not cited |
+| Q2 2025 | Trips +18%, GBs +18% | Not cited | Not cited | Not cited | 36M |
+| Q3 2025 | Not cited | All-time high 4.5% of GBs | ~$9B TTM | Not cited | 36M |
+| Q4 2025 | +22% YoY | $8.7B FY (+35%) | $9.8B FY (+42%) | Not cited | Not cited |
 
-**Notable capital disclosures:**
-- Q4 2025: Share buyback described as "50% of free cash flow" (not explicitly reconfirmed by new CFO Balaji in Q4 2025 — said "steady cadence" without percentage anchor).
-- Q2 2025: $20B buyback authorization announced; 60%+ of prior authorization already executed; share count declined 1% in Q2 2025.
-- Q3 2023: Three-year model commitment (February 2023 investor day): mid-to-high teens GB growth, 30–40% EBITDA CAGR, 90%+ FCF conversion. Q4 2025 explicitly confirmed all three exceeded in 2025: GBs +22% (vs. mid-to-high teens), EBITDA +35% (vs. high 30s–40%), FCF conversion 106% (vs. 90%+).
-- Insurance cost per trip: Q4 2024 guided "high single digits" for 2025; Q1 2025 confirmed CPI printed at 7% vs. expected "high single, perhaps low teens."
+**Capex:** AV vehicle purchases described as "beginning" in Q4 2025 — no dollar amount disclosed. Management stated AV investment is "not going to notice it in the P&L" (Q4 2024), but described future deployment as requiring balance sheet commitment without sizing it.
 
 ---
 
 ## FOG Patterns
 
-**Recurring phrases across the full series:**
+**Structural pattern:** CEO Khosrowshahi generates the majority of FOG; CFO communication has been consistently cleaner across all three CFO tenures (Chai, Mahendra-Rajah, Krishnamurthy). The prepared remarks layer is materially higher-FOG than Q&A across every quarter analyzed. This divergence suggests the scripted layer is optimized for messaging, not disclosure.
 
-- **"Very, very [adjective]"** — Used in every quarter (Q2 2023 through Q4 2025). "Very, very early," "very, very well positioned," "very, very promising," "very, very strong step up." Functions as an intensity marker with zero informational content. Has not improved.
-- **"Tremendous momentum"** / **"Tremendous runway"** — Q2 2023, Q3 2023, Q4 2023. Faded after Q4 2023 when Prashanth joined; returned in Dara's AV commentary from Q3 2024 onward.
-- **"Quite excited"** / **"Super excited"** — Q2 2023 through Q3 2025 without interruption. Applied to AV, advertising, grocery, AI Solutions, and membership in different quarters.
-- **"Long runway"** / **"Extends the runway"** — Q2 2023, Q1 2025, Q2 2025, Q3 2025. Never accompanied by a quantified estimate of the runway.
-- **"Magic"** — Used in Q4 2024 twice to describe market flywheel effects. A semantic placeholder for a mechanism Prashanth actually explains elsewhere with specificity.
-- **"Second inning"** / **"Baseball inning" metaphors** — Q2 2025 and Q3 2025. Used as a substitute for defining stage-gate criteria or milestones.
-- **"Something we're quite excited about"** — Sentence-ending escape valve in Q2 2025; counted approximately 4–5 times in that call.
+**Recurring phrases, unchanged across 9 quarters:**
+- "Very, very [adjective]" — appears in every quarter analyzed. Functionally meaningless intensifier.
+- "Huge, huge opportunity" / "enormous potential" / "tremendous runway" — applied to advertising (Q2 2023), AV (Q2 2024 through Q4 2025), Uber AI Solutions (Q2–Q3 2025).
+- "We're quite excited" / "super excited" — appears without quantified support across Waymo (Q2 2023), Nvidia (Q3 2025), cross-platform (Q2 2025).
+- "The magic happens" — used twice in Q4 2024 to describe market flywheel effects that the CFO explains mechanistically in adjacent answers.
+- "[Initiative] is cooking at $X billion" — Q3 2024: "new products cooking at $20 billion." Colloquialism that obscures whether the number is run-rate, TTM, or annualized quarterly.
+- Baseball inning metaphors ("second inning," "third through fifth innings") — Q2–Q3 2025. No definition of what each inning means or what defines a completed inning.
 
-**Linguistic precision trajectory:** **Degraded over time in CEO remarks; improved in CFO remarks.** Prashanth Mahendra-Rajah (Q4 2023 through Q3 2025) consistently delivered cleaner, more specific language than Khosrowshahi. The contrast became a structural feature of the calls: CEO sets aspirational direction with FOG; CFO adds quantitative grounding. Q4 2025 suggests Balaji may maintain or extend that CFO standard. FOG in CEO prepared remarks and AV commentary has not improved across nine quarters — it is a stable, structural feature of Khosrowshahi's communication style, not a temporary pattern.
+**Trajectory:** FOG density in Q&A modestly improved from Q2 2023 to Q4 2025 — Khosrowshahi answers more questions with specific data than he did two years ago. FOG in prepared remarks has not improved. Balaji Krishnamurthy's Q4 2025 debut introduced the "GO-GET it culture" phrase, which merits watching as a possible new FOG vector.
 
 ---
 
 ## Flags & Risks
 
-**Communication-level risks (persistent across multiple quarters):**
+**Structural communication risks:**
 
-1. **Accountability vacuum on prior commitments.** No quarterly call in this series explicitly revisits the full set of prior-quarter guidance and scores actual vs. promised. The February 2024 three-year framework is cited in multiple quarters but is invoked selectively — only when confirming overperformance. Misses or delays (AV city deployments, advertising timeline, grocery profitability) are never flagged as such.
+- **Accountability vacuum is persistent.** No quarter across the nine analyzed includes explicit "we said X, delivered Y" reconciliation for more than one or two metrics. The February 2024 three-year framework is the closest — referenced in Q2 2024, Q3 2025, and Q4 2025 with actual-vs-committed disclosure. All other prior commitments are either silently retired (Taiwan penetration benchmark, Taiwan 50% target), periodically mentioned without check-in (grocery profitability), or treated as evergreen aspirations (AV expansion cities).
 
-2. **The perishable goal pattern on AV partnerships.** "More announcements in the coming weeks and months" appeared in Q2 2024, Q3 2024, and Q1 2025. Named partners (Waabi, Avride, Nuro, Lucid) were eventually disclosed in Q4 2025, but without commercial terms, exclusivity duration, or revenue structure. The "15 cities by end of 2026" is the current iteration of this pattern.
+- **AV narrative is conviction-forward, evidence-light.** Across six consecutive quarters (Q2 2024 through Q4 2025), AV partnership announcements multiply (3 → 5 → 7 → 14 partners cited) while disclosed economics remain zero. "Profitable economics" is asserted; no take-rate, revenue-share, or unit contribution is disclosed. The "perishable goal" risk is live: if 15-city deployment does not materialize by Q4 2026, there is no prior disclosure of the investment commitment that would allow investors to evaluate the miss.
 
-3. **Free cash flow figure conspicuously absent in Q2 2025.** The call cited FCF as reaching "new highs" and anchored a $20B buyback to FCF generation — without disclosing the actual FCF number. This omission is material given the buyback announcement.
+- **Non-GAAP metric evolution.** Q3 2025 introduced a shift from adjusted EBITDA to adjusted operating income as the primary reporting metric, coinciding with increased AV capital spending. While management's stated rationale (depreciation comparability) is plausible, the timing — shifting to a metric that embeds more costs precisely when capital expenditure is rising — warrants monitoring.
 
-4. **AV investment unquantified despite repeated strategic priority designation.** Across Q3 2024, Q4 2024, Q1 2025, Q2 2025, Q3 2025, and Q4 2025, AV is described as a top strategic priority. Capital deployed — fleet purchases, depot investment, OEM commitments, Nuro/Lucid prepayments — is never sized. "Not noticeable in the P&L" (Q4 2024) is not a disclosure; it is a non-disclosure with reassurance attached.
+- **"No competitive deterioration anywhere" pattern.** Across every quarter in which Uber discussed competitive dynamics (Lyft in U.S., DiDi in LatAm, Waymo in San Francisco, European delivery), the answer was uniformly reassuring: "pretty stable," "no change," "consistent." For a company operating in 70+ countries across multiple verticals, this uniformity is statistically improbable and should be treated as a disclosure posture rather than an accurate market assessment.
 
-5. **Stakeholder Balance structurally low.** C or C+ in every quarter. Driver economic interests are displaced by driver supply metrics. The gig-worker policy environment (EU regulations, California, Seattle, New York minimums) is addressed procedurally rather than substantively. The California insurance legislation win reducing uninsured motorist coverage from $1M to $60K was presented as an unambiguous cost saving with no disclosure of the risk transfer implications for drivers and injured parties (Q3 2025). This is the series' most consistent disclosure weakness.
+- **Driver/courier economics are a structural blind spot.** Insurance reform is consistently framed as a consumer benefit (lower fares) and a corporate benefit (lower costs). The income implications for drivers — who bear the legal cost risk under the IC model — are never discussed. EU gig economy regulation, Massachusetts settlement, and California insurance legislation are all addressed without surfacing the underlying driver welfare trade-offs.
 
-6. **"What Went Wrong" never appears.** Zero quarters in this nine-quarter series include voluntary disclosure of a miss, a strategic bet that underperformed, or an internal goal not achieved. Statistically implausible for a platform operating across 70+ countries. Its consistent absence is a structural candor risk.
-
-7. **Non-GAAP metric evolution.** Shift from adjusted EBITDA to adjusted operating income (Q3 2025) was presented as maturation. It coincides with the onset of AV capital investment — precisely when depreciation and capex-related charges begin to matter. The timing creates an asymmetric disclosure concern.
+- **Free cash flow inconsistently disclosed.** Despite FCF being the explicit anchor for the buyback commitment ("at least 50% of FCF"), the quarterly FCF figure was absent from Q2 2023, Q3 2023, Q4 2023, Q2 2024, Q3 2024, Q4 2024, and Q2 2025. Only Q1 2024 ($4.2B TTM), Q1 2025 ($2.3B), Q3 2025 (~$9B TTM), and Q4 2025 ($9.8B FY) include specific figures. A commitment anchored to a metric that is inconsistently disclosed is difficult for investors to verify.
 
 ---
 
-## Verify Next Quarter
+## Verify Next Quarter (Q1 2026)
 
-**From Q4 2025 (most recent analysis); verify at Q1 2026 earnings call:**
+From the Q4 2025 tracking commitments:
 
-1. **"15 cities by end of 2026" AV deployment** — Q1 2026 should name specific markets where deployments are live or formally launched. If the number is revised downward or reframed without acknowledgment, log as broken commitment.
+1. **"15 cities by end of 2026" AV deployment** — Verify whether specific named markets with deployment timelines are disclosed. Any reframing to "active discussions in X markets" without named go-live dates should be logged as a commitment retreat.
 
-2. **U.S. gross bookings acceleration** — Balaji explicitly committed to U.S. acceleration driven by insurance reform and sparse market expansion. Check whether U.S. mobility growth rate improved quarter-over-quarter vs. Q4 2025; if not, whether management acknowledges the miss or introduces a new explanatory frame.
+2. **U.S. gross bookings acceleration** — Balaji explicitly committed to U.S. acceleration driven by insurance reform, price discipline, and sparse market expansion. Check whether U.S. mobility growth rate improved quarter-over-quarter. If not, verify whether management acknowledges the miss or introduces a new explanatory frame.
 
-3. **Buyback cadence without percentage anchor** — Balaji did not reconfirm the "50% of free cash flow" figure from prior quarters. Track Q1 2026 share count reduction and FCF disclosure. If pace slows materially while investment spending rises, the Q4 2025 call will have been the moment the commitment was quietly de-emphasized.
+3. **Buyback cadence** — The 50% of FCF commitment was not explicitly reconfirmed in Q4 2025. Track the Q1 2026 share count and actual buyback dollars against the FCF figure to determine whether the percentage held. Any pace reduction without explicit acknowledgment of the prior commitment should be flagged.
 
-4. **AV unit economics** — Named deals (Waabi, Avride, Nuro, Lucid) were described as "profitable economics" and "fair for partners." Q1 2026 should be examined for whether any AV-specific contribution margin, take rate, or utilization metric emerges. Continued opacity alongside accelerating deployment would be a structural disclosure gap.
+4. **Insurance savings as consumer fare reductions** — Q3 2025 committed "hundreds of millions of dollars of savings" passed through as "lower fares across the US for next year." Verify whether Q1 2026 discloses any fare reduction data, geography, or consumer price benchmark.
 
-5. **Balaji's communication consistency** — Q4 2025 was his debut call. The specificity and candor of his language should be tracked across Q1 and Q2 2026 to determine whether that call was representative or an unusually prepared first appearance. Key test: does he proactively add quantitative grounding to CEO directional claims, or does the CEO/CFO disclosure dynamic rebalance toward promotional?
+5. **AV economics disclosure** — The Nuro/Lucid deal was described as yielding "better economics" than the Waymo model. Q1 2026 is the first quarter where Balaji will set disclosure norms on AV reporting. Watch for whether any unit-level data (take rate, trips per vehicle, revenue per deployment) emerges, or whether AV remains disclosed only qualitatively.
 
-6. **Trendyol Go acquisition terms** — First announced Q1 2025 without financial terms. No purchase price, integration timeline, or expected contribution has appeared in any subsequent call through Q4 2025. Q1 2026 is the natural checkpoint — if terms remain undisclosed after four quarters, this is a meaningful disclosure quality flag.
+6. **Balaji's communication standard** — Q4 2025 was his debut. Verify whether quantitative specificity and proactive correction of market misperceptions (as in the "70% of U.S. profits from non-top-20 markets" disclosure) persist as habits or were debut-quarter preparation artifacts.

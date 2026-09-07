@@ -1,0 +1,50 @@
+{
+  "ticker": "RKLB",
+  "quarter": "Q2 2026",
+  "company": "Rocket Lab USA, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 234.1,
+    "gross_profit_m": 84.6,
+    "operating_income_m": -57.5,
+    "net_income_m": -49.3,
+    "eps": -0.08,
+    "total_equity_m": 3492.1,
+    "total_assets_m": 4187.4,
+    "cash_and_equivalents_m": 2129.5,
+    "shares_outstanding_m": 639.13,
+    "free_cash_flow_m": -110.1,
+    "operating_cash_flow_m": -84.1,
+    "capital_expenditure_m": -26.0,
+    "bvps": 5.46
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B+",
+    "dim3_grade": "B",
+    "dim4_grade": "C+",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "As we progress towards Neutron's first flight, we expect capital expenditures to remain elevated as we invest in testing, production scaling and infrastructure expansion.",
+      "pricing_power": "We brought Neutron to market with a $50 million to $55 million ASP with a commitment really not to do any significant discounting for early launches. And we've stuck to that... we see more upside to ASPs and certainly anything that are down or sideways.",
+      "management_tone_shift": "I've personally never seen launch so constrained in pretty much ever... the demand for the vehicle is already very high... we have absolutely zero issues in selling full price Neutrons pre-test flights."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

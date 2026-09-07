@@ -29,5 +29,23 @@
       "management_tone_shift": "I am more bullish today than I was when I took this job. And I think we're going to actually make a change and make a real difference in the future of homeownership in this country."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 915.0,
+    "gross_profit_m": 66.0,
+    "operating_income_m": -67.0,
+    "net_income_m": -90.0,
+    "eps": -0.12,
+    "total_equity_m": 811.0,
+    "total_assets_m": 2700.0,
+    "cash_and_equivalents_m": 962.0,
+    "shares_outstanding_m": 771.53,
+    "free_cash_flow_m": 432.0,
+    "operating_cash_flow_m": 435.0,
+    "capital_expenditure_m": -3.0,
+    "bvps": 1.05
+  },
+  "flags": []
 }

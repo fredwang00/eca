@@ -1,0 +1,51 @@
+{
+  "ticker": "OPEN",
+  "quarter": "Q2 2026",
+  "company": "Opendoor Technologies Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 883.0,
+    "gross_profit_m": 86.0,
+    "operating_income_m": -141.0,
+    "net_income_m": -162.0,
+    "eps": -0.17,
+    "total_equity_m": 914.0,
+    "total_assets_m": 2961.0,
+    "cash_and_equivalents_m": 896.0,
+    "shares_outstanding_m": 968.63,
+    "free_cash_flow_m": -723.0,
+    "operating_cash_flow_m": -718.0,
+    "capital_expenditure_m": -5.0,
+    "bvps": 0.94
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "A",
+    "dim3_grade": "B+",
+    "dim4_grade": "B+",
+    "dim5_grade": "A",
+    "composite_score": 3.385,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": "softening",
+    "services_demand": null,
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "housing_demand": "We're doing this in the weakest housing market in a generation and in the worst season of the year for us.",
+      "capex_direction": "Fixed operating expenses were $35 million, up $2 million from Q1, funding our investments in AI and engineering \u2014 fixed OpEx may keep growing modestly in dollar terms as we invest.",
+      "pricing_power": "We are converting dramatically more sellers at the same spread levels than we've had in the past \u2014 we're not doing it by paying above fair prices for homes.",
+      "management_tone_shift": "As of today, that question is boring. As things stand right now, Opendoor will become ANI profitable. It's just math."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

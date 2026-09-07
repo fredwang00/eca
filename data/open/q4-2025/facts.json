@@ -1,0 +1,50 @@
+{
+  "ticker": "OPEN",
+  "quarter": "Q4 2025",
+  "company": "Opendoor Technologies Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 736.0,
+    "gross_profit_m": 57.0,
+    "operating_income_m": -150.0,
+    "net_income_m": -1096.0,
+    "eps": -1.26,
+    "total_equity_m": 1005.0,
+    "total_assets_m": 2407.0,
+    "cash_and_equivalents_m": 962.0,
+    "shares_outstanding_m": 957.25,
+    "free_cash_flow_m": 67.0,
+    "operating_cash_flow_m": 70.0,
+    "capital_expenditure_m": -3.0,
+    "bvps": 1.05
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "A",
+    "dim3_grade": "B+",
+    "dim4_grade": "B",
+    "dim5_grade": "A-",
+    "composite_score": 3.4,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": "softening",
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "weak",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "housing_demand": "Over the past 5 months, national home prices came down roughly 300 basis points... this isn't really the strongest housing market.",
+      "pricing_power": "As anticipated, our margins face near-term pressure as we work through legacy inventory. Contribution profit was $7 million and contribution margin was 1%.",
+      "management_tone_shift": "If you had told me 3 months ago that we'd be here, I would have told you you're being a little too optimistic... things are going really well."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

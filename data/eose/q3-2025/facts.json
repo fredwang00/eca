@@ -1,0 +1,50 @@
+{
+  "ticker": "EOSE",
+  "quarter": "Q3 2025",
+  "company": "Eos Energy Enterprises, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 30.5,
+    "gross_profit_m": -33.9,
+    "operating_income_m": -60.6,
+    "net_income_m": -641.4,
+    "eps": -4.91,
+    "total_equity_m": -2320.4,
+    "total_assets_m": 328.2,
+    "cash_and_equivalents_m": 58.7,
+    "shares_outstanding_m": 281.69,
+    "free_cash_flow_m": -83.6,
+    "operating_cash_flow_m": -65.9,
+    "capital_expenditure_m": -17.8,
+    "bvps": -8.24
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "D",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.3,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We now have building partners and automation partners that can deliver a line every 90 days... our next big step comes with the new building and the installation of line 2 expected in spring of 2026.",
+      "pricing_power": "The orders that were recently closed are well within the ASP portfolio target... the overall portfolio of the order book, ASP is higher than what it was.",
+      "management_tone_shift": "We feel really confident on what we're seeing in the first 40 days of the quarter... we've brought in $43 million of customer cash here already in the fourth quarter."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

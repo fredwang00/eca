@@ -29,5 +29,23 @@
       "management_tone_shift": "When we look through the cycle, as well as some optimism about the near-term revenue outlook... the environment is only getting more competitive, and so it remains critical that we are making the necessary investments to secure our position."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 45796.0,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": 13025.0,
+    "eps": 4.64,
+    "total_equity_m": 342393.0,
+    "total_assets_m": 4424900.0,
+    "cash_and_equivalents_m": 343338.0,
+    "shares_outstanding_m": 2696.27,
+    "free_cash_flow_m": 119724.0,
+    "operating_cash_flow_m": 119724.0,
+    "capital_expenditure_m": null,
+    "bvps": 126.99
+  },
+  "flags": []
 }

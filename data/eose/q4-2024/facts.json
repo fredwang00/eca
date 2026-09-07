@@ -1,0 +1,49 @@
+{
+  "ticker": "EOSE",
+  "quarter": "Q4 2024",
+  "company": "Eos Energy Enterprises, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": null,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": null,
+    "eps": null,
+    "total_equity_m": null,
+    "total_assets_m": null,
+    "cash_and_equivalents_m": null,
+    "shares_outstanding_m": null,
+    "free_cash_flow_m": null,
+    "operating_cash_flow_m": null,
+    "capital_expenditure_m": null
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "C",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B-",
+    "composite_score": 2.25,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We've put out a request for quotation for three state of the art lines... we have eight states bidding on where Factory 2.0 is going to go... we're going to source 6 gigawatt hours of capacity.",
+      "pricing_power": "If you take where the team is selling the product today with the cost that we have today, you have a profitable Z3 product... projects in our backlog date back to when we were launching the company at lower price points than what we are selling today.",
+      "management_tone_shift": "For the first two months of 2025, we've set production records in our facility in Turtle Creek... we're reiterating the guidance that we issued earlier this year with $150 million to $190 million of revenue \u2014 that's 10x what we're talking about last year."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

@@ -6,14 +6,14 @@
 
 ## Candor Trajectory
 
-| Quarter | Score | Grade |
-|---------|-------|-------|
+| Quarter | Composite | Grade |
+|---------|-----------|-------|
 | Q3 FY2023 | 3.65 | A |
 | Q4 FY2023 | 3.60 | A |
 | Q1 FY2024 | 3.25 | B |
 | Q2 FY2024 | 3.62 | A− |
 | Q3 FY2024 | 3.40 | B |
-| Q4 FY2024 | 3.60 | A− |
+| Q4 FY2024 | 3.60 | A |
 | Q1 FY2025 | 3.40 | B |
 | Q2 FY2025 | 3.40 | B |
 | Q3 FY2025 | 3.25 | B |
@@ -21,97 +21,139 @@
 | Q1 FY2026 | 3.38 | B+ |
 | Q2 FY2026 | 3.62 | A |
 
-**Direction:** Declining from Q3 FY2023 peak, with meaningful volatility around a descending midpoint. The primary inflection was the CFO transition (Q3 FY2024, Galanti → Millerchip). Under Galanti, the floor was 3.25; under the Millerchip/Vachris dual-voice structure, three of six calls landed at or below 3.40, and Q4 FY2025 hit 3.00 — the series low. Q2 FY2026 reversed sharply to 3.62, recovering to Galanti-era levels. Whether that represents a new floor or a single outlier is not yet determinable.
+**Direction:** Oscillating with a modest downward drift, then partial recovery. The Galanti era (Q3 FY2023–Q2 FY2024) averaged 3.53. The Millerchip/Vachris era (Q3 FY2024–Q2 FY2026) averaged 3.38. The inflection point is **Q1 FY2024**, Galanti's penultimate call, which dropped to 3.25 — the first B grade — reflecting early signs of strategic narrative thinning that persisted under the new leadership pair. The trough was **Q4 FY2025** (3.00), where Financial Candor itself fell to B for the only time in the series, driven by the absence of prior-year guidance accountability and increasingly aspirational digital commentary. **Q2 FY2026** marks a recovery to 3.62, matching the Galanti-era peak, driven by exceptional margin decomposition, SKU-level price accountability, and proactive non-recurring item isolation.
 
-The structural cause of decline is identifiable: Galanti carried the full analytical and strategic narrative in a single, high-coherence voice. The Millerchip/Vachris split distributes communication across two speakers with different registers — Millerchip precise on financials, Vachris operationally specific but more promotional — and the seams show when strategic questions touch both domains. Capital Stewardship grades held at A across almost every quarter; the degradation is concentrated in Strategic Clarity, FOG Index, and Vision dimensions, all of which Galanti carried with exceptional consistency.
+The consistent structural ceiling across all quarters: Dimension 4 (FOG Index) and Dimension 2 (Strategic Clarity) have never achieved A in any quarter under Millerchip, compared to A appearances in both dimensions under Galanti.
 
 ---
 
 ## Key Commitments
 
-**Signed:**
-No named counterparty contracts, disclosed transaction values, or binding commercial terms appear in any transcript across the full series. Disclosed financial arrangements: $6.7B special dividend (January 2024, funded from existing cash, no debt issuance); $5.87/diluted share Q4 FY2025 earnings; employee agreement committing to $1/hour top-of-scale increases in each of three consecutive years beginning March 2025. The Uber Eats partnership and Instacart arrangement are described operationally but with no disclosed contract values or minimum commitments.
+### Signed
+No named counterparty contracts with disclosed values appear in this transcript history. All partnership references are operational descriptions without disclosed terms:
+- **Instacart** and **Uber Eats**: Described as active delivery partnerships with geographic rollout milestones (17 U.S. states + Canada as of Q3 FY2024; international expansion to Japan, Korea, Taiwan, UK described as "coming months"). No contract values or revenue-share terms disclosed.
+- **Affirm (BNPL)**: Described as "early days" with "pleased with initial sales results" in Q3 FY2025. No attachment rates, revenue contribution, or contract terms disclosed.
+- **Kimberly-Clark**: Named as a retail media campaign partner in Q4 FY2025, with a disclosed result of 14:1 ROAS and 45% digital sales lift — the only named, outcome-quantified commercial relationship in the full history.
+- **Teamsters labor agreement**: Q2 FY2025 disclosed binding terms — $1/hour top-of-scale increase immediately, plus $1 in March 2026 and $1 in March 2027. This is the only multi-year binding financial commitment with specific terms disclosed.
 
-**Aspirational:**
-- **Retail media:** Described as "significant opportunity," "early innings," "early days" across Q3 FY2024, Q4 FY2024, Q1 FY2025, Q2 FY2025, Q3 FY2025, Q4 FY2025, Q1 FY2026, and Q2 FY2026 — eight consecutive quarters without a revenue target, supplier count target, or capability completion date. The single quantitative data point in the series: "$470 million of e-commerce sales" attributed to personalization carousels (Q2 FY2026). The Kimberly-Clark campaign result (14:1 ROAS, Q4 FY2025) is a one-client illustration, not a business baseline.
-- **Warehouse expansion:** "25-plus" annual net new (Q3 FY2023) → "25-plus for next couple years, then 28-plus" (Q2 FY2024) → "30 net new" (Q3 FY2024, Q4 FY2024) → "29 net new" (Q1 FY2025) → "28 net new" (Q1 FY2026, revised down from 30 due to Spain delays). Each revision attributed to "timing."
-- **E-commerce/digital:** "Two-year road map, halfway through" (Q1 FY2024) — origin date not anchored, making "halfway" unverifiable. "Front-facing improvements in next twelve months" (Q1 FY2025, December 2024) — no named features or functionality.
-- **Personalization:** "Early innings" language used by Galanti for four-plus years by his own acknowledgment (Q3 FY2023). Millerchip and Vachris continued the same framing through Q2 FY2026.
-- **China expansion:** Described as "by design" at current pace (Q2 FY2026). No named milestone, warehouse count target, or timeline for acceleration.
-- **AI:** Zero specific deployments, cost figures, or measurable outcomes disclosed across any quarter in which it was discussed.
-- **Membership fee increase:** "Question of when, not if" — Galanti's formulation, adopted by Millerchip unchanged. The fee increase did occur (first effect Q4 FY2024), but post-increase language on the next cycle has reverted to the same standing deferral.
+### Aspirational
+- **Retail media**: Described as "significant opportunity," "early innings," and a "multi-year roadmap" across Q4 FY2023 through Q2 FY2026 — nine consecutive quarters — without a revenue target, supplier count baseline, or capability completion date. The only progress marker is "roughly ten campaigns live" (Q2 FY2025) growing to an unquantified pipeline. No counterparty count or revenue contribution is disclosed.
+- **AI integration**: First appeared as a topic in Q2 FY2024 ("early innings"), reappears through Q2 FY2026. No specific deployment, investment level, or expected outcome has been named across six quarters.
+- **China expansion**: Described as deliberate and "by design" in Q2 FY2026 without named milestones, timeline, or warehouse count target. The characterization of deceleration as planned strategy is structurally unfalsifiable.
+- **Digital/e-commerce**: Described as a "two-year road map" in Q1 FY2024, "halfway through" in Q2 FY2024, and a "multi-year journey" in Q4 FY2025 — the endpoint has moved without acknowledgment.
+- **Costco Next marketplace**: Vendor count of 75 cited in Q3 FY2024; no revenue, margin contribution, or growth target has been set across subsequent quarters.
+- **Unit openings (25–30/year)**: Aspirational, not contractual. Has been revised downward mid-year in multiple cycles, including from 31–32 to 28 (Q2 FY2024) and from 30 to 28 net new (Q1 FY2026, Spain building delays).
 
 ---
 
 ## Capital Figures
 
-| Quarter | Net Sales | Net Income | CapEx | Cash/Special Dividends | Membership Fee Income |
-|---------|-----------|------------|-------|----------------------|----------------------|
-| Q3 FY2023 | $52.6B | $1.30B | — | — | — |
-| Q4 FY2023 | $77.43B (FY) | $2.16B | $1.56B (Q4); $4.32B (FY) | $13.7B cash balance | $1.509B |
-| Q1 FY2024 | $56.72B | $1.589B | $4.4–4.6B (FY guidance) | $15/share special dividend announced | $1.082B |
-| Q2 FY2024 | $57.33B | $1.743B | $1.03B (Q); $4.4–4.6B (FY) | $6.7B special dividend paid Jan 2024 | $1.111B |
-| Q3 FY2024 | — | $1.68B | $1.06B (Q); $4.3–4.5B (FY) | — | — |
-| Q4 FY2024 | — | — | $4.71B (FY actual) | $1B debt paydown | — |
-| Q1 FY2025 | — | — | $5.0B (FY est.) | — | — |
-| Q2 FY2025 | — | $1.788B | $1.14B (Q); ~$5.0B (FY est.) | — | — |
-| Q3 FY2025 | $61.96B | $1.9B | $1.13B (Q); ~$5.0B+ (FY est.) | — | — |
-| Q4 FY2025 | $84.43B | $2.61B | ~$5.5B (FY, "a little under") | — | — |
-| Q1 FY2026 | — | $2.001B | $1.53B (Q); $6.5B (FY est.) | — | — |
-| Q2 FY2026 | $68.24B | $2.035B | $6.5B (FY maintained) | Special dividend not yet triggered | $1.355B |
+All figures from structured financial disclosures; quarterly attributions as reported.
 
-CapEx trajectory is a clear accelerating trend: $4.32B (FY2023) → $4.71B (FY2024) → ~$5.5B (FY2025) → $6.5B (FY2026 estimate). Millerchip described FY2026 as the first year in "a while" that CapEx will grow faster than sales.
+**Revenue (Net Sales):**
+- Q3 FY2023: $52.6B
+- Q4 FY2023: $77.43B (full fiscal year)
+- Q1 FY2024: $56.72B
+- Q2 FY2024: $57.33B
+- Q3 FY2024: Not separately structured; comp sales +9.1% reported
+- Q4 FY2024: $84.43B (16-week quarter)
+- Q1 FY2025: Not separately stated in structured data
+- Q2 FY2025: Net income $1.788B; operating income +12.3%
+- Q3 FY2025: $61.96B
+- Q4 FY2025: $84.43B (per Q4 report)
+- Q1 FY2026: Net income $2.001B
+- Q2 FY2026: $68.24B
+
+**Net Income:**
+- Q3 FY2023: $1.30B
+- Q4 FY2023: $2.16B
+- Q1 FY2024: $1.589B
+- Q2 FY2024: $1.743B
+- Q3 FY2024: $1.68B
+- Q4 FY2024: $2.61B (per Q4 FY2025 report; Q4 FY2024 cited as comparison)
+- Q1 FY2025: Net income grew 9.9% ex-discrete tax item
+- Q2 FY2025: $1.788B
+- Q3 FY2025: $1.9B
+- Q4 FY2025: $2.61B ($5.87/diluted share)
+- Q1 FY2026: $2.001B ($4.50/diluted share)
+- Q2 FY2026: $2.035B
+
+**Membership Fee Income:**
+- Q4 FY2023: $1.509B
+- Q1 FY2024: $1.082B
+- Q2 FY2024: $1.111B
+- Q2 FY2026: $1.355B (+13.6% YoY)
+
+**Capital Expenditure:**
+- Q4 FY2023: $1.56B (quarter); $4.32B (full FY2023)
+- Q1 FY2024: Full-year guided $4.4–$4.6B
+- Q2 FY2024: $1.03B (quarter); $4.4–$4.6B full-year guidance restated
+- Q3 FY2024: $1.06B (quarter); $4.3–$4.5B full-year guidance
+- Q4 FY2024: Full-year $4.71B
+- Q2 FY2025: $1.14B (quarter); ~$5.0B full-year estimate
+- Q3 FY2025: $1.13B (quarter); "a little over $5 billion" full-year
+- Q4 FY2025: "A little under $5.5 billion" full-year; Q4 quarter $1.97B (implied elevated pace)
+- Q1 FY2026: $1.53B (quarter); $6.5B full-year guidance
+- Q2 FY2026: $6.5B full-year restated
+
+**Special Dividends / Financing:**
+- Q1 FY2024: $15/share special dividend declared; funded from existing cash, no debt issuance
+- Q4 FY2023: $13.7B cash balance referenced; context for special dividend sizing
+- Q4 FY2024: "$6.7 billion special dividend paid in January 2024"; "$1 billion of debt paydown in second week of Q4"
 
 ---
 
 ## FOG Patterns
 
-Recurring language across quarters, by category:
+**Recurring phrases across quarters, with pattern assessment:**
 
-**"Early innings"** — applied to personalization (Galanti, Q3 FY2023, self-noting it had been used "for four years"), e-commerce replatforming (Q1 FY2024), retail media (Q3 FY2024 through Q2 FY2026), and AI (Q1 FY2026, Q2 FY2026). This phrase has functioned as a permanent deflection across both CFOs and both CEOs. It has never graduated to a named milestone or measurable progress marker in this series.
+1. **"Early innings"** — Used to describe digital (Q3 FY2023, Q2 FY2024), personalization (Q3 FY2023, Q1 FY2025), retail media (Q4 FY2023 through Q2 FY2026), and AI (Q2 FY2024 through Q2 FY2026). Appears in at least 8 of 10 quarters. Galanti himself acknowledged in Q3 FY2023 that he had been using this phrase for "at least four years" on personalization. The phrase has never graduated to a specific inning number or a defined endpoint.
 
-**"Journey"** — applied to digital (Q3 FY2024, Q4 FY2025, Q1 FY2026, Q2 FY2026) and retail media (Q2 FY2025). First noted as a "classic evasion word" in the Q3 FY2024 analysis; repeated without resolution in five subsequent calls.
+2. **"Question of when, not if"** — Galanti's standing formulation on membership fee increases across Q3 FY2023 through Q2 FY2024. Used in at least four consecutive quarters without new criteria or variables. A fee increase was ultimately implemented; the phrase was then retired. Retrospectively validates patience but illustrates how indefinite non-answers can persist without accountability cost.
 
-**"Remain agile"** — tariff and sourcing discussions (Q3 FY2025, Q2 FY2026). Used as a strategic answer to structural questions without describing the actual decision-making process.
+3. **"Journey" / "multiyear journey"** — Used to describe digital transformation starting in Q2 FY2024 and appearing through Q1 FY2026. No starting point, no destination, no waypoints. Escalated from "two-year road map" (Q1 FY2024) to "multiyear journey" by Q4 FY2025 — the horizon expanded rather than contracted.
 
-**"Significant opportunity / significant runway"** — retail media (Q3 FY2024, Q4 FY2024, Q1 FY2025, Q2 FY2026). No anchor metric provided in any instance.
+4. **"Remain agile"** — First appears in Q3 FY2025 in tariff context; used twice in the same quarter by both executives. Appears as a structural answer to questions about operational contingency planning. Substitutes for described decision processes.
 
-**"We feel pretty good"** — membership fee timing (Q1 FY2024), pricing gaps (Q2 FY2025). Confidence signal without supporting evidence; appeared in Galanti's era and carried forward unchanged.
+5. **"We feel good about" / "pleased with"** — Pervasive across all quarters in different forms; functions as a confidence signal without evidentiary backing. More common under Vachris than under Galanti, who tended to substitute actual numbers.
 
-**"Top line first"** — Galanti, Q1 FY2024, noted as a "verbal tic that substitutes for more specific explanation of prioritization trade-offs."
+6. **"Significant runway" / "significant opportunity"** — Applied to retail media, international expansion, and e-commerce across multiple quarters. Never anchored to a market-size estimate or competitive share figure.
 
-**Precision trajectory:** Linguistic precision has degraded modestly from the Galanti era to the Millerchip/Vachris era, specifically in the strategic and forward-looking dimensions. Financial prepared remarks remain high-precision across all quarters. FOG is now concentrated in three repeating subject areas — digital technology, retail media, AI — all of which were either nascent or nonexistent during Galanti's tenure. Whether this reflects genuine early-stage uncertainty or deliberate strategic opacity is not determinable from the transcripts alone.
+**Precision trajectory:** Linguistic precision has modestly degraded from Galanti to Millerchip/Vachris on *strategic commentary*, while remaining high or improving on *financial mechanics*. The FOG index was B in both regimes; however, Galanti's FOG was concentrated in minor moments while the Millerchip era has identifiable FOG zones (technology, retail media, AI) that are consistent and expanding. Q2 FY2026 is the first call in the Millerchip era where the prepared remarks are assessed as "nearly FOG-free" — a possible inflection.
 
 ---
 
 ## Flags & Risks
 
-**Data quality flags:**
-- No equity trend data, credit metrics, or balance sheet flags surfaced in the structured financial data. No "equity declining" or "missing metric" triggers across the series.
-- CapEx is reported in multiple formats (quarterly, annual, guidance range, actual) across calls; the Q4 FY2025 figure of "a little under $5.5B" and Q1 FY2026 estimate of $6.5B both lack precision at first disclosure, with exact figures deferred to subsequent calls — a minor but recurring imprecision in a series otherwise notable for basis-point disclosure.
+**Data Quality Flags:**
+- No equity decline or going-concern flags across any quarter. The company carries positive free cash flow throughout.
+- LIFO accounting creates earnings volatility that requires active investor management; Millerchip's Q3 FY2025 explanation is the best handling in the series, but LIFO charge magnitude ($130M in Q3 FY2025 vs. $8M credit in Q4 FY2024) can obscure underlying profitability without careful normalization.
+- CapEx trajectory is accelerating: $4.32B (FY2023) → $4.71B (FY2024) → ~$5.0B (FY2025) → $6.5B (FY2026 guided). This acceleration has not been accompanied by quantitative return-on-invested-capital framing.
+- Membership renewal rate is structurally declining: U.S./Canada rate of 92.8% (Q1 FY2024) has drifted lower through the digital member mix shift. Millerchip has disclosed the mechanism but provided no floor, target, or quantified recovery plan.
 
-**Communication-level risks (aggregated):**
-- **Single-voice dependency resolved, successor risk realized.** Every analysis flagged Galanti's retirement as a structural risk; the Q4 FY2025 call (score: 3.00, the series low) confirmed that the transition initially degraded communication quality. Q1 and Q2 FY2026 show partial recovery.
-- **Retail media as a permanent pre-accountability zone.** Eight consecutive quarters of "early innings" with no baseline metric, no target, and no completion date. If this pattern holds through Q3 FY2026, it should be treated as strategic information management rather than honest uncertainty.
-- **Membership renewal rate.** Declining renewal rate disclosed in Q4 FY2024, attributed to digital member mix. Mitigation programs described Q1 FY2026; "a few more quarters" framing used. No stated target rate or recovery timeline.
-- **Warehouse opening guidance volatility.** Annual net new openings have revised downward in three of the last four years within the fiscal year. Each revision is attributed to "timing" without naming specific delayed projects. The pattern warrants treating initial annual guidance as a ceiling, not a target.
-- **China strategic opacity.** "By design" framing introduced Q2 FY2026 for a market showing minimal unit growth. No falsifiable milestone. The framing is structurally unfalsifiable — any underperformance can be characterized as intentional.
-- **AI disclosure is substanceless.** Across every call in which AI was discussed, zero specific deployments, investment figures, or measurable outcomes were disclosed. As AI-driven personalization and supply chain optimization become competitive differentiators, continued non-disclosure will become increasingly material.
+**Communication-Level Risks (Aggregated):**
+- **Single-voice dependency resolved but not fully replaced.** Galanti's departure introduced structural risk that was flagged in Q4 FY2023. Millerchip has maintained financial disclosure discipline, but strategic depth has demonstrably thinned — Dimensions 2 and 5 are consistently lower under the new regime.
+- **The "perishable goal" pattern is active across multiple vectors simultaneously.** Retail media, AI, Costco Next, and digital personalization are each in "early innings" with no prior-quarter accountability loop. The analyses flag this pattern explicitly in Q3 FY2024, Q4 FY2024, Q1 FY2025, and Q1 FY2026.
+- **China opacity is unfalsifiable.** The "by design" characterization of China deceleration (Q2 FY2026) has no associated milestone. This framing cannot be tested and therefore cannot build accountability.
+- **No "What Went Wrong" disclosure in seven of ten post-Galanti quarters.** The Galanti-era charter shipping write-down (Q3 FY2023) and the app rating disclosure ("dismal 2.3 stars," Q4 FY2023) are the series' strongest examples of proactive problem acknowledgment. Under the new regime, the only consistent "what went wrong" moment is the membership renewal rate discussion — handled honestly, but isolated.
+- **Holiday assortment pivot framed as opportunity only.** Q4 FY2025 introduced a material assortment change (replacing seasonal trim with high-ticket items) with no acknowledged execution risk.
 
 ---
 
 ## Verify Next Quarter
 
-From the Q2 FY2026 tracking commitments:
+Based on Q2 FY2026 commitments (next call: ~June 2026, Q3 FY2026):
 
-1. **IEEPA tariff refund transparency.** Vachris committed: "We'll be transparent in how we plan to do this, if and when we receive any refunds." Any tariff refunds received before the Q3 FY2026 call should produce specific disclosure of the amount and the mechanism for passing value to members (price reductions). Silence on this point is a direct accountability failure.
+1. **IEEPA tariff refund transparency.** Millerchip committed: "we'll be transparent in how we plan to do this, if and when we receive any refunds." If any refunds were received before Q3 reporting, expect a specific disclosure of the amount and how value was returned to members. Silence on this point is a direct accountability failure.
 
-2. **Warehouse count against 28 net new FY2026 target.** At Q2 FY2026, total warehouse count was at 924. Track actual openings and net new count cumulatively against the 28-unit target. Any mid-year revision continues the pattern flagged above.
+2. **Net new warehouse openings vs. 28 target.** Company was at 924 total warehouses entering Q2 FY2026 with 4 opened since prior call. Verify cumulative FY2026 openings against the 28 net new target. Spain building delays caused the downward revision from 30; watch for any further slippage.
 
-3. **Membership renewal rate.** Millerchip guided "a few more quarters" of potential slight decline, described early-stage improvement from retention programs. Q3 FY2026 is the first test of whether the trajectory is stabilizing. A U.S./Canada decline exceeding 10 basis points would suggest prior commentary was too optimistic.
+3. **Membership renewal rate.** Millerchip stated "a few more quarters" of potential decline and described active retention programs. Q3 is the test: if U.S./Canada rate drops more than 10 basis points from Q2, the "a few more quarters" framing was too optimistic. If it stabilizes, he should explain what changed.
 
-4. **Personalization carousel metric.** The "$470 million of e-commerce sales" attributed to personalized recommendation carousels (Q2 FY2026) is the first specific digital ROI figure in the series. Verify whether this metric is updated, maintained, or quietly dropped. A dropped metric is a negative accountability signal.
+4. **Personalization carousel revenue.** "$470 million of e-commerce sales" was attributed to personalized recommendation carousels in Q2 FY2026 — the first specific metric from the digital transformation. Track whether this figure is updated in Q3, grows, or is quietly dropped.
 
-5. **China expansion milestones.** Vachris promised "more to come in the future" with no named milestone. Analysts should request a specific warehouse count target or timeline at the Q3 call. If none is provided, the "by design" framing should be treated as a deflection pattern, not a strategy.
+5. **Retail media progress.** Now in its ninth consecutive quarter of "early innings" framing. Q3 should deliver either a campaign count, supplier count, or revenue range — or the pattern has definitively become a permanent deflection.
 
-6. **CapEx pacing against $6.5B full-year estimate.** Q1 FY2026 was $1.53B; Q2 FY2026 figure not yet in structured data. Track cumulative quarterly CapEx against the $6.5B annual guidance, which Millerchip committed to providing each quarter.
+6. **Digital sales growth pace vs. warehouse.** Vachris and Millerchip stated digital sales would "continue to grow at a faster pace than our average sales overall." Digital was 20.5% vs. 6.4% overall in Q1 FY2026. Verify the gap is maintained in Q3.
+
+7. **China expansion.** Vachris promised "more to come in the future" without a timeline. Any named warehouse opening, announced location, or stated timeline would constitute progress. Continued silence after a "by design" framing warrants direct analyst follow-up on what the design actually specifies.

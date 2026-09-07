@@ -1,0 +1,51 @@
+{
+  "ticker": "JPM",
+  "quarter": "Q2 2026",
+  "company": "JPMorgan Chase & Co.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 52852.0,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": 21155.0,
+    "eps": 7.71,
+    "total_equity_m": 353558.0,
+    "total_assets_m": 5015069.0,
+    "cash_and_equivalents_m": 309811.0,
+    "shares_outstanding_m": 2658.19,
+    "free_cash_flow_m": -25283.0,
+    "operating_cash_flow_m": -25283.0,
+    "capital_expenditure_m": null,
+    "bvps": 133.01
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.25,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Consumers and small businesses continue to show resilience despite elevated gas prices and inflation, with higher tax refunds and a solid labor market contributing to strong spend growth.",
+      "credit_quality_trend": "We now expect card net charge-off rate to be approximately 3.2%, reflecting better-than-expected consumer credit performance.",
+      "pricing_power": "We refreshed the Sapphire Preferred card in June, following the successful refresh of several other products over the last 12 months.",
+      "management_tone_shift": "It's getting close to as good as it gets. We just don't know how long it's going to last."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

@@ -1,137 +1,115 @@
-# AST SpaceMobile (ASTS) — Earnings Call Candor Brief
-**Coverage: Q1 2023 – Q2 2026 (11 quarters)**
+# AST SpaceMobile (ASTS) — Earnings Call Brief
 
 ---
 
 ## Candor Trajectory
 
-Grades across the full history show persistent stagnation in a narrow band, with a brief improvement in Q4 2023 that did not hold:
+**Grade history:** Q1 2023: C+ (2.40) → Q2 2023: C+ (2.40) → Q3 2023: C+ (2.28) → Q4 2023: C+ (2.75) → Q1 2024: C+ (2.43) → Q2 2024: C+ (2.60) → Q3 2024: C+ (2.15) → Q4 2024: C+ (2.45) → Q1 2025: C+ (2.53) → Q2 2025: C+ (2.40) → Q3 2025: C+ (2.53) → Q4 2025: C+ (2.53) → Q1 2026: C+ (2.28) → Q2 2026: C+ (2.40)
 
-| Quarter | Composite Score | Grade |
-|---------|----------------|-------|
-| Q1 2023 | 2.40 | C+ |
-| Q2 2023 | 2.40 | C+ |
-| Q3 2023 | 2.28 | C+ |
-| Q4 2023 | 2.75 | C+/B- |
-| Q1 2024 | 2.43 | C+ |
-| Q2 2024 | 2.60 | C+ |
-| Q3 2024 | 2.15 | C |
-| Q4 2024 | 2.45 | C+ |
-| Q1 2025 | 2.53 | C+ |
-| Q2 2025 | 2.40 | C+ |
-| Q3 2025 | 2.53 | C+ |
-| Q4 2025 | 2.53 | C+ |
-| Q1 2026 | 2.28 | C+ |
-| Q2 2026 | 2.40 | C+ |
-
-**Direction: Stagnating.** Q4 2023 (2.75) was the sole inflection point toward improvement, driven by a stronger CFO financial segment and more specific operational disclosures. That improvement reversed in Q1 2024 and the score has oscillated between 2.15 and 2.60 for ten consecutive quarters. No structural improvement in CEO/President communication quality is observable. The Dimension 1 (Capital Stewardship) grade has actually declined: Q1–Q2 2023 received B; Q1 2026 and Q2 2026 received C, as the gap between financial reality (FCF burning $(719M) in Q2 2026) and disclosed figures grew without management acknowledgment.
+**Direction: Stagnating.** The composite has oscillated within a 37-basis-point band (2.15–2.75) for fourteen consecutive quarters. No quarter has broken into B territory on a sustained basis. The only inflection point worth naming is **Q4 2023** (2.75), which briefly reflected a more accountable CFO disclosure posture that did not persist. **Q3 2024** (2.15) marked the trough, driven by a Capital Stewardship grade that fell to C as commercial revenue remained zero and strategic financing stayed entirely opaque. The most recent quarters (**Q1–Q2 2026**) show a deteriorating Capital Stewardship grade (C rather than the prior B) coinciding with the period of maximum cash burn — the inverse of what investors should expect as a company approaches commercialization. The CFO's financial disclosure is consistently the strongest dimension and has repeatedly prevented the composite from falling further; the CEO's prepared remarks are consistently the weakest and have prevented any sustained improvement.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-- **SpaceX Falcon 9 launch agreement** (signed February 2023): dedicated Block 1 launch, Q1 2024 target. Named counterparty, specific vehicle, signed.
-- **AT&T definitive commercial agreement** (Q1 2024): revenue-share structure through 2030, $20M prepayment received January 2024. Named counterparty, signed, but zero economics disclosed.
-- **Verizon definitive agreement** (Q2 2024): $100M total commitment—$65M commercial prepayments + $35M convertible notes. Named counterparty, disclosed structure.
-- **stc Group prepayment** (Q4 2025): $175M prepayment. Named counterparty, specific dollar amount, signed.
-- **SDA contract** (Q4 2024): $43M, milestone-based, recognized linearly over ~12 months. Named agency class (SDA), disclosed value, milestone structure described.
-- **New Space Development Agency prime contractor award** (Q3 2025): subject to final contract negotiations. Not yet signed as of disclosure.
-- **Rakuten J-LEO preliminary selection** (Q2 2026): ~$1B in non-dilutive capital, "pending government approvals and final agreements." Not yet signed; not in contracted backlog.
-- **Convertible notes** (Q2 2026): $1.15B at 1.625%, effective conversion price $149.20.
-- **Vodafone joint venture "SATCO"** (Q4 2024): 10-year structure through 2034. Named counterparty, term disclosed, economics not disclosed.
-- **Ligado/Legato spectrum** (Q4 2024 per Abel: "signed an agreement"; per CFO Andy: "binding term sheet in bankruptcy proceedings"). Status unresolved at initial disclosure; 45 MHz lower mid-band.
+- **SpaceX Falcon 9 launch agreement** (Q1 2023): Named counterparty, dedicated vehicle, Q1 2024 launch window, described as signed.
+- **AT&T definitive commercial agreement** (Q1 2024, Q2 2024): Revenue-share structure through 2030, $20M prepayment received January 2024. No economics disclosed beyond structure type.
+- **Verizon definitive agreement** (Q2 2024): $100M total — $65M commercial prepayments + $35M convertible notes. Revenue recognition trigger, note pricing undisclosed.
+- **SDA contract** (Q4 2024, Q1 2025): $43M, milestone-based, not prepaid. Andy Johnson specified "slight lag getting going, but generally linear" recognition over "next twelve months."
+- **stc Group (STC) prepayment** (Q3 2025, Q4 2025): $175M prepayment, ten-year agreement. Described as "very hard commitments" and appearing in the $1.2B contracted backlog figure. Counterparty named.
+- **Convertible notes** (Q2 2024: 4.25%, ~3% dilution; Q4 2025 implied; Q2 2026: $1.15B at 1.625%, effective conversion $149.20).
+- **Loan Star Bank senior secured facility** (Q2 2023): $48.5M draw on $100M facility, borrower named.
+- **Lone Star equipment loan** (Q2 2023): $15M.
+- **$30M Space Development Agency contract award** (Q4 2025): Named agency, dollar value disclosed.
 
 ### Aspirational
-- **"~50 MNO partners covering 3 billion subscribers"**: Cited across every quarter since Q1 2023 (then "~40 MNOs"). No conversion rate, no named agreements beyond AT&T and Verizon in the U.S., no revenue-share economics disclosed for any partner.
-- **"Approaching $1 billion in 2027 revenue"**: No model, no ARPU assumption, no probability weighting, no quarterly cadence. Repeated across Q4 2025 and Q2 2026 as a planning horizon, not a forecast.
-- **"$1.2 billion in contracted revenue commitments"**: Cited in Q1 2026 and Q2 2026 without counterparty breakdown, term structure, conditionality, or reconciliation to any filed document.
-- **AI edge compute, IoT, radar, sovereign constellations**: Each described as "multibillion-dollar annual-plus revenue opportunities" in Q2 2026 with no timelines, investment commitments, or customer names.
-- **"25 satellites → operating cash flow"**: Repeatedly stated; CFO qualified in Q4 2024 as "on an operating basis"—excluding capex—a distinction that materially changes the claim's meaning and was never foregrounded.
-- **$50M–$75M H2 2025 revenue guidance**: Reiterated across Q2–Q3 2025 with explicit contingency list but no quarterly cadence. Ultimately came in at $70.9M full-year 2025.
+- **"~40–60 MNO partners under MOUs/agreements"**: Cited in every quarter from Q1 2023 through Q2 2026, ranging from "approximately 40" to "nearly 60 global MNO partners covering over 3 billion subscribers." No conversion rate from MOU to signed commercial agreement is ever disclosed. No MOU has a named counterparty, dollar value, or binding term on the public record beyond AT&T, Verizon, stc, Rakuten, Vodafone/SATCO, and SDA.
+- **Export credit agency / quasi-governmental financing**: Described as "progressing nicely" (Q3 2024), "at least three" facilities "seriously" pursued (Q4 2024), "well within the time frame" (Q4 2024). No amounts, counterparties, or timelines ever disclosed through Q2 2026.
+- **$1.2B contracted revenue commitments** (Q3–Q4 2025, Q1–Q2 2026): Management explicitly refused to "map that with individual customers or individual contracts." Duration weighting, conditionality, and the distinction between prepayments received and contractual minimums not yet earned are undisclosed. This figure is a management assertion, not a verifiable receivable.
+- **"Approaching $1B" in 2027 revenue**: Stated in Q4 2025 and reiterated in Q2 2026 as "approaching $1 billion... it's just a question of when we kick it off." No scenario analysis, launch-timing sensitivity, or probability weighting offered.
+- **AI edge compute, IoT, radar, sovereign constellations, data centers in space**: Introduced Q4 2025–Q2 2026 as "multibillion-dollar annual-plus revenue opportunities." No timelines, required investment, or milestone structure attached to any of them.
+- **Government revenue "hundreds of millions annually"** (Q3 2024): Named alongside the "$13B PLEO expansion" without competitive win-rate analysis or contract structure.
+- **Rakuten J-LEO "~$1B in non-dilutive capital"** (Q2 2026): Described as "preliminary selection, pending government approvals and final agreements." Not in contracted backlog.
 
 ---
 
 ## Capital Figures
 
-All figures from structured financial data or attributed CFO statements in transcripts.
+| Quarter | Revenue | CapEx | FCF | Cash & Equivalents | Total Equity |
+|---------|---------|-------|-----|--------------------|--------------|
+| Q4 2024 | $1.9M | $(82.0M) | $(110.5M) | $565.0M | $479.1M |
+| Q1 2025 | $0.7M | $(120.5M) | $(149.0M) | $873.8M | $568.6M |
+| Q2 2025 | $1.2M | $(310.2M) | $(353.6M) | $923.6M | $867.4M |
+| Q3 2025 | $14.7M | $(266.4M) | $(330.8M) | $1,204.3M | $1,240.5M |
+| Q4 2025 | $54.3M | $(424.1M) | $(359.2M) | $2,335.7M | $1,841.5M |
+| Q1 2026 | $14.7M | $(279.3M) | $(327.3M) | $3,029.6M | $2,079.4M |
+| Q2 2026 | $31.5M | $(622.1M) | $(719.2M) | $2,288.3M | $1,894.0M |
 
-| Quarter | Revenue | CapEx | FCF | Operating Income | Cash |
-|---------|---------|-------|-----|-----------------|------|
-| Q4 2024 | $1.9M | $(82.0M) | $(110.5M) | $(58.7M) | $565.0M |
-| Q2 2025 | $1.2M | $(310.2M) | $(353.6M) | $(72.8M) | $923.6M |
-| Q3 2025 | $14.7M | $(266.4M) | $(330.8M) | $(79.7M) | $1,204.3M |
-| Q4 2025 | $54.3M | $(424.1M) | $(359.2M) | $(72.3M) | $2,335.7M |
-| Q1 2026 | $14.7M | $(279.3M) | $(327.3M) | $(149.4M) | $3,029.6M |
-| Q2 2026 | $31.5M | $(622.1M) | $(719.2M) | $(171.7M) | $2,288.3M |
+**Narrative figures from transcripts (not reconciled to ground truth):**
+- Q1 2023: Non-GAAP adj. cash opex $40.3M; CapEx $13M; cash "just shy of $185.7M"; Block 1 satellite cost estimate $100–110M, $40M spent.
+- Q2 2023: Non-GAAP adj. cash opex $38.4M; CapEx $12.1M; cash "just shy of $192M"; $179M financing package ($64M equity, $15M equipment loan, $48.5M draw).
+- Q3 2023: Non-GAAP adj. cash opex $37.3M; CapEx $71.7M; cash ~$135M; Block 1 cost revised to $115M.
+- Q4 2023: Non-GAAP adj. cash opex $38.6M; CapEx $33.9M; cash $210.8M; Block 1 >90% spent.
+- Q1 2024: Non-GAAP adj. cash opex $31.1M; CapEx $26.7M; cash $212.4M; $51.5M credit facility balance.
+- Q2 2024: Non-GAAP adj. cash opex $34.6M; CapEx $21.2M; cash $287.6M.
+- Q3 2024: Non-GAAP adj. cash opex (not disclosed from ground truth); CapEx $26.5M; cash $518.9M; per-satellite cost revised to $19–21M (from $16–18M).
+- Q4 2025: Full-year revenue $70.9M (top end of $50–75M guide); Q4 CapEx ~$407M vs. $275–325M guidance; per-satellite cost $21–23M.
+- Q1 2025: Non-GAAP adj. cash opex $44.9M; CapEx $124M vs. $150–175M guidance; per-satellite cost revised to $21–23M (from $19–21M).
+- Q2 2025: CapEx $323M vs. $270M guidance; per-satellite cost $21–23M held.
+- Q2 2026: CapEx ~$610M vs. $575–650M guidance; management cited ~$3.7B pro forma cash (vs. $2,288.3M verified cash); per-satellite cost $21–23M held.
 
-**CFO-stated guidance anchors (from transcripts):**
-- Block 1 total satellite cost: $115M (Q3 2023 revision from $110M, Q2 2024 confirmed "did not materially exceed")
-- Per-satellite cost (Block 2): $19–21M (Q3 2024) → $21–23M (Q1 2025, held through Q2 2026)
-- Q2 2026 CapEx: ~$610M vs. $575–650M guidance (within range)
-- Q3 2026 CapEx guidance: $350–425M
-- Full-year 2026 revenue guidance: $150–200M
-- Full-year 2026 OpEx guidance: ~$100M/quarter (~$400M total, excluding cost of revenues)
-- Pro forma cash (Q2 2026, management-stated): $3.7B — includes undrawn ATM and freshly raised convertible; not reconciled to the $2,288.3M structured figure
-
-**Cash figure discrepancy flagged:** Q1 2026 management cited ~$3.5B vs. structured figure of $3,029.6M (~$470M gap). Q2 2026 management cited $3.7B pro forma vs. $2,288.3M structured figure. Management blends balance sheet cash with available-but-undrawn facilities and recently closed raises without explicit reconciliation.
+**Cash figure discrepancy flag (Q1 2026):** Management cited ~$3.5B; verified figure is $3,029.6M. The ~$470M gap is unexplained in the transcript. A similar dynamic appears in Q2 2026 where management's pro forma $3.7B exceeds verified $2,288.3M by ~$1.4B. The gap reflects undrawn ATM capacity and convertible proceeds, but this framing flatters liquidity materially.
 
 ---
 
 ## FOG Patterns
 
-The following phrases or constructions recur across multiple quarters without improvement in precision:
+**Recurring phrases across 14 quarters, never retired:**
+- *"Encouraged by where we are"* / *"very encouraged"*: Used as the primary substitute for financing disclosure in Q2–Q3 2023, Q1–Q2 2024. Appears in essentially every quarter.
+- *"Strong momentum"* / *"incredible momentum"*: Present in Q1 2023 through Q2 2026 without a single quantitative definition.
+- *"Market we created and invented"* / *"industry we invented"*: Appears in at least eight quarters. Never substantiated with patent-level evidence or competitive analysis by name.
+- *"Massive first-mover advantage"*: Q1 2023 through Q2 2026. No market share data, customer exclusivity terms, or switching-cost analysis ever provided.
+- *"Over 40/50/60 MNO partners covering X billion subscribers"*: Cited in every quarter since Q1 2023. The number grows (40 → 60) while conversion specifics remain zero.
+- *"Multibillion-dollar opportunity"*: Applied in Q4 2025–Q2 2026 to AI compute, IoT, radar, sovereign constellations, and emergency response simultaneously.
+- *"We are incredibly proud of our team"* with zero named individuals, teams, or specific accomplishments: Present in all 14 quarters.
 
-1. **"We have made history / a historic achievement"** — Q1 2023 (four uses in opening three minutes), Q2 2023, Q3 2023. Faded from prepared remarks by 2025 but replaced by "market that we created and invented," which appears in Q1 2025 and Q2 2026 multiple times per call.
-
-2. **"We are encouraged by where we are"** — Q3 2023 (twice), Q1 2024, Q3 2024. The word "encouraged" functions as a content-free placeholder when applied to capital raises and commercial negotiations.
-
-3. **"Strong momentum" / "incredible momentum"** — Present in Q1 2023, Q2 2023, Q4 2025 ("strong momentum and clear vision"), Q2 2026 ("increasing at breathtaking speed"). The intensifier escalates while the underlying metric remains unspecified.
-
-4. **"Over 40/50 MNO partners covering X billion subscribers"** — Q1 2023 ("~40"), Q2 2023 ("over 40"), Q3 2023 ("over 40"), Q4 2023 ("approximately 48"), Q1 2024 ("50"), Q4 2025 ("approximately 50"), Q2 2026 ("60 MNO partners covering 3 billion subscribers"). The count increases but no partner beyond AT&T, Verizon, and Vodafone has ever been named with commercial agreement terms. The metric has functioned as a standing talking point, not a live progress indicator, for eleven consecutive quarters.
-
-5. **"We are very excited / super excited / incredibly excited"** — Q1 2024, Q2 2024, Q3 2024, Q1 2025, Q2 2026. Appears reliably on commercially material topics where specific evidence is absent.
-
-6. **"Market we created and invented"** — Q1 2025 (three times), Q2 2025, Q4 2025, Q2 2026. Asserted without competitive analysis; used consistently to deflect questions about Starlink Direct-to-Cell and other competitors.
-
-**Linguistic precision trajectory: Degrading.** The CFO's sections have maintained or improved specificity. The CEO's and President's prepared-remarks register has grown more promotional over time, with FOG density increasing as the company approaches commercial service and the accountability stakes rise. This is the inverse of the expected pattern.
+**Direction: Degrading.** Precision improved briefly at the CFO level in Q4 2023–Q2 2024 when Wallace provided granular financial guidance. Since Q3 2024, as the commercial narrative has expanded (government contracts, TAM adjacencies, capital structure complexity), FOG density has increased rather than decreased. The gap between CEO/President promotional language and CFO financial specificity has widened materially from Q3 2024 onward.
 
 ---
 
 ## Flags & Risks
 
 **Data quality flags:**
-- Total equity declining from $1,894.0M (Q2 2026) vs. $2,079.4M (Q1 2026), a $(185.6M) single-quarter decline despite cash raising activity — driven by operating losses exceeding capital inflows.
-- Cash And Equivalents fell from $3,029.6M (Q1 2026) to $2,288.3M (Q2 2026), a $(741.3M) decline in one quarter, against management's $3.7B pro forma framing.
-- FCF burn of $(719.2M) in Q2 2026 represents an annualized rate exceeding $2.8B — unacknowledged in prepared remarks.
-- The $3.5B (Q1 2026) and $3.7B (Q2 2026) cash figures cited by management cannot be reconciled to structured data without knowing what restricted cash and undrawn facilities are included. No explicit reconciliation provided on either call.
+- Equity declining: No. Total equity has grown from $479.1M (Q4 2024) to $1,894.0M (Q2 2026), driven by equity issuance exceeding losses.
+- Cash figure discrepancy: Management's cited cash position exceeds verified cash and equivalents by $470M (Q1 2026) and ~$1.4B (Q2 2026). The gap reflects pro forma adjustments and undrawn facilities but is presented in a way that systematically flatters the liquidity picture.
+- Revenue near-zero through Q2 2025: Seven consecutive quarters of sub-$2M revenue against accelerating CapEx. Revenue materialized only in Q3 2025 ($14.7M) and Q4 2025 ($54.3M), entirely from government milestones and gateway deliveries — no consumer cellular service revenue yet.
+- FCF acceleration: FCF burned $(719.2M) in Q2 2026 alone. At this rate, the verified $2,288.3M cash balance provides approximately 3 quarters of runway without additional capital raises.
 
-**Communication-level risks (aggregated):**
-- **Signed vs. aspirational conflation**: "~50 MNO partners" and "$1.2B contracted revenue commitments" are repeatedly cited as credibility anchors but are structurally unverifiable — no counterparty breakdown, conditionality, or SEC filing cross-reference offered.
-- **Manufacturing cadence revision pattern**: Six-satellites-per-month target migrated from "H2 2025" to "Q4 2025" (Q1 2025) without acknowledgment; now implied to be further deferred given Q1–Q2 2026 actuals. Each revision is reframed as precision rather than acknowledged as a slip.
-- **"Operating cash flow positive at 25 satellites" qualifier buried**: The "on an operating basis" qualifier (excluding capex) was introduced in Q4 2024 Q&A and has not been foregrounded since, despite being a material distinction at a company spending $400–$600M quarterly in capex.
-- **Reflexivity risk unacknowledged**: Convertible note conversion price of $149.20 is "well above our all-time high trading price" per CFO Andy Johnson — yet no scenario analysis of what happens to the capital structure if the stock does not reach conversion is offered.
-- **Bluebird 7 loss** (Q1 2026): Acknowledged briefly, no technical disclosure of root cause or design change.
-- **No GAAP operating loss or FCF reported in Q2 2026 prepared remarks**, despite $(171.7M) GAAP operating income and $(719.2M) FCF.
+**Communication-level risks:**
+- **Signed vs. aspirational conflation**: Management uses "agreements," "MOUs," "definitive agreements," and "contracted commitments" interchangeably without distinguishing receivables from intentions. The $1.2B backlog figure is presented with headline confidence but explicitly refuses counterparty-level disaggregation.
+- **Cost escalation attribution**: Per-satellite costs increased from $16–18M → $19–21M → $21–23M across three revision cycles, each attributed primarily to external factors (customer orbit change, actual launch costs, tariffs). No portion is attributed to internal estimation error.
+- **Perishable goal pattern**: New strategic themes (AI compute, IoT, sovereign constellations, radar, data centers) are introduced each quarter without retiring prior themes. No prior-period commitment is formally graded in any prepared remarks.
+- **Convertible note reflexivity risk**: The Q2 2026 convertible note at $149.20 effective conversion price — described by the CFO as "well above our all-time high trading price" — is presented as a triumph without acknowledging that if the stock does not reach conversion, the notes mature as debt on a company with no disclosed GAAP profitability horizon.
+- **Revenue ramp arithmetic unaddressed**: Q1 2026 revenue of $14.7M against $150–200M full-year 2026 guidance requires a 3–4x ramp in the remaining three quarters. No quarterly cadence or milestone map was provided.
+- **Manufacturing delay absorption**: The six-satellite-per-month target migrated from "H2 2025" to "Q4 2025" without explicit acknowledgment. Subsequent calls introduced "45 in orbit by early 2027" without referencing what prior targets that displaced.
 
 ---
 
 ## Verify Next Quarter
 
-From the Q2 2026 call, the following specific commitments should be checked when Q3 2026 drops:
+From the Q2 2026 tracking commitments, the following should be verified when Q3 2026 drops:
 
-1. **Q3 revenue ramp**: Full-year guidance of $150–200M requires approximately $118.5–168.5M in H2. Q2 delivered $31.5M. Q3 must show a meaningful sequential increase. A Q3 number below ~$40M makes the full-year guide arithmetically implausible without an extraordinary Q4.
+1. **Q3 revenue against the ramp requirement.** Full-year guidance of $150–200M with only $46.2M earned through Q2 requires H2 to deliver $104–154M. Q3 revenue below ~$40M makes the Q4 ramp implausible. Management must provide quarterly cadence, not just full-year reaffirmation.
 
-2. **Satellite count in orbit**: 13 BlueBirds in orbit as of the Q2 2026 call. BlueBirds 14–16 stated "ready to ship shortly." The 45-satellite-by-early-2027 target requires a specific launch cadence. Q3 call must disclose current count and launch dates achieved.
+2. **Satellite count in orbit.** 13 BlueBirds confirmed in orbit as of Q2 2026. Bluebirds 14–16 were "ready to ship shortly." The 45-by-early-2027 target requires roughly 32 additional launches across 2–3 more launch events in H2 2026. Confirm the total count and the specific cadence of launches since August 2026.
 
-3. **Q3 CapEx vs. $350–425M guidance**: At Q2's $610M pace, any undershoot of guidance should be explained as timing (as in Q1 2026) or genuine deceleration. The explanation matters for modeling constellation completion.
+3. **Q3 CapEx vs. $350–425M guidance.** The Q2 overshoot ($610M vs. midpoint ~$612M) happened to land within range; Q3 guidance was specific. Any material overshoot must be explained with the same line-item attribution Andy Johnson has provided in prior quarters.
 
-4. **Cash reconciliation**: Management must be asked to reconcile its pro forma cash figure to unrestricted cash and equivalents. The $741M gap between structured Q2 cash ($2,288.3M) and the $3.7B management figure requires disclosure of what is restricted, drawn, or contingent.
+4. **Cash figure reconciliation.** The pro forma $3.7B cited in Q2 2026 must be reconciled to actual Q3 unrestricted cash. With FCF running at ~$700M+ per quarter, the verified cash balance should be tracked against management's pro forma figure. Demand a restricted vs. unrestricted breakdown.
 
-5. **Rakuten J-LEO**: Described as "preliminary selection" pending approvals and final agreements. Track whether this converts to a definitive signed agreement disclosed in SEC filings, with payment schedule and conditions.
+5. **Rakuten J-LEO status.** Described as "preliminary selection, pending government approvals and final agreements." If this has not converted to a signed definitive agreement with disclosed terms by Q3 2026, the ~$1B figure should not appear in any capital adequacy narrative.
 
-6. **Government contract awards ($100M+ in "funded near-term value")**: Three new awards mentioned without agency names, contract values, or milestone structures. Any or all should appear in Q3 10-Q filings as signed obligations.
+6. **Revenue share model evolution.** In Q2 2025, Scott Wisniewski deferred discussion of how the 50-50 model changes when AST brings its own spectrum (Ligado L-band, S-Band). This question has now been deferred for five consecutive quarters. If it is not answered in Q3 2026 with AST's own spectrum now operational, flag as active evasion.
 
-7. **TAM expansion accountability**: AI edge compute was said to begin integration on "satellite 47, 48." Q3 should be asked whether any AI compute customer has been signed, piloted, or contracted — or whether this remains aspirational framing.
-
-8. **"50 MNO partners" disaggregation**: Now at its eleventh consecutive quarter as a headline number. Analysts should press for how many of the 60 claimed partners have executed definitive commercial agreements with revenue-share economics versus MOUs or letters of intent. If the answer is still "AT&T, Verizon, and Vodafone in structure," the metric requires reclassification as marketing rather than commercial progress.
+7. **$100M+ government awards.** Three new government awards described as "over $100 million in funded near-term value across 2026–2027" were referenced in Q2 2026 with a promise of "more public announcements soon." Verify whether these are disclosed by name, agency, and milestone structure — or whether the $100M figure remains the last specific disclosure.

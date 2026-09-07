@@ -1,0 +1,361 @@
+August 10th, 2026
+Summary
+Earnings Call Date:
+Aug 10, 2026
+Change Since:
+-19.72%
+Next Earnings Date:
+Nov 16, 2026
+Earnings Call Sentiment
+Positive
+Overall the call conveyed strong commercial momentum and operational execution: record revenue, sizable bookings and backlog, margin outperformance in Q2, robust liquidity and meaningful progress on Neutron development and strategic M&A (Mynaric, Motiv, pending Iridium). Offsetting risks include elevated cash burn and negative free cash flow driven by Neutron tail production and R&D, a sequential decline in Launch Services revenue due to accounting mix, margin pressure from recent acquisitions and schedule risk for Neutron's first flight. On balance, the positive commercial wins, backlog, margin beats and cash position outweigh the near-term cash and schedule pressures.
+
+Company Guidance
+For Q3 the company guided revenue of $250–$265 million (midpoint ≈ +10% QoQ), GAAP gross margin of 29–31% and non‑GAAP gross margin of 35–37%, GAAP operating expenses of $143–$149 million (non‑GAAP $121–$127M), net interest income of ~$21 million, an adjusted EBITDA loss of $17–$23 million, basic weighted‑average shares of ~641 million, and continued elevated negative non‑GAAP free cash flow (excluding financing). Management also said ~45.5% of the current ~$2.36 billion backlog is expected to convert to revenue within 12 months, capex will remain elevated as Neutron development continues (Q2 capex was $26M), and liquidity was roughly $2.4 billion after $1.08 billion raised via the ATM.
+
+
+Highlights
+
+Lowlights
+Record Revenue and Strong Growth
+Q2 revenue of $234.0M, a record quarter: +62% year-over-year and +16.8% sequentially; revenue was within prior guidance and represented broad contribution from both Launch and Space Systems segments.
+
+Large Bookings and Robust Backlog
+Signed more than $437M in launch bookings and $581M+ in Space Systems contracts in Q2 and post-quarter; ended Q2 with ~$2.36B backlog (≈40% launch, ≈60% Space Systems) and signed >$1B in new contracts across Q2 and post-quarter.
+
+Major Contract Wins
+Won a record $266M Space Force contract for up to 18 suborbital (missile defense) missions and a $397M contract to build and launch multiple Flatellite spacecraft for the Space Force; also signed >$160M for three GEO satellites (including two GEOs for Space Systems Command).
+
+Space Systems Surge
+Space Systems revenue of $189.5M in Q2, up +38.6% sequentially, driven by satellite manufacturing and initial contribution from Mynaric.
+
+Launch Demand, Backlog and Operational Success
+Launch backlog grew to 90+ launches post-quarter with 26 new launches booked in Q2; 13 launches year-to-date with 100% mission success; record VICTUS HAZE tactical mission performance (electron to orbit in 16h42m vs 24h target; spacecraft commissioned in 38h vs 72h).
+
+Neutron Development Progress
+Neutron production and test progress: delivery to pad targeted for Q4 2026, >400 hot fires completed on Archimedes engines, full engine set in production and assembly work progressing on Stage 1, Stage 2 and thrust module; 'Hungry Hippo' and other components nearing integration.
+
+Profitability and Margin Beats
+GAAP gross margin 36.1% and non-GAAP gross margin 41.5% for Q2 — both above prior guidance ranges; adjusted EBITDA loss improved to -$8.8M (better than guidance of -$20M to -$26M) and improved sequentially by $2.9M.
+
+Strong Liquidity Position
+Ending cash, cash equivalents, restricted cash and marketable securities of approximately $2.4B at quarter end; proceeds of $1.08B were raised via an at-the-market equity program during the quarter (later terminated) to fund M&A and growth investments.
+
+Strategic M&A and Vertical Integration
+Closed acquisitions of Mynaric and Motiv in the quarter and announced intent to acquire Iridium (expected mid-2027), which would add ~66-satellite constellation, ~2.5M subscribers and ~$870M annual revenue as a foundation for space applications and recurring revenue.
+
+Operator
+Good day, and thank you for standing by. Welcome to the Rocket Lab Corporation Q2 Earnings Call. Please be advised that today's conference is being recorded. [Operator Instructions]. I would now like to hand the conference over to your speaker today, Murielle Baker.
+
+Murielle Baker
+Hello, and welcome to today's conference call to discuss Rocket Lab's Second Quarter 2026 financial results, business highlights and other updates. Before we begin the call, I'd like to remind you that our remarks may contain forward-looking statements that relate to the future performance of the company, and these statements are intended to qualify for the safe harbor protection from liability established by the Private Securities Litigation Reform Act. Any such statements are not guarantees of future performance and factors that could influence our results are highlighted in today's press release and others are contained in our filings with the Securities and Exchange Commission. Such statements are based upon information available to the company as of the date hereof and are subject to change for future developments. Except as required by law, the company does not undertake any obligation to update these statements. Our remarks and press release today also contain non-GAAP financial measures within the meaning of Regulation G enacted by the SEC and included in such release and our supplemental materials are reconciliations of these historical non-GAAP financial measures to the comparable financial measures calculated in accordance with GAAP. This call is also being webcast with a supporting presentation and a replay and copy of the presentation will be available on our website. Our speakers today are Rocket Lab's Founder and Chief Executive Officer, Sir Peter Beck as well as Chief Financial Officer, Adam Spice.
+
+They will be discussing key business highlights, including updates on our launch Space Systems programs as well as our pending acquisition of Iridium Communications. We will discuss financial highlights and outlook before we finish by taking questions. So with that, let me turn the call over to, Sir Peter.
+
+Peter Beck
+It's been another exceptional quarter for Rocket Lab, with some great wins after the close. We achieved a record $234 million in Q2 revenue, up almost $90 million or 62% versus the same quarter last year. That's a $34 million increase over last quarter's record revenue. The launch, demand is extreme. In Q2 and since the end of the quarter closed, we've signed more than $437 million in bookings for Electron, HASTE and Neutron. This includes a record $266 million contract for up to 18 suborbital missions for the Space Force, our largest launch contract ever. Also, we've seen a massive surge in Space Systems contracts with more than $581 million signed in Q2 and post quarter. We ended the quarter with a $2.36 billion in backlog and across launch in Space Systems, we've signed more than $1 billion in new contracts across Q2 and the period since the quarter closed.
+
+It was also a milestone quarter for strategic acquisitions, having closed Mynaric and Motiv and of course, announcing our intentions to acquire Iridium, which will accelerate our future and space applications and involve Rocket Lab into a fully integrated space powerhouse. So with that, welcome to the beginning of our new space applications era. Our pending Iridium acquisition is a strategic move that will combine Rocket Lab's launch capability and satellite manufacturing with Iridium's global satellite communications network and rare spectrum. In short, Rocket Lab will become a self-launching Tier 1 space power, delivering critical communications capability to millions of users worldwide. For years, we've talked about the space value chain in three key verticals. The first is access to space, and we have that with launch. The second is the hardware to do things in space once you're there. That's the satellites and their components, and we have this too.
+
+The third and final vertical is space applications, the entire reason for going to space in the first place. This is part of the space economy that provides data services to millions of people on earth and deliver strong reoccurring revenue. With Iridium, Rocket Lab will have all three of these verticals. I've long since said that the most successful space companies will be the ones that have the keys to space, i.e., can build and launch their own satellites. Rocket Lab is one of only two companies capable of this now. By acquiring Iridium, we were accelerator our entrance into the space applications market. It will take a decade or more to build out a constellation from scratch. With Iridium, we are starting with a constellation of 66 satellites relied upon by more than 2.5 million subscribers and delivering more than $870 million in annual revenue this past year.
+
+That's an incredibly strong foundation on which we intend to build we won't simply continue Iridium's network. We will expand upon it and scale it into untapped markets and pioneer new space-based services. Since the transaction is not yet closed, we are still only on the integration and growth planning stages. There are, however, some obvious areas to focus on, and these are aligned with the growth plans that Iridium has already shared. That includes expanding capabilities in IoT, direct-to-device and advanced PNT defense and national security as well as aviation and marine safety. We can also introduce efficiencies and streamline the deployment of new infrastructure by building and launching our own spacecraft, limiting the costs and risks associated with third parties. We will fast track our ability to deliver new and advanced capabilities. It's through these growth areas that Rocket Lab will put Iridium spectrum to more effective use extracting substantially greater capacity and throughput from the same finite spectrum allocation.
+
+We are immensely excited at what the future holds once Iridium is part of the Rocket Lab family. For now, we are steadily working through the customary closing conditions, including approval of Iridium stockholders and all the regulatory review processes. The transaction is expected to be completed in mid-2027 to the extent that we are able, we look forward to sharing updates throughout that process. Okay, on to some Space Systems updates. Q2 and the weeks after, so us awarded significant contracts across base systems, including a $397 million contract to build and launch multiple Flatellite spacecraft for the Space Force space-based airborne moving target indicator program. This program is a high priority for the Department of War and it seeks to establish a satellite network to track aircraft, missiles and airborne threats globally. And another example of our end-to-end space strategy bearing fruit. Neutron will be launching this mission.
+
+Flatellite is our high-performance, low-profile spacecraft designed for rapid production and optimized for launch, enabling us to deploy large volumes from Neutron and from other launch vehicles. There has been significant interest in Flatellite from commercial and government customers since we first announced it last year. So it's exciting for it to make its debut with such an important program. On to the next contract win, we signed two deals totaling more than $160 million to build three geostationary satellites, including a prime contract with the Space Systems Command to build two GEO satellites for space domain awareness. What's more, they will incorporate our Heimdall payload from our recently acquired company, GEOST, once again highlighting the success of our vertical integration strategy. Rocket Lab is no stranger to building satellites for lower earth orbit and interplanetary missions, but these contracts are our first step into the government geostationary satellite market. It's an exciting expansion. We don't just win contracts, we execute on them.
+
+There's no better mission that demonstrates that than our record-breaking results for the VICTUS HAZE mission in Q2. The mission from Space Force was clear, launched an electron to orbit in just 24 hours, we did this in 16 hours and 42 minutes, a new record. We also designed and built the satellite that it launched. The Space Force gave us 72 hours to commission that spacecraft on orbit. We did it in 38. Then we had 84 hours to track, chase and photograph a noncooperative satellite, we did it in less than 59. VICTUS HAZE was the first time that the Space Force had ever seen a single prime contractor deliver the rocket, the spacecraft and orbit operations for the same tactically responsive space mission. For Rocket Lab to deliver all three and with record-breaking results demonstrates the advanced capabilities that we're delivering to the Pentagon at a time when space is a key strategic priority.
+
+And finally, Rocket Lab is very clearly a space leader in the U.S, but recently, we deepened our roots in Europe with the acquisition of Mynaric. Whenever Rocket Lab makes an acquisition, we don't just carry on running it. We streamline it, introduce efficiencies, scale production and, in many cases, introduce new capabilities. We're planning to do just that with the official establishment of Rocket Lab, Germany. There's a real opportunity here for us to establish a regional hub for constellation class manufacturing as well as full-scale spacecraft assembly integration and test. This will enable Rocket Lab to serve commercial, civil and defense base programs as a domestic European provider, a growing presence there also represents an opportunity to address Europe's launch deficit by bringing a domestic mission tested launch partner to the region to eliminate space access bottlenecks. Europe faces glaring gaps across both launch and spacecraft manufacturing. Rocket Lab Germany aims to address this directly, providing the region with new domestic strength in a rapidly evolving new space era.
+
+That wraps up the Space Systems for the quarter, let's move on to launch. There's been huge demand driving record numbers across new contracts and launch backlog more than $437 million in Q2 and post quarter and 26 new launches that grew our backlog to 90-plus launches after the quarter, our highest in history. Operationally, electron and HASTE continue to lead the industry on small launch. We're at 13 launches this year with 100% mission success and on track to beat last year's launch Tally2. NASA has signed on for three electron launches across two missions next year. Commercial Constellation customer QPS, has signed on for another three launches. This is the third time they've done a bulk buy in less than a year, taking the total number of launches with us to 18 and we've had a confidential defense prime sign up for a pair of HASTE launches in 2027. HASTE rapid repeatable flight cadence was the clincher for that deal.
+
+Our suborbital launch capability anchors our largest launch contracts to date, a $266 million contract from the Space Force for up to 18 missile defense launches. We bid our legacy defense primes for this contract, and it's a second multiyear multi-launch Department award deal for suborbital missions in 5 months. These launches will mostly fly out of our new launch location in Kodiak, Alaska, which opens up Pacific access for missile defense testing for our government partner. There's now six Rocket Lab launch pads across three launch sites, giving us unmatched geographical flexibility for all mission types. Speaking of our new launch location, it's time to introduce GHOST. We've mastered the art of building launch sites. Now we're making them deployable worldwide. Our two new pads in Alaska will be deployed using our GHOST containerized deployable launch site technology.
+
+Electron and HASTE revolutionized small orbital launch and hypersonic testing. Now we're making it easier to deploy them wherever they needed most, whether that's at the missile defense testing or sovereign orbital launch capability. With GHOST, we deliver the rocket launch infrastructure, ground support and range control systems and shipping containers establishing launch capability and new locations on rapid time lines. It's easy to promise mobile or deployed launch systems. It's quite another to have the proven rockets, launch sites and contracts to back them up. Once again, Rocket Lab is not just talking about it. We're delivering the real capability for real missions. Now on to Neutron.
+
+It's been another really big quarter of testing and integration for Neutron. Every part of the vehicle has now seen significant testing. As with any complex development program, we've had to tweak a few things along the way, but we're moving now into final checkout and assembly of all of our flight hardware before integrating them at the pad. First up, Stage 1. We pulled the new barrels and domes of the AFP for the Stage 1 tank and are moving those into assembly. For the the interstage, new panels are also into the flight assembly after qualification load tests were completed recently. Production currently lines up with the target delivery of Neutron to the pad in Q4 2026. While the window for an end year launch is narrowing, the work we're doing now is about risk trading, balancing the timing of our first launch against how quickly and seamlessly we can scale at tenth launch.
+
+Our focus is on the bigger picture and making sure that when Neutron flies and into service as a system ready for full-scale production and high cadence launch. For Stage 2, the team is completing the install of flight avionics and fluid systems before it's out the door to Launch Complex 3. Once that arrives in Virginia will be doing the integrated fluids sitting and running the flight avionics suite to validate Stage 2s end-to-end performance before we add the Archimedes vacuum engine. That way, we derisked some of the elements early and avoided added time to the schedule. The next section of the rocket at LC3 will be Neutron's thrust module. The auxiliary tanks have been installed and the fluid systems in avionics integration is finishing up now. Similar story here as well. After the install of the fluids and the avionics will be taking the thrust module through the integrated systems test on the pad because the module is the only physical interface between the launch vehicle and the launch mount running this test before we integrate the thrust module with Stage 1, lets us derisk how the full vehicle will interact with the pad once everything else arrives.
+
+Down at Stennis, we're heading off into the final stretch of Archimedes's engine testing. We've completed more than 400 hot fires across both Stage 1 engines and Stage 2 vacuum engines. While early testing was all about the fundamentals like power level, mix ratio control and achieving duration. Now it's about durability and the stuff that really matters it for a reusable engine. We've been intentionally running engines for extended time to prove its margins beyond what they need for a successful flight as well as repeated cycles to understand how durable the engines are after multiple restarts and uses. With confidence in the engine, we're already into production with a full engine set for Neutron's first launch. Once we formally complete qualification, those flight engines will go straight into an acceptance test program at Stennis before they're sent up to LC3 for integration with a thrust module. And now to Hungry Hippo.
+
+The team has been busy integrating control surfaces, avionics and fluid systems and its thermal protection system and soon, we'll be getting into preflight testing with the most innovative part of Neutron. Once that's done, Hungry Hippo is essentially finished and ready for launch. The next step will be to mate it to the interstage when it arrives, and then that will bring us one step closer to having a full vehicle at the launch pad. Out of development and into new contracts. As we rush closer to first launch, we're seeing huge demand for Neutrons early flights. Like I've mentioned earlier, we've been newly awarded a dedicated Neutron launch contract for the Space Force for their space-based airborne moving targets program. This mission is a strong indicator of the trust that the government has in Neutron to support the most critical national security programs. And then on the commercial side, today, we announced a dedicated launch for Kepler Communications to deliver their next set of satellites to lower earth orbit.
+
+That mission will expand the capacity of their network with on-orbit compute, optical comms and hosted payloads. And it's the first time Kepler has booked an entire rocket for their constellation rather than ride share. Again, another strong signal of the expectation for Neutron to become the industry's alternate ride to space for medium-lift missions. To understand the momentum behind Neutron, you have to look at the broader launch landscape today. Launch has never been so constrained the Pentagon is accelerating procurement for its top priority programs, like we've seen with the NSSL Lane 1 tripling its ceiling from $5.6 billion to $17 billion. Military spending in Europe has increased and sovereign launch remains a hot topic globally, too. The truth is that if you want to book a launch now or especially after 2029, the options are extremely limited. Rocket Lab is uniquely positioned in this sense.
+
+We have a proven track record with Electron and HASTE and customers know we develop and scale reliable launch vehicles, which is why they're coming to us now and locking in Neutron slots early. Neutron is going to help unblock the industry's bottleneck, giving operators a reliable capacity than they need for years to come. That wraps up the operational highlights. Now over to Adam for the financial overview and outlook.
+
+Adam Spice
+Thanks, Pete. Second quarter 2026 revenue was a record $234 million, which was within our prior guidance range and reflects significant year-over-year growth of 62% and 16.8% sequentially and driven by strong contribution from both business segments. Our Space Systems segment delivered $189.5 million in the quarter, reflecting a sequential increase of 38.6%. This growth was primarily driven by increased contribution from our satellite manufacturing business, along with initial contribution from our Mynaric acquisition, which closed in the quarter. Our Space Systems business continues to perform exceptionally well and provides comforting diversification alongside our robust, but at times lumpy launch business. Meanwhile, our Launch Services segment generated revenue of $44.6 million this quarter, representing a 30% decrease compared to the previous quarter despite completing a similar number of launches. This decline is primarily attributable to a shift in the revenue mix between our point-in-time Electron business and our overtime HASTE business. This quarter was somewhat atypical for our launch operations as we launched HASTE missions for which a significant portion of revenue had already been recognized in prior periods under the overtime accounting method.
+
+In contrast, revenue from Electron emissions is recognized at the point of time of launch. Now turning to gross margin. GAAP gross margin for the second quarter was 36.1%, above our prior guidance range of 33% to 35%. Non-GAAP gross margin for the second quarter was 41.5%, which was also above our prior guidance range of 38% to 40%. Key drivers to gross margin this quarter include a shift mix within our Space Systems business to our slightly lower gross margin satellite platforms business and initial contributions from our Mynaric acquisition, which similar to prior acquisitions, will need some time to benefit from integration synergies and applying the Rocket Lab operating system and its related scale advantages. Additionally, we recorded a nonrecurring benefit from tariff refunds which was largely offset by an inventory reserve against our Neutron Flight II launch vehicle. Relatedly, we ended Q2 with production related head count of 1,688, up 240 for the prior quarter. Turning to backlog.
+
+We ended Q2 2026 with approximately $2.36 billion in total backlog, with launch backlog accounting for approximately 40% and and Space Systems representing 60%. While bookings across base systems of launch can be inherently lumpy due to the timing of increasingly larger high-impact program opportunities. Backlog continues to hold at healthy levels despite the step-up in revenue run rate recognition over the past few quarters. We continue to see a strong pipeline that includes multi-launch agreements and large satellite manufacturing contracts across government and commercial programs. Notably, subsequent to the quarter end, we signed a significant volume of contracts within Space Systems and launch across all vehicles, which will be reflected in our Q3 backlog and further strengthen our momentum across the business. Looking ahead, we expect approximately 45.5% of our current backlog to convert into revenue within the next 12 months. Additionally, we continue to benefit from relatively quick turns business across launch and Space Systems components businesses that drive incremental top line contribution beyond the current 12-month backlog conversion. Turning to operating expenses.
+
+GAAP operating expenses for the second quarter of 2026 were $142.1 million, within our guidance range of $138 million to $144 million. Non-GAAP operating expenses for the second quarter were $115.7 million, which was below our guidance range of $120 million to $126 million. In R&D specifically, GAAP expenses increased $1.9 million quarter-over-quarter, while non-GAAP expenses rose $830,000. These increases were primarily due to incorporating minor expenses as that acquisition closed in the quarter. Q2 ending R&D head count was 1,087, representing an increase of 138 for the prior quarter. In SG&A, GAAP expenses increased $7.7 million quarter-over-quarter, while non-GAAP expenses increased $9.8 million quarter-over-quarter. The increase in SG&A was primarily due to incorporating Mynaric expenses again, as that acquisition closed in the quarter. Q2 ending SG&A head count was 442, representing an increase of 61 from the prior quarter.
+
+In summary, total headcount at the end of the second quarter was 3,217, up 439 heads from the prior quarter. Turning to cash. Purchases of property, equipment and capitalized software licenses were $26 million in the second quarter of 2026, a decrease of $1 million from the $27.1 million in the first quarter. We continue to invest in Neutron, particularly for the return on investment recovery barge as well as launch and test infrastructure investments. As we progress towards Neutron's first flight, we expect capital expenditures to remain elevated as we invest in testing, production scaling and infrastructure expansion. GAAP EPS for the second quarter was a loss of $0.08 per share compared to a loss of $0.07 per share in the first quarter. The sequential decline in GAAP EPS primarily reflects the inclusion of Mynaric's results after the acquisition closed, including amortization of intangible assets acquired. GAAP operating cash flow was a use of $84.1 million in the second quarter of 2026 compared to a use of $50.3 million in the first quarter.
+
+Similar to the capital expenditure dynamics mentioned earlier, cash consumption will remain elevated due to Neutron development and Neutron tail production as we scale the business beyond the initial test flight and as we procure longer lead items for our SDA programs. Overall, non-GAAP free cash flow, defined as GAAP operating cash flow less purchases of property, equipment and capitalized software in the second quarter of 2026, was a use of $110.1 million compared to a use of $77.4 million in the first quarter. The ending balance of cash, cash equivalents, restricted cash and marketable securities was roughly $2.4 billion at the end of the second quarter. The sequential increase in liquidity was driven by proceeds from sales of our common stock under our at-the-market equity offering program, which generated $1.08 billion during the quarter before it was subsequently terminated. These funds are intended to support acquisitions such as the recently announced Iridium acquisition as well as other targets in a robust M&A pipeline, alongside general corporate expenditures and working capital. We exited Q2 in a strong position to execute on both organic and inorganic growth initiatives and to further vertically integrate our supply chain, expand strategic capabilities and grow our addressable market. Consistent with what we have done successfully in the past. Adjusted EBITDA loss for the second quarter of 2026 was $8.8 million, which was well below our guidance range of $20 million to $26 million of loss.
+
+The sequential improvement of $2.9 million in adjusted EBITDA loss was largely driven by higher revenue and strong gross margin. With that, let's turn to our guidance for the third quarter of 2026. We expect revenue in the second quarter to range between $250 million and $265 million, representing 10% quarter-over-quarter revenue growth at the midpoint. We anticipate GAAP gross margin to range between 29% to 31% and non-GAAP gross margin to range between 35% to 37%. These forecasted GAAP and non-GAAP gross margins are accounting for a shift in mix within our Space Systems business, and we expect a beneficial remixing impact on gross margins as we look beyond Q3. We expect third quarter GAAP operating expenses to range between $143 million and $149 million, and non-GAAP operating expenses to range between $121 million and $127 million. The quarter-over-quarter increases are primarily driven by ongoing Neutron development and spending related to Flight 1, including staff costs, prototyping and materials. However, we expect to see a shift in spending from R&D to flight to inventory, which is an encouraging sign of progress as we move closer to Neutron's first flight.
+
+We expect third quarter net interest income to be $21 million, which is generally a function of higher cash balances. We expect third quarter adjusted EBITDA loss to range between $17 million and $23 million, and basic weighted average common shares outstanding to be approximately 641 million shares. Lastly, consistent with prior quarters, we expect negative non-GAAP free cash flow in the third quarter to remain at elevated levels. Driven by ongoing investments in Neutron development and scaling production. This excludes any potential offsetting effects from any financing activities in the quarter. In summary, Q2 was another quarter of strong execution. We continue to see exceptional revenue growth across the business, all while maintaining robust liquidity to fund future growth initiatives. We expect this momentum to continue guiding to strong revenue growth as our satellite platforms business scales exceptionally and Neutron progresses towards first flight.
+
+And last but not least, here are some of the upcoming investor events that we'll be attending in the next few months. And with that, we'll hand the call over to the operator for questions.
+
+Operator
+[Operator Instructions]. Our first question comes from Andres Sheppard with Cantor Fitzgerald.
+
+Andres Sheppard-Slinger
+Congratulations on the quarter and all the great progress. Maybe one on Neutron and one on Iridium. So on Neutron, it's great to see all the recent progress. I guess I want to maybe move past the first launch and talk about scale. In the past, you've given us some cadence on Neutron's first launches. But I guess my question there is how quickly do we think we could potentially get to 10 launches and additional scale? Is there a possibility to perhaps accelerate the ramp-up process? And then finally, with the space industry still significantly constrained on the launch side, how are you thinking about ASPs going forward?
+
+Is there an opportunity perhaps to increase ASPs, both of Neutron and maybe Electron and HASTE as well?
+
+Peter Beck
+Yes, Andres, good to chat to you. So thanks for the question. So with respect to Neutron, I guess one of the questions that I think people should be asking us is Obviously, the first flight is extremely important, but what about flight 10 because that's probably the -- in my -- apart from first flight, the second most important thing. And how quickly we can scale into cadence is absolutely critical. So I think as we are kind of working forward with the vehicle right now and the way we're thinking about things is it's not just to get to the pad quickly for flight 1. Of course, we all want that no one more than I. But it's really about how do we get to flight 10 in the shortest time possible. So for us, that's really all about reusability and we're constantly trading the time lines and the qualification criteria for the various systems and subsystems to get to the pad on for flight 1, but also making sure that when it comes to flight 10 that we don't have to go back and requalify things.
+
+So there's a constant kind of assessment along that way. And I think our ramp that we've sort of explained to everyone is a 1, 3, 5 ramp, and that's been kind of educated from what we did with Electron. But for Neutron, it really is all about reusability. And the more robust we can fall into reusability, then the faster we can scale it. And clearly, you've seen the strain in the launch industry right now and the need, not just for new vehicles, but new vehicles at cadence. So I guess that's how we're sort of balancing all those things. And I'll let Adam comment on the ASP.
+
+Adam Spice
+Yes. No. Look, I think on the ASPs, it's really a function of what's going on in the broader kind of launch market. We brought Neutron to market with a $50 million to $55 million ASP with a commitment really not to do any significant discounting for early launches. And we've stuck to that. We feel very good, though, about where the market is from a supply versus demand perspective. And I think right now, the view is that we see more upside to ASPs and certainly anything that are down or sideways. So I think we feel good.
+
+I think it's left us room to move pricing as demand continues to firm up. And again, I think there's probably more upside in that mix than the downside.
+
+Andres Sheppard-Slinger
+Excellent. Thank you both really appreciate all that color. And maybe just a quick one on Iridium. So Peter, you touched on it a little bit in your prepared remarks, but just wondering if you can maybe elaborate a bit further on the overall combined strategy, what new opportunities does Iridium unlock both through vertical integration and with their 60-plus constellation? What new awards and opportunities can you now pursue? And maybe separately, how will you ultimately think about assigning Neutron launches to Iridium's new constellation and new customers?
+
+Peter Beck
+Yes. Thanks. So I mean, obviously, we're very excited about it. I think there's a lot of obvious synergies. I think I've always been very clear that the large space companies of the future are going to have the ability to launch their own satellites that they've built themselves on their own rocket. I think that's very clearly demonstrated as being superior. So that's obviously really exciting. We've got a lot of areas that we think we can grow that business.
+
+And if you look at the cost of what it costs Iridium to put up the initial constellation and we sit here with the -- on the back of an envelope and what we could do it for now. It's pretty stark. And obviously, a good way. So we think there's lots of opportunities. there. And then no, I think your point is right. We also -- as we're thinking about Neutron's capacity in this environment where demand is extreme, we need to obviously serve the commercial market. We need to make sure that we have some launches left for our government customer as we've been onboarded onto the NSSL program.
+
+And we also need to make sure we have capacity for ourselves because ultimately, our intention here will be to improve that constellation. So it's all a bit of a juggling act for sure.
+
+Andres Sheppard-Slinger
+Congrats again on the quarter. Looking forward to Neutron.
+
+Operator
+Our next question comes from Jeff Van Rhee with Craig-Hallum Capital Group.
+
+Jeff Van Rhee
+Peter, on Iridium for a second, just obviously, they come in, they bring some real nice profitability and a presence in the applications market, which you want. They bring slower growth, and I know you've been pretty impressive with previous acquisitions, particularly on margins. But here, you're going to have to really try to reaccelerate or accelerate that top line. Like what are the lowest hanging fruit, so to speak, in terms of things that you can do over the shorter to intermediate term to accelerate their top line?
+
+Peter Beck
+Yes. It's a great question. So firstly, it's a quintessential Rocket Lab deal and the fact that we're not buying a big hole in our P&L, as you point out, right? So they bring some nice profitability and the constellation itself is good into 2035. And there's -- and you also pointed out correctly that it's a relatively slow-growing business. But for us, as we think about some of the initiatives that they've already embarked on to grow, I think we can supercharge those especially in the area of PNT and with a relatively modest tweak to a constellation add a whole bunch more capability. But also I think it puts us in a totally different position from the perspective of some of our government customers. Because previously, we can go along to our government customer and they give us full credit that we can design and build launch vehicles and you jump on a Rocket Lab launch vehicle, and you have no concern about getting to orbit.
+
+Also, the same goes for building spacecraft. I think we've demonstrated we can build anything from a low Earth orbit comms bird through to something that goes to Mars. But where it gets a little bit tricky for us is to put our hand on our heart and say, well, we can do a mission-critical, we can do life-critical constellation and provide services and manage all that. Credibly before an Iridium acquisition, we couldn't do that. So I think we turn up to a government customer and commercial customers to that sense with just a whole new set of toolkits and capabilities that really sets us apart from everybody else really apart from one other provider in the market. So I think that in itself provides a lot of opportunity. But our focus is rightly so with the acquisition from day 1 will be growth, growth, growth.
+
+Jeff Van Rhee
+Yes. Makes sense. One last for me on GHOST. Very interesting. Talk a bit more about that, what infrastructure is needed at the site? It sounds like you bring a lot. There's clearly going to be some things that have to be there. But I'm particularly interested in kind of what business can or will this capture that you couldn't otherwise capture?
+
+And really, what was the genesis of the idea?
+
+Peter Beck
+Yes, it was really a request from a customer. They have very important needs for the HASTE program and to be able to service those needs. We need to be able to be a little bit more mobile than we are. So it's not a -- maybe we'll build it and someone will be interested in that capability. We're definitely directed to that capability. And we don't need a lot that we've built 3 pads for Electron to date. And the one thing I'll say that with Neutron that what used to feel like big pieces of steel feels -- on Electron scale, feels like very small piece pieces of steel now. So to move launch pad infrastructure around on Electron scale is really quite arbitrary for us at this point.
+
+
+Operator
+Our next question comes from Trevor Walsh with Citizens.
+
+Trevor Walsh
+Maybe just a follow-up or piggyback on the GHOST question. Should we -- is there ways we should think about the price per launch or the revenue per launch and then maybe the cost structure around those now GHOST-enabled launches as compared to an Electron launch or even a HASTE launch? I know I think HASTE, you're able to charge more. So just curious as you do more of these GHOST capability launches, if that's going to kind of change the financial profile a little bit of those.
+
+Adam Spice
+Yes. Look, I think, obviously, these are HASTE missions. That's happening out of the West Coast. So I think you should look at pricing to be pretty consistent with what we've been showing on HASTE. I think overall, again, as this type of mission becomes more strategic and important, particularly if certain elements of Golden Dome continue to proliferate the way many think that they will, there'll be more demand for these types of things. So it feels like we could be in the early phase of HASTE demand. I think certainly, we've seen great demand and great backlog build in the last few quarters. But as that continues, again, we think we're in a very enviable spot with regard to unique capabilities to deliver these kind of missions for the government customer.
+
+And we also think there's international opportunities as well. So if HASTE kind of behaves like other parts of the Electron portfolio where ASPs have gone up pretty significantly over the years, we could be looking at the same kind of opportunity for HASTE across both our Virginia pad the new pads in Alaska and then, of course, even opportunities from New Zealand.
+
+Trevor Walsh
+Great. perfect. And then maybe one quick follow-up, semi related. For the new Kodiak site, is there going to be a step-up in CapEx kind of associated with that that's maybe not already accounted for? How should we think about that in terms of the comments that you've made around CapEx kind of for the balance of the year?
+
+Adam Spice
+Yes. No, there's some CapEx required for that. But again, as Pete was mentioning, in the context of what we've been dealing with Neutron, it's relatively in the noise and the contracts that we engage with have some CapEx funding in them. yes, they'll show up in a CapEx increase, but they're funded under that agreement to a large part.
+
+Operator
+Our next question comes from Edison Yu with Deutsche Bank.
+
+Xin Yu
+Want to come back on Iridium. And I'm curious, I know you mentioned technically, it can't run until mid-2030s, but how are you thinking about the timing and sort of the potential synergies you might have with the next-gen constellation? And then obviously, the landscape is going to change a lot by 2035. So is the idea to actually deploy the next-gen constellation sooner?
+
+Peter Beck
+Yes, Edison. So you're right in the fact that the landscape for direct to mobile and to services from Internet from space is going to change a lot. But one of the really nice things that we liked about the Iridium kind of business model is these are L-bands. So rain and weather penetrating indoors penetrating spectrum because not all spectrum is the same as I'm sure you're aware. And just the safety, critical and stickiness of the current application. So I guess I'm less concerned about -- I'm happy to let the larger players fight over some of those Internet in space type markets. Meanwhile, we think what Iridium has in particular with the L-band spectrum is very important today, but actually going to be more important in the future. So I guess the landscape for me doesn't look vastly different.
+
+And I think it's also too early to pontificate about a new constellation now clearly, the whole point of this is that we are a self-launching machine now. So there will be a constellation, but I don't think we're ready to talk about exactly what that's going to be right just this early.
+
+Xin Yu
+Understood, understood. Separate topic. You obviously won several pretty big satellite awards you have the GEO award. Maybe it's for Adam, any sense on the timing of the ramp of these contracts? Are these fairly linear? Or are these going to be a bit more lumpy?
+
+Adam Spice
+Yes. No, I think our contracts, again, on the government side are pretty typical. I mean these programs are the ones that last for, call it, 4 years and the kind of 10, 40, 40, 10 kind of curve is still looking to be approximately right. Each program is a little bit different, but I think that's a good way to model it going forward.
+
+Operator
+Our next question comes from Jan Engelbrecht with Baird.
+
+Jan-Frans Engelbrecht
+Congrats on another set of great results. I think I'll start with the spacecraft components supply chain as a whole. Just obviously, you guys benefit internally just given your vertical integration. But as other companies and customers of yours start to try and ramp up their satellite constellations. And if you just look at some of these components, reaction wheels, laser terminals, solar panels, thrusters, where do you guys sort of see the biggest opportunity across those components? And what's the capacity like looking at your factories today versus over the next couple of years as launch cadence picks up and as more satellites going to orbit.
+
+Peter Beck
+Thanks for the question because I think people think of launch is a big moat and launch. Yes, launch is a really, really big moat. But equally well, spacecraft components is a big moat because if you just turn up in the industry and say, I want 1,000 reaction wheels, then your chances of getting them are almost 0. And unless you come to perhaps us. So I think we've built a decent sense of scale within all of the components businesses. But I very much look at it as a moat. I think probably when some of the analysts that have been on with us here for a long time when we first announced like an old solar company in Albuquerque, you are thinking what on earth is Pete on. But you can see now that we've scaled that to being the largest space-grade solar manufacturer in the world.
+
+And every single satellite needs solar and tremendous amounts of it. So I think the components element continues to grow year after year. And as more constellations and more spacecraft come into production, that only continues to grow for us.
+
+Adam Spice
+Yes. And I would add to that, that being a components provider on a merchant level is interesting. It's a growing business for us. Most of those products have very nice margins associated with them. it's more strategic than that for us because really, what we do is we're looking to -- as you look at the strong backlog growth that we had on the program side of things, that's really enabled to a large part because we're able to eliminate margin stacking and just be that much more competitive in going after these large strategic programs. So the ability to basically take advantage of the scale as a merchant provider and then further use that internally to be more competitive on these large, bigger programs, as you've seen us be successful in closing on that's really kind of where the magic all comes together. It's more than just kind of playing in a healthy merchant component market. It's really about kind of feeding and enabling this much more strategic capability building part of our platforms business.
+
+
+Jan-Frans Engelbrecht
+Perfect. A quick follow-up, if I may. Just returning to the HASTE contract, the $266 million contract. Are you guys sort of going to break out the cost between sort of launch and actually building the pad because I think if you just look at the 18 launches then it implies sort of a $15 million sort of ASP, which I don't think is potentially correct. Maybe there's some launch infrastructure that's being funded as part of the contract, but maybe just on HASTE as a whole on ASPs and then just sort of how we -- what's the negotiations looking with commercial customers? Because I think in May, you guys booked your first contract with Anduril. But what's sort of the follow-on, what's that look like on HASTE for commercial customers specifically?
+
+Adam Spice
+Yes. So, you're absolutely right. There is a bunch of stuff that's mixed into that the overall $266 million contract value. I mentioned earlier, I think when the question was asked, there is some funding in there for infrastructure. So I mean, obviously, these launches will come through when we recognize the revenue based on the standalone price for those launches. There'll be separate revenue with regards to continuing operations and so forth. And of course, the infrastructure build-out will show up in incremental CapEx spend and then depreciation and amortization. So, I would say, overall, nothing that you see in that contract will change the way that the margin profile of that HASTE business, which is actually coming along quite nicely, if you look in the overall scheme of kind of Electron and HASTE.
+
+So yes, I don't see any difference there. And on the commercial side of HASTE, maybe Pete, do you want to speak to that?
+
+Peter Beck
+Yes. No. Certainly seeing more interest. And as some of the these large defense programs come to fruition. HASTE has really proven itself as the go-to solution there. So yes, plenty of interest in conversations and stuff going on there.
+
+Operator
+Our next question comes from Erik Rasmussen with Stifel.
+
+Erik Rasmussen
+Maybe my first on Iridium. I know it's still early days. You outlined a few target markets. Initially, they're looking to go after the narrowband IoT services. But at what point or would there be an opportunity maybe to look at the broadband layer? And if so, what would that entail if that's a route that you wanted to go down?
+
+Peter Beck
+Yes, Erik. I mean it's the wrong kind of spectrum for broadband. I mean, the L-band spectrum has very unique advantages to it than some of the more broadband spectrum. And I've learned to never say never. But I think the 2 most wealthiest people in the world are going after that, and that's quite a challenge to go and compete. But we see value in other places where you could have the most amount of S-band spectrum you want and the most amount of satellites you want. But if you don't have an L-band spectrum, there's going to be certain things that you just can't do.
+
+Erik Rasmussen
+Got you. Okay. And then maybe just, Adam, you talked about Mynaric gross margins being pressured initially, where are the margins today in that business? And what's the target margin profile? And when do you think you might get to that framework that time frame to get to that target profile?
+
+Adam Spice
+Yes. Look, I think the gross margins for Mynaric coming out of the gate, they're always going to be a little bit lower. I mean I think that, as people know, that asset had some challenges, had some supply chain issues went through an insolvency process, and so we're in the process of building that back up. I would say that if you think about where I can't really comment because it's been less than really a quarter that we've owned the business. So I don't want to go into too many details on where gross margins are falling out. We're still doing some work there. But going forward, we think this business will really kind of look in line with the rest of our Space Systems kind of merchant business. It may take us a few quarters to get there.
+
+I think you may recall because you've been along on this journey for quite some time. When we acquired SolAero, the margins were quite challenged, call it, high single digits, and we were able to get that in line with our overall target for the business. This won't take nearly that long. This is one where we've been able to take relatively decisive action on understanding what needs to be done to get the margins up. We're also facing increased volumes in that business over the next several quarters. So we have a combination of revenue growth and some cost efficiencies that are really going to get the business into fighting shape relatively quickly.
+
+Operator
+Our next question comes from Alex Potter with Piper Sandler.
+
+Benjamin Johnson
+This is Ben Johnson on line for Alex Potter. I guess first question is, can you guys just kind of walk through the big milestones that you view as the highest risk to getting Neutron to the pad in 4Q?
+
+Peter Beck
+Yes, Ben, probably the stage testing is always the thing that gets your adrenaline running because you have fully fueled vehicles on the pad. And you're igniting the engines for the first time. And I think you can also see for another space company that when it doesn't go well, it really doesn't go well. So I think that's always the last big milestone before flight. And then depending on how much granular detail you want to go into, then there's an ever-decreasing series of kind of important milestones. But once you see some stuff rolling outside that looks completely finished and doing tests, I think those are good pointers.
+
+Benjamin Johnson
+Great. And then my second question is on -- so you previously talked about the benefits of establishing a footprint in Europe, with the Mynaric deal. What are some of the initial green shoots you've seen? Can you elaborate on the interest you've seen from customers in Europe? And is that primarily on the satellite or launch side?
+
+Peter Beck
+Yes, Europe is a really interesting market. It's typically been extremely kind of sheltered. But with the kind of the recent geopolitical tensions, all of the European nations are looking for sovereignty. And a good example, more recently, is Germany had put over $40 billion in place for a satellite missile warning system along with other things. And typically, that would have been outsourced to other nations. So even in that alone, that's an area that Rocket Lab has tremendous experience and capabilities. So the challenge, of course, being that Europe generally hasn't got a lot of these capabilities. So they sort of need a lot of help to get there.
+
+And then on launch itself, we'll see. But, clearly, Europe really only has a couple of launch vehicles that are launching relatively infrequently. And if you're trying to build whole constellations of systems, then you might need some help with launches also.
+
+Operator
+Our next question comes from Kristine Liwag with Morgan Stanley.
+
+Kristine Liwag
+I just wanted to follow up on free cash flow. Can you provide more color on the higher expected cash burn in the quarter? How much of this was driven by higher-than-expected Neutron development cost versus acceleration of inventory to support future launches?
+
+Adam Spice
+Yes. Well, you've pretty much hit the nail on the head, Kristine. So a significant amount of the spend or cash flow consumption in the quarter was driven by building out the subsequent tails for Neutron, right? So as you can imagine and Pete talked earlier about the importance of getting to rate quickly. And so for the parts of the rocket that we think are at low risk to needing some kind of a change as a result of the first test launch later this year, hopefully. That really is kind of informing what we're building ahead on. And then I would say also the Mynaric acquisition, I mentioned earlier, it had some supply chain challenges and so forth. And so we basically had to replenish that supply chain, and that was part of the step-up in the quarter as well, but we think we have that well in hand now.
+
+So that should be in a much more normal place. So it's really a combination of the Neutron tail build-out plus getting Mynaric kind of tucked back into shape and firing on all cylinders.
+
+Kristine Liwag
+Great. And just following up on Neutron then with the order that you're able to receive with the ASP that you are targeting, does this mean that we should expect more acceleration of Neutron orders, especially as you get closer to the test flight? And also, I just wanted to follow up on my free cash flow question earlier. How should we think about the cadence of free cash flow through the rest of the year? And is this 2Q the peak in free cash outflow?
+
+Adam Spice
+Yes. I'll let Pete talk to the Neutron question.
+
+Peter Beck
+Yes, Kristine, I would say with Neutron, we are being very strategic and very thoughtful about our sales there. We have -- as we've discussed, we have a 1, 3, 5 cadence. Hopefully, we'll do a lot better than that. But we have commercial customers already signed. We have government customers you saw in NSSL nearly tripling their budget for NSSL launch, so we need to make sure that we've got capacity for that customer. And as I talked before, we have got our own aspirations and need. So I've personally never seen launch so constrained in pretty much ever. Other launch providers are backing off and focusing on their own needs as well.
+
+So the amount of launch that's left in the industry is really, really tight. So for us, it's been very thoughtful about which customers we sign up to at this point on going forward.
+
+Adam Spice
+And then coming back to the free cash flow question. It's still very much a function of the timing of the first successful test launch of Neutron, right? We've been pretty consistent in pointing towards -- that will be the real turning point where we go to adjusted EBITDA positivity in the quarter after that, that event happens. But then we've also been pretty clear that it's going to probably be 18 to 24 months after that pivot that we get to cash flow positivity because we'll have to continue to invest in a fleet of tails to build out for Neutrons. So I think that's really -- I'd say those are kind of the 2 most driving factors. Now, of course, pending the closing of the Iridium acquisition, the table gets reset pretty significantly, right? So as we've talked about that, that business generates pretty significant free cash flow. So I think we'll have a lot of things to update folks on once we get closer to the timing of that closing that deal.
+
+But on a stand-alone kind of Rocket Lab basis, it really is driven by the Neutron test timing.
+
+Operator
+Our next question comes from Ryan Koontz with Needham & Company.
+
+Ryan Koontz
+A question for you, Adam, on Space Systems in terms of -- any kind of color on product mix you have for us there in the June quarter as well as kind of how we think about Tranche 2 and Tranche 3 timing in the second half. And then maybe reflect on the gross margin mix, apart from Mynaric. That would be great.
+
+Adam Spice
+Yes, Jeff. So mix is always difficult to kind of predict too far in advance. We have turns businesses plus we have these programmatic satellite platform businesses. I would say that there was little bit less of the, I would say, the more mature merchant products within the mix in kind of, I would say, a little bit in Q2 and actually pointing towards some of the weakness in margin in Q3, we have a pretty wide range of margins in our Space Systems business. We have some component solutions such as solar that are always going to be more towards the lower end, call that in the kind of -- and then if you look towards some of the product areas, they can be more kind of north of 70 points of gross margin. So they're pretty big spread there within the portfolio. And then again, towards the lower end in the mix but greater in magnitude of the composition is really the satellite platforms business. And you mentioned the biggest pieces of our backlog today are for SDA Tranche 2 and Tranche 3.
+
+And again, those are more kind of in the mid-30s, right? So I think right now, each quarter is going to be driven really by kind of the mix of how much of that higher-end component portfolio ships versus how much we have in these programmatic programs which those are relatively straightforward to model. But what you can't model as much is, again, is the components part of business.
+
+Operator
+Our next question comes from Gautam Khanna with TD Securities.
+
+Gautam Khanna
+I was curious on the demand side for Neutron, do you still expect kind of a surge of orders once the first test flight goes successfully? And I was curious, also, just given your large competitor is launching a much larger vehicle. Does that give you any concern on industry capacity maybe 3 or 4 years from now? And the demand for Neutron. If you could just comment on that?
+
+Peter Beck
+Yes, sure. Thanks very much. It's a good question. So I think pre-test flight, post-test flight, I would say Neutron demand is just not a concern. Now naturally, I think everybody will be more comfortable with buying Neutron's post-test flight, but we've had absolutely 0 issues in selling full price Neutrons pre-test flights. So I don't see that making a huge difference. Now with respect to launch capacity going forward, I don't want to sound too negative here, but I don't see that changing any time soon either. Because even as new capacity comes on market from some competitors, a lot of that capacity is already spoken for, for their own internal programs.
+
+whether it be Internet or AI data centers or whatever, like it's a fair chunk of that capacity is already spoken for. So I see this constrained launch market persisting for quite some time.
+
+Operator
+Our next question comes from Andre Madrid with BTIG. You may proceed.
+
+Edward Morgan
+This is Ned Morgan on for Andre. I was just wondering, could we get an update on the Mars Telecommunications Orbiter program, just wondering how well you guys are positioned to win there and how we should think about timing and contribution.
+
+Peter Beck
+Yes. Thanks, Ned. I'd like an update too. So we're waiting for NASA to go through their procurement process. So hopefully, it would be great to hear this month or thereabouts. But I think we're positioned well. There's very few folks that can demonstrate the level of capability and experience that we have. So we feel strongly positioned.
+
+But we just have to unfortunately wait for the NASA to work through the procurement process.
+
+Edward Morgan
+Got it. And a follow-up, after the successful launch of Neutron, how soon should we expect to see the NSSL task orders come through? I saw the upsized contract?
+
+Peter Beck
+Yes. That's sort of out of our control as well. I would say that you've seen them add a whole bunch more resources into that contract vehicle. So they have sort of set periods where they release those contracts. But I think the government along with others are hotly anticipating Neutron's arrival for sure.
+
+Operator
+Our next question comes from Michael Leshock with KeyBanc Capital Markets.
+
+Michael Leshock
+I wanted to ask maybe a bigger picture. Are you in a conversation with customers about potential orbital data center opportunities whether that's as a merchant supplier or something else, I know higher efficiency solar panels are an important part of generating enough power for some of these plans that are out there. And you have that capacity already. Is data centers in space a real opportunity for Rocket Lab? Or is it too early to tell?
+
+Peter Beck
+No, I think it's a real opportunity. I guess I'm still a little bit cautious on the scale in which they may be a thing. You've certainly seen us release new solar cells that are specifically targeted to that kind of application. So we're taking the opportunity seriously. And there's -- obviously, we -- there's a lot of folks that are looking at that pretty deeply. So I think if they turn out to be a real thing, I think we'll be pretty deeply entrenched and well positioned to capitalize it. Is Rocket Lab going out and build a whole lot of data centers. Well, I think not yet, that's for sure.
+
+
+Michael Leshock
+Okay. Great. And then just on M&A, do you still expect to be pretty active there going forward post Iridium and if so, are there any specific parts of the business you're targeting? Is that still Space Systems primarily? Or any updated thoughts on the M&A pipeline?
+
+Peter Beck
+Yes. I mean, I think it's likely that you'll see some tuck-ins from us. I think the -- as the right things come along, we'll always be active. But I would encourage everybody to think of Iridium as not the endpoint from an applications play. I think it's really the starting point. We don't want to be known as like the L-band tricky communications company. Our intentions are much more granular than that. But what it does do is it shows an ability for us to go and bite off a big piece and also use -- in time, we'll be able to demonstrate using the full machine where we can build our own satellites and launch them and be a self-licking ice cream.
+
+So I think, yes, people should not assume that, that Iridium is a one and done.
+
+Operator
+Our next question comes from Suji Desilva with ROTH Capital.
+
+Sujeeva De Silva
+Congrats on the progress. Sorry bringing you guys back here. Just, Adam, at this point, Pete, the Electron order customer base is very, very comfortable ordering. I'm wondering when in the 1, 3, 5 Neutron sequence, do you think customers get to that? I mean I don't know if it's just with the first launch, but you clearly have customers that are ahead of that preordering, but when in the sequence does it start to feel more normal in terms of ordering and comfort?
+
+Peter Beck
+Suji, it almost feels like that now, to be honest with you, as I mentioned before, we have a very limited supply of Neutrons coming out of the gate, and we have to be very, very careful with where we put those. So I think the demand for the vehicle is already very high. So I don't know they might feel differently, but it doesn't feel like we're many miles away from there already.
+
+Adam Spice
+Actually, I'm actually pleasantly surprised kind of where we are in the cycle right now. I mean, to have the kind of backlog that we have on Neutron for a vehicle that's not flown yet, I think that shows a pretty strong endorsement. It's -- certainly, I think the market is saying it's -- from a customer perspective, is not saying if it's more when. And I think Pete has been pretty clear, I think, through the communications today and earlier that a significant portion of Neutron down the road is going to be used to service our own demand, right? So I think we are also being very mindful that we don't want to sell all of the capacity out for many, many years forward kind of without taking into consideration what we need to do, not only for Iridium's needs. But as Pete said, this is the first step of many for us in the applications vein. So we need to make sure that we we're really leveraging Neutron to its greatest strategic extent, which it's going to be a great vehicle for the market. It's going to be great for adding more capacity in a capacity-constrained market.
+
+But this is going to be an incredible strategic enabler for us. And so we want to make sure we don't squander that opportunity and give too much of that capacity way too early to other people.
+
+Sujeeva De Silva
+Got it. Great. That makes sense, customers have confidence in your execution given your history there. And then the other question, Pete, is on Flatellite, I'm just curious, can you remind us the unique features of Flatellite and congrats on that government win. Is there opportunities there outside of government commercial? Or just how to think about Flatellite as a market opportunity for you.
+
+Peter Beck
+Thanks, Suji for asking that question because that's actually -- I mean, this last quarter, I think there's 2 kind of really big takeaways. One, we now also build GEO satellites. And I know that the GEO market is not particularly an exciting market as compared to what it used to be. But actually, it's a very, very unique capability. So to be able to build low-earth orbit satellites, Mars satellites, geo satellites and then have our first Flatellite order, I think, shows a real breadth of skill and ability and capability. But the Flatellite is designed as a high cadence, a large number of satellites per launch vehicle constellation builder. And I'm just so thrilled that their first customer for that is actually a really important U.S. government program.
+
+It really speaks to the confidence that the customer has after doing the due diligence of everybody in that Flatellite product. And that Flatellite product once we start building them for that customer, that is a huge advantage for commercial customers as well who want that kind of thing. But candidly, for us as well, I mean, most of the stuff that I see in the future that Rocket Lab will do for itself will be built on the back of a Flatellite platform.
+
+Operator
+Thank you. And this concludes the conference. Thank you for your participation. You may now disconnect.

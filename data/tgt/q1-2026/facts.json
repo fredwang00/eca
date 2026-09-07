@@ -1,0 +1,51 @@
+{
+  "ticker": "TGT",
+  "quarter": "Q1 2026",
+  "company": "Target Corporation",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 30453.0,
+    "gross_profit_m": 8110.0,
+    "operating_income_m": 1380.0,
+    "net_income_m": 1045.0,
+    "eps": 2.31,
+    "total_equity_m": 16165.0,
+    "total_assets_m": 59490.0,
+    "cash_and_equivalents_m": 5488.0,
+    "shares_outstanding_m": 452.84,
+    "free_cash_flow_m": 2192.0,
+    "operating_cash_flow_m": 3077.0,
+    "capital_expenditure_m": -885.0,
+    "bvps": 35.7
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B+",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.075,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Guests are managing a lot and are highly choiceful about where they spend their valuable time and money... in toys, we've seen tremendous growth from new offerings priced at $20 or less, including many priced at $5 and $10.",
+      "capex_direction": "We deployed about $1 billion for capital expenditures in the first quarter and continue to expect about $5 billion of CapEx for the full year as we invest behind the growth priorities we outlined at our financial meeting in March.",
+      "pricing_power": "Consumers shouldn't have to trade what they want for what they can afford... we're monitoring freight closely and our guidance reflects what we're seeing as scenarios on freight as well.",
+      "management_tone_shift": "While consumers have proven to be resilient so far, sentiment has been declining recently, and we're keeping a close eye on their spending behavior... we continue to place a premium on flexibility not wanting to swing too hard too quickly despite the early signs of momentum."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

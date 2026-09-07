@@ -1,0 +1,51 @@
+{
+  "ticker": "TGT",
+  "quarter": "Q2 2026",
+  "company": "Target Corporation",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 25443.0,
+    "gross_profit_m": 7382.0,
+    "operating_income_m": 1135.0,
+    "net_income_m": 781.0,
+    "eps": 1.72,
+    "total_equity_m": 16395.0,
+    "total_assets_m": 58010.0,
+    "cash_and_equivalents_m": 3534.0,
+    "shares_outstanding_m": 454.18,
+    "free_cash_flow_m": -319.0,
+    "operating_cash_flow_m": 716.0,
+    "capital_expenditure_m": -1035.0,
+    "bvps": 36.1
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "We saw consistent strong top-line growth across the months and across income brackets as well.",
+      "capex_direction": "We have deployed approximately $2.4 billion in capital expenditures so far this year, up nearly 30% from a year ago... we continue to expect approximately $5 billion of CapEx for the full year.",
+      "pricing_power": "We have lowered prices on more than 10,000 items over the past year... 95% of our school supplies assortment is priced at or below last year's prices.",
+      "management_tone_shift": "Traffic is at the top of that list [of healthy indicators]... we're encouraged to see proof points that are compounding, with each investment building on the last."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

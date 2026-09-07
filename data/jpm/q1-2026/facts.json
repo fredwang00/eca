@@ -1,0 +1,53 @@
+{
+  "ticker": "JPM",
+  "quarter": "Q1 2026",
+  "company": "JPMorgan Chase & Co.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 49833.0,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": 16494.0,
+    "eps": 5.95,
+    "total_equity_m": 343993.0,
+    "total_assets_m": 4900475.0,
+    "cash_and_equivalents_m": 312142.0,
+    "shares_outstanding_m": 2679.51,
+    "free_cash_flow_m": -211761.0,
+    "operating_cash_flow_m": -211761.0,
+    "capital_expenditure_m": null,
+    "bvps": 128.38
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A-",
+    "dim3_grade": "B",
+    "dim4_grade": "B+",
+    "dim5_grade": "B+",
+    "composite_score": 3.55,
+    "composite_grade": "A-"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": "stable",
+    "auto_credit_trend": "stable",
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Notwithstanding the recent volatility in market and gas prices based on our data, consumers and small businesses remain resilient with consumer spend growth continuing above last year's pace.",
+      "credit_quality_trend": "Credit costs of $2.5 billion with net charge-offs of $2.3 billion and a net reserve build of $191 million; Card net charge-off rate continues to be approximately 3.4%.",
+      "auto_credit_trend": "Higher Card NII largely on higher revolving balances and higher operating lease income in Auto \u2014 no deterioration flagged; auto mentioned only as a revenue driver, not a credit stress source.",
+      "capex_direction": "We have more bankers, innovation economy, more global banking, doing commercial banking overseas, opening countries, opening payment systems, opening branches \u2014 that is ultimately what deploys capital over time.",
+      "pricing_power": "The margin would be about what it is today, give or take, a couple of basis points up or down \u2014 holding but not expanding deposit pricing power in a competitive environment.",
+      "management_tone_shift": "Obviously, if you have stagflation, and higher rates for longer and credit spreads gap out, that will put a lot of stress and strain on leveraged companies...I think with the credit cycle it will be worse than people expect."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

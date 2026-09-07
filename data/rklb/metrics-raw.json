@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "RKLB",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-06",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 179.7,
@@ -12,11 +12,11 @@
       "total_equity_m": 1721.8,
       "total_assets_m": 2324.5,
       "cash_and_equivalents_m": 828.7,
-      "shares_outstanding_m": 543.57,
+      "shares_outstanding_m": 589.53,
       "free_cash_flow_m": -114.2,
       "operating_cash_flow_m": -64.5,
       "capital_expenditure_m": -49.7,
-      "bvps": 3.17
+      "bvps": 2.92
     },
     "Q3 2025": {
       "revenue_m": 155.1,
@@ -27,11 +27,11 @@
       "total_equity_m": 1281.0,
       "total_assets_m": 2221.4,
       "cash_and_equivalents_m": 807.9,
-      "shares_outstanding_m": 496.22,
+      "shares_outstanding_m": 542.18,
       "free_cash_flow_m": -69.4,
       "operating_cash_flow_m": -23.5,
       "capital_expenditure_m": -45.9,
-      "bvps": 2.58
+      "bvps": 2.36
     },
     "Q2 2025": {
       "revenue_m": 144.5,
@@ -42,11 +42,11 @@
       "total_equity_m": 688.5,
       "total_assets_m": 1553.2,
       "cash_and_equivalents_m": 564.1,
-      "shares_outstanding_m": 479.33,
+      "shares_outstanding_m": 525.28,
       "free_cash_flow_m": -55.3,
       "operating_cash_flow_m": -23.2,
       "capital_expenditure_m": -32.0,
-      "bvps": 1.44
+      "bvps": 1.31
     },
     "Q1 2025": {
       "revenue_m": 122.6,
@@ -77,6 +77,36 @@
       "operating_cash_flow_m": -2.4,
       "capital_expenditure_m": -21.6,
       "bvps": 0.76
+    },
+    "Q2 2026": {
+      "revenue_m": 234.1,
+      "gross_profit_m": 84.6,
+      "operating_income_m": -57.5,
+      "net_income_m": -49.3,
+      "eps": -0.08,
+      "total_equity_m": 3492.1,
+      "total_assets_m": 4187.4,
+      "cash_and_equivalents_m": 2129.5,
+      "shares_outstanding_m": 639.13,
+      "free_cash_flow_m": -110.1,
+      "operating_cash_flow_m": -84.1,
+      "capital_expenditure_m": -26.0,
+      "bvps": 5.46
+    },
+    "Q1 2026": {
+      "revenue_m": 200.3,
+      "gross_profit_m": 76.5,
+      "operating_income_m": -56.0,
+      "net_income_m": -45.0,
+      "eps": -0.07,
+      "total_equity_m": 2264.4,
+      "total_assets_m": 2819.9,
+      "cash_and_equivalents_m": 1205.5,
+      "shares_outstanding_m": 621.72,
+      "free_cash_flow_m": -77.4,
+      "operating_cash_flow_m": -50.3,
+      "capital_expenditure_m": -27.1,
+      "bvps": 3.64
     }
   }
 }

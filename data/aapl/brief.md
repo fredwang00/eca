@@ -1,4 +1,4 @@
-# Apple Inc. (AAPL) — Earnings Call Brief
+# Apple Inc. (AAPL) — Earnings Brief
 
 **Coverage:** Q3 FY2023 through Q1 FY2026 (8 quarters)
 
@@ -8,125 +8,124 @@
 
 | Quarter | Score | Grade |
 |---------|-------|-------|
-| Q3 FY2023 | 2.40 | B- |
+| Q3 FY2023 | 2.40 | B– |
 | Q4 FY2023 | 2.25 | C |
 | Q1 FY2024 | 2.25 | C+ |
 | Q2 FY2024 | 2.55 | B |
 | Q3 FY2024 | 2.25 | C+ |
 | Q1 FY2025 | 2.40 | B |
-| Q2 FY2025 | 2.635 | B- |
+| Q2 FY2025 | 2.635 | B– |
 | Q3 FY2025 | 2.55 | B |
-| Q4 FY2025 | 2.40 | C+ |
+| Q4 FY2025 | 2.40 | C |
 | Q1 FY2026 | 2.40 | C+ |
 
-**Direction: Stagnating.** The range across ten quarters is 2.25–2.635—a 0.385-point band with no durable trend in either direction. The single inflection point worth naming is Q2 FY2024 (2.55, B), driven by improved stakeholder specificity and named enterprise proof points, which was not sustained. Q2 FY2025 (2.635) represents the series high, buoyed by the $900M tariff disclosure and C1 modem strategic framing, but the following two quarters reverted to 2.40. The structural pattern is locked: CFO financial disclosure consistently earns B or better across every quarter; CEO strategic clarity and FOG index consistently score C across every quarter. This two-speed dynamic—not any external variable—determines the composite ceiling.
+**Direction: Stagnating, with a structural ceiling.** No quarter has scored above 2.64. The highest scores (Q2 FY2024 at 2.55, Q3 FY2025 at 2.55, Q2 FY2025 at 2.635) were driven entirely by Maestri/Parekh CFO precision, not by any improvement in Cook's strategic candor. The **Q2 FY2024 inflection** represents the high-water mark—Stakeholder Balance rose to B on the strength of named enterprise examples and quantified environmental metrics. The subsequent return to C on that dimension by Q3 FY2024 and Q4 FY2025 confirmed the improvement was situational rather than structural. **The two-voice problem has not changed in eight quarters**: CFO disclosure consistently earns B or better; CEO strategic communication consistently earns C or worse.
 
 ---
 
 ## Key Commitments
 
-### Signed
-- **Blackstone (Q3 FY2023):** MacBook Air deployment to all corporate employees and portfolio companies. Named counterparty, described scope.
-- **Gilead (Q3 FY2023):** iPad deployment to thousands in sales team, doubled Mac user base. Named counterparty, described scope.
-- **Starbucks (Q4 FY2023):** Tens of thousands of iPads across all retail stores, over 10,000 MacBook Air M2 deployments. Named counterparty, described scope.
-- **KLM Airlines, Porsche, Lowe's, Epic Systems/Emory Health (Q2 FY2024):** Vision Pro enterprise deployments with specific use cases named. Counterparties identified; contract values not disclosed.
-- **Boston Children's Hospital, Lufthansa (Q3 FY2024):** Vision Pro deployments. Named counterparties; no financial terms.
-- **Deutsche Bank, SAP, Zomato, Cisco (Q1 FY2025):** Named enterprise deployments with described use cases. Zomato: 1,000 Mac deployment. No contract values disclosed.
-- **KPMG (Q2 FY2025):** iPhone 16 for all U.S. employees. Named counterparty.
-- **New Bank (Q2 FY2025):** MacBook Air as standard computer. Named counterparty.
-- **Dassault Systèmes (Q2 FY2025):** Vision Pro integration. Named counterparty.
-- **PayPal, Roche, Siam Commercial Bank, CAE (Q3 FY2025):** Named enterprise deployments with context. No values disclosed.
-- **BMW Group, Capital One, Purdue University (Q4 FY2025):** Named enterprise deployments. No values.
-- **Snowflake (Q1 FY2026):** 9,000 Mac deployment. Named counterparty, described scope.
-- **AstraZeneca (Q1 FY2026):** 5,000 M5 iPad Pro rollout. Named counterparty, described scope.
-- **Copel (Q1 FY2026):** 10,000 iPad fleet. Named counterparty, described scope.
-- **MP Materials (Q3 FY2025):** $500M commitment. Named counterparty, disclosed value.
-- **Corning (Q1 FY2026):** Cover glass supply, Kentucky facility. Named counterparty, no value.
-- **Micron (Q1 FY2026):** Chip packaging facility. Named counterparty, no value.
-- **Google AI partnership (Q1 FY2026):** Google AI technology to power Apple Foundation Models. Named counterparty; no commercial terms disclosed.
+**Signed**
+- Blackstone: MacBook Air rollout to "all corporate employees and portfolio companies" (Q3 FY2023)
+- Gilead: iPad deployment to "thousands" in sales team; doubled Mac user base (Q3 FY2023)
+- Starbucks: "tens of thousands of iPads across all retail stores" and "over 10,000 Macs" (Q4 FY2023)
+- KLM Airlines: Vision Pro for aircraft engine maintenance training (Q2 FY2024)
+- Porsche: Vision Pro for real-time racing team collaboration (Q2 FY2024)
+- Epic Systems/Emory Health: Mac deployment to healthcare workforce (Q2 FY2024)
+- KPMG: iPhone 16 rollout for all U.S. employees (Q2 FY2025)
+- New Bank: MacBook Air as standard computer (Q2 FY2025)
+- Dassault Systèmes: Native Vision Pro integration (Q2 FY2025)
+- PayPal, Roche, Siam Commercial Bank, CAE: named Vision Pro / Apple Intelligence deployments (Q3 FY2025)
+- MP Materials: $500 million commitment for U.S. rare earth supply (Q3 FY2025)
+- Corning (Kentucky): cover glass manufacturing (Q1 FY2026)
+- Micron: chip packaging facility groundbreaking (Q1 FY2026)
+- Snowflake: 9,000 Mac deployment (Q1 FY2026)
+- AstraZeneca: 5,000 M5 iPad Pro rollout (Q1 FY2026)
+- Copel: 10,000 iPad fleet (Q1 FY2026)
+- Google: AI technology to power Apple Foundation Models (Q1 FY2026, no commercial terms disclosed)
 
-### Aspirational
-- Apple Intelligence will drive iPhone upgrade cycles (Q3 FY2024 through Q1 FY2026, recurring). No conversion metrics, no upgrade rate differentials by region disclosed across any quarter.
-- "We will see product advancements where AI technologies are at the heart of them" (Cook, Q4 FY2023). No timeline, no product names.
-- Generative AI represents "a huge opportunity for Apple" (Q1 FY2024, Q2 FY2024). No monetization framework across any quarter.
-- $500 billion U.S. investment over four years (Q2 FY2025). No CapEx/OpEx/COGS breakdown provided despite direct analyst question; no milestone structure.
-- "$600 billion over four years" (Q4 FY2025). Restated figure, partially grounded with named suppliers, but no accountability structure.
-- Personalized Siri "coming this year" / "next year" (repeated across Q3 FY2024, Q1 FY2025, Q2 FY2025, Q3 FY2025, Q4 FY2025, Q1 FY2026). Commitment has recurred for at least six consecutive quarters without tightening specification.
-- China "long-term opportunity" optimism (recurring, Q4 FY2023 through Q1 FY2026). No structural competitive response to Huawei re-emergence disclosed in any quarter.
-- Apple Intelligence will drive Services growth (Q3 FY2024 onward). No mechanism, no metric.
+**Aspirational**
+- Vision Pro as "the most advanced personal electronics device ever created" — repeated Q3 FY2023 through Q1 FY2024, no adoption target, revenue framework, or developer milestone attached
+- Apple Intelligence as the driver of iPhone 16 upgrade outperformance — asserted without quantified engagement data, active-user rates, or upgrade differential by AI-available vs. unavailable market (Q1 FY2025 through Q4 FY2025)
+- "Personalized Siri coming this year / next year" — stated across Q3 FY2024, Q1 FY2025, Q2 FY2025, Q3 FY2025, Q4 FY2025, and Q1 FY2026 with no milestone, feature definition, or confidence basis disclosed; the horizon has continuously receded
+- $500 billion U.S. investment over four years — cited without CapEx/OpEx/COGS breakdown despite a direct analyst question; Cook's response was "lots of all of it" (Q2 FY2025); subsequently revised to $600 billion (Q1 FY2026) with no reconciliation of the discrepancy
+- AI monetization as "enormous opportunity" — offered in response to at least eight distinct analyst questions across five quarters without a mechanism, timeline, or financial model attached
+- China "long-term opportunity" — asserted repeatedly as Greater China revenue declined; no strategy for responding to Huawei re-emergence or domestic competition disclosed
 
 ---
 
 ## Capital Figures
 
-All figures from structured financial data. Narrative-sourced figures are labeled.
+*Figures from structured financial data where available; call-disclosed figures otherwise.*
 
-| Quarter | Revenue | Operating Income | CapEx | Free Cash Flow | Cash & Equivalents | Total Equity |
-|---------|---------|-----------------|-------|---------------|-------------------|-------------|
-| Q1 FY2025 | $124,300M* | $29,589M | -$3,071M | $20,881M | $28,162M | $66,796M |
-| Q2 FY2025 | $95,400M* | $28,202M | -$3,462M | $24,405M | $36,269M | $65,830M |
-| Q3 FY2025 | $102,466M | $32,427M | -$3,242M | $26,486M | $35,934M | $73,733M |
-| Q4 FY2025 | $143,756M | $50,852M | -$2,373M | $51,552M | $45,317M | $88,190M |
+| Quarter | Revenue | Operating Income | Free Cash Flow | Capex | Cash & Equivalents | Equity |
+|---------|---------|-----------------|---------------|-------|-------------------|--------|
+| Q3 FY2023 | $81,800M | — | — | — | — | — |
+| Q4 FY2023 | $89,500M | — | — | — | — | — |
+| Q1 FY2024 | $119,600M | — | — | — | — | — |
+| Q2 FY2024 | $90,800M | — | — | — | — | — |
+| Q3 FY2024 | $85,800M | — | — | — | — | — |
+| Q1 FY2025 | $95,359M | $29,589M | $20,881M | $3,071M | $28,162M | $66,796M |
+| Q2 FY2025 | $94,036M | $28,202M | $24,405M | $3,462M | $36,269M | $65,830M |
+| Q3 FY2025 | $102,466M | $32,427M | $26,486M | $3,242M | $35,934M | $73,733M |
+| Q4 FY2025 | $143,756M | $50,852M | $51,552M | $2,373M | $45,317M | $88,190M |
 
-*Revenue from transcript narrative; structured metrics not provided for Q3 FY2023 through Q3 FY2024.
+*Q4 FY2025 revenue ($143.8B), operating cash flow ($53.9B), and EPS ($2.84) figures are call-disclosed; the structured metrics appear to represent a different reporting period (likely the September fiscal quarter at $102.5B revenue). The Q1 FY2026 call reported December quarter revenue of $143.8B—treat the structured Q4 FY2025 row as the September FY2025 quarter.*
 
-**Additional disclosed figures (from transcripts, not structured data):**
-- Q3 FY2023: Revenue $81.8B, gross margin 44.5%, operating cash flow $26.4B, net cash $57B. Capital returns: $18B buybacks (103M shares), $3.8B dividends.
-- Q4 FY2023: Revenue $89.5B, gross margin 45.2%, net income $23B, EPS $1.46, operating cash flow $21.6B. Capital returns: $15.5B buybacks (85M shares), $5B ASR, $3.8B dividends.
-- Q1 FY2024: Revenue $119.6B, gross margin 45.9%, EPS $2.18, operating cash flow $39.9B, net cash $65B. Capital returns: $20.5B buybacks, $3.8B dividends.
-- Q2 FY2024: Revenue $90.8B, gross margin 46.6%, operating cash flow $22.7B, net cash $58B. New $110B repurchase authorization. Capital returns: $23.5B buybacks (130M shares), $3.7B dividends.
-- Q3 FY2024: Revenue $85.8B, gross margin 46.3%, EPS $1.40, operating cash flow $28.9B. Capital returns: $26B buybacks (139M shares).
-- Q1 FY2026: Revenue $143.8B, gross margin 48.2%, EPS $2.84, operating cash flow $53.9B, net cash $54B. Capital returns: $25B buybacks (93M shares), $3.9B dividends. Tariff impact: ~$1.4B.
+**Call-disclosed tariff costs:** $900M estimated (Q2 FY2025), $800M actual (Q3 FY2025, below estimate), $1.1B actual and $1.4B projected (Q4 FY2025/Q1 FY2026).
 
-**Tariff cost disclosure (transcript-sourced):** Q2 FY2025: $900M estimated, June quarter; Q3 FY2025: $800M actual (below $900M estimate), $1.1B forward estimate; Q4 FY2025: $1.1B actual (in line with estimate), $1.4B December quarter estimate.
+**Net cash trajectory (call-disclosed):** $57B (Q3 FY2023) → $65B (Q1 FY2024) → $58B (Q2 FY2024) → $45B (Q1 FY2025) → $35B (Q2 FY2025) → $31B (Q3 FY2025) → $34B (Q4 FY2025) → $54B (Q1 FY2026). The net cash position has contracted meaningfully from the FY2024 peak, driven by sustained buyback pace and the $11.9B EU state aid payment (Q1 FY2025).
+
+**AI/domestic infrastructure:** $500B U.S. investment commitment announced Q2 FY2025; revised to $600B in Q1 FY2026 without reconciliation. No CapEx/OpEx breakdown ever provided.
 
 ---
 
 ## FOG Patterns
 
-Five phrases recur with minimal variation across the full eight-quarter series:
+Cook's language has not improved across eight quarters. Specific phrases recur with minimal variation:
 
-1. **"We are as excited as we've ever been" / "I couldn't be more excited."** Present in every quarter without exception. Never accompanied by a falsifiable claim about what the excitement is based on.
+- **"I couldn't be more excited"** — appears in every quarter reviewed; Q4 FY2025 closing was "I couldn't be more excited for what's to come"
+- **"Incredible/extraordinarily strong"** applied to every product lineup — most explicitly circular in Q4 FY2025: asked why iPhone 17 is succeeding, Cook answered "the product lineup is incredibly strong, our strongest ever... the 17 Pro is the most pro phone we've ever done"
+- **"Transformative/revolutionary"** applied to Vision Pro (Q3 FY2023–Q1 FY2024) and then identically migrated to Apple Intelligence (Q3 FY2024–present); the word "transform" has appeared in some form in every quarter without a defined transformation metric
+- **"Our MO has always been to do work, then talk about work"** — deployed in Q1 FY2024 across three separate analyst questions as a pre-scripted AI deflection; the underlying posture has persisted even as the phrasing evolved
+- **"Well-positioned"** — standard Q&A closer on competitive positioning questions, cited in Q4 FY2023 and Q2 FY2024 FOG analysis; never accompanied by a specific positioning claim
+- **"Range of options"** — introduced in Q1 FY2026 as the complete answer to a direct question about memory inflation pricing strategy; no option named
+- **"Amazing things"** applied to developers — Q3 FY2024: "we can't wait to see what kind of amazing things they do with it"; Q1 FY2026 equivalent: "innovations that have never been seen before"
 
-2. **"Magical" / "revolutionary" / "years ahead of anything else."** Applied to Vision Pro (Q3 FY2023 through Q1 FY2025), Apple Watch double-tap (Q4 FY2023), and Apple Intelligence (Q3 FY2024 onward). No evidence ever offered.
-
-3. **"Our MO has always been to do work and then talk about work."** Used identically in Q1 FY2024 across two separate AI questions. Variants appear in Q2 FY2024 ("I don't want to get out in front of our announcements") and Q3 FY2024. Functions as a scripted deflection rather than a one-time deferral.
-
-4. **"We remain confident in the long-term opportunity."** Applied to China (Q4 FY2023 through Q1 FY2026, uninterrupted) without any disclosed competitive response to Huawei re-emergence. The phrase has appeared across at least six consecutive quarters with identical framing.
-
-5. **"Broad-based" / "nothing abnormal."** Parekh's response to the Services acceleration question in Q4 FY2025—"very broad-based, nothing abnormal at all, really pretty much all organic growth"—is the most flagrant instance. The phrase substitutes a category description for a causal explanation.
-
-**Linguistic precision trend: Degrading on strategic topics, stable on financial mechanics.** Parekh's CFO sections have maintained consistent quantitative specificity throughout the series, including improvements—the tariff disclosure methodology in Q2–Q4 FY2025 is the clearest example of improving financial precision. Cook's Q&A on contested topics has become *more* evasive over time, not less: the AI deflection evolved from "we'll share more later this year" (Q1 FY2024) to "it's a range of options" and "I wouldn't want to speculate on that one" (Q1 FY2026), signaling increasing resistance to forward-looking engagement as AI materiality grows.
+**Precision trend: degrading on strategic topics, stable on financial topics.** Parekh's language (since Q1 FY2025) is marginally cleaner than Maestri's was in the same role—the tariff disclosure framework (specific estimate, explicit assumption, caution against extrapolation) is the most disciplined forward-looking communication in the entire eight-quarter dataset. Cook's Q&A evasion density appears to have *increased* in proportion to the materiality of questions being asked—the Q1 FY2026 call, which contains the Google partnership announcement, generated more deflection per consequential question than any prior call.
 
 ---
 
 ## Flags & Risks
 
 **Data quality flags:**
-- Total equity declined quarter-over-quarter from Q1 FY2025 ($66,796M) to Q2 FY2025 ($65,830M). Recovered to $73,733M in Q3 FY2025 and $88,190M in Q4 FY2025. Equity trajectory appears tied to buyback pace and earnings cycle rather than structural impairment, but the Q1–Q2 decline warrants monitoring given the $110B+ buyback authorization.
-- Structured financial metrics unavailable for Q3 FY2023 through Q3 FY2024 (five quarters). All figures for those periods sourced from transcript narrative.
-- The "adjusted EPS" comparison in Q4 FY2025 ("up 13% YoY on an adjusted basis, excluding the onetime charge we recognized during Q4 FY2024") identifies a prior-year charge that is never named, sized, or explained in the call. Investors cannot evaluate the comparability without external research.
+- Structured financial metrics are absent for Q3 FY2023 through Q3 FY2024 (five quarters); analysis relies entirely on call-disclosed figures for those periods
+- The $500B vs. $600B U.S. investment figure discrepancy across consecutive calls has no disclosed reconciliation
+- Adjusted EPS comparison in Q4 FY2025 excludes a "onetime charge recognized during Q4 FY2024" that is never named, sized, or explained in prepared remarks or Q&A
+- Total equity grew from $65.8B (Q2 FY2025) to $88.2B (Q4 FY2025) in two quarters—a $22B swing that is not explained by retained earnings alone and warrants reconciliation
 
 **Communication-level risks, aggregated:**
-- **Personalized Siri perishable goal:** The commitment to deliver personalized Siri has appeared in some form across at least six consecutive quarters (Q3 FY2024 through Q1 FY2026) with no tightening of specification, no feature definition, and no accountability to prior-quarter language. This is the clearest perishable-goal pattern in the series.
-- **Google TAC/partnership opacity:** The Google search default relationship—estimated externally at $18–20B annually—has never been disclosed in absolute terms across any quarter in this series. The DOJ antitrust case was active from Q4 FY2023 onward; management responses have ranged from subject changes (Q4 FY2023) to explicit deflection labeled as such (Q4 FY2025). The Q1 FY2026 Google AI partnership announcement adds a second layer of undisclosed Google dependency with no commercial terms.
-- **China strategy stated as confidence, not plan:** "Confident in the long-term opportunity" appears without a disclosed competitive response to domestic Chinese vendors across every quarter since Q4 FY2023. Huawei's Mate 60 Pro launch predates this series and has never been named directly in any transcript.
-- **Apple Intelligence causality unsubstantiated:** Cook's claim that Apple Intelligence availability drove iPhone 16 outperformance (Q1 FY2025 through Q4 FY2025) is repeated across multiple quarters without any engagement metrics, A/B comparison by region, or upgrade-rate differential data. The correlation is asserted but not demonstrated.
-- **$500B/$600B investment figure without accountability structure:** The figure migrated from $500B (Q2 FY2025) to $600B (Q4 FY2025) without explanation of the revision. No CapEx/OpEx/COGS breakdown provided despite direct analyst questions in both quarters.
-- **Hybrid CapEx opacity:** Cook has acknowledged multiple times that Apple's AI infrastructure investment "shows up somewhere else" on partners' balance sheets. The magnitude, minimum purchase obligations, or exclusivity terms of these arrangements remain undisclosed across every relevant quarter.
+- **Perishable goal: personalized Siri.** Six consecutive quarters of "coming this year/next year" with no milestone, no feature definition, and no accountability to the prior quarter's identical statement. This is the clearest recurring unfalsifiable commitment in the dataset.
+- **Google partnership opacity.** The most strategically significant announcement in recent quarters—partnering with a competitor for foundational AI model capability—was disclosed without commercial terms, strategic rationale for selecting Google over alternatives, or implications for the existing OpenAI relationship. Cook explicitly declined to provide any of this.
+- **Google TAC/search relationship as an undisclosed material assumption.** Every quarter's guidance explicitly assumes "the current revenue share agreement with Google continues." The agreement is believed to represent approximately $18–20B annually but has never been confirmed or sized by Apple. A DOJ ruling, regulatory intervention, or renegotiation would create a discontinuity that investors cannot model because the baseline is undisclosed.
+- **Safari search decline evasion (Q3 FY2025).** A specific, material question about whether Safari's role as a search access point is eroding received a two-sentence non-answer. This question bears directly on the Google TAC relationship and on whether AI tools are cannibalizing Apple's most valuable distribution arrangement.
+- **AI CapEx opacity.** Cook has acknowledged that "a meaningful portion" of Apple's AI infrastructure cost "shows up somewhere else" (partner balance sheets), and that CapEx is growing "substantially"—but no figures have been provided in any quarter. The $600B commitment cannot be evaluated against capital allocation decisions because the allocation is undisclosed.
+- **China structural non-engagement.** Greater China has declined in multiple quarters. Cook has never addressed Huawei's re-emergence in the premium segment directly. The response to every China question is either channel inventory explanation or assertion of long-term confidence without a described strategy.
 
 ---
 
 ## Verify Next Quarter
 
-From Q1 FY2026 tracking commitments, the following should be checked at the April 2026 (Q2 FY2026) call:
+*(Based on Q1 FY2026 tracking commitments; verify at the April 2026 / Q2 FY2026 call)*
 
-1. **Supply constraint resolution.** Cook described Apple as in "supply chase mode" on iPhone 17 due to three-nanometer node constraints. The March quarter guidance of 13–16% revenue growth "comprehends constrained iPhone supply." Verify: Did constraints persist through March? Was the constrained revenue shortfall quantified in retrospect? Did Cook provide a supply/demand balance timeline?
+1. **Supply constraint resolution.** Cook described "supply chase mode" on three-nanometer iPhone capacity and guided 13–16% March quarter revenue growth "comprehending constrained supply." Check: Did constraints persist? Was the constrained revenue quantified in retrospect? Did management disclose when supply/demand balanced?
 
-2. **Memory inflation impact on Q2 gross margin.** Parekh confirmed memory pricing is "increasing significantly" beyond Q1 and will be "a bit more of an impact to Q2." The Q2 call must disclose the actual memory headwind in gross margin and whether any of the "range of options" was executed—LTAs, spot market adjustments, or consumer price increases.
+2. **Memory inflation impact quantification.** Parekh confirmed memory will be "a bit more of an impact to Q2 gross margin" and that pricing is "increasing significantly" beyond Q2. Check: What was the actual Q2 memory headwind in basis points? Was any hedging, LTA, or pricing action taken from the "range of options" Cook referenced?
 
-3. **Personalized Siri timing: any tightening.** Cook committed to "a more personalized Siri coming this year" (CY2026). The April call should show either a product announcement, a developer beta, or a narrower timeline. If the language is repeated verbatim with no new specificity, this is the fourth or fifth consecutive perishable-goal instance and should be flagged explicitly.
+3. **Personalized Siri — any tightening of commitment.** The April call is the first opportunity in calendar 2026 to assess whether "coming this year" has a date, a feature definition, a regional rollout order, or any specification beyond the prior six quarters' identical language. If the phrase repeats verbatim, record as accountability failure #7.
 
-4. **App Store growth reconciliation.** Parekh declined to address the gap between third-party estimates (~7% App Store growth) and the reported 14% Services figure, citing a policy of no sub-category disclosure. If this gap widens or persists, watch whether regulatory filings, Google's own earnings calls, or DMA compliance reports force more granularity.
+4. **China return to growth.** Cook stated explicitly: "We do believe that we'll return to growth in Q1." This is the only specific, falsifiable geographic prediction in the dataset. Check Greater China revenue for the December quarter directly against this commitment.
 
-5. **Google AI partnership terms.** Cook declined to disclose commercial terms. Monitor Google's Q1 2026 earnings call (likely February 2026), any SEC filings referencing the arrangement, and DMA/EU compliance submissions for disclosure that Apple's call did not provide—particularly revenue share, exclusivity terms, or minimum guarantees.
+5. **Google partnership terms.** Cook declined all commercial disclosure. Monitor Google's own Q4 2025 / Q1 2026 earnings calls, any SEC filings referencing the arrangement, and regulatory submissions in the EU or UK that might require disclosure of revenue-sharing or exclusivity terms.
+
+6. **Services acceleration driver identification.** Services grew 15% YoY in Q4 FY2025, described as "very broad-based" with "nothing abnormal at all." If Q2 services continues at 14%+ growth, management should by now be able to identify which categories are driving acceleration. Absence of category-level explanation at that point shifts from disclosure conservatism to active opacity.

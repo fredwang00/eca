@@ -1,154 +1,132 @@
-# Target Corporation (TGT) — Earnings Call Intelligence Brief
+# Target Corporation (TGT) — Earnings Call Brief
 
 ---
 
 ## Candor Trajectory
 
-| Quarter | Score | Grade |
-|---------|-------|-------|
-| Q1 2023 | 2.40 | C+ |
-| Q3 2023 | 2.40 | C+ |
-| Q4 2023 (FCM) | 2.30 | C+ |
-| Q1 2024 | 2.00 | C |
-| Q2 2024 | 2.55 | B |
-| Q3 2024 | 2.55 | C+ |
-| Q2 2025 | 2.40 | C+ |
-| Q3 2025 | 2.55 | C+ |
-| Q4 2025 (FCM) | 2.80 | B |
+**Grade progression:** C+ (Q1 2023, 2.40) → C+ (Q3 2023, 2.40) → C+ (Q4 2023, 2.30) → C (Q1 2024, 2.00) → B (Q2 2024, 2.55) → C+ (Q3 2024, 2.55) → C+ (Q4 2024, 2.55) → C+ (Q1 2025, 2.55) → C+ (Q2 2025, 2.40) → C+ (Q3 2025, 2.55) → B (Q4 2025, 2.80) → B (Q1 2026, 3.075) → B (Q2 2026, 2.80)
 
-**Direction: Mildly improving with significant volatility.** The trough was Q1 2024 (2.00), driven by near-total absence of financial specificity and a price investment announcement with no disclosed cost, scope, or payback. The inflection point was Q2 2024, when Fiddelke's financial section delivered precise, forward-looking shrink decomposition and sortation center metrics. The most recent FCM (Q4 2025, 2.80) is the series high—propelled by Cara Sylvester's unhedged problem disclosure and Lee's mechanical phasing explanation—but FOG in prepared remarks and tariff deflection prevent it from clearing B+. The pattern across all quarters is a consistent dimension split: Financial Candor and Stakeholder Balance hold at B; Strategic Clarity and FOG hold at C. No quarter has broken that structure.
+**Direction:** Gradually improving, with two notable inflection points and one trough.
+
+- **Trough — Q1 2024 (2.00):** The lowest composite in the series. A price investment program affecting thousands of SKUs was disclosed without quantification of cost, scope, or vendor co-funding. Q2 positive comp recovery was stated four times with no mechanism. The relay-answer Q&A architecture diffused accountability. Financial candor, strategic clarity, and stakeholder balance all graded C simultaneously for the only time in the series.
+
+- **First inflection — Q2 2024 (2.55):** Fiddelke's shrink decomposition (Q2 vs. Q3 vs. Q4 expected impact, with specific basis points) and sortation center unit economics (20% lower delivery cost, 60,000 packages/day capacity by 2028) introduced multi-period, falsifiable financial disclosure that had been absent. CFO Lee's debut call in Q3 2024 extended this trajectory.
+
+- **Second inflection — Q4 2025/Q1 2026 (2.80, 3.075):** The CEO transition to Fiddelke, combined with Sylvester's direct first-person accountability ("Our performance over the last few years has not met expectations, and that is on us"), and Fiddelke's voluntary two-year comp disclosure ("3.7% higher than Q1 2024... well below the level of 2-year growth we aspire to deliver") produced the first scores above 2.6 in the series. Dimension 2 (Strategic Clarity) reached B for the first time in Q4 2025 and Q1 2026.
+
+- **Q2 2026 (2.80):** A large tariff refund ($994M pretax, $1.65 EPS impact) creates noise; Lee proactively disaggregated it, which is a genuine candor positive. FOG in prepared remarks held the composite below Q1 2026. A revenue figure discrepancy (management-cited $26.5B vs. ground truth $25.443B) is an unresolved verification flag.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-None. Target has disclosed no contracts with named counterparties, specific dollar values, or binding terms across this call history. The Ulta Beauty partnership termination (Q2 2025) and its August 2026 expiration are the closest analog—a named counterparty with a disclosed end date—but represent a relationship conclusion, not a receivable.
+No named third-party contracts with disclosed values and binding terms were surfaced across any quarter. The following have named counterparties and specific operational terms disclosed:
+- **Ulta Beauty partnership (termination):** Contract expiration confirmed as August 2026. Space repurposing underway. Named counterparty, specific date.
+- **OpenAI and Google Gemini AI partnerships:** Named in Q2 2026 as active technology partnerships. No financial terms disclosed.
+- **Marks & Spencer, Hearth & Hand, Studio McGee, Diane von Furstenberg, Champion, Disney, Marvel, Universal Studios, Marriott Bonvoy:** Named as brand or product partners across multiple quarters. No revenue splits, minimum guarantees, or contract values disclosed.
 
 ### Aspirational
-The following claims lack counterparty names, dollar obligations, or binding terms:
-
-- **$15 billion in incremental revenue over five years** (introduced Q4 2023 FCM, never decomposed by category, year, or assumption; surfaced only via analyst question in Q2 2025; not updated in Q4 2025 FCM)
-- **$2–3 billion in efficiency savings** (Q4 2023 FCM, $500M described as "a down payment," no annual cadence or timeline disclosed across any subsequent quarter)
-- **6% EBIT margin target** (introduced Q1 2023, deflected at Q4 2023 FCM, never explicitly retired—Gutman asked directly in Q4 2025 and received no acknowledgment)
-- **Target Circle 360 membership "more than triple" over three years** (Q4 2024 FCM, no baseline count disclosed, no annual milestone)
-- **Target Plus GMV of $5 billion by 2030** (Q4 2024 FCM; Q2 2025 disclosed >20% GMV growth with no current-year absolute figure)
-- **China sourcing below 25% by end of 2026** (Q1 2025, from 30% current; falsifiable but no interim checkpoint disclosed)
-- **~2% comp sales growth in FY2026** (Q4 2025 FCM, qualitative, no category decomposition)
-- **Operating margin ~4.8% in FY2026** (~4.6% + ~20 bps; no timeline to pre-pandemic levels)
-- **Enterprise Acceleration Office deliverables** (announced Q1 2025 with zero specificity; deferred to "over time" by Fiddelke)
+- **$15 billion in incremental revenue over five years** (introduced Q4 2024 Financial Community Meeting, repeated through Q2 2026): Never decomposed by category, year, or initiative. Surfaced only when analysts raised it in Q2 2025; management did not proactively revisit.
+- **Target Plus GMV of $5 billion by 2030** (Q1 2025): Q1 2026 reported 60% GMV growth YoY but disclosed no absolute dollar baseline, making progress unmeasurable from public information.
+- **Target Circle 360 membership "more than triple" over three years** (Q4 2024): Q4 2025 confirmed membership "doubled." No membership count disclosed in any quarter.
+- **300 new stores by 2035** (Q1 2026): Directional, no annual cadence or by-year targets disclosed.
+- **China sourcing below 25% by end of 2026** (Q1 2025, Gomez): Named target with specific date—the most falsifiable sourcing claim in the series.
+- **"Offset the vast majority of incremental tariff exposure"** (Q1 2025): No quantification of exposure baseline or offset mechanism.
+- **Beauty Studio in 600+ stores beginning September 2026** (Q2 2026): Store-count and timing specific; verifiable in Q3.
+- **Threshold relaunch in 200 stores** and **75% of decorative accessories overhauled by June 2026** (Q4 2025): Date-bound but no verification disclosed in subsequent calls.
 
 ---
 
 ## Capital Figures
 
-Figures are drawn from structured financial data in the analyses. No figures inferred from narrative.
+All figures sourced from structured financial data where provided; call-disclosed figures noted separately.
 
-| Quarter | Metric | Value |
-|---------|--------|-------|
-| Q3 2023 | CapEx (full year) | ~$5B actual; $3–4B guided for next year |
-| Q4 2023 FCM | Roundel revenue | ~$1.5B "total value" (partially gross margin) |
-| Q2 2024 | Gross margin rate | 28.9% (+190 bps YoY) |
-| Q2 2024 | Operating margin rate | 6.4% (+160 bps YoY) |
-| Q2 2024 | ROIC (trailing 12M) | 16.6% |
-| Q2 2024 | Dividends paid | $509M |
-| Q2 2024 | Share repurchases | $155M |
-| Q2 2024 | CapEx (H1 actual) | $1.3B vs. $3–4B full-year target |
-| Q3 2024 | Operating margin rate | 4.6% (down ~60 bps YoY) |
-| Q3 2024 | ROIC (trailing 12M) | 15.9% |
-| Q3 2024 | Dividends paid (YTD) | $516M |
-| Q3 2024 | Share repurchases (YTD) | $354M |
-| Q3 2024 | CapEx (YTD) | ~$2B vs. $3–4B full-year target |
-| Q3 2024 | Q4 EPS guidance | $1.85–$2.45 |
-| Q3 2024 | Full-year EPS guidance | $8.30–$8.90 |
-| Q4 2024 FCM | Q4 adjusted EPS (actual) | $2.41 (near high end of $1.85–$2.45 range) |
-| Q4 2024 FCM | Full-year comp growth (adj. 53rd week) | ~1% |
-| Q4 2024 FCM | Full-year EPS growth (adj. 53rd week) | ~3% |
-| Q4 2024 FCM | Target Plus GMV | $1B+, growing >35% in 2024; >40% in Q4 |
-| Q4 2024 FCM | Shrink headwind (2019–2023) | ~120 bps lost; ~40 bps recovered in 2024 |
-| Q4 2024 FCM | FY2025 guidance | ~1% net sales growth, flat comps, adj. EPS $8.80–$9.80 |
-| Q1 2025 | Comp sales | -3.8% |
-| Q1 2025 | Traffic | -2.4% |
-| Q1 2025 | Average ticket | -1.4% |
-| Q1 2025 | Gross margin rate | 28.2% (down ~60 bps) |
-| Q1 2025 | SG&A rate (ex-litigation) | 21.7% (up ~70 bps) |
-| Q1 2025 | Adjusted EPS | $1.30 vs. $2.03 prior year |
-| Q1 2025 | CapEx | $790M in Q1 |
-| Q1 2025 | Dividends paid | $510M |
-| Q1 2025 | Share repurchases | ~$250M (suspended April) |
-| Q1 2025 | Full-year adj. EPS guidance | $7.00–$9.00 |
-| Q2 2025 | Gross margin rate | Down 100 bps YoY (210 bps merchandising pressure; 130 bps shrink offset) |
-| Q2 2025 | ROIC (trailing 12M) | 14.3% |
-| Q2 2025 | Inventory (ending) | Up ~2%; units down low single digits |
-| Q2 2025 | CapEx (deployed YTD) | $1.9B |
-| Q3 2025 | Net sales | Down 1.5% |
-| Q3 2025 | Comparable store sales | Down ~4% |
-| Q3 2025 | Digital comps | +2.4% |
-| Q3 2025 | Gross margin rate | 28.2% (down ~10 bps) |
-| Q3 2025 | SG&A rate | 21.9% (up ~60 bps; 60 bps one-time transformation costs) |
-| Q3 2025 | GAAP EPS | $1.51 vs. $1.85 prior year |
-| Q3 2025 | Adjusted EPS | $1.78 |
-| Q3 2025 | Share repurchases (Q3) | $150M (resumed after Q2 suspension) |
-| Q3 2025 | HQ restructuring savings | $180M annualized |
-| Q3 2025 | Full-year adj. EPS guidance (narrowed) | $7.00–$8.00 (bottom half of prior range) |
-| Q3 2025 | FY2026 CapEx guided | ~$5B |
-| Q4 2025 FCM | FY2025 adjusted operating margin | 4.6% |
-| Q4 2025 FCM | Shrink improvement (FY2025) | ~90 bps |
-| Q4 2025 FCM | FY2026 GAAP EPS guidance | $7.50–$8.50 |
-| Q4 2025 FCM | Same-day delivery | Up >30% YoY; >$14B in sales |
-| Q4 2025 FCM | Target Circle 360 | Membership doubled YoY |
-| Q4 2025 FCM | FY2026 CapEx | ~$5B |
-| Q4 2025 FCM | Q1 FY2026 EPS guidance | Flat to up slightly from $1.30 |
-| Q4 2025 FCM | FY2026 net sales growth | ~2% |
-| Q4 2025 FCM | FY2026 operating margin | ~4.8% (~4.6% + ~20 bps) |
+| Quarter | Revenue | CapEx | Operating Income | Free Cash Flow | Cash |
+|---|---|---|---|---|---|
+| Q3 2025 | $25,211M | $1,074M | $1,317M | $1,009M | $4,341M |
+| Q4 2025 | $25,270M | $978M | $948M | $149M | $3,822M |
+| Q1 2026 | $30,453M | $885M | $1,380M | $2,192M | $5,488M |
+| Q2 2026 | $25,443M | $1,035M | $1,135M | -$319M | $3,534M |
+
+**Call-disclosed figures without structured data confirmation:**
+- Q3 2023: CapEx "almost $5 billion this year," guided to "$3–$4 billion next year."
+- Q2 2024: Gross margin 28.9% (+190 bps), ROIC 16.6%, dividends $509M, buybacks $155M, H1 CapEx $1.3B against $3–4B full-year target.
+- Q3 2024: Operating margin 4.6%, ROIC 15.9%, dividends $516M, buybacks $354M, YTD CapEx ~$2B. Q4 EPS guidance $1.85–$2.45.
+- Q4 2024: Full-year adjusted EPS $8.80–$9.80; Q1 EPS "flat to up slightly" from $1.30.
+- Q1 2025: CapEx $790M, dividends $510M, buybacks ~$250M (suspended April). Adjusted EPS $1.30 vs. $2.03 prior year. Full-year EPS guidance $7–$9.
+- Q4 2025: Adjusted operating margin 4.6%, shrink +40 bps benefit. Full-year guidance: ~1% net sales growth, flat comps, adjusted EPS $8.80–$9.80.
+- Q1 2026: Net sales $25.4B (per call), comp +5.6%, traffic +4.4%, gross margin 29.0% (+80 bps), adjusted EPS $1.71 (+32% YoY), dividends $516M, CapEx ~$1B Q1. Full-year EPS "near high end" of $7.50–$8.50.
+- Q2 2026: Call-cited net sales $26.5B (**discrepancy: ground truth $25.443B — unresolved**), comp +3.8%, gross margin 33.7% (includes $994M tariff refund), adjusted EPS $4.11 (ex-refund EPS +20% YoY), YTD CapEx $2.4B, dividends $518M. ROIC 15.4% vs. 14.3% prior year.
+
+**FCF flag:** Q2 2026 FCF is -$319M against $5B annual CapEx guidance. Neither figure was disclosed in the call's prepared remarks. The negative FCF at peak investment cycle was not addressed.
 
 ---
 
 ## FOG Patterns
 
-**Persistent phrases across multiple quarters (degrading only in volume, never eliminated):**
+**Persistent phrases across the full series:**
 
-- **"Laser-focused"** — Q1 2023, Q2 2025, Q3 2025, Q4 2025 FCM. Used as a conviction signal each time; never paired with a falsifiable target.
-- **"Play the long game" / "long-term"** — Every quarter. Deployed specifically to deflect analyst pressure on near-term accountability (explicitly used to resist strategic change questions in Q3 2024).
-- **"Green shoots"** — Q3 2024 (at least four instances in Q&A), Q4 2024 FCM. No specific shoots identified; used as optimism without evidence.
-- **"Being Target" / "Target is Target"** — Q3 2024 and Q4 2025 FCM. Used as strategic answer to questions about competitive differentiation. Tautological.
-- **"Delight" / "joy"** — Every quarter; elevated to formal "strategic filter" status in Q4 2025 FCM without a measurement mechanism.
-- **"More to come"** — Q3 2023, Q1 2024, Q1 2025, Q3 2025. Used to defer capital decomposition, 2024 margin framework, Acceleration Office specifics, and 2026 targets.
-- **"Tar-zhay magic" / brand mythology** — Q4 2024 FCM, Q1 2025, Q2 2025. Self-referential brand narrative substituting for competitive logic; concentrated in CEO/CMO prepared remarks.
+1. **"Laser-focused":** Appears in Q1 2023 ("laser-focused on improving traffic"), Q4 2024 ("laser-focused on making sure we get the right value"), Q3 2025 ("laser-focused on strengthening our foundation"), Q4 2025, and Q2 2026. Never accompanied by a metric defining what "focused" means in measurable terms.
 
-**Linguistic precision trend:** Marginally improving in financial/operational sections (Fiddelke, then Lee), stable-to-declining in CEO and CMO prepared remarks. The CFO rotation (Fiddelke → Lee) produced a noticeable precision improvement in the financial segment starting Q3 2024. CEO prepared remarks have not followed suit. The Q2 2025 call introduced the pattern of verbatim Q&A repetition—Fiddelke gave near-identical new-store anecdotes in response to two different analyst questions—which is a structural deflection signal.
+2. **"Being Target" / "Target being Target":** The clearest escalating FOG pattern. Introduced in Q3 2024 ("we've got to continue to make sure Target is being Target"), repeated verbatim across Cornell and Lee in the same Q&A, then persisted through Q1 2025 and Q3 2025. Used as a strategic response to direct questions about what Target needs to do differently. Defined nowhere.
+
+3. **"Green shoots":** Used at least four times in Q3 2024 alone. Functions as a confidence assertion without specifying which categories, what growth rates, or over what timeline.
+
+4. **"More to come" / "We'll unpack more at [future event]":** Systematic deferral pattern. CapEx composition deferred to March 2024; 2024 margin framework deferred to March 2024; accountability timeline deferred to March 2026. Each instance substitutes a promised future disclosure for a present one. The March events have historically delivered directional content without the quantitative specificity that was promised.
+
+5. **"Delight" / "joy" / "magical":** Aspirational language appearing in virtually every quarter: "affordable joy" (Q1 2023), "everyday discovery and delight" (Q1 2025, Q2 2025, Q3 2025), "delight is a critical filter" (Q4 2025), "joyful shopping experience" (Q2 2026). Described as a strategic filter in Q4 2025 without any measurement mechanism.
+
+6. **"Play the long game":** Deployed in Q3 2024 and Q1 2025 as a response to analyst pressure about whether the current approach should change. Functions as implied critic-dismissal without engaging the specific concern.
+
+**Trajectory:** Linguistic precision improved modestly in Q4 2025 and Q1 2026 — CFO Lee's quarterly disclosures became more specific, Sylvester's direct accountability statement marked genuine progress, and Fiddelke's two-year comp concession was a notable departure from the usual promotional register. However, prepared remarks continued carrying high FOG loads through Q2 2026, and "delight" has now been institutionalized as an unoperationalized strategic filter. The FOG grade has not exceeded C in any quarter.
 
 ---
 
 ## Flags & Risks
 
-**Data quality / structural flags:**
-- Free cash flow is never disclosed as a standalone figure across any quarter, despite buyback resumption being cited as a capital return milestone in Q2 2024 and Q3 2025.
-- ROIC has declined from 16.6% (Q2 2024) to 14.3% (Q2 2025) across the period, while management simultaneously describes ROIC targets of "high teens"—a widening gap with no explicit acknowledgment.
-- The $2–3 billion efficiency savings program has been cited for six quarters without a single annual progress disclosure. No cumulative tally, no bucket decomposition, no timeline.
+**Data quality and structural flags:**
+
+- **Revenue discrepancy, Q2 2026:** Management cited $26.5B in net sales; ground truth is $25.443B, a gap of ~$1.06B. Management cited 9.6% operating margin, implying ~$2.5B operating income; ground truth is $1.135B. These figures are not reconcilable without understanding the precise metric definitions. This is the most significant factual discrepancy in the series and requires 10-Q verification.
+
+- **Free cash flow negative, Q2 2026 (-$319M):** Not disclosed in the call. With $5B annual CapEx guidance and operating cash flow of $716M, the balance sheet is absorbing the investment cycle. Dividend ($518M Q2) and potential buybacks are being funded partly from the balance sheet rather than operations at this stage.
+
+- **Cash declining from Q1 to Q2 2026:** $5,488M → $3,534M, a $1.95B reduction in one quarter, consistent with the negative FCF.
+
+- **Tariff refund one-time item normalization:** $994M pretax Q2 refund recorded as a Cost of Sales reduction. More refunds expected per Lee. No commitment to consistent exclusion from adjusted metrics going forward. Risk of cumulative refunds distorting YoY comparisons.
+
+- **The 6% EBIT margin target (introduced pre-2023, referenced through Q1 2024):** Directly questioned by Gutman at Q4 2024 Financial Community Meeting. Lee pivoted without confirming, denying, or explaining its status. Never reappeared in subsequent calls. Classic "perishable goal" — retired without acknowledgment.
+
+- **Roundel disclosure:** Cited as a growth driver across every quarter. "$1.5 billion of value in total" (Q4 2023) was never decomposed. "Mid-teens" and "~20%" growth rates cited inconsistently. No absolute revenue figure disclosed in any quarter.
+
+- **Unquantified cost surprises, Q3 2024:** General liability and health care costs described as material SG&A headwinds. Two separate analysts requested quantification; both received category descriptions rather than dollar amounts or basis points. Whether these costs normalized was never confirmed.
 
 **Communication-level risks:**
-- **Perishable goal pattern confirmed.** The 6% EBIT target (introduced Q1 2023, deflected Q4 2023, never revisited, directly questioned Q4 2025 without acknowledgment) is the clearest instance. The $15 billion revenue target and $2–3 billion savings program are at elevated perishable-goal risk.
-- **Tariff deflection is categorical.** In Q1 2025, Q2 2025, and Q4 2025, direct questions seeking quantified tariff margin impact received team-confidence answers rather than scenario data. This is now a three-quarter pattern.
-- **Guidance raised, then lowered, without post-mortem.** Q3 2024 guidance was raised at Q2 2024 and subsequently reduced. The call contained no reconciliation of what management believed at raise-time versus what occurred.
-- **Enterprise Acceleration Office disclosure gap.** Announced Q1 2025 without goals, metrics, or timeline; deferred to "over time." Not substantively addressed in Q2 2025 or Q3 2025. March 2026 FCM did not include an explicit scorecard.
-- **Belonging/DEI headwind named, not analyzed.** Cornell cited it in Q1 2025 as a traffic headwind and immediately moved on. No sizing, no follow-up in subsequent quarters.
-- **Ulta Beauty contract expires August 2026.** Gomez flagged this in Q3 2025 as a material space and traffic risk with teams "working really hard" on replacement. No specific replacement strategy has been disclosed.
+
+- The "perishable goal" pattern is structural: $6% EBIT target retired silently; $2–3B savings program mentioned once and never revisited; Q4 2023's "10,000 new items" holiday claim not benchmarked in subsequent calls; "1 plus 1 plus 1 equals 10" comp decomposition formulation was explicitly offered as a substitute for answering a direct question.
+
+- The Enterprise Acceleration Office (Q1 2025) and the "new chapter" framing (Q4 2025) each introduced organizational vocabulary without reconciling what prior priorities they replaced or how prior initiatives performed.
+
+- Guidance reliability: Target raised Q3 2024 guidance then lowered full-year guidance in the same quarter. Q4 2024 range was $0.60 wide (~30% of midpoint). Full-year 2025 range was $2.00 wide (~25% of base). Q1 2026 call declined to narrow the annual range after a beat. Wide ranges have been a consistent feature of guidance communication over the past five quarters.
 
 ---
 
-## Verify Next Quarter
+## Verify Next Quarter (Q3 2026)
 
-The following commitments from Q4 2025 FCM must be checked when Q1 FY2026 results drop:
+From the Q2 2026 tracking commitments and unresolved prior flags:
 
-1. **Q1 FY2026 EPS: "flat to up slightly" from $1.30 adjusted.** This is the single most precise near-term numerical commitment in the series. Any result materially below $1.30 requires pressure-testing the H1/H2 phasing rationale Lee disclosed.
+1. **Revenue reconciliation:** Verify whether management's $26.5B Q2 net sales figure reconciles to GAAP reported revenue of $25.443B when the 10-Q is available. If irreconcilable, identify what management is including that GAAP excludes.
 
-2. **Tariff quantification.** Three quarters of "confident in our team" deflection in response to margin-impact questions. Q1 2026 will contain at least one full quarter of actual tariff absorption. If Q1 call again declines to quantify impact in dollars or basis points, this is a four-quarter evasion pattern—not a timing deferral.
+2. **Target Beauty Studio launch:** Management committed to 600+ stores "beginning next month" (September 2026). Q3 call must confirm actual store count at launch, not just that the rollout is "underway."
 
-3. **Merchandising execution milestones.** Sylvester committed to three date-bound deliverables: 75% of decorative accessories overhauled by June 2026; Threshold relaunched in 200 stores starting this summer; Beauty Studio in 600 stores by fall 2026. Q1 call should confirm June milestone; Q2 call should confirm both summer and fall.
+3. **Share repurchase resumption:** Lee stated H2 capacity for buybacks "within middle A credit rating limits." Confirm whether any repurchases occurred in Q3, the dollar amount, and whether the credit rating constraint was invoked.
 
-4. **Traffic trend.** Fiddelke linked February 2026 top-line growth to traffic improvement. Q1 results will confirm whether traffic inflected to positive and whether the improvement is category-specific or broad-based.
+4. **Tariff refunds — additional amounts:** Lee said "we do expect some more to come." Q3 must disclose the magnitude of any additional refunds and confirm they are disclosed separately from adjusted operating results.
 
-5. **6% EBIT target status.** If this commitment does not reappear with an explicit explanation—confirmation it remains active, revision with a new baseline, or formal retirement—by Q2 FY2026, it should be permanently logged as a retired commitment under the perishable goal pattern.
+5. **Home and apparel trajectory:** Q2 cited "flattish growth" as unacceptable. Bedding, kids-home, and bath changes were flagged for Q3 launch. Confirm whether these categories produced measurable comp improvement, or whether "2027 and beyond" remains the placeholder.
 
-6. **FUN 101 and Enterprise Acceleration Office updates.** Q3 2025 committed to specific deliverables at the March 2026 FCM; the FCM did not include an explicit scorecard. Q1 call should be checked for whether these programs produce falsifiable milestones or continue to be described in motivational terms.
+6. **Free cash flow — H2 recovery:** With -$319M FCF in Q2 and $5B annual CapEx, Q3 operating cash generation and FCF must be disclosed in prepared remarks (not just derivable from the press release). Assess whether the balance sheet can sustain both dividends and buybacks without leverage deterioration.
+
+7. **FUN 101 / toy category momentum:** Cited as comp of "nearly 10%" in Q3 2025 and sustained through Q2 2026. Verify whether this category maintains momentum entering the holiday season or whether it was driven by a single product cycle.
+
+8. **China sourcing below 25% target by end of 2026:** Gomez's Q1 2025 commitment. Q3 should provide an update on current China sourcing percentage as year-end approaches.

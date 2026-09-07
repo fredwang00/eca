@@ -1,0 +1,50 @@
+{
+  "ticker": "EOSE",
+  "quarter": "Q1 2026",
+  "company": "Eos Energy Enterprises, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 57.0,
+    "gross_profit_m": -44.4,
+    "operating_income_m": -79.2,
+    "net_income_m": 508.9,
+    "eps": 2.43,
+    "total_equity_m": -868.4,
+    "total_assets_m": 799.3,
+    "cash_and_equivalents_m": 410.7,
+    "shares_outstanding_m": 339.46,
+    "free_cash_flow_m": -154.9,
+    "operating_cash_flow_m": -119.7,
+    "capital_expenditure_m": -35.1,
+    "bvps": -2.56
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "D",
+    "dim2_grade": "C",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 1.9,
+    "composite_grade": "C"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "weak",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We are expanding our manufacturing footprint in the same Pennsylvania industrial corridor... initial production is on track for the end of Q2, and we expect full production to occur in Q4.",
+      "pricing_power": "Average pricing in the pipeline reflects the project mix, with an increased percentage of large-scale and Indensity deployments where unit economics improve with project size.",
+      "management_tone_shift": "The commercial pipeline we are addressing now stands at over 100 gigawatt hours... 55% of that pipeline is at 8-hour plus duration. That is the market segment where Eos competes both on physics and on the economics."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

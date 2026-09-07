@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "PLTR",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-06",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 1406.8,
@@ -77,6 +77,36 @@
       "operating_cash_flow_m": 460.3,
       "capital_expenditure_m": -3.1,
       "bvps": 2.14
+    },
+    "Q2 2026": {
+      "revenue_m": 1935.5,
+      "gross_profit_m": 1638.6,
+      "operating_income_m": 912.0,
+      "net_income_m": 1061.9,
+      "eps": 0.44,
+      "total_equity_m": 9774.2,
+      "total_assets_m": 11678.6,
+      "cash_and_equivalents_m": 2030.0,
+      "shares_outstanding_m": 2402.9,
+      "free_cash_flow_m": 1201.6,
+      "operating_cash_flow_m": 1216.2,
+      "capital_expenditure_m": -14.6,
+      "bvps": 4.07
+    },
+    "Q1 2026": {
+      "revenue_m": 1632.6,
+      "gross_profit_m": 1416.8,
+      "operating_income_m": 754.0,
+      "net_income_m": 870.5,
+      "eps": 0.36,
+      "total_equity_m": 8449.7,
+      "total_assets_m": 10199.2,
+      "cash_and_equivalents_m": 2291.6,
+      "shares_outstanding_m": 2397.13,
+      "free_cash_flow_m": 891.8,
+      "operating_cash_flow_m": 899.2,
+      "capital_expenditure_m": -7.4,
+      "bvps": 3.52
     }
   }
 }

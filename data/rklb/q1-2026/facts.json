@@ -1,0 +1,50 @@
+{
+  "ticker": "RKLB",
+  "quarter": "Q1 2026",
+  "company": "Rocket Lab USA, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 200.3,
+    "gross_profit_m": 76.5,
+    "operating_income_m": -56.0,
+    "net_income_m": -45.0,
+    "eps": -0.07,
+    "total_equity_m": 2264.4,
+    "total_assets_m": 2819.9,
+    "cash_and_equivalents_m": 1205.5,
+    "shares_outstanding_m": 621.72,
+    "free_cash_flow_m": -77.4,
+    "operating_cash_flow_m": -50.3,
+    "capital_expenditure_m": -27.1,
+    "bvps": 3.64
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "A-",
+    "dim3_grade": "C+",
+    "dim4_grade": "B",
+    "dim5_grade": "A-",
+    "composite_score": 3.0,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "As we progress towards Neutron's first flight, we expect capital expenditures to remain elevated as we invest in testing, production scaling and infrastructure expansion.",
+      "pricing_power": "I'm not discounting flights just to fill up a manifest... pricing for these Neutron and Electron launches are very much in family with our commercial rates.",
+      "management_tone_shift": "This quarter has been phenomenal, the strongest Q1 in Rocket Lab's history. We've blown through the ceilings across all of the most important metrics."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}

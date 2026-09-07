@@ -1,0 +1,50 @@
+{
+  "ticker": "EOSE",
+  "quarter": "Q4 2025",
+  "company": "Eos Energy Enterprises, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-06",
+    "revenue_m": 58.0,
+    "gross_profit_m": -54.4,
+    "operating_income_m": -80.8,
+    "net_income_m": -120.5,
+    "eps": -0.84,
+    "total_equity_m": -2238.9,
+    "total_assets_m": 885.2,
+    "cash_and_equivalents_m": 568.0,
+    "shares_outstanding_m": 337.13,
+    "free_cash_flow_m": -75.2,
+    "operating_cash_flow_m": -50.3,
+    "capital_expenditure_m": -25.0,
+    "bvps": -6.64
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-06",
+    "skill_version": "base",
+    "dim1_grade": "C+",
+    "dim2_grade": "B-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.52,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "capex_direction": "We expect equipment to begin arriving in Q2 with fully automated production targeted in Q4... Line 2 is progressing well and is preparing for factory acceptance testing in Wisconsin.",
+      "pricing_power": "We sell on a levelized cost of storage basis, which is a little bit higher on the CapEx side, but a lot lower on the operating cost side, and that's what the customers evaluate to make their purchasing decision.",
+      "management_tone_shift": "We tried to really look at how we can change our discipline as a company... coming in with something that we can manage to over time... a degree of difficulty that's a 10."
+    },
+    "extracted_at": "2026-09-06"
+  }
+}
