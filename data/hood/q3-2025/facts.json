@@ -29,5 +29,23 @@
       "management_tone_shift": "We are not slowing down. The team remains incredibly excited to continue our mission, and there's so much to do. Roadmap is full."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1274.0,
+    "gross_profit_m": 1105.0,
+    "operating_income_m": 635.0,
+    "net_income_m": 556.0,
+    "eps": 0.63,
+    "total_equity_m": 8567.0,
+    "total_assets_m": 41452.0,
+    "cash_and_equivalents_m": 4331.0,
+    "shares_outstanding_m": 898.67,
+    "free_cash_flow_m": -1588.0,
+    "operating_cash_flow_m": -1576.0,
+    "capital_expenditure_m": -12.0,
+    "bvps": 9.53
+  },
+  "flags": []
 }

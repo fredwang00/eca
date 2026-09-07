@@ -30,5 +30,23 @@
       "management_tone_shift": "Revenue grew 27% in Q1 this year, 31% in Q2 and 32% in Q3. At the same time, free cash flow margin has held steady at 15% in Q1 to 16% in Q2 and 18% again in Q3."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 2844.0,
+    "gross_profit_m": 1391.0,
+    "operating_income_m": 491.0,
+    "net_income_m": 264.0,
+    "eps": 0.2,
+    "total_equity_m": 12511.0,
+    "total_assets_m": 15039.0,
+    "cash_and_equivalents_m": 2414.0,
+    "shares_outstanding_m": 1301.28,
+    "free_cash_flow_m": 507.0,
+    "operating_cash_flow_m": 513.0,
+    "capital_expenditure_m": -6.0,
+    "bvps": 9.61
+  },
+  "flags": []
 }

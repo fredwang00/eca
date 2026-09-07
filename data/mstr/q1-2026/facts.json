@@ -1,0 +1,50 @@
+{
+  "ticker": "MSTR",
+  "quarter": "Q1 2026",
+  "company": "Strategy (formerly MicroStrategy)",
+  "candor": {
+    "analyzed_at": "2026-05-06",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C+",
+    "dim5_grade": "B",
+    "composite_score": 2.79,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "Year to date, we have raised about $11.7 billion of capital... we have already achieved about 62% of last year's full BTC gain in just the first four months of the year.",
+      "pricing_power": "We are up to an 11.5% dividend yield... we have kept this flat for the last two months... the price has started to remain stable, and we have seen an increase in Sharpe ratio to 2.53.",
+      "management_tone_shift": "Yes, you should [take this as a signal that Strategy Inc is willing to be more proactive with its capital stack]... Nothing would make me happier than to rip the faces off of all the skeptics and the shorts and drive the equity to the moon."
+    },
+    "extracted_at": "2026-05-06"
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 124.3,
+    "gross_profit_m": 83.4,
+    "operating_income_m": -14.9,
+    "net_income_m": -12542.7,
+    "eps": -38.25,
+    "total_equity_m": 36651.4,
+    "total_assets_m": 54268.8,
+    "cash_and_equivalents_m": 2207.2,
+    "shares_outstanding_m": 345.93,
+    "free_cash_flow_m": -7238.1,
+    "operating_cash_flow_m": 14.0,
+    "capital_expenditure_m": -7252.1,
+    "bvps": 105.95
+  },
+  "flags": []
+}

@@ -1,0 +1,51 @@
+{
+  "ticker": "MSTR",
+  "quarter": "Q2 2026",
+  "company": "Strategy (formerly MicroStrategy)",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 122.4,
+    "gross_profit_m": 81.5,
+    "operating_income_m": -15.6,
+    "net_income_m": -8219.6,
+    "eps": -24.45,
+    "total_equity_m": 30886.1,
+    "total_assets_m": 52562.6,
+    "cash_and_equivalents_m": 1711.8,
+    "shares_outstanding_m": 371.6,
+    "free_cash_flow_m": -6426.9,
+    "operating_cash_flow_m": -4.1,
+    "capital_expenditure_m": -6422.7,
+    "bvps": 83.12
+  },
+  "flags": [
+    "equity_declining_yoy"
+  ],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "B",
+    "composite_score": 3.25,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": null,
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "pricing_power": "Core yields for the quarter were in line with expectations...We generally think yields have been in line with expectations, and we kind of expect them to moderate.",
+      "management_tone_shift": "Our pipeline is as strong as I can recall seeing it...The VC market in the first half of 2026 reached unprecedented levels, with $412.7 billion deployed, already exceeding the entire 2025 full year figure by nearly 30%."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q1 2026",
+  "company": "SoFi Technologies, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1100.4,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": 166.7,
+    "eps": 0.13,
+    "total_equity_m": 10811.6,
+    "total_assets_m": 53698.3,
+    "cash_and_equivalents_m": 3401.0,
+    "shares_outstanding_m": 1281.41,
+    "free_cash_flow_m": -2383.8,
+    "operating_cash_flow_m": -2315.0,
+    "capital_expenditure_m": -68.8,
+    "bvps": 8.44
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "D",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.3,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": null,
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "credit_quality_trend": "Excluding the impact of delinquent loan sales, the estimated all-in annualized net charge-off rate was 4.4%, which was the same as last quarter and down roughly 40 basis points from the first quarter of 2025.",
+      "services_demand": "In Q1, we once again added a record number of new members at 1.1 million new members, increasing total members by 35% year-over-year to 14.7 million. We also added a record 1.8 million new products in Q1.",
+      "pricing_power": "Our net interest margin was 5.94% for the quarter, up 22 basis points sequentially. This included a 25 basis point decrease in cost of funds, partially offset by a 2 basis point decrease in average asset yields.",
+      "management_tone_shift": "Our strategy and execution continue to be unmatched by any company I can think of at our scale and put SoFi in a class of one. We've achieved 18 consecutive quarters of exceeding the Rule of 40, far exceeding it again this quarter at 72%."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

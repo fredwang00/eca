@@ -30,5 +30,23 @@
       "management_tone_shift": "I've never been more optimistic about our prospects than I am today... I'm more confident than ever that our strategy and our execution will continue to deliver our sustainable competitive advantage."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 961.6,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": 139.4,
+    "eps": 0.12,
+    "total_equity_m": 8780.0,
+    "total_assets_m": 45293.4,
+    "cash_and_equivalents_m": 3246.4,
+    "shares_outstanding_m": 1204.57,
+    "free_cash_flow_m": -1369.0,
+    "operating_cash_flow_m": -1305.9,
+    "capital_expenditure_m": -63.2,
+    "bvps": 7.29
+  },
+  "flags": []
 }

@@ -1,143 +1,124 @@
-# Opendoor Technologies (OPEN) — Earnings Call Intelligence Brief
+# Opendoor Technologies (OPEN) — Earnings Call Brief
 
 ---
 
 ## Candor Trajectory
 
-**Grade progression:**
+**Grade progression:** C (Q2 2023, 2.25) → C+ (Q3 2023, 2.65) → B- (Q4 2023, 2.635) → C (Q1 2024, 1.85) → C (Q2 2024, 2.25) → C (Q3 2024, 2.25) → B (Q4 2024, 2.85) → B- (Q1 2025, 2.72) → C+ (Q2 2025, 2.40) → C+ (Q3 2025, 2.65) → B+ (Q4 2025, 3.40) → B (Q1 2026, 3.15) → B+ (Q2 2026, 3.385)
 
-| Quarter | Grade | Score |
-|---------|-------|-------|
-| Q2 2023 | C | 2.25 |
-| Q3 2023 | C+ | 2.65 |
-| Q4 2023 | B- | 2.635 |
-| Q1 2024 | C | 1.85 |
-| Q2 2024 | C | 2.25 |
-| Q3 2024 | C | 2.25 |
-| Q4 2024 | B | 2.85 |
-| Q1 2025 | B- | 2.72 |
-| Q2 2025 | C+ | 2.40 |
-| Q3 2025 | C+/B- | 2.65 |
-| Q4 2025 | B+ | 3.40 |
-| Q1 2026 | B | 3.15 |
-| Q2 2026 | B+ | 3.385 |
+**Direction:** Improving, with two inflection points.
 
-**Direction:** Improving, with one pronounced collapse and a structural inflection point.
+**First inflection — Q1 2024 (trough):** The lowest-scoring call in the series. Prepared remarks were three sentences of substance per executive, the ATM equity offering went unexplained, the CFO remained "Interim" without disclosure, and an analyst had to correct a contradiction between Wheeler's live statement and the simultaneously published shareholder letter. The call represented the outer bound of opacity: sentiment substituting for financials across every dimension.
 
-**Inflection Point 1 — Q1 2024 (trough, 1.85):** The lowest score in the series. Prepared remarks were extremely short, the ATM equity offering was unexplained, EBITDA guidance was explicitly refused ("without giving you specifics"), and a prepared remark contradicted the simultaneously published shareholder letter on acquisition volume sequencing. The call was identified as having the only D-grade stakeholder dimension across all quarters reviewed.
+**Second inflection — Q4 2024 / Q1 2025 (structural improvement):** Schwartz's departure, Freiha's arrival, and a new seasonal acquisition strategy gave the financial reporting backbone that had been absent. The Q4 2024 call (B, 2.85) introduced explicit multi-metric forward guidance and the first honest acknowledgment that ANI breakeven would not occur in 2024. The Q1 2025 call added explicit trade-off disclosure and multi-period specificity.
 
-**Inflection Point 2 — Q3 2025 (structural break, +0.60 from prior quarter):** CEO Kaz Nejatian's arrival (~7 weeks in at time of call) reordered every dimension. He introduced the public accountability dashboard (accountable.opendoor.com), a weekly acquisition contract tracker, voluntary self-grading against prior commitments, and a specific ANI breakeven framework with named input assumptions. Communication quality has not returned to C-band levels since.
+**Third inflection — Q4 2025 (step change under new CEO):** Nejatian's arrival produced the sharpest single-quarter grade improvement in the series (+0.55 from Q3 2025 to Q4 2025). The accountability.opendoor.com dashboard, real-time prior-commitment grading, and voluntary failure-signal disclosure elevated Strategic Clarity and Vision/Leadership from C territory to B and above. FOG remained a partial constraint, but the substance-to-aspiration ratio improved materially.
 
-**Inflection Point 3 — Q4 2025–Q2 2026 (consolidation at B+):** Strategic Clarity reached A-grade in both Q4 2025 and Q2 2026, and Vision & Leadership hit A in Q1 2026. Capital Stewardship became the binding constraint on overall grades—persistent C-level due to GAAP-to-non-GAAP opacity and unacknowledged reflexive capital structure risk.
-
-**Stagnation zone:** Stakeholder Balance has graded C or C+ in every quarter without exception, and FOG Index has never exceeded B+. These dimensions constitute structural weaknesses in Opendoor's communication profile that have persisted across two CEO tenures.
+**Current state (Q2 2026, 3.385):** Highest grade in the series. The degradation risk is concentrated in capital stewardship: the CFO's financial numbers are precise, but the GAAP-to-ANI gap is structurally underaddressed across every recent call.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-- **Convertible note restructuring (Q2 2023):** Obligation reduced from $978M to $510M through two repurchases at undisclosed discount to face value. Counterparty not named; precise discount withheld.
-- **Zillow partnership expansion (Q2 2023):** Named counterparty; expanded to 525 markets. Specific market count disclosed.
-- **eXp Realty partnership (Q3 2023):** Named counterparty; described as "announced." No disclosed value or volume commitment.
-- **$246M convertible note extension (Q2 2025):** Extended by four years; $75M net new cash disclosed. Named as existing noteholders; specific counterparty not disclosed.
-- **ATM equity issuance (Q3 2025):** 21.6 million shares issued at $9.26/share, raising $200M. Disclosed.
-- **Warrant dividend (Q3 2025):** Exercise prices of $9, $13, $17 disclosed. No expiration or total value stated.
-- **Doma acquisition (Q2 2026):** Named; described as "temporary drag on contribution margin." No acquisition price or terms disclosed on call.
-- **Roam partnership (Q3 2025):** Named counterparty; assumable mortgage referrals. No volume or financial terms disclosed.
+- **Convertible notes refinancing (Q2 2026):** $246M of existing converts extended by four years, $75M net new cash. Named transaction with specific dollar amounts and terms disclosed.
+- **ATM equity offering (Q3 2025):** $200M raised at $9.26/share (21.6M shares issued). Named instrument, specific price and dilution disclosed.
+- **Warrant dividend (Q3 2025):** Exercise prices of $9, $13, $17. Specific strike structure disclosed; no expiration terms provided on the call.
+- **Roam partnership (Q3 2025):** Named counterparty, assumable mortgage product, no disclosed dollar value.
+- **eXp Realty partnership (Q3 2023):** Named counterparty, acquisition channel, no disclosed contract value.
+- **Zillow partnership expansion (Q2 2023):** Named counterparty, "525 markets," no disclosed revenue value.
+- **Doma acquisition (Q2 2026):** Named acquisition, acknowledged as "temporary drag on contribution margin," no purchase price disclosed on call.
+- **Three revolving credit facilities, mezzanine facilities extended through 2027 (Q4 2024):** Specific facility types and extension date disclosed.
 
 ### Aspirational
-- "Every seller will start their home-selling journey with Opendoor" — repeated across Q2 2024 through Q2 2026 without market share target, timeline, or definition of "start."
-- ANI breakeven "when, not if" (Q4 2024) — no model, no timeline, no interim benchmarks.
-- "$10 billion revenue ANI breakeven framework" — introduced in Q2 2023, explicitly retired in Q4 2024 ("we have not updated the framework specifically"), replaced by "significantly lower" volume language without a new number.
-- "6,000 quarterly acquisitions by Q4 2026" — first cited Q4 2025; trajectory acknowledged as back-weighted to H2 2026 by Q1 2026 without revised target.
+- "Every seller will start their home-selling journey with Opendoor" — repeated across Q2 2023 through Q2 2026 without market share target, timeline, or penetration metric.
+- "Build the most trusted e-commerce platform for residential real estate" — appears verbatim in Q2 2023 and Q2 2024; no competitive benchmark, no falsifiable milestone.
+- Key Connections / agent-partnership channel: "twice as many customers getting through our funnel," "5x more people convert to a listing" — cited in Q1 2025 and Q2 2025 with no denominator, no time period, no control group.
+- Cash Plus / capital-light products: described as a strategic priority across Q3 2024 through Q2 2026; no disclosed revenue contribution, penetration rate, or timeline to materiality.
+- "Become adjusted EBITDA profitable on a 12-month go-forward basis by year-end 2026" — stated by Nejatian in Q4 2025 and Q2 2026; arithmetic framework provided but no GAAP reconciliation.
+- Tokenization of real estate: "the work is active... we're very serious about it" (Q3 2025); "I generally can't imagine a future where real estate is not tokenized" (Q2 2025). No product, no timeline, no counterparty.
+- Mortgage product: licensed in "just over 20 states," targeting "roughly double that by end of Q3" (Q1 2026). Named as a strategic pillar but attach rate data and state count confirmations remain unverified.
 - "Dozens of products launched in the past few weeks" (Q3 2025) — no products named, no metrics provided.
-- "Real estate tokenization" (Q3 2025, Q1 2026) — "work is active," "we'll tell you more when we launch something." Zero product disclosure.
-- List with Opendoor "nationwide, performing within expectations, probably even better" (Q3 2024) — no conversion rate, volume, or revenue contribution disclosed across any quarter reviewed.
-- Marketplace/Exclusives expansion (Q3 2024–Q1 2025) — described as "held" in Dallas, Charlotte, Raleigh as of Q1 2025; status quietly deprioritized in favor of agent-partnership channel without retrospective accounting.
-- Key Connections agent-partnership pilot — "twice as many customers through funnel," "5x more convert to listing" (Q2 2025) — no denominator, no time period, no control group.
-- Insurance product — self-graded "incomplete" by CEO (Q2 2026); no timeline for completion or metrics for what completion means.
-- "2026 platform impact" — "real P&L impact in 2026" stated in Q2 2025; no quantitative definition of "material."
 
 ---
 
 ## Capital Figures
 
-*From structured financial data only.*
+| Quarter | Revenue | Contribution Margin | Adj. EBITDA | Unrestricted Cash | Key Notes |
+|---------|---------|---------------------|-------------|-------------------|-----------|
+| Q2 2023 | $2,000M | negative (blended); new book 10.6% | –$168M | Not disclosed | Conv. notes reduced from $978M to $510M |
+| Q3 2023 | $980M | 4.4% | –$49M | $1,200M | |
+| Q4 2023 | $870M | 3.4% | –$69M | $1,100M (unrestricted); $1,300M total | $8.1B nonrecourse capacity |
+| Q1 2024 | $1,200M | guided 5–7% range; actual not cited on call | Not disclosed | Not disclosed | ATM established; not used in Q2 |
+| Q2 2024 | $1,500M+ | 6.3% | –$5M | $809M | Conv. notes 2026 outstanding |
+| Q3 2024 | $1,400M | 3.8% | –$38M | $837M | RIF: $50M annualized savings; Mainstay: $35M |
+| Q4 2024 | $1,100M | 4.7% (full year) | –$142M (full year) | $679M | Conv. note structure extended through 2027 |
+| Q1 2025 | $1,200M | 4.7% | –$30M | $559M unrestricted; $350M equity in homes | 7,080 homes in inventory; $2.4B net inventory |
+| Q2 2025 | $1,567M | 4.4% | Not disclosed on call | $789M | $325M conv. notes due 2030; $7.8B nonrecourse capacity |
+| Q3 2025 | $915M | 2.2% | Not disclosed | $962M | $7.6B nonrecourse capacity; $1.8B committed |
+| Q4 2025 | $736M | 1.0% | –$43M (adj.) | $962M | $933M noncash charge from conv. note refinancing |
+| Q1 2026 | $720M | 4.4% | Guided breakeven ±few million | $999M | FCF –$250M; Op. cash –$246M; Book value $0.99/share |
+| Q2 2026 | $883M | 5.8% | Not disclosed; ANI breakeven by year-end 2026 claimed | $896M | FCF –$723M; GAAP op. income –$141M; Capex –$5M |
 
-| Quarter | Revenue | Op. Income | FCF | Cash & Equiv. | Total Equity | Capex |
-|---------|---------|------------|-----|---------------|--------------|-------|
-| Q2 2025 | $1,567M | –$7M | $821M | $789M | $631M | –$2M |
-| Q3 2025 | $915M | –$67M | $432M | $962M | $811M | –$3M |
-| Q4 2025 | $736M | –$150M | $67M | $962M | $1,005M | –$3M |
-| Q1 2026 | $720M | –$159M | –$250M | $999M | $954M | –$4M |
-| Q2 2026 | $883M | –$141M | –$723M | $896M | $914M | –$5M |
-
-Additional disclosed capital figures from call narratives (not structured data):
-- Q2 2023: Revenue $2.0B; adjusted EBITDA loss $168M (vs. $341M Q1); convertible notes reduced from $978M to $510M; unrestricted cash not separately cited from structured data.
-- Q3 2023: Revenue $980M; adjusted EBITDA loss $49M; unrestricted cash $1.2B.
-- Q4 2023: Revenue $870M; adjusted EBITDA loss $69M; unrestricted cash $1.1B; non-recourse borrowing capacity $8.1B ($2.8B committed).
-- Q4 2024: Revenue $1.1B (Q4), contribution profit improvement $0.5B YoY; adjusted EBITDA loss $142M (full-year vs. $627M in 2023); unrestricted cash $679M; non-recourse capacity $6.9B.
-- Q1 2025: Revenue $1.2B; contribution profit $54M (4.7% margin); adjusted EBITDA loss $30M; unrestricted cash $559M; net inventory $2.4B (7,080 homes).
-- Q2 2026: Revenue $883M; contribution profit $51M (5.8%); unrestricted cash $896M; non-recourse capacity undisclosed in structured data.
-
-**Book value per share:** Q1 2026 disclosed as $0.99 (954M total equity / ~963M shares). Q4 2025: ~$1.05.
+*Financial figures sourced from structured metrics where provided; call-disclosed figures used otherwise. FCF and GAAP operating income sourced from structured data and not cited in prepared remarks for Q1–Q2 2026.*
 
 ---
 
 ## FOG Patterns
 
-**Persistent phrases across all quarters (Wheeler era, Q2 2023–Q2 2025):**
-- "Durable growth levers" — appears in Q2 2023 prepared remarks twice with zero definition. Never reappears explicitly, but its substance never materializes either.
-- "Well positioned" — appears in Q2 2023, Q3 2023, Q3 2024, Q4 2024, Q3 2025, Q2 2026. Consistently unaccompanied by comparative evidence.
-- "Generational company" — Q2 2023, Q3 2024, Q3 2025, Q4 2025. Falsifiable in theory; never connected to a milestone.
-- "Balancing growth, margin, and risk" — Q3 2023: used at least four times as a universal answer to materially different questions, functioning as deflection.
-- "Sustained profitable growth" — Q3 2023, Q1 2024, Q2 2024. No definition of "sustained" provided.
-- "Every seller will start their journey with Opendoor" — Q2 2024 through Q2 2026 without revision or metric.
-- "Opportunistic and flexible" in capital context — Q2 2024, Q1 2025; substitutes sentiment for capital strategy.
+**Recurring phrases across multiple quarters:**
 
-**Nejatian-era FOG (Q3 2025–Q2 2026):**
-- "The machine is working" — Q1 2026: used three times without defining "working" mechanically.
-- "Tilting the world toward homeowners" — Q3 2025, Q4 2025, Q1 2026, Q2 2026. Aspirational; structurally indistinguishable from any mission-driven housing company's language.
-- Shopify credential transfer — Q3 2025: cited on multiple occasions as proof of profitability capability without equivalence mapping to Opendoor's capital-intensive model.
-- "It's just math" — Q2 2026: repeated as mantra while the GAAP math ($-723M FCF, $-141M operating income) is entirely absent from prepared remarks.
-- "Pegasus/awkward" metaphor — Q2 2026: colorful but substitutes narrative energy for quantitative path on 2027 outlook.
+1. **"Generational company" / "generational business"** — Q2 2023, Q3 2024, Q4 2024. Used in closing remarks as an aspiration anchored to nothing. No degradation; still appearing in 2024.
 
-**Trajectory:** FOG density in prepared remarks has declined materially under Nejatian. CFO Schwartz has been the most consistently FOG-free communicator across both eras. Wheeler's Q&A was generally cleaner than her prepared remarks throughout her tenure. Nejatian's Q&A is responsive and precise; his prepared remarks carry a higher density of mission-superlatives than his Q&A performance would suggest. The improvement in overall language precision is real but incomplete — the GAAP-to-ANI substitution pattern represents a new FOG form that did not exist in prior quarters.
+2. **"Well positioned"** — Q2 2023, Q3 2023, Q3 2024, Q4 2025. Universal reassurance phrase applied regardless of operating conditions. Each appearance signals a pivot away from a specific question.
+
+3. **"Durable growth levers"** — Q2 2023 (twice in prepared remarks). Not repeated in subsequent quarters; appears to have been abandoned rather than refined.
+
+4. **"Balancing growth, margin, and risk"** — Q3 2023 (at least four times in Q&A as a universal response to distinct questions). Pattern flagged at the time; not repeated with same frequency afterward — a genuine linguistic improvement.
+
+5. **"Sustained profitable growth" / "sustained, profitable growth"** — Q3 2023 through Q1 2024. Faded from the lexicon by Q4 2024 when the "ANI breakeven" framework replaced it with something more specific.
+
+6. **"Opportunistic and flexible" (capital structure)** — Q2 2024, repeated in Q2 2025. Applied to ATM usage strategy in both calls; constitutes a non-answer to direct dilution questions.
+
+7. **"Tilting the world toward homeowners"** — Q3 2025 through Q2 2026 under Nejatian. Upgraded from prior "transform the way millions sell and buy" boilerplate; more specific in affect but still not falsifiable.
+
+8. **"It's just math"** — Q4 2025 and Q2 2026. Introduced by Nejatian as an anti-FOG device but itself becomes a substitution: the math presented is ANI-only while the GAAP picture is omitted.
+
+**Linguistic precision trend:** Improved materially from Q1 2024 through Q4 2025. CFO communications (Schwartz in particular) have been consistently more precise than CEO communications across the entire series. Wheeler's FOG was concentrated in prepared remarks; Q&A was generally better. Nejatian's prepared remarks have a higher substance-to-fluff ratio than Wheeler's, but introduce new patterns — credential transfer from Shopify without equivalence mapping, and aspirational product claims before data warrants them (Key Connections, mortgage, tokenization). The FOG pattern has shifted from generic platitude (Wheeler era) to founder-confidence assertion (Nejatian era) — different in character, similar in accountability risk.
 
 ---
 
 ## Flags & Risks
 
-**Data quality flags from structured financials:**
-- Q1 2026: FCF –$250M against $999M cash implies approximately 4 quarters of runway at Q1 burn rate. This figure is absent from every prepared remark and Q&A response in the call.
-- Q2 2026: FCF –$723M represents a severe acceleration of cash consumption. With $896M cash, the runway question is acute. The call characterizes $700M+ inventory growth as "funded by nonrecourse facilities" — this is technically accurate but elides the dependence on ABS market access as a going-concern assumption.
-- Book value per share of $0.99–$1.05 (Q4 2025–Q1 2026) with 957–963M shares outstanding means any equity issuance is deeply dilutive in book value terms. The "never raise equity ever again" commitment (Q4 2025) is structurally inconsistent with a balance sheet at this equity density.
-- Total Equity rose from $811M (Q3 2025) to $1,005M (Q4 2025) despite a $150M operating loss — this delta reflects equity issuances, not retained earnings. The $933M noncash convertible note charge (GAAP net loss $1.1B) receives roughly 40 words of explanation in Q4 2025 prepared remarks.
+**Data quality flags (from structured metrics):**
+- Q1 2024: No structured financial metrics provided. Call itself confirmed revenue ($1.2B) and cited guidance range for contribution margin but no actual figure.
+- Q2 2025: Free cash flow listed as +$821M — an anomaly given the acquisition-heavy strategy; may reflect proceeds from inventory sales or financing activity rather than operating cash generation. Warrants verification against the 10-Q.
+- Q4 2025 and Q1 2026: Total equity growing ($1,005M → $954M → $914M declining) while operating losses deepen; suggests equity issuances are partially offsetting losses. Book value per share at $0.99 (Q1 2026) is a structural flag for a company with 963M+ shares outstanding.
+- Q2 2026: FCF of –$723M against $896M cash is the most acute single-quarter flag. The call does not name this figure.
 
-**Communication-level risks synthesized across quarters:**
-- **Reflexive capital structure — underdisclosed across Q3 2025, Q4 2025, Q1 2026, Q2 2026.** Opendoor's acquisition acceleration depends on equity remaining at a premium valuation; the convertible notes already triggered a repayment condition when the stock rose (Q3 2025); warrant dividend exercise prices ($9, $13, $17) require sustained equity appreciation; and ATM issuance framework is explicitly refused in response to direct analyst questions across multiple quarters. The interdependence of stock price, capital access, and acquisition velocity is the single most important underdisclosed structural risk in the call history.
-- **Perishable goal pattern — confirmed across multiple initiatives.** Opendoor Exclusives 30% target (Q2 2023): ambiguously claimed as met in Q3 2023, then quietly dropped. $10B ANI breakeven framework: introduced Q2 2023, explicitly retired Q4 2024 without replacement. List with Opendoor: nationwide as of Q3 2024, but zero performance metrics in any subsequent quarter. Marketplace: active priority through Q1 2025, then "held" with no retrospective accounting. "6,000 quarterly acquisitions by Q4 2026": acknowledged as back-weighted without revised target by Q1 2026.
-- **GAAP-to-non-GAAP opacity (Nejatian era):** Contribution margin, ANI, and adjusted EBITDA are the reference currencies of every profitability statement. GAAP operating income (all negative, ranging –$7M to –$159M) and free cash flow (ranging +$821M to –$723M) are absent from prepared remarks in structured data quarters. "It's just math" is a credibility claim that requires the GAAP math to be visible alongside the ANI math to be defensible.
-- **CFO Interim designation (Q2 2023–Q3 2024):** Christy Schwartz carried the "Interim" title for five consecutive quarters without any public discussion of the CFO transition circumstances, search timeline, or strategic continuity implications. The transition to Selim Freiha (Q4 2024) was similarly unexplained; Schwartz's return as CFO under Nejatian was not contextualized.
-- **Stakeholder communication systematically thin:** In eleven quarters reviewed, zero customer stories are named, zero agent partners are quoted, and zero employee contributions beyond generic praise are specifically attributed. This structural omission has persisted across two CEO tenures and constitutes an organizational communication weakness independent of financial candor.
+**Communication-level risks (aggregated):**
+- **Reflexive capital structure, persistently underdisclosed.** Flagged in Q3 2025, Q4 2025, Q1 2026, and Q2 2026. The strategy's dependence on maintaining an elevated equity valuation to make ATM issuances non-dilutive — and the fact that the 2030 convertible notes already triggered a repayment condition when the stock rose — has not been named as a structural risk in any prepared remarks.
+- **GAAP-to-ANI opacity.** Q4 2025 through Q2 2026 calls present profitability exclusively through adjusted metrics. GAAP operating loss and free cash flow — which are material and severely negative — are not cited in prepared remarks and receive minimal Q&A treatment. The "it's just math" framing presents ANI math while omitting GAAP math.
+- **Perishable goal pattern.** Opendoor Exclusives (Q2 2023), the $10B ANI breakeven framework (Q3 2023 through Q3 2024), Marketplace/3P product (Q4 2023 through Q1 2025), and insurance (Q2 2026 "incomplete") all entered the narrative with strategic importance and exited without formal accounting. Each was replaced by a new initiative without explicit retrospective reconciliation.
+- **ANI breakeven timeline drift.** Q4 2024: "when, not if" with no date. Q4 2025: "by year-end 2026." Q2 2026 Schwartz: "adjusted EBITDA profitable... as of the second quarter of 2026 [sic] [2027]" — a potential unscripted date shift that was not corrected on the call. The stated commitment and the spoken disclosure may not be the same.
+- **Interim CFO gap (Q1 2024 through Q3 2024).** Three quarters of calls with an interim CFO during a critical profitability inflection. Circumstances of the CFO transition were never disclosed. Freiha's hire resolved this but the gap was never explained.
 
 ---
 
 ## Verify Next Quarter
 
-*Carrying forward Q2 2026 tracking commitments for Q3 2026 (expected November 2026):*
+*From Q2 2026 tracking commitments:*
 
-1. **ANI profitability on 12-month go-forward basis "by year-end 2026"** — The central commitment, tied to specific math (6,000 quarterly acquisitions × $375K ≈ $9B revenue, 2.9% OpEx, ~2% interest). Verify: (a) Q3 acquisition contracts — are they ≥ 6,000? (b) Does the ANI reconciliation disclose the 12-month forward run rate explicitly? (c) Did Christy's apparent scripted reference to "second quarter of 2027" represent a timeline shift or a verbal error? If the year-end 2026 target is not reaffirmed with specificity, that is a strategic accountability flag.
+1. **ANI profitability claim:** Verify Q3 2026 adjusted EBITDA and whether the 12-month forward basis profitability target is still described as a year-end 2026 event or has shifted to 2027. The scripted "second quarter of 2026 [sic] [2027]" slip warrants direct reconciliation.
 
-2. **Q2-to-Q3 contribution margin seasonality** — Management committed to "the best Q2 to Q3 relative performance we have delivered outside of 2023." Historical average decline is ~470 basis points. Any sequential decline exceeding ~300 basis points constitutes a miss against this explicit benchmark.
+2. **Q2-to-Q3 margin compression:** Schwartz committed to the "best Q2-to-Q3 relative performance" in company history outside of 2023. Benchmark: historical Q2-to-Q3 decline averaged ~470 basis points. Any decline exceeding ~300 bps is a miss against this explicit claim.
 
-3. **Specific AI productivity metrics** — HPM capacity of 15–20 renovations per person, underwriter throughput of 75–100 per day, and in-person home visits below 10% were disclosed in Q2 2026. Track whether these are updated or go unmentioned in Q3 — the latter is a disclosure regression signal.
+3. **Acquisition volume trajectory:** Verify Q3 acquisition contracts against the 6,000/quarter by Q4 2026 target. Weekly data at accountable.opendoor.com allows pre-call verification. Back-half weighting was already disclosed — check whether the stated trajectory is tracking linearly or requires an even steeper Q4 ramp.
 
-4. **Mortgage product geographic expansion** — Licensing "in flight in about just over 20 states" as of Q1 2026, with a commitment to "roughly double that by end of Q3." The expected state count at Q3 is ~40. Verify the actual number and whether Colorado and Texas attach rates (disclosed as >50% and ~1-in-5 respectively) have changed.
+4. **FCB cash runway:** With –$723M FCF in Q2 2026 and $896M in cash, verify Q3 ending cash against the assumption that inventory growth remains nonrecourse-financed. Any material cash decline below $600M is a structural signal that contradicts the "it's just math" profitability narrative.
 
-5. **Cash and FCF trajectory** — Q2 2026 FCF was –$723M. The "nonrecourse funding of inventory growth" framing requires that ABS facility utilization is disclosed alongside cash balance. If ending cash falls below $700M without an explicit facility draw explanation, the runway framing breaks down. If FCF does not show meaningful improvement from the –$723M Q2 figure, the "fund this business from cash flow we generate" commitment (Q1 2026) requires direct revisitation.
+5. **Mortgage licensing expansion:** Kaz stated approximately 20 states as of Q1 2026, targeting roughly double by end of Q3. Verify state count. Also track Colorado and Texas attach rates — disclosed at ">50%" and "~1-in-5" respectively as of Q2 2026.
 
-6. **EBITDA adjusted breakeven** — "Q2 adjusted EBITDA breakeven, plus or minus a few million dollars" was the Q1 2026 guidance for Q2 2026. This call (Q2 2026) should have reported on that commitment. Verify whether it was met and whether Q3 guidance maintains the trajectory toward year-end ANI profitability.
+6. **Contribution margin specificity:** Q3 guided at 4.0–4.5% contribution margin. Verify actuals. If margin lands below 4.0%, the Q2-to-Q3 comparison commitment and the year-end ANI target both require explicit reconciliation.
 
-7. **Acquisition trajectory on accountable.opendoor.com** — The public dashboard was established as the primary accountability mechanism. Verify the slope of the weekly contract trend against the Q4 2026 target and flag any quarter where the dashboard visualization is modified without explanation (the Q4 2025 chart was replaced in the same quarter a prior trajectory was missed).
+7. **GAAP disclosure improvement:** Flag whether Schwartz or Freiha introduces GAAP operating income or free cash flow into prepared remarks, or whether the call again presents exclusively adjusted metrics while GAAP losses are verified at –$100M+ from the 10-Q.

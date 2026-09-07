@@ -29,5 +29,22 @@
       "management_tone_shift": "We entered 2025 with the best business environment we've had in my time at SoFi... we couldn't be more confident in the long-term outlook for the company."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": null,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": null,
+    "eps": null,
+    "total_equity_m": null,
+    "total_assets_m": null,
+    "cash_and_equivalents_m": null,
+    "shares_outstanding_m": null,
+    "free_cash_flow_m": null,
+    "operating_cash_flow_m": null,
+    "capital_expenditure_m": null
+  },
+  "flags": []
 }

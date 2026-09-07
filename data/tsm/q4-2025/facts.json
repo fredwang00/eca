@@ -28,5 +28,23 @@
       "management_tone_shift": "We now expect our overall long-term revenue growth to approach a 25% CAGR in US dollar terms for the five-year period starting from 2024...we used to be conservative, you know that."
     },
     "extracted_at": "2026-05-21"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1046090.4,
+    "gross_profit_m": 651986.9,
+    "operating_income_m": 564880.9,
+    "net_income_m": 485465.4,
+    "eps": 97.5,
+    "total_equity_m": 5355038.7,
+    "total_assets_m": 7932842.5,
+    "cash_and_equivalents_m": 2767856.4,
+    "shares_outstanding_m": 25932.52,
+    "free_cash_flow_m": 364041.1,
+    "operating_cash_flow_m": 725508.8,
+    "capital_expenditure_m": -361467.7,
+    "bvps": 206.5
+  },
+  "flags": []
 }

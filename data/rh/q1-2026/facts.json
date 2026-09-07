@@ -1,0 +1,52 @@
+{
+  "ticker": "RH",
+  "quarter": "Q1 2026",
+  "company": "RH (Restoration Hardware)",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 842.6,
+    "gross_profit_m": 361.4,
+    "operating_income_m": 96.6,
+    "net_income_m": 28.8,
+    "eps": 1.53,
+    "total_equity_m": 60.6,
+    "total_assets_m": 4835.7,
+    "cash_and_equivalents_m": 41.2,
+    "shares_outstanding_m": 18.82,
+    "free_cash_flow_m": 54.7,
+    "operating_cash_flow_m": 96.1,
+    "capital_expenditure_m": -41.4,
+    "bvps": 3.22
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "C",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.55,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": "contracting",
+    "services_demand": null,
+    "capex_direction": "decelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "The UK is in even worse shape than the US... I do not think [the housing market] is gonna recover this year... Will it go into a fifth year? It may.",
+      "housing_demand": "I never saw a housing market that stayed down longer than 18 months in my career... now we are going into yeah, definitely probably... 48 months... Will it go into a fifth year? It may.",
+      "capex_direction": "We are just so much smarter... We are on the other side of the cycle... once we get London going... we are kind of on the other side of the peak investment cycle, you know, this year.",
+      "pricing_power": "Yeah. prices are gonna be higher... the quality is massively higher... this is hand patinaed, hand carved, hand distressed... such a tremendous value... you will not find anything of our quality or design.",
+      "management_tone_shift": "I would be surprised if we do not beat those numbers... we are just really excited... I do not think there has ever been a higher level of excitement here."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

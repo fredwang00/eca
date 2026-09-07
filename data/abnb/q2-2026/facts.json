@@ -1,0 +1,52 @@
+{
+  "ticker": "ABNB",
+  "quarter": "Q2 2026",
+  "company": "Airbnb, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 3608.0,
+    "gross_profit_m": 2975.0,
+    "operating_income_m": 758.0,
+    "net_income_m": 816.0,
+    "eps": 1.38,
+    "total_equity_m": 7799.0,
+    "total_assets_m": 28754.0,
+    "cash_and_equivalents_m": 6821.0,
+    "shares_outstanding_m": 590.0,
+    "free_cash_flow_m": 1270.0,
+    "operating_cash_flow_m": 1270.0,
+    "capital_expenditure_m": null,
+    "bvps": 13.22
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.4,
+    "composite_grade": "A"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": "expanding",
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "housing_demand": "Gross booking value grew 16% year-over-year to $27.2 billion, driven by strong growth in both nights and seats booked and ADR... we saw high single-digit growth in both North America and Europe... approximately 20% growth in Latin America and high teens growth in Asia-Pacific.",
+      "services_demand": "Bookings accelerated both year-over-year and actually sequentially from last quarter... hotels are growing approximately three times faster than our homes business.",
+      "capex_direction": "In the updated guidance that we provided, it obviously does assume a material increase in terms of the AI spend over the course of the year.",
+      "pricing_power": "We have been aggressively pushing pricing tips and affordability across the platform, and you've seen yet the nominal ADRs rise over that period... ADR increased 5% year-over-year, or 4% excluding the impact of FX.",
+      "management_tone_shift": "We're really, really excited about the results this quarter. We delivered one of the strongest quarters in years... That's what gives us confidence that this momentum is here to stay."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

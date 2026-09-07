@@ -1,0 +1,52 @@
+{
+  "ticker": "SOFI",
+  "quarter": "Q2 2026",
+  "company": "SoFi Technologies, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1218.7,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": 156.6,
+    "eps": 0.12,
+    "total_equity_m": 11076.2,
+    "total_assets_m": 60947.5,
+    "cash_and_equivalents_m": 3126.2,
+    "shares_outstanding_m": 1290.31,
+    "free_cash_flow_m": -3988.1,
+    "operating_cash_flow_m": -3890.4,
+    "capital_expenditure_m": -97.6,
+    "bvps": 8.58
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "A-",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.65,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": "improving",
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "credit_quality_trend": "Excluding the impact of delinquent loan sales, the estimated all-in annualized net charge-off rate was 3.7%, a 70 basis point decrease from last quarter driven by an improvement in the underlying credit performance.",
+      "services_demand": "We added a record 1.1 million new members in Q2, increasing total members 35% year-over-year to a total of 15.8 million members... we also added a record 2.2 million new products.",
+      "capex_direction": "There are just too many large attractive growth areas for us to invest versus adding even more profitability... this year, we've launched a number of things that were never in our 2026 plan: Big Business Banking, SMB, SoFi USD, SoFi Crypto.",
+      "pricing_power": "Our net interest margin was 5.98% for the quarter, up 4 basis points sequentially... we continue to expect a healthy net interest margin above 5% for the foreseeable future.",
+      "management_tone_shift": "Q2 marks a clear inflection point in our strategy... the benefits of the strategy are no longer theoretical or leap of faith. They are 100% in our control via disciplined execution."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

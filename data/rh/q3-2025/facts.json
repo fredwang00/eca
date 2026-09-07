@@ -29,5 +29,23 @@
       "management_tone_shift": "Not a time to underestimate risk... there could be a whole new round of tariffs... it's gonna be predictably unpredictable."
     },
     "extracted_at": "2026-04-05"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 899.2,
+    "gross_profit_m": 409.3,
+    "operating_income_m": 128.9,
+    "net_income_m": 51.7,
+    "eps": 2.76,
+    "total_equity_m": -40.9,
+    "total_assets_m": 4697.0,
+    "cash_and_equivalents_m": 34.6,
+    "shares_outstanding_m": 18.73,
+    "free_cash_flow_m": 80.4,
+    "operating_cash_flow_m": 137.7,
+    "capital_expenditure_m": -57.3,
+    "bvps": -2.18
+  },
+  "flags": []
 }

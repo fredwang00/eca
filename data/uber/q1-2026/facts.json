@@ -1,0 +1,51 @@
+{
+  "ticker": "UBER",
+  "quarter": "Q1 2026",
+  "company": "Uber Technologies, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 13203.0,
+    "gross_profit_m": 5945.0,
+    "operating_income_m": 1923.0,
+    "net_income_m": 263.0,
+    "eps": 0.13,
+    "total_equity_m": 24751.0,
+    "total_assets_m": 59885.0,
+    "cash_and_equivalents_m": 5558.0,
+    "shares_outstanding_m": 2036.42,
+    "free_cash_flow_m": 2286.0,
+    "operating_cash_flow_m": 2351.0,
+    "capital_expenditure_m": -65.0,
+    "bvps": 12.15
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Gross bookings were up 21% year-on-year... Mobility gross bookings accelerated to 20%... Delivery grew 23%... freight returned to growth for the first time in nearly 2 years.",
+      "capex_direction": "When we set up budgets for 2026 in November, we underestimated the amount of impact the AI tools could have... we've re-upped our investment here.",
+      "pricing_power": "As a result of [insurance savings], we are seeing really good elasticity... we've seen that price reduction translate to acceleration in trip growth \u2014 implying pricing is being used to drive volume, not margin expansion.",
+      "management_tone_shift": "We feel even more confident today than we did in December or January... we don't see any signs of that abating at this point."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

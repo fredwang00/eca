@@ -4,134 +4,89 @@
 
 ## Candor Trajectory
 
-Walmart's communication quality across nine quarters (Q1 FY2024 through Q4 FY2026) follows a non-linear arc with one clear inflection point and one notable regression.
+**Grade progression:** Q1 FY2024: B (3.25) → Q2 FY2024: B (2.80) → Q3 FY2024: A (3.65) → Q4 FY2024: B+ (3.47) → Q1 FY2025: B+ (3.25) → Q2 FY2025: B (2.80) → Q3 FY2025: B+ (3.46) → Q4 FY2025: B+ (3.45) → Q1 FY2026: A (3.65) → Q2 FY2026: B (3.25) → Q3 FY2026: A (3.65) → Q4 FY2026: B (2.80)
 
-**Grades by quarter:**
-- Q1 FY2024: B (3.25)
-- Q2 FY2024: B (2.80)
-- Q3 FY2024: A (3.65) ← **Peak candor, inflection upward**
-- Q4 FY2024: B+ (3.47)
-- Q1 FY2025: B+ (3.25)
-- Q2 FY2025: B (2.80)
-- Q3 FY2025: B+ (3.46)
-- Q4 FY2025: B+ (3.45)
-- Q1 FY2026: A (3.65) ← **Second peak, driven by tariff disclosure and RIM accounting transparency**
-- Q2 FY2026: B (3.25)
-- Q3 FY2026: A (3.65) ← **Third peak; strongest stakeholder balance in the series**
-- Q4 FY2026: B (2.80) ← **CEO transition regression**
-
-The Q3 FY2024 inflection was driven by proactive, front-loaded disclosure of expense misses, voluntary October softening data, and Rainey's granular attribution of ROI improvement. Q1 FY2026 matched that peak via RIM/LIFO proactive education and explicit downside disclosure on tariffs ("could jeopardize our ability to grow earnings year-over-year"). Q4 FY2026 marks the most significant single-quarter regression: CEO Furner's prepared remarks introduced "agentic commerce" without definition or metric, repeated aspirational language across dimensions where McMillon had delivered falsifiable claims, and the FOG Index fell to C — matching Q2 FY2024's worst-in-series score. The regression pattern is attributable to CEO transition rather than underlying business deterioration.
-
-**Direction: Stagnating, with structural risk of decline** if Furner's communication cadence does not evolve toward the accountability standards Rainey has consistently maintained.
+**Direction:** Oscillating, not trending. The series shows a pattern of alternating peaks and troughs rather than secular improvement or decline. Peaks cluster at the A-range (Q3 FY2024, Q1 FY2026, Q3 FY2026); troughs cluster at B-flat (Q2 FY2024, Q2 FY2025, Q4 FY2026). The most notable positive inflection was **Q3 FY2024**, driven by voluntary, front-loaded expense miss disclosure and an unusually specific operational investment narrative. The most notable negative inflection was **Q4 FY2026**, where the CEO transition to Furner introduced a persistent FOG regression—aspirational boilerplate replacing the specificity that earned top marks under McMillon/Rainey. Rainey's financial disclosure has been consistently strong throughout; grade volatility is driven almost entirely by the strategic and FOG dimensions, and since Q4 FY2026, by the quality of the CEO's prepared remarks.
 
 ---
 
 ## Key Commitments
 
 **Signed:**
-- Vizio acquisition: disclosed as "slightly dilutive to EPS in the near term," "IRR accretive," financed via "cash and/or debt" (Q4 FY2024). 150 basis point headwind to operating income growth confirmed (Q3 FY2025, Q4 FY2025).
-- PhonePe: $700 million discrete non-cash share-based compensation charge disclosed (Q3 FY2026). IPO described as "early steps" (Q4 FY2025).
-- OpenAI and Alphabet partnerships named as co-developers of agentic commerce experience (Q4 FY2026).
-- $4 billion debt issuance completed (Q1 FY2026).
-- $30 billion share repurchase authorization (Q4 FY2026).
-- Sam's Club wage investment: turnover "down 1,700 basis points year-on-year," first-year renewal rates "up hundreds of basis points" (Q4 FY2025).
+No named counterparty contracts with disclosed values appear in any transcript. The VIZIO acquisition is disclosed as completed (closed during FY2026), with EPS dilution quantified at approximately 150 basis points to operating income growth and financing described as cash and/or debt. The PhonePe IPO preparation is disclosed as "early steps" — no counterparty, no valuation, no timeline. The "$4 billion debt issuance" in Q1 FY2026 is a completed capital market transaction. The $30 billion share repurchase authorization (Q4 FY2026) is a board authorization, not a binding schedule. Partnerships with OpenAI and Alphabet are named in Q4 FY2026 prepared remarks with no disclosed terms, values, or binding structure.
 
 **Aspirational:**
-- E-commerce full profitability "a little further down the road" with "a lot of work to do" (Q4 FY2024); subsequently declared achieved for a single quarter (Q1 FY2026) but without absolute loss disclosure.
-- "30 new Sam's Club openings in coming years" — no timeline, no unit economics (Q3 FY2025).
-- "95% of U.S. population with sub-three-hour delivery" described as "soon" (Q1 FY2026); updated to 93% coverage without confirming threshold crossed (Q2 FY2026).
-- "Build once, scale globally" platform thesis from January reorganization — no counterparty, no metric, no timeline (Q4 FY2026).
-- "Agentic commerce" — named without definition, milestone, or measurable threshold across Q4 FY2026.
-- International profits "more than double by FY2028 from FY2023 base" (Q4 FY2024) — not revisited in subsequent calls.
-- Advertising and membership representing "20% of annual operating income in FY2025" (Q4 FY2024) — not explicitly closed out.
+- E-commerce profitability: Described across nine quarters in shifting language — "getting into the zone," "a little further down the road," "really close," culminating in Q4 FY2026's "we don't even talk about it internally anymore" with no margin figure attached. No timeline or quantitative breakeven target has ever been stated.
+- Agentic commerce / Sparky: Introduced Q4 FY2026 with no definition, adoption timeline, or revenue milestone. "35% higher AOV" for Sparky users is cited without a disclosed baseline or conversion rate.
+- International profits doubling by FY2028 from FY2023 base: Stated in Q4 FY2024; not revisited with explicit progress tracking in subsequent calls.
+- 30 new Sam's Club openings "in coming years": Named in Q3 FY2025; cadence not subsequently specified.
+- PhonePe IPO: Described as "early steps" in Q4 FY2025; referenced in Q3 FY2026 with no additional specificity.
+- "95% of U.S. population with delivery options of three hours or less": Stated as imminent in Q1 FY2026; Q2 FY2026 cites 93% at that threshold; Q3 FY2026 does not provide a completion update.
 
 ---
 
 ## Capital Figures
 
-**Revenue:**
-- Q1 FY2024: Walmart U.S. comp +7.4%; consolidated net sales growth not separately stated
-- Q2 FY2024: Constant-currency net sales +5.5% (+$8B)
-- Q3 FY2024: Walmart U.S. comp 4.9%, Sam's Club comp 3.8%
-- Q4 FY2024: Full-year operating cash flow $35B (+24%)
-- Q1 FY2025: Consolidated adjusted operating income +12.9% constant currency; adjusted EPS $0.60 vs. guidance $0.49–$0.52
-- Q2 FY2025: Constant-currency net sales +4.9%; Walmart U.S. comp +4.2%; adjusted EPS $0.67 vs. guidance $0.62–$0.65
-- Q3 FY2025: Walmart U.S. comp 5.3%, Sam's Club comp ex-fuel 7.0%; adjusted EPS $0.58 (+~14%)
-- Q4 FY2025: Full-year consolidated revenue +5.6% constant currency (~+$36B); adjusted EPS +13%; global advertising ~$4.4B; global membership ~$3.8B
-- Q1 FY2026: Walmart U.S. comp 4.5%, Sam's Club ex-fuel 6.7%; eCommerce +22% globally
-- Q2 FY2026: Adjusted EPS $0.67 (not separately specified in analyses beyond guidance range context); claims expense $450M above plan in Q2, $730M total H1
-- Q3 FY2026: Adjusted EPS $0.62 (+~7%); YTD operating cash flow $27B (+$4.5B YoY)
-- Q4 FY2026: Operating cash flow $42B; free cash flow growth 18%; global advertising $6.4B (+37%); global membership fees >$4.3B
+*All figures from structured financial metrics and explicitly cited in transcripts.*
 
-**Capex:**
-- Q4 FY2025: $23.8B (stated across store remodels, supply chain automation, new construction)
-- Q1 FY2026: Guided at "3% to 3.5% of sales"
-- Q4 FY2026: Guided at "approximately 3.5% of sales"
-
-**Financing:**
-- Q1 FY2026: $4B debt issuance completed; $4.6B share repurchases in Q1 alone (vs. full prior year)
-- Q4 FY2026: $30B share repurchase authorization; $6B+ repurchased year-to-date (Q2 FY2026 reference)
-- Q4 FY2025: Dividend increase 13% ("largest increase in over a decade")
-
-**ROI:**
-- Q1 FY2024: Declined 120bps; attributed to $4.2B opioid/Flipkart charges
-- Q3 FY2024: ROI 14.1%, up 130bps
-- Q4 FY2024: ROI 15%, up ~230bps; "last achieved in 2017"
-- Q4 FY2025: ROI 15.5%; "last achieved in 2016"
-- Rainey commitment on record (Q4 FY2025): "ROI go up every single year"
+| Quarter | Key Disclosed Figures |
+|---|---|
+| Q1 FY2024 | Adj. EPS $1.47; e-commerce +26%; international op. income +41% |
+| Q2 FY2024 | Adj. EPS $1.84; constant-currency sales +5.5% (+$8B); inventory -5% (U.S. -8%); advertising +35% |
+| Q3 FY2024 | Adj. EPS $1.53 vs. guidance $1.45–$1.50; ROI 14.1% (+130bps); legal accrual $70–75M; LIFO tailwind $50M; hurricane charge estimated 20–30bps forward |
+| Q4 FY2024 | Operating cash flow $35B (+24%); ROI ~15% (+230bps); dividend increase 9% ("largest in over a decade"); e-commerce loss reduction >40% vs. prior year |
+| Q1 FY2025 | Adj. EPS $0.60 vs. guidance $0.49–$0.52; adj. operating income +12.9% constant currency; gross margin +42bps; reorganization charge $0.02/share |
+| Q2 FY2025 | Adj. EPS $0.67 vs. guidance $0.62–$0.65; Walmart U.S. comp +4.2%; advertising +26% (Connect +30%); Sam's membership income +14.4% |
+| Q3 FY2025 | Adj. EPS $0.58 (+14%); Walmart U.S. comp +5.3%; Sam's comp ex-fuel +7%; eCommerce +27%; advertising +28%; marketplace +42%; full-year EPS guide raised to $2.42–$2.47 |
+| Q4 FY2025 | Full-year constant-currency revenue +5.6% (~$36B added); adj. op. income +10% constant currency; adj. EPS +13%; global advertising ~$4.4B (+27%); global membership ~$3.8B (+21%); ROI 15.5%; CapEx $23.8B; dividend +13% |
+| Q1 FY2026 | Walmart U.S. comp +4.5%; Sam's comp ex-fuel +6.7%; eCommerce +22%; advertising +50% (27% ex-VIZIO); membership income +15%; inventory +3.8%; share repurchases $4.6B (vs. full-year $X prior year); $4B debt issuance completed |
+| Q2 FY2026 | Claims expense: $450M above plan in Q2, $730M incremental H1; OI headwind 560bps; YTD buybacks >$6B; advertising +membership = ~50% of incremental operating profit ex-claims |
+| Q3 FY2026 | YTD operating cash flow $27B (+$4.5B YoY); $13B returned to shareholders; adj. EPS $0.62 (+7%); PhonePe SBC charge $700M non-cash discrete; VIZIO headwind 150bps to OI growth |
+| Q4 FY2026 | Full-year revenue +$35B; operating cash flow $42B; free cash flow +18%; global advertising $6.4B (+37%); membership fees >$4.3B; $30B buyback authorization; CapEx guided ~3.5% of sales; MFP headwind ~100bps full year |
 
 ---
 
 ## FOG Patterns
 
-Recurring vague language is concentrated in three domains and has **degraded in Q4 FY2026** following the CEO transition.
+**Persistent phrases across the full series:**
+- *"We like who we are and where we're going"* — appears in near-identical form in Q1 FY2024, Q2 FY2024, Q1 FY2025, and Q2 FY2025. Functions as identity affirmation with no informational content.
+- *"Positioned for growth" / "strong momentum"* — present in every quarter's prepared remarks without exception. Never attached to a specific benchmark.
+- *"People-led, tech-powered"* — Walmart's internal brand slogan presented as strategic explanation across at least six quarters.
+- *"We like what we're seeing" / "we feel good about"* — substitutes sentiment for mechanism in Q&A, flagged specifically in Q2 FY2025 and Q2 FY2026. McMillon's holiday response in Q2 FY2025 ("It's going to be great, Robbie. We're all smiling at each other") is the canonical example.
+- *"Resonating with customers"* — appears in Q1 FY2024, Q3 FY2024, Q3 FY2025, Q4 FY2025, Q1 FY2026. Never supported with a retention rate, NPS score, or repeat purchase metric.
+- *"Excited about"* — used by multiple executives across every quarter to describe AI, remodels, marketplace, advertising, and new leadership. Enthusiasm is uniform regardless of initiative maturity, eliminating its signal value.
+- AI language: Migrated from generic ("the power of generative AI is only as good as the data") in Q2 FY2024 → to "My Assistant / 50,000 users" in Q3 FY2025 → to "Sparky" and "agentic commerce" in Q4 FY2026, each cycle introducing new terminology without retiring prior-period commitments or disclosing metrics against them.
 
-**Persistent phrases across the series:**
-- "Resonates with customers" — appears in Q1 FY2024, Q3 FY2024, Q1 FY2025, Q2 FY2025, Q1 FY2026, Q3 FY2026; each instance substitutes sentiment for mechanism.
-- "We like who we are and where we're going" — Q1 FY2024 and Q1 FY2025 verbatim; zero informational content.
-- "People-led, tech-powered" — Q1 FY2024 through Q4 FY2026; an internal slogan deployed as though it constitutes explanation.
-- "Laser focused on the member and customer" — Q1 FY2025 (twice verbatim); corporate filler.
-- "Positioned for growth" / "strong momentum" — Q2 FY2024, Q2 FY2025, Q4 FY2026; each use is a confidence assertion without benchmark.
-- "We feel like we're just getting started" — Q4 FY2025 (used by both McMillon and Rainey independently, signaling message coordination rather than authentic conviction).
-
-**New degradation in Q4 FY2026 under Furner:**
-- "Agentic commerce is gonna be great" — stated without definition, mechanism, or falsifiable threshold.
-- "The future is fast, convenient, and personalized" — undifferentiated brand copy.
-- "Good momentum. Customer engagement is up" — four appearances without a single supporting metric.
-
-**Where precision improved:** Rainey's financial communications improved consistently across the series. His ROI attribution (Q1 FY2024), guidance reconciliation walkthroughs (Q2 FY2024, Q4 FY2024), RIM/LIFO proactive disclosure (Q1 FY2026), and claims expense arithmetic (Q2 FY2026) represent genuine linguistic discipline. The FOG problem is structurally concentrated in CEO-level strategic framing, not CFO-level financial reporting.
+**Trend:** FOG precision did not improve secularly. Rainey's financial language became more precise over time; McMillon's strategic and cultural language remained stable in FOG density. The CEO transition to Furner in Q4 FY2026 introduced a regression — "AgenTik commerce is gonna be great," "the future is fast, convenient, and personalized," and "I love what I'm seeing" are all lower precision than McMillon's final calls.
 
 ---
 
 ## Flags & Risks
 
-**Data quality flags:**
-- E-commerce absolute loss level never disclosed across nine quarters; only percentage improvements ("40% reduction," "80% improvement") are offered, preventing independent modeling of the profit curve.
-- International segment margins and return on investment absent from every call. McLay provides market-by-market highlights without a single margin or ROI figure for the segment.
-- Non-GAAP framing (constant currency, adjusted EPS) dominates verbal remarks without real-time reconciliation; investors must consult supplemental materials.
-- Prior guidance is not formally closed out quarter-to-quarter; new targets replace old ones without explicit confirmation of completion or revision (the "perishable goal" pattern is documented across Q1 FY2025, Q2 FY2025, and Q4 FY2026).
+**Data quality:**
+- No equity-declining flags identified across the period. ROI improved from 14.1% (Q3 FY2024) to 15.5% (Q4 FY2025) to an implied continuation in FY2026, though the $700M PhonePe SBC charge and $730M claims expense create comparison-period noise.
+- E-commerce contribution profit is disclosed directionally ("losses narrowing," "40% reduction," "double-digit incremental margins") but never in absolute dollar terms. Nine consecutive quarters of progress claims without a disclosed absolute level creates a verification gap. Rainey explicitly declined to quantify the magnitude in Q1 FY2026.
+- Guidance consistently set below actual results — Q1 FY2025 beat by $0.08–$0.11 on EPS, Q3 FY2025 exceeded top end of all guided ranges — suggesting systematic conservatism that may reduce guidance's informational value.
 
 **Communication-level risks:**
-- **Guidance sandbagging:** Q1 FY2025 EPS guidance was $0.49–$0.52 against $0.60 actuals — a 15–22% beat. This pattern of deliberate conservatism recurs across multiple quarters; if sustained, guidance conveys little forward information.
-- **E-commerce profitability timeline is indefinitely deferred.** Investors have heard variants of "further down the road" since Q4 FY2024. The declaration of profitability in Q1 FY2026 excluded international. No timeline or margin target has ever been set.
-- **Agentic commerce lacks accountability anchors.** Introduced Q4 FY2026 with no definition, adoption baseline, or falsifiable milestone. The "Sparky" metrics (35% higher AOV, ~50% of app users) are not anchored to a prior quarter's data, preventing trend assessment.
-- **CEO transition.** Furner's Q4 FY2026 call scores a full grade below McMillon's comparable calls. Strategic commentary is aspirational; problem disclosure is absent; FOG density is the highest in the series. The January 2026 reorganization is framed as unambiguously positive with no acknowledgment of integration risk.
-- **Claims expense classification.** The $730M H1 FY2026 claims expense was characterized as partially industry-wide and non-recurring. If it persists into H2 FY2026 and FY2027, the "unusual" framing will require revision.
+- **Perishable goal pattern:** No prior-quarter commitments are formally closed out. Goals from Q4 FY2024 (international profits doubling by FY2028, automation hitting 55% of FC volume by FY2026) are not revisited with explicit accounting in subsequent calls. The Sparky and agentic commerce framework introduced in Q4 FY2026 has no baseline, milestone, or retirement mechanism.
+- **Tariff opacity:** Q4 FY2025 and Q1 FY2026 both decline to model tariff exposure in guidance. Q1 FY2026 discloses source country concentration (China, Mexico, Vietnam, India, Canada) as a building block but provides no category-level exposure quantification. The "we'll navigate it" framing recurs across both calls.
+- **CEO transition uncertainty:** Furner's Q4 FY2026 debut introduces higher FOG density, more aspirational framing, and lower prior-commitment accountability than any McMillon-era call since Q2 FY2024. One call is insufficient to establish a trend, but the regression from Q3 FY2026 (A, 3.65) to Q4 FY2026 (B, 2.80) is the sharpest single-quarter decline in the series.
+- **Claims expense classification:** The $730M H1 FY2026 general liability and workers' compensation claims increase was characterized as "unusual" and partially industry-wide, but no analysis of Walmart-specific operational drivers (delivery pace, automation, store remodels) was offered. The full-year guidance embeds continued elevated claims; if this is structural rather than episodic, the disclosure framing is misleading.
+- **International opacity:** Despite representing meaningful revenue, the international segment's operating margin and e-commerce unit economics are never disclosed in absolute terms across any quarter. McLay's contributions are accurate but do not enable independent modeling.
 
 ---
 
 ## Verify Next Quarter
 
-The following specific commitments from Q4 FY2026 (Furner's first call as CEO) require verification when Q1 FY2027 drops:
+From Q4 FY2026 tracking commitments, the following should be evaluated when Q1 FY2027 drops:
 
-1. **Sparky metrics evolution.** Q4 established: ~50% app user engagement, ~35% higher AOV vs. non-users. Verify whether these figures are updated with a directional trend, restated as a static baseline, or replaced by new metrics. Metric substitution without baseline acknowledgment confirms perishable goal pattern.
+1. **Sparky metrics — baseline or migration?** Q4 FY2026 established: ~50% of app users engaged; ~35% higher AOV vs. non-users. If Q1 FY2027 cites the same metrics without update, or introduces new metrics that make prior figures invisible, flag as perishable goal execution.
 
-2. **Agentic commerce definition and first milestone.** If the term recurs without a definition, adoption rate, revenue contribution threshold, or timeline, flag as confirmed aspirational language. A falsifiable claim would be: "X% of U.S. orders initiated via agentic interface by [date]."
+2. **Agentic commerce — definition introduced?** No quantitative milestone was offered in Q4 FY2026. The first test of whether this is a real accountability framework or a label is whether Q1 FY2027 provides a measurable threshold for what success looks like within a stated timeframe.
 
-3. **Platform reorganization early evidence.** Furner committed to "build once, scale globally" via the January enterprise restructuring. Verify whether any international market has received a US-developed platform capability under the new structure, and whether any cost or time-to-market benefit is quantified.
+3. **Platform reorganization early results.** Furner described the January enterprise reorganization (Seth leading marketplace, advertising, Walmart+) as enabling "build once, scale globally." Look for: any named international market where a U.S.-developed capability deployed, and any cost or time-to-market metric attached to shared infrastructure claims.
 
-4. **MFP pharmacy headwind.** Rainey guided ~100bps full-year FY2026 headwind from maximum fair pricing legislation. Q1 FY2027 should confirm whether the January comp effect materialized as described and whether the headwind moderates or persists.
+4. **Advertising growth rate trajectory.** Q4 FY2026: global advertising $6.4B, +37%; Walmart Connect U.S. +41%. Rainey acknowledged the law-of-large-numbers challenge. Track whether growth moderates to 25–30% (expected maturation) or decelerates more sharply, which would indicate VIZIO integration friction or competitive pressure.
 
-5. **ROI continuity.** Rainey's stated commitment: "ROI go up every single year." FY2026 ROI was not explicitly stated in Q4 FY2026 materials reviewed. Verify the disclosed figure and whether the commitment is revisited or quietly dropped under new CEO.
-
-6. **Furner communication calibration.** Q1 FY2027 is Furner's second call. Evaluate whether FOG density in strategic commentary declines toward McMillon's levels (B) or persists at Q4 FY2026 levels (C). Structural improvement would require: (a) at least one prior commitment explicitly closed out, (b) one "what went wrong" disclosure, and (c) "agentic commerce" defined with a measurable threshold.
+5. **E-commerce profitability framing.** Rainey's Q4 FY2026 disclosure: "roughly double-digit incremental margins." If Q1 FY2027 repeats this phrase verbatim without evolution toward a tighter figure or absolute margin disclosure, the commitment is stagnant and should be flagged. The nine-quarter directional-only pattern on this metric is already an accountability gap.

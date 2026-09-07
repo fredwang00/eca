@@ -29,5 +29,23 @@
       "management_tone_shift": "I tend not to really worry about competitors unless they have a product in market that's actually beating us... this is probably the least diversified you should ever see Robinhood."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 989.0,
+    "gross_profit_m": 809.0,
+    "operating_income_m": 439.0,
+    "net_income_m": 386.0,
+    "eps": 0.44,
+    "total_equity_m": 8072.0,
+    "total_assets_m": 35324.0,
+    "cash_and_equivalents_m": 4162.0,
+    "shares_outstanding_m": 888.22,
+    "free_cash_flow_m": 3491.0,
+    "operating_cash_flow_m": 3509.0,
+    "capital_expenditure_m": -18.0,
+    "bvps": 9.09
+  },
+  "flags": []
 }

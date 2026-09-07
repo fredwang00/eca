@@ -29,5 +29,23 @@
       "management_tone_shift": "We believe it's prudent to plan conservatively this year due to uncertainties around interest rates and inflation \u2014 explicit conservatism embedded in guidance language, a shift from prior growth-forward framing."
     },
     "extracted_at": "2026-04-05"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 883.8,
+    "gross_profit_m": 389.7,
+    "operating_income_m": 105.9,
+    "net_income_m": 36.3,
+    "eps": 1.93,
+    "total_equity_m": 3.3,
+    "total_assets_m": 4793.7,
+    "cash_and_equivalents_m": 43.1,
+    "shares_outstanding_m": 18.78,
+    "free_cash_flow_m": 82.9,
+    "operating_cash_flow_m": 131.9,
+    "capital_expenditure_m": -49.0,
+    "bvps": 0.18
+  },
+  "flags": []
 }

@@ -1,0 +1,82 @@
+{
+  "source": "yfinance",
+  "ticker": "NFLX",
+  "fetched_at": "2026-09-07",
+  "quarters": {
+    "Q2 2026": {
+      "revenue_m": 12559.9,
+      "gross_profit_m": 6523.0,
+      "operating_income_m": 4192.6,
+      "net_income_m": 3401.4,
+      "eps": 0.81,
+      "total_equity_m": 30152.1,
+      "total_assets_m": 58450.4,
+      "cash_and_equivalents_m": 9099.2,
+      "shares_outstanding_m": 4163.94,
+      "free_cash_flow_m": 1525.2,
+      "operating_cash_flow_m": 1743.8,
+      "capital_expenditure_m": -218.6,
+      "bvps": 7.24
+    },
+    "Q1 2026": {
+      "revenue_m": 12249.8,
+      "gross_profit_m": 6361.5,
+      "operating_income_m": 3957.0,
+      "net_income_m": 5282.8,
+      "eps": 1.25,
+      "total_equity_m": 31126.4,
+      "total_assets_m": 61015.9,
+      "cash_and_equivalents_m": 12259.8,
+      "shares_outstanding_m": 4212.79,
+      "free_cash_flow_m": 5094.1,
+      "operating_cash_flow_m": 5290.2,
+      "capital_expenditure_m": -196.1,
+      "bvps": 7.39
+    },
+    "Q4 2025": {
+      "revenue_m": 12050.8,
+      "gross_profit_m": 5528.1,
+      "operating_income_m": 2956.7,
+      "net_income_m": 2418.5,
+      "eps": 0.57,
+      "total_equity_m": 26615.5,
+      "total_assets_m": 55597.0,
+      "cash_and_equivalents_m": 9033.7,
+      "shares_outstanding_m": 4222.16,
+      "free_cash_flow_m": 1872.3,
+      "operating_cash_flow_m": 2111.6,
+      "capital_expenditure_m": -239.3,
+      "bvps": 6.3
+    },
+    "Q3 2025": {
+      "revenue_m": 11510.3,
+      "gross_profit_m": 5346.1,
+      "operating_income_m": 3248.2,
+      "net_income_m": 2546.9,
+      "eps": 0.6,
+      "total_equity_m": 25954.0,
+      "total_assets_m": 54934.8,
+      "cash_and_equivalents_m": 9287.3,
+      "shares_outstanding_m": 4237.32,
+      "free_cash_flow_m": 2660.5,
+      "operating_cash_flow_m": 2825.2,
+      "capital_expenditure_m": -164.7,
+      "bvps": 6.13
+    },
+    "Q2 2025": {
+      "revenue_m": 11079.2,
+      "gross_profit_m": 5753.9,
+      "operating_income_m": 3774.7,
+      "net_income_m": 3125.4,
+      "eps": 0.735,
+      "total_equity_m": 24951.9,
+      "total_assets_m": 53099.7,
+      "cash_and_equivalents_m": 8177.4,
+      "shares_outstanding_m": 4249.26,
+      "free_cash_flow_m": 2267.4,
+      "operating_cash_flow_m": 2423.3,
+      "capital_expenditure_m": -155.9,
+      "bvps": 5.87
+    }
+  }
+}

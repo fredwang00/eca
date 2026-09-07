@@ -1,0 +1,279 @@
+July 16th, 2026
+Summary
+Earnings Call Date:
+Jul 16, 2026
+Change Since:
++5.25%
+Next Earnings Date:
+Oct 20, 2026
+Earnings Call Sentiment
+Positive
+The call emphasized solid top-line guidance, clear early traction across new product areas (live events, ads, cloud gaming, GenAI-driven production), strong capital return via a record share repurchase, and continued disciplined content investment. Headwinds include modest growth in aggregate view hours, accelerating content expense, an existing ad-tier monetization gap, and short-term quarter-to-quarter variability. Overall the positives — revenue guidance, retention, ad and gaming monetization progress, GenAI efficiencies, and substantial buybacks — outweigh the described challenges.
+
+Company Guidance
+Netflix guided Q3 reported revenue growth of 12% year-over-year (11% FX‑neutral) versus ~12% FX‑neutral in Q2, and reiterated full‑year 2026 top‑line growth of 13–14% (roughly 12% FX‑neutral), which equates to about $6 billion of incremental revenue year‑over‑year; content expense is expected to grow ~10% in 2026 (vs ~8% five‑year and ~14% decade averages) within a roughly $20 billion cash content framework; engagement metrics include H1 2026 view hours up 2% (~+1.5 billion hours YoY) versus 1.5% in 2025, live programming representing ~5% of content spend but ~1% of view hours (live drove 6 of the top 10 new‑member sign‑up days in five years), and season‑2 retention slightly improved year over year; scale and market opportunity cited: approaching ~1 billion people, <45% household penetration (~800 million addressable households), ~7% of the ~$670 billion addressable revenue market, and ~5% global TV view share; newer initiatives show early traction (ads plan at $8.99 US with ad‑tier ARM gap narrowing, cloud games monthly players up 11x since October, kids mobile engagement +600% YoY and Netflix Playground daily players +3x); capital allocation remains unchanged with $4.7 billion of buybacks in Q2 and about $27 billion of repurchase capacity remaining.
+
+
+Highlights
+
+Lowlights
+Strong 2026 Top-Line Guidance
+Company guided to Q3 reported revenue growth of 12% year-over-year (11% FX-neutral) and reiterated full-year 2026 top-line growth of 13–14% (roughly 12% FX-neutral), representing about $6 billion of incremental revenue year-over-year.
+
+Membership and Pricing Momentum
+Management reported healthy acquisition and retention trends, noting recent price adjustments are performing as expected in markets like the U.S., Mexico and Spain with no material change in receptivity; emphasized industry-leading retention and attractive entry price points (ads plan at $8.99 in the U.S.).
+
+Live Events Driving Acquisition and Monetization
+Live programming (≈5% of content budget) is a high-acquisition, high-monetization tool: 6 of the top 10 new-member signup days in the last 5 years came from live events. Recent live content examples include the Kevin Hart roast and MLB Home Run Derby.
+
+Content Slate Performing Globally
+Multiple local and global hits cited (e.g., film 'I Will Find You', animated 'Swapped', K-drama 'Teach You a Lesson', South African series 'The Polygamist', 'Rosario Tijeras' renewal), highlighting travelability of local originals and continued positive slate performance.
+
+Ad Monetization Progress
+Ad-tier ARM gap vs. standard tier is narrowing due to expanded demand sources, in-house ad tech, additional ad products and measurement—management sees this as near-term unrealized revenue upside that they are actively closing.
+
+Gaming and Interactive Growth Signals
+Cloud gaming showing strong early traction (FIFA and Unhinged were top cloud-game debuts); monthly cloud-game players increased 11x since October and adoption outpacing mobile-game ramp, while kids/mobile gaming showed notable growth (kids mobile games up ~600% year-over-year; Netflix Playground daily players 3x since launch).
+
+GenAI Driving Production Efficiency
+GenAI workflows used across ~300 titles, primarily in post production; example 'American Experiment' used 17 minutes of AI-enhanced footage produced ~2x faster at ~half the prior cost, enabling higher-quality output and faster timelines.
+
+Capital Allocation and Share Repurchase
+Company repurchased $4.7 billion of shares in Q2 (largest quarter of buybacks in company history) and maintains ~ $27 billion of remaining repurchase authorization while reiterating a build-first M&A posture and strong liquidity.
+
+Scale and Strategic Partnerships
+Scale metrics highlighted: ~330 million subscription households, <45% household penetration of ~800 million addressable households, ~5% global TV view share and an estimated $670 billion addressable revenue market; early TF1 integration in France (4 weeks) performing promisingly to enhance local content offering.
+
+Operator
+Good afternoon, and welcome to the Netflix Q2 26 earnings interview.
+
+Spencer Wang
+I am Spencer Wang, VP of finance and capital markets. Joining me today are co CEOs, Ted Sarandos and Gregory K. Peters, and CFO Spencer Neumann. As a reminder, we will be making forward-looking statements, actual results may vary. We will now take questions submitted by the analyst community. We will begin with a question on our guidance and our business outlook, and this question comes from Steve Cahall of Wells Fargo.
+
+Steve Cahall
+What is the main driver of FX neutral revenue growth slowing from 12% year over year in 2Q to 11% year over year as the guidance for the third quarter suggests.
+
+Spencer Wang
+Spencer, do you want to take that?
+
+Spencer Adam Neumann
+Yeah. Sure. Sure. Thanks, Steve. So, look, we do not manage the business on a quarter-to-quarter basis. Our goal is to sustain healthy revenue and profit growth. We talk about that in our letter every quarter. We are guiding, as you say, to 12% revenue growth in Q3 reported, 11% FX neutral.
+
+The Q3 revenue drivers are very similar to Q2. it is primarily growth in our subscription revenue from increases in memberships and pricing and higher ads revenue. Continue to see healthy acquisition and retention trends on the membership side and our recent price adjustments are going well on the pricing side. Now recall, there is a little bit of quarter to quarter chop in growth because last year was more back half weighted. So that may be a little bit of what you see in the deceleration, but honestly, it is not what we manage to. We manage to the full year. And, through the year, we are making strong progress against our goals, and we are tracking to our financial plan for 2026. We expect to deliver another strong year with as we saw as you see in the guide, 13 to 14% top line growth for the full year that is roughly 12% FX neutral.
+
+We are about $6 billion of incremental revenue year over year. By the way, when we when we finish 2026, it is worth saying also that in many ways we are still just getting started as a company. We are entertaining an audience, approaching a billion people, with still lots of room to grow into our addressable market on every measure. We are <45% penetrated into households around the world. it is roughly 800 million addressable households. Capturing, you know, we think just 7% of addressable revenue market. it is about $670 billion of addressable revenue in the countries and categories in which we operate today. We estimate that we are only about 5% of TV view share globally.
+
+So delivering on our 2026 plan, and we believe we have got lots and lots of runway for solid growth ahead of us.
+
+Spencer Wang
+Thanks, Spencer, for that thorough answer. I will now move us along to a topic of engagement where we do have several questions. This first 1 is from Rob Sanderson of Loop Capital Markets.
+
+Rob Sanderson
+His question is management has stated that engagement quality is improving even as reported viewing hours per member have softened. Can you help investors understand what internal metrics provide confidence and how these translate into lower churn, pricing power, higher ads monetization, etcetera. At what point would slow growth in total viewing hours become a concern?
+
+Gregory K. Peters
+I will take this 1 and it a bit since I know that there is plenty of interest in this topic. I will start by saying there is not a linear relationship between view hours and revenue and profit. Because all hours are not created equal. All hours do not provide the same kind of value to the business. And a really great example of this is live programming. So live events do a lot of lifting for us for acquisition. They are good for monetization. They drive ad revenue, fandom.
+
+They are also a promotional platform. But they do not yield typically as many raw view hours. So live, we expect will be 5% of our content budget this year, but we that will only be 1% of view hours. Having said that, 6 out of the top 10 new member sign up days over the past 5 years have come from live events. And if you compare that to another content category, take animation series, kids family TV, it is also about 5% of our content spend, the same amount of spend is going to drive, we expect, 8% of view hours. So same spend, and 8x the raw view hours. You can see the differences there. Even though because as you know, indicated by the amount that we are investing in both those categories being the same, we think they are doing the same value for the business.
+
+So we are constantly looking to improve across every dimension of. We look at these as 3 dimensions, quality, variety, quantity, because they, taken collectively, drive acquisition. They drive retention. They drive the value that our consumers and our advertising partners ascribe to our service. We described in the last few earning calls the progress we have made on quality over the years. We are not going to go into the details of that quality metrics because frankly it is taken years for us to develop it and vet it and assess it and improve it. And we think those details are a competitive advantage. We are also continuing to expand the variety of our entertainment.
+
+You see us launch new types of content like live, like video podcast, cloud TV games. Those are all doing different things in our portfolio to support needs from our members. Then on quantity, view hours grew 2% in the first half of 26. that is an incremental 1.5 billion hours relative to the same period last year. it is a slight acceleration compared to 1.5% growth in 2025. Just to be very clear, like all those other dimensions, we remain focused on continuing to grow that number. And better understanding how we are doing at delivering member value, member love is critical to our business. We get it.
+
+We geek out on improving that understanding operationalizing that understanding. And with regard to engagement, When I started about 20 years ago, we had 1 number to describe engagement. Hours. Just flat hours, no waiting, no adjustments, and very similar to how we have evolved other metrics in the business. Since then, we have gone through about a dozen major iterations of our understanding that. We get more and more sophisticated because we know ultimately it is combined quality, variety, and quantity of engagement that translates into satisfaction and value for members. And that drives the strong business outcomes we see right now. Industry leading retention.
+
+We see increased willingness to pay. Strong advertiser demand, and those ultimately drive the top level metrics of our business, revenue and operating profit, which are really the ultimate signs of our health.
+
+Theodore A. Sarandos
+I have this visual of you geeking out, Gregory. it is hard to see it is hard to see Spencer geeking out, but I can see us geeking out.
+
+Gregory K. Peters
+Those are 20 years of the debate and wackiness.
+
+Spencer Wang
+Well, let me geek out on the next question, which comes from Steve Cahall of Wells Fargo.
+
+Steve Cahall
+His question is, amortization for content growth is accelerating in 2026. How is the slate performing, and what metrics are we watching to see how this growth in content drives increased member value? How do we think about the expense acceleration converting into revenue acceleration?
+
+Theodore A. Sarandos
+I am going to take that, Steve. Look, I think when it comes to programming spend, there are 3 really important takeaways. First, the to remember is that the vast majority of our programming spend goes into the core TV series and film. Where we have a really strong track record more than a decade of translating those investments into value for our members and returns for the business. I am gonna come back to that core in just a second, but the second 1 is that we are really disciplined investors. So there is not some hyper acceleration of content investment. We grow the content spend slower than revenue. While we are continuing to invest in a huge addressable market.
+
+So forecasting content expense up about 10% this year. So a little higher than the 8% we averaged over the last 5 years. And below the 14% that we averaged over the past decade. The third thing we want you to remember here is that when we expand into new entertainment offerings, new initiatives, We do it gradually, We do it where we believe we can add more value for our members. And we do it where we believe we have the right to win. And then we look for the positive signals before we invest at material scale. This is our MO. it is been our MO for some time.
+
+Ask how the slate's performing. there is a lot to be happy with in Q2. I will find you was our biggest launch of the original series this year. Swapped is on track to become the second biggest original animated film right behind K-Pop: Demon Hunters, which is exciting. Speaking of K-Pop, we have K-dramas like Teach You a Lesson a lesson. Which is on track to become the second most watched South Korean show ever globally, and it is on track to be our biggest series in South Korea of all time. there is a show called The Polygamist, probably is not on your radar maybe, Steve. But it is out of EMEA.
+
+it is another great example of the understanding of our understanding of the local markets and the local regions. The Polygamist was a popular novel from Zimbabwe. More than 10 years ago. From an author named Sue Nyathi. And the teams adapted that into a soapy series for South Africa where it is now a huge hit and is traveling all over the region and all over the world. In Latin America we have got a big season that just came back for Rosario Tijeras. This was a show that started its life as a licensed show, from TV Azteca in Mexico. After 3 successful seasons, we picked it up and produced it as original Season 4, Season 5, and just greenlit Season 6.
+
+So you are seeing the slate perform around the world. Which is a real differentiated part of our business. Now with that said, with the core, we are also really pleased with the investment so far in our live programming. It plays a really important role as Gregory mentioned earlier. Driving acquisition, accelerating ad revenue, fueling conversation, helping us to launch new shows, it is helped us build our and it is also helping us to understand what are the benefits of live over the over the entire catalog. So, you know, we are ramping up our live event slate. You saw the Kevin Hart roast in Q2. The Major League Baseball home run derby earlier this week.
+
+What was really fun at the derby we had-- we produced an original and exclusive Hot Ones special that we shot at on a baseball field to promote Will Ferrell's new series, The Hawk, which just launched today, actually. And I think it is a cool example of the intersection between our core-- you know, that core series, The Hawk, our expansion, the new exclusive creator content, with Hot Oness with Sean Evans as a best in class creator. We are thrilled to be in business together. Plus live sports. Coming together on a baseball field and on Netflix around the world. The result there is a highly attractive, scalable return on content investment. And it ladders up to healthy business metrics that Gregory just detailed, and our strong growth in revenue, dollar profit, and profit margin.
+
+Spencer Wang
+Thanks, Ted. Our next question on engagement comes from David Joyce of Seaport Research Partners.
+
+David Joyce
+The question is, attention is being raised that your second season viewing of series is dropping and therefore affecting engagement growth. How would you address this? Are you going to revert to releasing 1 episode at a time, or making longer seasons with more episodes or managing the production process so that there is less time between seasons.
+
+Spencer Wang
+Ted, you want to take that?
+
+Theodore A. Sarandos
+Yeah. Thanks for asking, Dani. I really appreciate the question because in aggregate, we are not seeing any material change in our second season viewing compared to Season 1s. Our second seasons are performing well within our bands of expectation. We, very often, we see drop off from Season 1 to Season 2. Very common in the industry. And it is even more so with us because we launch our show so big. You know, our global reach, our discovery mechanism, releasing all at once, this enables us to find a very large audience early.
+
+So our shows tend to start really big, while most other, you know, places, their shows start pretty small, and occasionally grow from there. For example, I just mentioned the polygamists from South Africa. That show's already had 24 million views in 5 weeks and it is still charting. When we look across the entire portfolio, across all the regions, all the content categories, our Season 2 fall off is actually slightly improved this year relative to last year. Now of course you can pick any 5 data points to tell any story you want, but I am going to repeat this. Our season 2 fall off has actually slightly improved this year relative to last year. So no changes in release strategies.
+
+Spencer Wang
+Thanks, Ted. The next question comes from Vikram Kesavabhotla of Baird.
+
+Vikram Kesavabhotla
+Last quarter, you shared that the World Baseball Classic was a significant driver of sign ups in Japan. What have you observed with respect to the retention and engagement of these members since then? How has this influenced your perspective on the value of regional live programming?
+
+Theodore A. Sarandos
+Thanks for asking. We talked about this a lot last quarter. It the World Baseball Classic on Netflix in Japan was a huge hit. Became our most watched program ever in Japan. It was the biggest baseball streaming event ever. World Baseball Classic is kind of like these other big live events. And they behave a lot like our returning seasons of our big shows. They drive disproportionate sign ups.
+
+Because of that acceleration, they can exhibit slightly higher churn, but the results are exactly consistent with trend and in line with our expectations in all of our modeling. So we are thrilled and we are continuing to see-- you know, to lean into live events because they have a big outsized positive on the business. They drive conversation, drive net acquisition, we are gonna continue to build out that global live event calendar. And include expand it to include some regional live events as well.
+
+Spencer Wang
+Great. I will now move us on to a series of questions around content strategy. We have actually 2 that are pretty similar, so I will do my best to combine them. They are from Robert Fishman, of MoffettNathanson and Rich Greenfield of LightShed Partners.
+
+Robert Fishman
+First from Robert Fishman. What is your openness to leverage Netflix's leading global scale bundle with other streaming services like Peacock, or even consider a streaming channel store to compete with Amazon, YouTube, or Roku.
+
+Rich Greenfield
+On a related point, Rich Greenfield asks, while it is only been a few weeks, the integration of TF1 in France, Is that integration driving higher engagement for Netflix? Including non TF1 content? Do you think there is a meaningful opportunity for Netflix to become a distributor or platform for third party streaming services around the world.
+
+Gregory K. Peters
+Yeah. I can take this 1. Since the very beginning when we launched our streaming service, we have always sought to expand the entertainment offering we have got in that service. We wanted to provide more value for our members. Our members consistently tell us that they want more from us. We see that in sort of usage behavior. We see it in any kind of testing or modeling we do around the space. I would say that fulfilling on that customer desire for more has really been the driver for growth for our business for the last 2 decades.
+
+This partnership with TF1 is yet just another approach to expanding that offering. We are just adding to the range of capabilities that we have to do that and the mechanisms we have to do that. We have built a leading streaming entertainment service by combining an unparalleled selection of high quality programming, best in class product experience. We have got a global footprint, big reach. And the ability then to deliver huge audiences, deep engagement, industry leading monetization. So whether through licensing or through new partnerships like TF1, we believe that we can help other producers, other services maximize the value, the relevance of the content that they invest in by finding those bigger audiences. And we have many, many examples of this effect, including now in this new model with TF 1. We also believe that such partnerships are good for our members.
+
+They enhance the variety of our offering. They are also for our business. And it is early in the TF1 partnership. We are literally 4 weeks in, so there is a bunch that we will learn through this process, but we are pleased with the performance we are seeing in that integration. We have been able to enhance our already compelling service for our French members with even more local French programming we know that they wanna watch. We have seamlessly integrated the TF1 product experience in a way where it supports their brand, but it also keeps things distinct. And we actually think this approach is advantageous for both them and for us. And the early results from how members are reacting, they are interacting are very promising.
+
+So we do not have anything new to announce today. We are gonna continue to learn. there is a lot that we will dig into over time. We also think that there is a lot we can improve in the product experience already that we have seen. But if we see additional deals that similarly serve our members, that work for our partner, that work for us, we will certainly consider them.
+
+Spencer Wang
+Thanks, Gregory. Robert Fishman has a another question in this category.
+
+Robert Fishman
+What is the opportunity for Netflix to launch a fast platform given the rapid engagement growth in that space? Could Netflix library pro programming be used as an on-ramp for new subscribers, or would you be open to adding third party license content to compete with other fast channels for incremental ad dollars?
+
+Gregory K. Peters
+So if you go back, you know, more than a decade when we transitioned from 1 tier, 1 offering to sort of a set of offerings, we have been consistently seeking to expand the range of those offerings. So think about that as price and plan choices. And widen the spread of those, give customers more options, more range of choice, both at the lower end and also on the premium side. Maintaining and increasing accessibility is especially as we expand our content offering around the world, add new customer segments, that is a critical focus and goal for us. Also, optimizing long term revenue is the other big goal. A free offering could make sense in some markets but we have to be thoughtful about cannibalization of pay tiers. We have got to ensure that we have got the right offering, the right differentiation of that offering. it is probably also worth noting that having an effective scaled ads business any candidate country for such an offering is clearly an important enabler to make those economics work.
+
+that is all to say that free is something that we are going to continue to consider. But we have no near term plans to launch something.
+
+Spencer Wang
+Great. Thanks, Gregory. From, next is from John Hulik of UBS.
+
+John Hulik
+With the addition of video games and more recently vertical video clips and podcasts, what other content formats are interesting from a long term road map perspective? How should we gauge the success of these initiatives?
+
+Theodore A. Sarandos
+Well, let's not get into areas that we may be exploring here, and let's not preannounce anything. But I am pleased with the early progress we are making with clips for choosing on mobile and certainly video podcasting. We mentioned in the letter, we announced a partnership with the publishers like Conde Nast and Hearst and People. We are going to bring on some lifestyle content on the service next month. And with the podcast, we are super encouraged with the viewing patterns that we are seeing. They have convinced us that this viewing is definitely incremental for us. We are seeing that in daytime viewing, so we are engaging our members outside of a time where we historically have done most, you know, most of the engagement on Netflix. And keeping in mind since professional long form content is a pretty small part of mobile, it is exciting to see that our video podcasts are out indexing on mobile for us.
+
+So it is a really great progress on both fronts. We it is really important for us to meet our members where they are, with the kind of entertainment that they are trying to enjoy. So we have been building out this great lineup of podcasters, include a mix of owned and licensed with creators like Martha Stewart, Kate and Oliver Hudson have a great new 1. We are thrilled to have Jay Shetty's On Purpose exclusively on Netflix. And our members are starting their day with The Breakfast Club, They are loving the official Bridgerton podcast. Bill Simmons, Pete Davidson, Brian Williams, just to name a few. These are examples of us continuing to evolve and deliver members more entertainment value, and more ways to engage with stuff they love. But to take a step back and kinda contextualize this, over the last 15 years, the definition of TV has broadened and our definition has changed along with it.
+
+So it is easy to forget, but if you rewind the clock to say 2013, we had a single prestige English language scripted drama show. No unscripted, no local language, no originals, no comedies, no competition shows. And now we are the number 1 creator of original programming around the world. Just this week, the Emmy nominations were announced and we have an Emmy nomination on nearly every category. We did not even know back in that first year if House of Cards would qualify for the Emmys. Was a bunch of debate as to whether or not it was TV. So these just announced nominations I think are a testament to the quality, the quantity, and the variety of our original programming. These expansions are evolutionary, not revolutionary.
+
+These are expansions on the same continuum that we started on years ago. Adding new things as they become available to us, we see signals that our consumers will get value including in their Netflix subscription. That continuum has served our members and our business really well. So we are really excited about the progress on.
+
+Spencer Wang
+Thanks, Ted. I will shift this now to a new topic, which is monetization, and I will begin with advertising. The question is from Steve Cahall also of Wells Fargo.
+
+Steve Cahall
+As you look at the ad tier average revenue per membership today, what are the biggest opportunities for increasing that monetization?
+
+Gregory K. Peters
+Yeah, maybe worth starting by noting that we manage the ads business for total revenue, total revenue growth. So those optimization functions, ARM and fill rates sort of come along for the ride and achieving those goals. Having said that, there is still a gap between ad tier ARM and then arm for our standard without ads tier. But that gap is narrowing, and I think of that gap as essentially near term, unrealized revenue growth. It represents an opportunity for us. As we improve ads capabilities, we can close that gap over time. And you have seen us do exactly that over the last year. How have we done it?
+
+We have expanded demand sources. We continue to execute quickly on our own ad tech stack. We are adding features. We are adding more ads products. We are adding more measurement. We are making it easier for us for folks to transact with us. Those all drive demand. They drive competitiveness.
+
+That yields increased fill rates. It pushes ads arm higher. Those improvements are really the bulk of the opportunity we have to improve unit performance and monetization for the next few years.
+
+Spencer Wang
+Thanks, Gregory. From Sean Diffely of Morgan Stanley, there is a question on, pricing.
+
+Sean Diffely
+Has there been any change in the receptivity to price hikes this cycle? And how do you think about the timing and magnitude of taking price, in other words, first quarter versus fourth quarter seasonality, which is historically a stronger period.
+
+Gregory K. Peters
+Yeah. Our first half price changes, these are markets like US, Mexico, Spain. They have gone well. The results are consistent with prior price changes. They are consistent with our expectations. So we are not seeing any real changes in that performance. And then with regard to timing and magnitude, we really go back to that top level macro question we have got of have we delivered sufficient value to our members. We are constantly looking at the signals that help us understand that question.
+
+Of course, plan selection, plan movement. We have got retention, which is industry leading. So we see improvements in value delivered start to move well in advance of making price adjustments. And then we price behind that value that we are delivering. Those same signals inform all of our price change, They include the ones that we have made in the-- in the first half of this year. And they help us determine that timing and magnitude that you are getting at. I think also I would be remiss if I did not use this opportunity to say that I believe that we are delivering 1 of the best entertainment values that has ever existed. As a comparison point, if you go to the US and you take what Netflix subscribers are paying, they pay the least per hour of viewing compared to comparable SVOD.
+
+In some cases, they would have to pay twice as much per hour for competitive service. And our ads plan at $8.99 in the United States, we think, an amazing entry point. it is an incredible value, highly accessible. You think about all the entertainment you get for that. it is a pretty good deal.
+
+Spencer Wang
+Thanks, Gregory. The next question is from Rich Greenfield of LightShed Partners.
+
+Rich Greenfield
+How should we think about reports of Netflix bringing back free trials in select markets? What provoked these tests, and are they a function of increased competition, market saturation, or both?
+
+Gregory K. Peters
+Rich, you know well. We are always assessing, trying to improve the service. That definitely includes trying to understand the best ways to bring new members into Netflix. And our investment in several product capabilities over the last several years for a variety of reasons have now given us even greater flexibility and capabilities to test different approaches in different markets, different market segments, different conditions to see how we best bring those folks on. So for example, we have tested a low cost first month in Japan that was coincident with the World Baseball Classic. That served us incredibly well. We have been testing upgrade on us options in various different countries and various different conditions around the world. And, you know, as a general part of this test and learn strategy, now we are testing free trials for non rejoining new members in a number of countries.
+
+And obviously, we will see how they perform, and then we will react appropriately.
+
+Spencer Wang
+Thanks, Gregory. Our next question is from Vikram Kesavabhotla of Baird.
+
+Vikram Kesavabhotla
+His question is Netflix has made progress on its cloud first video game strategy this year, including the addition of several new titles. How are these games performing on the platform so far? And how should we expect the video game offering to evolve going forward?
+
+Gregory K. Peters
+Yeah. I will start by reminding folks of the market here. This is roughly $150 billion in consumer spend ex China, ex Russia. It does not include ads revenue. We have been building some solid foundations, and now we are seeing exciting positive signals that help inform and give us increased conviction in our future growth and the nature of that growth here. So you mentioned the cloud based strategy, those cloud based TV games. We really see it working. FIFA and Unhinged became our 2 most successful cloud game debuts.
+
+Really solid numbers that put it in the top tier of game performance for us. Another big positive sign is that since last October, 8 months ago when we really sort of scaled up this cloud initiative, monthly players for cloud games have increased 11x, and adoption is significantly ahead of that curve that we had for mobile games. With even higher retention value. So we are definitely excited about that and focused on scaling up cloud games. We are also seeing positive signals with kids games. So Netflix Playground, is our app for kids games, no ads, no in app purchases, curated set of games, very safe space. We have seen 3x growth in daily players since that launch. that is driven more engagement in kids mobile games, which is up 600% year over year.
+
+So that is super exciting to see as well. Again, we are just getting started here. We are scratching the surface in terms of what we think the total potential of the space offers for us. You are gonna see us continue to calibrate, refine our level of investment here which is still very small relative to our overall content spend, based on demonstrated performance, based on what is working for our members, and what is delivering returns to our business.
+
+Spencer Wang
+Thanks. I will move us on now to a question from Jessica Reif Ehrlich of Bank of America.
+
+Jessica Reif Ehrlich
+Given Netflix's global footprint of approximately 330 million subscription households, how do you think about leveraging that scale as a strategic asset? How does the currently consolidating media landscape impact these decisions?
+
+Theodore A. Sarandos
+I will I will take that. So you are right, Jessica. We do benefit in a number of ways from the tremendous scale that we worked so hard to build over the last 20 years. We have invested in a number of areas of the business. Look at our tech investment where we spend billions of dollars every year And as a result, we have best of best in class discovery, personalization, plus a bunch of great R&D and innovation. Including in production. In distribution, in data that we can draw on to constantly improve every aspect of the business, on the breadth and depth of our content catalog, these in combination all deliver this kind of flywheel of advantages. We have the biggest, most engaged audience in the world.
+
+Creators and advertisers love that. We lead the industry in monetization. We have better programming ROI because we are amortized across this global footprint, and that very often that programming is very travelable. This is good for our members, it is good for our business, it creates a really healthy model of organic growth. Gregory mentioned TF1 earlier. I think it is being able to bring that scale to work with partners like TF1 in France to bring content to our members in multiple ways and multiple business models. I think that really helps when we could bring that distribution scale to local players. And finally, Jessica, I would say regarding consolidation, the industry has been consolidating for over 10 years, so this is not new.
+
+We focus all of our energy on pleasing our members and sustaining healthy growth for the business.
+
+Spencer Wang
+Thanks Ted. Our next question comes from Sean Diffely of Marian Stanley.
+
+Sean Diffely
+What have been the early learnings from the Inter deal, and how should we think about potential cost savings in content creation Could the impact of your $20 billion cash content budget could this impact your $20 billion cash content budget on a go forward basis? Or is it more likely to be reinvested into more content and better compensating talent.
+
+Spencer Wang
+Ted?
+
+Theodore A. Sarandos
+Great. Well, look it is early days for interpositive, but we are broadly seeing that GenAI is starting to have an impact across hundreds of our productions. So important to note that we have other GenAI tools in addition to Interpositive, We are thrilled with the with all the speed they are bringing to market for us. But, you know, we also have EyeLine, and we have our animation lab. And what is cool is that they are all working together to drive innovation. We said in the letter, but GenAI is scaling quickly across the entire creative process. From concept to previs through post and delivery. We are making higher quality output more quickly and efficiently than we could have using traditional methods.
+
+So GenAI workflows now have been used roughly 300 of our titles with the largest concentration right to date is on post production. But we are leveraging GenAI for really complicated shots and sequences. We call this out in the letter, but things like enhancing crowds are historical battle scenes, those kind of things. We keep in mind that in many of the cases, productions would have left out those key shots because they just would not have been able to afford them. They would not have been able to do them in the time frames that they are working on. So those sequences are saved by the availability and access to these GenAI tools. On the content side, we believe it takes great artists to make something great. And AI is not changing that.
+
+AI will give creators better tools to bring their visions to life, Movies are being made by people who make movies. AI provides them with better tools to make them even better. So today, our talent, you know, our talent leverages tools for things like set references and previs and VFX and sequence prep and shot planning. You know, it just all makes the production itself so much more smooth and efficient and fast. And that is just the beginning. You know, we are seeing it across the, you know, the entire production life cycle. And AI are, you know, are those use cases are scaling faster and faster. So our documentary series we just released called American Experiment that series features 17 minutes of AI enhanced footage.
+
+It enabled us to expand the scope of the series, ways that just would not have been feasible before. Those 17 minutes, Sean, they were produced 2x as fast and at half the cost of previous options. So by equipping creators with these tools, we believe they are going to enhance their abilities. We are going to have better and more impact every dollar we spend on our programming. So content creation timelines can be shortened, and quality can be enhanced. So the cost savings will likely be reinvested into more content on the service, which fuels high quality engagement, and that whole kind of revenue-profit flywheel that is gonna come from that we have been talking about from day 1.
+
+Spencer Wang
+Thanks, Ted. We have time for 1 last question, and we will take that from Dan Kurnos of, Stonex.
+
+Dan Kurnos
+And it is a question around capital allocation. Given recent reports around Lionsgate that Netflix has denied and broader speculation around interest in NBCUniversal. How should investors think about the line between opportunistic IP and library acquisitions and larger scale M&A that could change Netflix's capital allocation or strategic profile.
+
+Theodore A. Sarandos
+I will take this if you do not mind, guys. Dani, we are not gonna comment on market speculation. I would like to take the opportunity to remind everyone what our about our core philosophy. You know, we have multiple ways to achieve our goals, producing, licensing, partnering, and we are constantly seeking ways, you know, to allocate our resources in the most attractive options to maximize value for our members and delivering for a return for our investors. As we said, we are primarily builders, not buyers. And that remains the case today. So others will speculate about our intent to, you know, adhere because they have their own reasons for that. But our track record is clear that we have a very high bar to do any big M&A.
+
+Spencer, wanna add anything?
+
+Spencer Adam Neumann
+Maybe I will chime in on a bit specific to capital allocation, Ted. So thanks, Dani. So there is-- I just want to be really clear. There is no change to our capital allocation philosophy. We invest in the business both organically and opportunistically through M&A. And again, as Ted said, we are primarily builders, not buyers. We also maintain strong liquidity and a strong, healthy balance sheet. Lastly, we return excess cash to shareholders through share repurchase and on that last point, you can see that very clearly in Q2.
+
+We repurchased $4.7 billion of share shares this quarter. that is our largest quarter of share repurchase in our history, and we still have about $27 billion of capacity on our remaining authorization. So we feel really good about our growth path. As Ted said, we have got a really high bar, and we have no change in our capital allocation, philosophy.
+
+Spencer Wang
+Great. Thank you, Spencer, and thank you all for your questions and for joining us for our quarterly earnings call. And we will see you next quarter. Thank you.

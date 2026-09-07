@@ -1,0 +1,52 @@
+{
+  "ticker": "SHOP",
+  "quarter": "Q1 2026",
+  "company": "Shopify Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 3170.0,
+    "gross_profit_m": 1546.0,
+    "operating_income_m": 498.0,
+    "net_income_m": -581.0,
+    "eps": -0.446655,
+    "total_equity_m": 12501.0,
+    "total_assets_m": 14121.0,
+    "cash_and_equivalents_m": 1848.0,
+    "shares_outstanding_m": 1300.78,
+    "free_cash_flow_m": 476.0,
+    "operating_cash_flow_m": 481.0,
+    "capital_expenditure_m": -5.0,
+    "bvps": 9.61
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "B-",
+    "dim3_grade": "B-",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.77,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "Q1 GMV was $101 billion, that is up 35%... new buyer orders are occurring at nearly twice the rate of other channels \u2014 no trade-down or essentials-pressure language; demand signals are broad-based across merchant sizes and geographies.",
+      "services_demand": "Shop App GMV was up 70% year-over-year... monthly active users grew over 40% year-over-year and unique buyers purchasing directly on Shop grew over 50%.",
+      "capex_direction": "We will always lean into growth... we are making every function faster, sharper and more productive... investment in AI infrastructure, global reach and platform depth.",
+      "pricing_power": "We see a clear path for the [payments penetration] rate to continue moving higher... variable platform fee average rate has increased \u2014 pricing power present but constrained by competitive dynamics in SMB tier.",
+      "management_tone_shift": "We delivered the highest quarterly revenue growth rate in over 4 years, both for the business as a whole as well as the U.S. specifically... this is Shopify operating at its best."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

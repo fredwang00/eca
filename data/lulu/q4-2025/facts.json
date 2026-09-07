@@ -29,5 +29,23 @@
       "management_tone_shift": "We recognize there is more work to be done, and we have been course-correcting on a number of fronts...we lost about less than 1 point in activewear [market share]."
     },
     "extracted_at": "2026-04-05"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 2565.9,
+    "gross_profit_m": 1425.9,
+    "operating_income_m": 435.9,
+    "net_income_m": 306.8,
+    "eps": 2.59,
+    "total_equity_m": 4502.0,
+    "total_assets_m": 7955.2,
+    "cash_and_equivalents_m": 1035.9,
+    "shares_outstanding_m": 117.9,
+    "free_cash_flow_m": 82.4,
+    "operating_cash_flow_m": 249.9,
+    "capital_expenditure_m": -167.4,
+    "bvps": 38.18
+  },
+  "flags": []
 }

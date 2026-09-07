@@ -28,5 +28,23 @@
       "management_tone_shift": "We are very mindful of the impact of rising component prices, especially in consumer and price-sensitive end market segment. In addition, the recent situation in the Middle East also brings further macroeconomic uncertainties. As such, we are being prudent in our business planning."
     },
     "extracted_at": "2026-05-21"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1134103.4,
+    "gross_profit_m": 751295.4,
+    "operating_income_m": 658948.9,
+    "net_income_m": 572479.8,
+    "eps": 110.4,
+    "total_equity_m": 5890960.3,
+    "total_assets_m": 8660949.7,
+    "cash_and_equivalents_m": 3035637.2,
+    "shares_outstanding_m": 25932.37,
+    "free_cash_flow_m": 347270.2,
+    "operating_cash_flow_m": 698976.3,
+    "capital_expenditure_m": -351706.0,
+    "bvps": 227.17
+  },
+  "flags": []
 }

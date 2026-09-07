@@ -1,0 +1,484 @@
+July 29th, 2026
+Summary
+Earnings Call Date:
+Jul 29, 2026
+Change Since:
++35.92%
+Next Earnings Date:
+Nov 4, 2026
+Earnings Call Sentiment
+Positive
+Overall the call presented multiple strong operational and financial wins: record revenue (+32% YoY), robust adjusted EBITDA (+35% YoY) with a 57% margin, record net deposits ($22B) and meaningful product traction across cards, banking, prediction markets, agentic trading and Robinhood Chain (DEX volume >$12B, fastest to 100M txns). Management also strengthened the balance sheet ($2.2B raise) and returned capital via buybacks. The principal negatives were regulatory uncertainty for certain U.S. crypto/on-chain products and perps, early-stage nature of some international and on-chain rollouts, and short-term variability in crypto and monthly net deposits. On balance, the positives (strong growth, high profitability, clear product momentum and disciplined expense management) outweigh the lowlights.
+
+Company Guidance
+Robinhood said it is lowering and tightening 2026 adjusted OpEx + SBC to $2.675–$2.775 billion (Q2 adjusted OpEx + SBC was $641 million), noting efficiency gains that will let it self‑fund new investments (Rothera, WonderFi); the company also raised $2.2 billion of capital (0% coupon, no net dilution until share price > $300) and repurchased 7.5 million shares for $664 million YTD. Q2 operating results that underpin the guidance included record revenue of $1.3 billion (+32% YoY), adjusted EBITDA $741 million (+35% YoY) at a 57% margin, EPS $0.62 (+48% YoY), record net deposits of $22 billion (28% annualized), 4.8 million Gold subscribers (17% attach), and nearly 1 million funded customers added in the quarter; management said July ADVs were roughly in line with Q2, July net deposits are tracking toward ~$4 billion (ex‑Trust accounts), and highlighted product metrics such as 1.0M Gold Cardholders driving >$17B annualized purchase volume, >$3B banking deposits, nearly $1.5B of contributions into Trust accounts (7M children signed up), 13 businesses at $100M+ ARR, >1M accounts outside the U.S., and Robinhood Chain DEX volume >$12B with well north of 150M transactions.
+
+
+Highlights
+
+Lowlights
+Record Revenue and Strong Profitability
+Q2 revenue of $1.3B, up 32% year-over-year; adjusted EBITDA $741M, up 35% YoY with a 57% adjusted EBITDA margin; diluted EPS $0.62, up 48% YoY.
+
+Record Net Deposits and Funded Customer Growth
+Record net deposits of $22B in the quarter (cited as a 28% annualized growth rate); added nearly 1 million funded customers in the quarter; July net deposits tracking toward ~$4B (management notes seasonality but YTD growth remains >20%).
+
+Gold Subscribers and Engagement
+Record Robinhood Gold subscribers of 4.8M, representing a ~17% attach rate to net funded accounts; management highlighted strong cross-product adoption (customers often adopt multiple products after onboarding).
+
+Card and Banking Momentum
+Robinhood Gold Card exceeded 1 million cardholders and is driving over $17B in annualized purchase volume; banking deposits have surpassed $3B since rollout begun last November; ~40% of customers signed up for direct deposit.
+
+Product Velocity and New Offerings
+Launched AgenTic (AI trading agents) initial version (100k+ integrated/agent accounts mentioned), launched Trump accounts (government-linked trust product), and continued rapid product iteration across equities, options, prediction markets, margin, credit card and banking.
+
+DeFi & Robinhood Chain Traction
+Robinhood Chain reported >$12B in DEX trading volume post-launch, fastest chain to 100M transactions and now reported >150M transactions; Robinhood Earn (stablecoin lending) saw >$200M deposited in a few weeks offering ~7% APY; stock tokens available in 120+ countries; ~1M accounts outside the U.S.
+
+Capital Allocation and Balance Sheet Actions
+Raised $2.2B of capital on attractive terms (0% coupon, no net dilution until share price >$300); repurchased 7.5M shares YTD for $664M; management emphasized share repurchases and denominator management.
+
+Expense Discipline and Updated Guidance
+Adjusted OpEx & SBC for Q2 was $641M (below prior outlook); management lowered and tightened 2026 adjusted OpEx & SBC outlook to $2.675B–$2.775B and emphasized ability to self-fund new investments while maintaining profitability.
+
+Platform Scale and Business Diversification
+Management highlighted platform assets nearing ~$400B and that total platform assets have quadrupled since IPO; company now has 13 businesses at ≥$100M ARR (two added this quarter), supporting a multi-product ecosystem approach.
+
+Chris Koegel
+Thank you to everyone for joining Robinhood's Q2 26 earnings call. Whether you are tuning into the livestream or here with us in person. With us today are chairman and CEO, Vladimir Tenev. CFO, Shiv Kumar Verma and VP of Corporate Finance and Investor Relations, Chris Koegel. Vladimir and Shiv will offer opening remarks and then open the call to Q&A. During the q and a portion of the call, we will answer questions from the audience, which includes institutional research analysts, finance content creators who may hold an ownership position in Robinhood, and both institutional and retail shareholders. As a reminder, today's call will contain forward looking statements. Actual results could differ materially from our current expectations and we may not provide updates unless legally required.
+
+Potential risk factors that could cause differences. Including regulatory developments that we continue to monitor, are described in the press release we issued today the earnings presentation, and our SEC filings. All of which can be found at investors.robinhood.com. Today's discussion will also include non GAAP financial measures. Reconciliations to the GAAP measures we consider most directly comparable can be found in the earnings presentation. With that, please welcome Vladimir and Shiv.
+
+Vladimir Tenev
+Wow. Thank you, guys, for joining. Thanks for the warm welcome, and it is awesome to see a packed house in here. We are back again at NASDAQ Mhmm. In New York City. Taking a big bite out of the big apple with Shiv here and Chris. Largest audience yet for an earnings event. I remember Shiv last year, it was when we did the first event with analysts in person.
+
+And we were worried, would anyone come? And not too many people did, but the people that did had a lot of fun and now I am glad to see the word has spread. So it is really great to see shareholders, analysts, buy side and sell side, content creators in the audience here. it is been about 5 years actually, I think exactly 5 years since we rang the bell at the NASDAQ And in that time, we have really accomplished significant growth. And we have delivered for our customers. In that time period, since IPO, total platform assets have quadrupled and adjusted EBITDA has more than 8x. But 1 thing has not changed. Why we exist.
+
+Robinhood exists to make everyone an owner. And I think that is a unique vision. I do not think a lot of companies are going after us. it is a powerful vision. Not just for each individual customer, but I think also for society at large. I think that a society without ownership broadly distributed, is very fragile. And we think broad ownership is essential to free, stable and prosperous. Society.
+
+Because when more people have a stake in the outcome, more skin in the game, They are literally invested in the outcome, and we want more people to be invested in the companies of our great country. And I think we have just scratched the surface for what we can do there. To achieve our aspirations of making everyone an owner, we are focused on 3 things. Number 1, being number 1 in active traders. Which will allow customers to own any tradable asset. Number 2 is being the leader in wallet for the next generation, bringing ownership to the entire family. So the whole family and really lifelong ownership. And then number 3, building the leading global financial ecosystem.
+
+Which is really about expanding the ownership that we have been able to contribute to in The US worldwide. Billions of people around the world could benefit. So in Q2, our continued product velocity across these 3 arcs led to a bunch of records. On the active trader front, core business is humming. Which drove market share gains and record volumes across not just equities, but also options and prediction markets. In the quarter. Also, I have to highlight, Rothera started supporting Robinhood prediction markets and has rapidly become a top 3 DCM, so top 3 designated contract market in The US. We also launched the first version of AgenTic trading, which allows customers to build AI agents to trade equities options in crypto and to have access to Robinhood tools and features.
+
+We are very excited about that. So looking at wallet share, Trump accounts have officially launched. Which a historic step towards enabling broad financial ownership from birth. We are honored to serve as broker and sole initial trustee. Helping millions of American children become owners of our great economy from day 1. We also crossed an exciting milestone for the Robinhood Gold Card. 1 million cardholders. Yeah.
+
+that is a number we are very excited about. And actually, the Gold Card is now driving over 17 billion in annualized purchase volume. So it is being heavily used. I think a lot of people in this room maybe have them. Plus 3 billion. We broke 3 billion in banking deposits since we began rolling out just last November. And all this put together contributed to record net deposits Customers are continuing to trust us with more and more of their assets. Which in turn helped drive total platform assets to record levels in the quarter as well.
+
+Finally, global financial ecosystem, we closed our acquisition of WonderFi in Canada. We received our capital market services license in Singapore. And at our crypto and international event the world is flat. We introduced a suite of products including Robinhood Chain, which is the first chain purpose built for real world assets. And we have been seeing a lot of great initial traction on all these products, but in particular, the chain. We saw over 12 billion in DEX volume. Over 12 billion in trading volume on decentralized exchanges after launch. Which made it 1 of the largest chains by transaction over the past week.
+
+It was also the fastest chain to get to 100 million transactions we are well north of 150 million transactions at this point. Which is very, very cool. Also, customers of the deposited over $200 million into Robinhood Earn. So remember, Robinhood Earn is our stable coin lending product that is powered by Robinhood Chain and our stable coin USDG. So now it allows customers to earn 7% APY, which is a competitive rate. So $200 million so far and it is just been a few weeks. Stock tokens. Which I am perhaps the most excited about.
+
+We are very excited about bringing ownership of real world assets to everyone in the world. Stock tokens are available in more than 120 countries. Which allow many people around the globe to experience the idea of ownership. Tokenization makes it possible to expand exposure to high quality assets like U. S. Stocks to every single person with an Internet connection. So if you have a smartphone, you have an Internet connection, you can connect to our blockchain. You can get exposure to US stocks.
+
+And that is very exciting. Overall, we are now serving over 1 million accounts outside The U. S. And very much at the beginning there. So continue product velocity across these 3 arcs led to record results in Q2. Record revenues, of 1.3 billion that is up 32% from last year. Record net deposits of 22 billion, which is a 28% annualized growth rate and record gold subscribers of 4.8 million, which is now 17% attach rate relative to our net funded accounts. Now, I will hand it over to Shiv to discuss our results in more detail.
+
+Shiv?
+
+Shiv Kumar Verma
+All right. Well, thanks Vladimir. Before getting to the results, I wanted to share 3 big takeaways from the quarter. To start, the core business is going strong. Net deposits were a record 22 billion, a 28% growth rate. And we drove new records across equities, options, prediction markets, and margin. it is also great to see top of funnel growth picked up as we added nearly 1 million funded customers in the quarter. Second, this led to both record revenues, up 32% year over year, but also another quarter of strong profitability with 57% adjusted EBITDA margins.
+
+So we are continuing to drive strong top line growth and profitability at scale. And lastly, we are dialed in on expenses. So we are lowering and tightening our outlook, even as our core businesses grew to new highs, and we layered on new products. So let's review our Q2 results compared to a year ago. As we said before, revenues grew 32% to a record 1.3 billion and this was driven by strong growth across the business. So transaction volumes increased to record level across the majority of our asset classes. And we drove market share to new highs. Interest earning assets also grew we had records across margin, our credit card book, also Robinhood Banking.
+
+And finally, other revenues were up as gold subscribers reached an all time high of 4.8 million and we started jeopardating revenues for our work on the Trump accounts. And while product velocity continues to increase, revenues continue to grow to new highs, we also stay disciplined on cost. So adjusted OpEx in SBC was $641 million as we managed expenses well below our prior outlook range all while including costs related to 2 new businesses, Rethera and Wonderfy, that were not included in our prior outlook. As we look to the rest of the year, while we are adding costs related to Rothera and Wonderfy, we also continue to get even more efficient in how we operate. And this is allowing us to both self fund Rothera and Wonderfy costs but also remove additional costs from the system. So we are lowering and tightening our 2026 outlook for adjusted OpEx and SBC to a range of 2.675 billion to 2.775 billion We believe it is a competitive advantage to not only be a growth company that can invest for the long term, but also leverage our lean and disciplined operating model to self fund a meaningful amount of these new investments. So you take it all together, the strong top line growth and expense discipline we drove in Q2, it flowed to the bottom line. So adjusted EBITDA was $741 million up 35% year over year.
+
+and a 57% margin. And earnings per share was 62 cents, up 48% year over year. So if we turn to capital allocation, there is a few top of mind. In June, we opportunistically raised $2.2 billion of capital to give us even more flexibility, to invest for future growth. We believe we have a massive opportunity ahead of us, and the capital gives us even more capacity to go after it. And we raise this capital to attractive terms for shareholders. With both the 0% coupon and no net dilution until our share price exceeds $300 And even while raising capital, we are prudently managing our share count. YTD, we have repurchased 7.5 million shares for $664 million And as we said before, denominator matters.
+
+So overall, we are really proud of the results we drove in Q2 and Q3 is also off to a good start. July average daily volumes compared to a record Q2 are in a similar area for equities, options and event contracts. And July net deposits are tracking towards the $4 billion area and this does not yet include deposits into the Trump accounts. So stepping back, we feel great about all the products we are shipping and the growth that we are driving. But we have also heard from some investors that it can be difficult to know which growth areas to focus on. So I wanted to share 3 areas that we think are important for measuring progress and success on our long term vision. First, net deposits. Customers continue to trust us with their hard earned deposits at over 20% growth rates.
+
+As we drive strong net deposit growth, assets compound, and this leads to strong business growth. Second, rule of 40. We are driving double digit revenue growth with strong adjusted EBITDA margins. A combination that has made us more than a rule of 80 company. The past few years. We think it is important to be both a growth company and a company that operates with strong margins. And all of this at our scale of over $5 billion of annual revenue which is quite rare. And third, $100 million ARR businesses.
+
+We are excited to share we are now up to 13 businesses that have reached this level, as we rapidly ship for customers, including 2 new more that we added just this quarter. Robinhood Legend and the credit card. As we build out a family of financial apps, we plan to add even more $100 million ARR businesses in the year to come. So if we keep making progress on these areas quarter after quarter, year after year, the financial results should follow, take care of themselves. And as we have shared before, our financial north star remains the same. Maximise earnings per share and free cash flow per share for shareholders over time. So before we move to Q&A, I am actually going to turn it back over to Vladimir to show us a few of these great products that we have recently built. Vladimir?
+
+
+Vladimir Tenev
+Thanks, Shiv. I want to try something a little bit different, if I may. So a lot of a lot of you are probably familiar with our main app. But over the past few years, we have really expanded from a single trading app to a broader system. So what I wanted to do was just show you, give you a little tour of some of the other family of apps that we have built and we have really been improving upon. Very recently. So here they are. Our 4 our 4 apps.
+
+I will not show you the main 1, but why do not we start with this 1 here, Trump accounts? So again, this has been an incredible collaboration between Treasury and National Design Studio, Robinhood, teams and BNY. And I believe it is the best digital experience the government has ever delivered. Actually, Secretary Bazzano a couple of days ago said this was like the best launch product launch that the government has ever done. And I think that is high praise because I mean, NASA I think would be in that. Anyway, this is my kids' Trump account. So if you notice, can select your kid there. 1 of the things that I think we have done really well and maybe you will recognize some of the design language and inspiration from Robinhood, is showing the magic of compound interest that is front and center.
+
+So you not only see the account values today, but you can see what happens by age 18. And you can you can even simulate, okay, if I add, you know, $50 or you know, a $130 per month, what can we expect to happen with compounding to age 18? You can even see, you know, age 60 you extend it to retirement age. And what we really wanted to do was kinda illustrate how magical it is and get people thinking long term. You can scroll down here and you can actually get a feeling for the companies that are in the low cost ETFs. And then this is my favorite thing. Contribution flow. So we have this awesome illustration.
+
+And we make it super easy to contribute. So if you wanna do $5 my Robinhood checking account is linked, and you have the like, coin animation. That fills up your piggy bank. You can make it a recurring contribution. And actually, the level of the coins in the piggy bank is a nice little detail. Corresponds exactly to how close you are to your annual giving limit of $5 thousand. Can also share here. So this is a QR code.
+
+You can easily share with friends or put on a registry or have for birthdays. You can share this link at the bottom directly too. And folks can just contribute without even having an account through Apple Pay. I think is cool. Here's the educational content. And we try to make it easy to just go through and learn the basics about the stock market and investing. And that is the idea. there is there is plenty more coming.
+
+We think it can be the best charitable giving vehicle. So we are working hard on that. Michael Dell, as you guys know, gave a very large donation with his wife, Susan, and many others as well. Working to make it easy for employers to donate. So there is a $2.5 thousand tax free employer limit per year which Robinhood is participating in. And if you guys do not have it, I definitely recommend picking it up and getting it for your children or grandchildren. And you should expect that it just continues to get better and better. So that is the Trump accounts app.
+
+And, again, great collaboration between Treasury, National Design Studio, BNY and our team. Take a look at the banking app. that is the second 1 up here. We believe we are building the best digital banking experience the market. You can you can get a sense of, like, the premium art deco feel and we wanted to build a banking experience with no compromises. So usually, neo banks have sacrifices that you have to make from the experience being purely digital. But we want it to be a true private banking product. Of the things people love about it most is your APY.
+
+So we have now made it so that you can earn high APYs on both checking and savings. Just by setting up direct deposit and being a gold subscriber. So no minimums. And people really love not having to too hard and concentrate on moving their funds back and forth to make sure they are the bulk of their money is earning the highest yield. So we just we just give you 3.5% automatically on every account and customers love it. So far about 40% of customers are signed up for direct deposit. Which is a great attach rate. You can also see down here we have got the rewards menu.
+
+We have done a redesign to make it easier to get into. So 3% cash back. You can see You can upgrade to the gold card and we have all sorts of other reward redemptions. And then down here, that is the family tab. So you can add family members. This is really the first banking product where the family is the first class citizen. And then all of your transactions are down here. So really, think this is a key part of building a financial ecosystem for our customers.
+
+Customers direct deposit into banking, can spend with their credit card, cash back flows back into brokerage, which kick starts or turbocharges they are investing. We make it incredibly easy to do that. Also, just 1 note, not gonna show this but we just started rolling out the Platinum card and it is looking really good. I think we have gone through a lot of the feedback that we had on launch. And I encourage you guys maybe after earnings to check out the website because it is looking really good. All right. Let me show now the third 1, which is the Robinhood wallet. So as part of our announcements at The World is Flat, we launched Robinhood Chain Mainnet, And of course, a robust chain like Robinhood Chain Needs A Robust Wallet To Match.
+
+So Let Me Show You How Customers Are Using It. Now I will Do A Caveat. I will Show A Lot Of Features That Actually Are not Available In The US. So these are really just ex US products. So think of it that way. They are not available here, but people in over 120 countries outside can actually use them. So you will see right away similar design language to Robinhood. But everything is powered by crypto technology.
+
+1 of the tabs we have on the bottom there is perpetual futures. And this chain the wallet itself is well integrated into Robinhood chain. So the chain is a first class citizen. Here through our partnership with Leiter, you can if you are an active trader outside The US, get leveraged exposure to not just crypto perps, but also commodity perps and single stock perps as well. And we make it easy to add funds, deposit, and withdraw, and place trades The other thing I am very excited about is stock tokens. So here, I will show you what they look like. This is NVIDIA. So if you are a customer outside The US, you can get exposure to NVIDIA through stock tokens.
+
+And they have certain advantages over traditional stocks even. They are tradable 24/7. Including Saturdays, and holidays. And you know, you can even send it on chain. You can see the address. You can receive just like you would any crypto. And this makes it really easy to expand ownership worldwide. All you need is an Internet connection and to be connected to the blockchain.
+
+And looking ahead, we are going to continue to push on this We are working on adding lots more stocks and really pushing on tokenization of other real world assets We have a lot of momentum here. So a lot to do. And there is plenty of other products in the pipeline. So we have our third annual Hood Summit in a couple months. The engines of creation live from Houston, Texas. So stay tuned for that. I think that will be very exciting. With that, Chris, unless you want me to show more apps, we can go to Q&A.
+
+
+Chris Koegel
+Thank you very much, Vladimir and Shiv. For the Q and A session, we are gonna start by answering shareholder questions from Say Technologies. And after the Say questions, we will turn to live questions from our audience and then go to the dial in participants. So I am going kick it off with our first question from Say, who should be joining us live. Zach, are you joining us?
+
+Zach
+Zach. I see him. But I do see a blinking cursor. Hello? Do you guys hear me? Oh, there you are. Hey, everyone. Happy to be here.
+
+Just wanted to know, what is the goal of Robinhood Social and when will it go live to the general public?
+
+Vladimir Tenev
+Thanks for the question. I also noticed you are on Robinhood Social, if I am not mistaken. And there was some discussion on Robinhood Social about this question. So it is very full circle. Yeah, the goal with Robinhood Social is actually Robinhood up until now has largely been a tool to place the but the idea for the trade would typically come from outside. You would get the idea somewhere from, you know, the real world and then come and place trade. And so we asked ourselves, can we actually help customers learn from 1 another? Can we take advantage of the large community that we built?
+
+And can we make it so that we can help you with idea generation? And so far, we are seeing great early signs. And 1 of the advantages that we have compared to other social media platforms is since we have the trading data, we can make sure that everything is validated and when you say you have made a trade, it is actually real. And, you know, you can see that the customer actually has the portfolio that they claim they have. We are adding more and more features. The goal is to get it out to everyone by the end of the quarter. And what we are doing is we are just iterating and making sure everything like the feed ranking algorithm, all of the functionality in the posts are tuned before we make it available to everyone. But we like what we are seeing, so we feel pretty good about rolling it out before the end of the quarter.
+
+Thank you.
+
+Chris Koegel
+All right. Thank you for your questions. Zach. Next question is coming from John.
+
+John
+Hey, all. Hey, Shiv and Vladimir. Thanks for taking my question. Mine's on the Clarity Act, and I understand it is still moving through the Senate. So things could change. But could maybe if something similar were to pass, could you give an idea of what would be the most impactful aspects of that to Robinhood? And if there are delays, you know, any impacts as well?
+
+Vladimir Tenev
+Yeah. Totally. I will field that 1. So I think the Clarity Act is very important because while the current administration has been great and really is the first crypto forward administration that is embracing the new technology. We want the foundation of the industry in The US to be durable. So we do not want the floor to be shifting out from under us every 4, 8 years and new rules to be put in place or so I think in order for the industry to really grow stability from regulatory stability is necessary. And that happens through legislation. We saw that with Genius, I think Clarity takes it 1 step further.
+
+And in particular, 1 of the things that we have been pushing hard on as you saw earlier, is tokenization. We have been investing in our tokenized offerings. We think that is gonna be a big industry. We are pushing that out of The US. You see some of the advantages already just in the past year from like v 1 of our tokenized products to v 2. it is now fully on chain. Now it is 24/7 trading. it is like you can send and receive fractionalization by default.
+
+So there is lots of advantages. And we think it would be a shame if The US did not get to benefit from all those advantages. So we are excited about that, all the aspects of it. And we think clarity helps take us 1 step further. But also, we are not standing still We are pushing hard on our on-chain and traditional centralized products. And we are making sure we continue to innovate overseas in some areas, but otherwise, you know, with Robinhood Earn and other on chain products in The US. So we think we will be good regardless, but of course, clarity is gonna be very, very important to making the most out of all of these products that we have been building.
+
+John
+Cool. Thanks for taking my question.
+
+Chris Koegel
+Alright. Thanks, John. And the last question from Say, comes from Joe.
+
+Joe
+Can you give us an update on early traction with Trump accounts since the July launch? Specifically the number of accounts opened, assets flowing in, and how you are thinking about long term contributions to net deposits and assets under custody?
+
+Shiv Kumar Verma
+Doctor. Yeah, great question. Yeah, we have been very pleased with the progress thus far. So 7 million children have signed up. We have seen over 1.5 billion in or nearly 1.5 billion, I should say, is number of contributions into Trump accounts already. And, again, that is before a lot of the philanthropic contributions have started flowing in. So yeah, yeah, we think that this is gonna get to tens of millions and we are working aggressively to do that. And obviously, we believe will continue to grow very rapidly from here.
+
+
+Vladimir Tenev
+And it will take continued hard work. I think the great thing about you know, programs that have success is people want a lot more things. They want them quickly and I think with our partners, we are working hard to deliver. So on Dexsoon, making it so that employers can fund the Trump accounts of their employees. Making a great philanthropic experience I think for folks that want to donate and to be philanthropic, there is actually poor options available right now. there is not great options. it is kind of there is no default option at least. You know, you have to evaluate charities.
+
+You have to figure out are they being wasteful with their fees. Is the money actually getting to where you want it to get to? And I think this can provide a default, great, low cost mechanism. So we are excited about that. And it is just the beginning.
+
+Chris Koegel
+Alright. Thank you, Vladimir. And that concludes the SAG portion of our Q&A. So we are now gonna go to Q&A from our live audience. We ask that each person limit their questions to 1. And please raise your hand if you would like to ask a question. All right. Can we get mic to Dan Dolev?
+
+
+Dan Dolev
+Hi. Dan Dolev at Mizuho. Congrats, Vladimir. Congrats, Shiv. Amazing quarter. I think what surprised us the most on the positive side was the amazing growth in the funded accounts. Maybe you could shed some light on what part of that is structural, what are you doing and maybe a quick update on the progress in Europe and, you know, how that is going. So very impressive there.
+
+Thank you.
+
+Shiv Kumar Verma
+Yeah. I am happy to start with that 1, I would give you a little Thank you. So we said on the last quarter, we were making a concerted effort to top of funnel, and as you mentioned, really great to see the progress. The million funded customers the most we have added in the quarter, nearly 5 years since the IPO. There was a variety of different things. So it was not any 1 thing. Really strong macro market backdrop that definitely helped. We had a lot of new products that came out, banking credit card, for example, those contributed strong organic growth.
+
+We also had the SpaceX IPO, which helped. We had an acquisition in the quarter, which provided a couple hundred thousand accounts. We continue to grow overseas. And so what it is showing is just the power of the ecosystem or the financial apps that Vladimir was saying. In any given time, there may be a couple different vectors that are growing. And this quarter, we saw a lot of them hit at the same time. And we are gonna keep focusing on this. So whether it is through new products or marketing, it is going to be 1 of our top KPIs going forward.
+
+
+Vladimir Tenev
+More to do. Sorry, Glenn. Oh, I just said there is more to do.
+
+Chris Koegel
+So Alright. I think moving from the front row to the second row, Daniel Fannon.
+
+Daniel Fannon
+Yeah. Thanks. So wanted to talk on prediction markets and how you are thinking about sustainability as we exit the World Cup and bridge to football season, just how you think about the long term durability of this kind of asset class and what you are seeing outside of maybe some of the sports stuff related to macro or bigger events.
+
+Vladimir Tenev
+Yeah. Absolutely. I mean, I think that the great thing about prediction markets is there is events all the time. I mean, you mentioned football season that is coming up. there is also the midterms, which I think are extremely important. I mean, they are gonna be a topic of discussion and of course, customers are gonna wanna trade them and hedge their portfolios. Again, there is events just on a consistent basis. So we are gearing up for that.
+
+We are making product improvements constantly. We are making pricing improvements. Rothera has gone live and I think the World Cup was really a proof of concept there. And we are looking to scale that rapidly and make it much bigger with the goal of providing great pricing to our customers. that is really how we think about it. Can we route to multiple venues with the goal of making sure as a customer, you get the best deal. Possible on Robinhood.
+
+Chris Koegel
+Alright. Thanks, Daniel. Let's next to Daniel. And there are a lot of questions so we will keep the mic moving around. So David Smith, want to take the next question?
+
+David Smith
+Hey. Thank you. In the past, you have spoken about how it is typical for new customers to come to Robinhood based on interest in 1 particular product, then engage with you for more products over time as we become more familiar with your offerings. With the really strong prediction market engagement we saw in June and seemingly continuing into July, Can you help us get a sense of how much came from existing prediction markets users? Existing Robinhood customers who maybe were new to prediction markets, and also from new customers who joined Robinhood in the past month or 2 to transact with you in this product.
+
+Shiv Kumar Verma
+Shiv, how do you feel about that 1? Yeah. I am I am I am happy to take it. So we have said before, when you come to Robinhood to do 1 thing, you tend to do more. A couple things we will point you to. New customers still sign up for gold about 40-50%. So customers come in, their journey is they come for something. Equities, prediction markets, crypto banking.
+
+They discover gold, then they discover other products. What we are seeing is regardless of what product you come in for, you tend to sign up for gold and you tend to adopt others. So 1 thing we looked at if you are a prediction markets customer, for example, you are actually more likely to have a retirement account with Robinhood. And so any vector you come in, whether it is banking, prediction markets, credit card, tend to adopt others. And so I would say it is just 1 of them. That we saw were strong in the quarter. Banking was really strong. that is been a really nice new vector.
+
+that is been coming in. Credit card as well. We said we have over a million customers there. Q1 and Q2, you still have a little bit of retirement season, you saw some people come in from there. And then whether there is new events in the prediction market, such as the World Cup the midterms coming in, they come there. The last number we shared was we had about a million and a half people that have used the prediction markets. That number is now closer to 2 million. So continue to grow nicely there.
+
+But I think the main takeaway is, it is across all of the different products, and, people are coming in and adopting multiple products at the same time.
+
+Vladimir Tenev
+Yeah. On marketing side, we continue to see strong ROIs and it is diversified. Strong ROIs on prediction markets, but also gold and some of the active trader offerings as well. And I think we are at the in the fortunate position of having it being working really, really well across multiple fronts.
+
+Chris Koegel
+Alright. Thank you. Next question, maybe Devin Ryan back in the front row.
+
+Devin Ryan
+Thanks so much, Devin Ryan with Citizens. everyone. Hey, Shiv. Question, Vladimir. You mentioned version 1 of AgenTic. And obviously, is still fairly new. But can you talk about like, what you are learning with customers that are using that? How is your investment performance there anything else interesting that you are seeing with their behaviors?
+
+And then how does that then map to version 2.0? I know you guys are very focused on bringing these capabilities to all of your customers, and that is probably where becomes a much bigger deal for Robinhood. So do we think about mapping that out and what that will look like and when? Thanks.
+
+Vladimir Tenev
+Yeah. I mean, since we are the first major platform doing this, we wanted to start fairly conservatively, right? So we started with stocks and also started with the AgenTic account being separate from your main account. And so what you typically see there is customers funded with a relatively small amount of money and link their agent. Of course, we have expanded it since then, so now options are tradable with AgenTic as well. And we have seen customers do really interesting things like they can put together really complex and sophisticated strategies Crypto is coming soon as well. And, you know, we are going to expand the toolkit to cover as much as possible from the entire Robinhood ecosystem. We have had over 100 thousand people actually integrate and open up AgenTic accounts, which has been very cool.
+
+Yeah. The AUM in AgenTic or the trading volumes have also been growing. And that is been good to see. If in terms of friction, I think 1 piece of friction has been that not everyone loves surprisingly, going to a codex or a Claude code and kind of stitching together these 2 apps. You have to have quite a bit of sophistication in order to do that. So, you know, we are thinking about how can we make that even easier And also, in many cases, the models themselves are not familiar with being used for trading. So sometimes they will fight you and they will say, well, I do not know. I do not really wanna trade, and you kind of have to work hard to get it to do what you wanna do.
+
+And, yeah, we are hard at work addressing both of those things and other things.
+
+Chris Koegel
+All right. Thank you, Vladimir. Next, let's go to Chris Blue sitting next to Devin Ryan.
+
+Christian Blue
+Thanks for the question. Christian Blue with Autonomous. I think you called out Rothera as a top 3 DCM I am just trying to think through longer term how your vision around having a DCM, having retail distribution, Is there a possibility here that you could further build that out, whether it is perps or traditional futures to take on maybe the top 2 DCMs out there?
+
+Vladimir Tenev
+Yeah. Yeah. I mean, obviously, we are top 3 after 1 month. But the goal would be to keep growing that. Right? We are not satisfied just with where we are after just a couple of months. And yeah, I mean, I think the road map on the Rothera side, not speaking for them because it is a joint venture, is to continue to grow and add more capabilities Of course, you know, they are definitely focused right now on the prediction markets, event contracts, but over time, you should see that expanding. And in terms of you mentioned perps.
+
+We also have perps not just on chain like I showed you, but through our bit stamp exchange overseas where we have been rapidly increasing the scope of the perps offerings, now offering, you know, commodity perps at you should see that inventory should expand and grow over time as well. So I think our customers through the Robinhood retail apps will have access to the best products from multiple exchange providers and you know, our job will be to stitch that together and make it really clear what the costs are and also make those costs as low as possible for the customers. But you should you should assume that it is multi homed and that you know, the customers can get the best of everything It can also be a b to b business over time. So we can onboard additional FCMs. So right now, we are laser focused on making sure that a Robinhood customer gets a great example, but when you think out longer term, there is no reason why this cannot be a large institutional business as well.
+
+Chris Koegel
+Chris, if you will hand the mic right behind you to Ramsey, that would be great.
+
+Ramsey El-Assal
+Hi. Ramsey El-Assal from Cantor. Thanks for taking my question. Now that building on some of your comments and some of the prior questions, now that Robinhood Chain is live and thriving, how should we think about the broader DeFi roadmap for you guys? You have got, obviously, tokenized assets, Robinhood Earn, perps in your wallet, I saw. What other on chain services could be the next sort of growth opportunities? I am thinking maybe lending and borrowing or other yield generating type products.
+
+Vladimir Tenev
+Well, we already have that through partners. You can build lending and borrowing pools on chain. People have started building really interesting stuff. I think 1 of the really cool things about seeing so much volume again, fastest chain to 100 million transactions, is you know, a lot of other chains have to do a lot of work to get third parties to integrate. I mean, we were fortunate to get pretty much all the major wallets and protocols to integrate with us over the past couple of weeks. Because they saw the volume. And then that in turn when you are a developer thinking about what chain to build for first, you are seeing all this momentum, you are seeing all the wallets, and we have gotten a lot of developer activity too. We have been among the top chains in terms of developer activity.
+
+And yeah, some of the interesting things are custom or developers building things that compose with the real world assets. The RWAs. So all kinds of things that utilize the stock tokens in interesting ways in ways that we have not thought of. And our road map will be of course, making the infrastructure better and better, making the APIs cleaner, The block speed and block times are quite good. So it is a great chain for developers, but could continue to get better. And just adding in more RWAs, more stock tokens, expanding to all kinds of other asset classes as well, which we are already hard at work on. And, you know, we think that the unique thing is us supplying the RWAs as a key primitive of the chain. Making sure those work really well and then seeing what other developers can do to compose them.
+
+
+Chris Koegel
+Alright. Thank you, Vladimir. Alright. So, Ramzi, right behind you, James Yaro has his hand up.
+
+James Yaro
+James Yarrow, Goldman Sachs. Thanks for, taking the question. Wanted to touch a little bit more on PERPs in The U. S. The appetite to add them in The US brokerage? What are the hurdles to rolling them out? And I guess, are you looking to roll them out in the near term CFTC approval permitting?
+
+Vladimir Tenev
+Yeah. Yeah. So as you can imagine, we have been in conversations with CFTC, and they have been constructive And yeah, we are making progress. So I do not I do not have specific things to share, but I think we feel really good about our customers having a great perps experience And we already have it in Europe. So the work is not a large amount of work.
+
+Chris Koegel
+Alright. Thanks. James, can you pass the mic immediately to your left?
+
+Daniel
+Hi. I am Daniel with Crossroads Are there plans to add support for foreign stocks? Right now investors have to buy ETFs to get exposure to certain foreign companies.
+
+Vladimir Tenev
+Yes. In short, yes. Obviously, it is on our roadmap. And over time, you should expect that as a Robinhood customer, you have we not only wanna give US stocks to customers all over the world, but we want to give foreign stocks to customers all over the world including to The US. So we are going to build out a marketplace. And a real I think our common infrastructure could be a real asset there. Yeah. Unfortunately, it is not 1 of those things I can just snap my fingers and we are connected everywhere, even though I try.
+
+But, yeah, it is it is definitely top of mind for us. Yeah. And it is it is it is great to see. Customers always the active traders always want more things. So we are we are always busy, and we love that.
+
+Chris Koegel
+Alright. Let's if you could pass the mic to your right and back 1 row. Alright. Thank you.
+
+John
+Hey, Vladimir. Hey, Shiv. John from Artemis. Congrats on launching Robinhood chain 15 billion of monthly trading volume, 2 plus million of monthly transacting users. I think to 500 million of stablecoin supply. What could go right with Robinhood chain? Because you could offer the opportunity of having the Robinhood app to everyone globally. Like, what could go right?
+
+
+Vladimir Tenev
+I think a lot could go right. And thank you, by the way, I have been enjoying your content and your analysis. Thank you. Yeah. On X. it is been really good. Yeah. I mean, I think that we built Robinhood chain to be purpose built for real world assets.
+
+I should clarify I like memes as well. I am like a yeah. You know, they always get a little upset at me. You know, Robin Hood was 1 of the original mean, we kind of created this market in so many ways. So whatever it is you want to build, a Robinhood chain can be the permissionless home for that. Our unique contribution is the real world assets. And I think we are doing really the difficult work on the liquidity side, on the regulatory side to make sure we safely bring all of these assets on chain and make them useful. So started with a first set of stock tokens.
+
+We are gonna grow that over time, make them fully DeFi enabled. And then we are already hard at work thinking about other types of real world assets. That we can add and I think you are already starting to see some of the activities developers are doing really interesting things that I had not thought of. And, yeah, I think our job is to give them better and better tools to do it And I think the enthusiasm has been great, but there is there is obviously much more to do. And we are we are never mistaking and confusing enthusiasm with complacency. So we know that we just gotta keep building and making sure that it is the most useful chain for developers and all of our traders.
+
+Chris Koegel
+Alright. Thanks, John. Can you pass the mic a couple of roads up to Craig? Thank you.
+
+Craig Maurer
+Hi, Craig Maurer with FT Partners. If I could just ask a question about the quarter. You had a disclosure in the deck showing that you are trending toward roughly $4 billion in net deposits. that is down quite a bit from June, and it is the lowest of the year. So I was wondering if there is any commentary around that. And does it have anything to do with well, I was also wanna ask about the health of investors considering the drawdown in semis and what is been happening in the market. Thanks.
+
+Shiv Kumar Verma
+Yeah. I am happy to take that 1. So our goal, as we have said, is 20% on an annual basis. I do not look at any particular quarter and month. There will be things that change from time to time. If you look at, year to date, including July, we are still well north of that 20%. You mentioned, we had a really strong Q2. Brett to see the engagement, It will fluctuate from time to time, but I do not read anything into it.
+
+Net deposits have a variety of factors. it is what is going on the macro. When do we launch new products. Is some seasonality. Summer tends to be a little bit slower. What promotions were going on? And so what we are focused on is can we keep delivering for customers? Can we keep doing these new products?
+
+And then over the fullness of a year or even longer, we should be growing at about 20%. And everything we are seeing is that still happening. In terms of the health of the customer, very healthy engagement. And so our customers tend to be techno optimists. They tend to be younger. They tend to believe. And so they use some of these drawdowns as ways to buy. And so on down days or down months, tend to see really strong net buying.
+
+that is what we saw in Q2, and we are continuing to see that. As I shared July, the average daily volumes are very similar to the Q2 average. Continuing to see strong net deposits there. Everything else that we are seeing is the health of the customer is very strong.
+
+Vladimir Tenev
+Yeah. I would say we have some good long term tailwinds to that growth So it is not just the short term things like promos and macro, but we are building more durable engines. Of net deposit growth. I think banking has been a great success thus far and it is still early. it is not yet fully integrated into the main app or the ecosystem. So I think we have more room there. Advisor network I think that is the beginning of what could be a really, really strong RIA integration and as you probably know, the RIA channel is a good, durable, consistent source of net deposits. We have been seeing good growth in from multiple brokerage accounts And then, of course, trusts is rolling out.
+
+So you know, there is a lot of people of higher net worth that use trusts and that have all their wealth there. So I think as we keep adding these things and keep supporting, that should just be long term durable tailwind for our business. And net deposit growth.
+
+Chris Koegel
+Alright. Craig, would you mind passing up 1 row to Alexander?
+
+Analyst
+Hi. Alexander with Button here. Thanks for taking my question. So Peter Thiel once said when asked if he regretted selling at a $100 billion valuation that each 10x up to $100 billion he saw as equal difficulty. But $100 billion to a trillion he imagined would be significantly harder. In hindsight, Facebook's move from $100 billion to a trillion may have been its easiest 10x because it had already reached scale. I like where this is going. As Robinhood as Robinhood approaches that $100 billion market cap, how do you think about the difficulty of the next 10x Could getting from $100 billion to a trillion actually be the easiest because the scale and operating leverage you have built?
+
+What will it take for Robinhood to surpass market caps of legacy financial institutions? And do you see AI supercharging your global domination plans?
+
+Vladimir Tenev
+Nora. I have got some great some board members in the audience, too. Getting I think getting to a trillion will be very, very difficult. Difficult. I do not think a financial company has ever hit a trillion market cap. But I think it can be done. As you mentioned, there is a lot of new things that are changing rapidly. That I think we are we are on the forefront of.
+
+So it is not just you know, growing our brokerage business and expanding it internationally. But it is also agentic finance and can we build great tools for agents And can we see a world where you know, that just a lot of the activity, if not the majority, goes in that We are building for that. Can we use the early success of Robin Hood chain actually make all assets, make everything that you have in The US available to billions of people worldwide. Then we benefit from the tailwind of the rest of the world getting wealthier. And the rise of the global economy as well by giving them access to things. Private markets, I am very excited about. And we have seen Robinhood Ventures Fund 1 and now Robinhood Ventures Fund 2 which is beginning the road show. So we have the prospectus live That 1 focused on early stage.
+
+And the goal really with Robinhood Ventures is for us to be there for individual investors to have exposure to companies at the earliest possible stages, but really across the entire life including early stage. Yeah. And so I think put putting all these things together I see multiple axes that the company could 10x, and I think we are going to pursue all of them.
+
+Shiv Kumar Verma
+Yeah. You know, we do not comment on the stock price specifically, but if what we have said before is we believe we can 10x the business over the next 10 years, and that is through a lot of the vectors Vladimir shared. When you look at assets, assets are the greatest predictor of what is gonna happen in financial performance. We are super excited. We are nearly 400 billion today. If you look at some of our competitors, they have got to tens of trillions of assets. So there is no reason you cannot do that. And that is just the core brokerage.
+
+Then you go to retirement, which is even a multiple of that. Then you go into banking and crypt crypto, which is even multiple of that. Then you go international. Then you go to b 2 b. And so everywhere you look at it, it is pretty unique. When most companies go to their adjacent businesses, they tend to be smaller TAMs. For us, it is actually the opposite. As we go to some of these adjacent businesses, they are larger, so it allows us to grow.
+
+We actually build a 10-year roadmap. And so we have, you know, we look at what we want to do not just over the next 1 year, the next 5 year, over the next 10 years, if we execute on that, we have a really cool opportunity in front of us.
+
+Vladimir Tenev
+And I will just add that it was not long ago that Apple was the first company to hit a trillion. And we did not think it was, you know, that all these companies would be, and now there is $5 trillion companies. Soon we will $10 trillion companies. I have no doubt Robinhood will be. A trillion dollar company.
+
+Chris Koegel
+Well, thank you. Alright. Let's see. Ahmed, do you want to take question?
+
+Ahmed
+Sure. Vlad and Shiv, congrats on a on a great quarter. I do not know how I am gonna follow-up that question. Congrats on a great hoodie. it is a nice 1 here. Very, very nice. Yeah, I mean, look, I think what I am observing in the quarter especially as someone who is been kind of looking at the business and the trajectory over the past 5 years, is just really strong engagement. AUM at almost 400 billion You are seeing the gold attachment rate at 17% of subscribers that are there, all time high on gold subscribers.
+
+I guess my broader question is, why do you think the engagement is becoming so strong? Do you think customers are so willing to adopt the credit card agentic services, try out meme coins on the Robinhood chain? Like, what about the flywheel is working what do you think you can do to sustain that flywheel working for the next 10 years to hopefully get to that trillion dollar market cap?
+
+Vladimir Tenev
+Yeah. I think that is a great question. I think that first off, the products have to be good. Right? I mean, we have we have rolled out a lot of good products. I think the credit card has been really great. The value prop's hard to argue with. 3% cash back on all categories, great UI, virtual cards the experience is really, really good.
+
+So and, you know, it has not always been not all of them we have not batted 1 thousand. Right? We have had many versions of the debit card and cash management. If you remember, McDuckling, we called it. It had very various iterations before we found success there. But I think what we found is there is a flywheel Right? We get a customer in. They become a gold subscriber.
+
+They after they become a gold subscriber, they look out at all the different products we offer. If those products are competitive, with what is on the market or better, they will adopt them. And then a decent chunk of their earnings, if we get the direct deposit, go into Robinhood. And you know, they spend time on the platform. They use us for a lot of our customers use us for everything. And so when we add something new, they are likely to see it and take advantage of it. So I think what we have to make sure that we do, and this is not an easy problem, is putting the right products in front of the right customers at the right times. Making sure the entire experience is coherent and that is actually becoming a hard problem because the app is constantly changing.
+
+And so the orchestration of all of these things into 1 story, into 1 financial tool is becoming an increasing source of focus because I still think we could do better there. And making sure that all the individual pieces, even if you are not using 10 Robinhood products, each individual 1 should be world class as well. And I think if we can deliver that all the individual pieces and then stitching them together nicely, there is there is plenty more room.
+
+Chris Koegel
+Alright. You, Vladimir. Much as we have had a lot of great questions in the room, there are even more people on the phone. And so we are going to start now and shift over to the Zoom Q&A. So the first person asking a question on Zoom is Steven Chubak from Wolfe. Steven.
+
+Steven Chubak
+Hi. Evening, Vladimir and Shiv, and thanks for taking my question. Sorry I could not be there in person. Missing out, man. They are look the I know. it is always a fun time, so sorry I could not be there. But I wanted to ask on the updated expense guidance. At the start of the year, you guided to 18% expense growth.
+
+of which 10% or a bit more than half of the growth was really earmarked to support new product launches, 5% to support the core business, 3% for acquisitions. There have been a lot of moving pieces underpinning the new expense guidance. Just wanted to better understand how the buckets have evolved under the new guidance. And whether it still contemplates a similar level of investment to support some of the more nascent growth initiatives.
+
+Shiv Kumar Verma
+Yeah. Yeah, great question. I think the really exciting part is we are able to self fund a lot of the growth initiatives, so we are still growing. That is not changing Vladimir just shared a lot of the different products and apps we are working on. And so we are still a growth company, but the nice thing is because we run lean and disciplined, we can sell fund a lot of these. And so you mentioned the 3 different buckets. The short answer is the savings are from all of them. A little bit's coming from the M&A.
+
+We are a little we are being a little bit more efficient. The new M&A actually was not even included in those. We fully self funded those. On the core business, the teams are really, really working hard to make sure they are delivering fast, but also doing it efficiently. So we had some savings there. And then in the in the new seeds, not only are we making sure that we invested what we started the year, but we have actually added some even relative to where we started. But we put it all together. We are halfway through the year.
+
+We are trending well. Lean and discipline nature is showing through, so we thought it was the right time to do it. I think the takeaway is we are still growing, but we are just able to do it more efficiently. And so now is the right time to, to lower our outlook.
+
+Chris Koegel
+All right. Thank you, Shiv. The next question is from Craig Siegenthaler of Bank of America.
+
+Craig Siegenthaler
+Vlad, Shiv. Hope you guys are doing well, and Chris, nice job on emceeing this event. he is a star. Thank you, Craig. Robinhood just received the MAS license in Singapore, so congrats on that. I think you also have 2 small brokerages that are live in Indonesia. So, you know, the question is, where are you in the product rollout in Asia, what will the rollout look like relative to The US offering? And, also, what countries can you passport into from Singapore?
+
+
+Vladimir Tenev
+Yeah. And, again, just to clarify, this is for our centralized offerings. Now that we have the chain and all the DeFi offerings, We are live in a lot of countries with that. But for the centralized brokerage offerings, we did get the approval in Singapore. We are working hard to bring everything that we possibly can within, obviously, what is permissible by our regulators over at MAS over there. And think what we have learned from The UK is it is better to get more at once rather than just, you know, launching equities following up with options, then launching margin. So I think what we are trying to do in subsequent launches is get more of the overall Robinhood ecosystem live at launch. So the team's been working hard on that.
+
+They are getting close. And, you know, I think that is that is generally the strategy you should expect us to take in other regions. And again, Singapore, we anticipate to be the Southeast Asia and the APAC hub, so we would be able to passport there for to from there to lots of other countries in the region. And some of them, like Indonesia, will get direct licensure depending on just where we see opportunity to go even deeper. Locally.
+
+Chris Koegel
+Thank you, Vladimir. The next question is from Alexander Markgraff from KeyBanc.
+
+Alexander Markgraff
+Hey, guys. Thanks for taking the question. Maybe 1 for both Vladimir and Shiv on Robinhood Chain and the DeFi product expansion. I am curious how you think Vladimir about how the effort to engage with customers and the touch points change in DeFi products. Does it sort of force you to reevaluate how you interact with and capture the minds and wallets of customers? And then Shiv, just on a related note, would be curious if there is anything you can share from a monetization standpoint on how we should be thinking about those relationships versus, the sort of c 5 relationships that exist today? Thanks.
+
+Vladimir Tenev
+I guess I will start with the, yeah, how to engage with the customers. I mean, observation is a lot of those customers hang out on Twitter and listen to podcasts, which are 2 areas that I am somewhat active in already. Much to the chagrin of the great comms and legal and compliance teams that we have, But yeah, so I do not really see a problem. Yeah. But we are we are always looking out for more. I am not so active on TikTok. I do not really maybe I am too old. Maybe I am too boomer ish for that, but if I have to, I will do it, you know.
+
+Nora. it is it is it is been fun. I will do the little dances or what do they do? Yeah.
+
+Shiv Kumar Verma
+Sure. The engagement, as Vladimir said, it is actually coming from developers themselves. So when you build a great product, people have to find it. that is 1 of the beauty of Robinhood. If we launch a great product, just given our scale and distribution, they tend to do well. Then has just been another example, whether it is DevinFi or permissionless or centralized. The monetization piece, per transaction, we make a few basis points, not per volume, it is per transaction. Now it varies depending on the size of the transaction, but just think about it as a few basis points on average.
+
+And then we do share, you know, approximately half of it with Arbitrum, who is the level 2 that we built on top of. And so when it starts to get larger and it goes through a couple quarters, we will we will break it down more specifically. But think of it as a few basis points on transactions and then a 50% rev share.
+
+Chris Koegel
+Alright. Thank you, Vladimir and Shiv. And we will see some of those dances later, Vladimir. So the next question comes from Brian Bedell at Deutsche Bank.
+
+Brian Bedell
+Brett. Thanks. Good evening, Vlad, Shiv. How are you? Doing well. Excellent. My question's on Rothera and specifically the company financial KPI with Cboe, you know, filing with the SEC to launch these. Potentially in the near term.
+
+what is the interest in Rothera launching these, you know, in the near term? And then also just in terms of migrating more of the event contracts at Robinhood to Rothera such as NFL. How are you thinking about that game plan for the rest of the year?
+
+Vladimir Tenev
+Yeah. So on the on the Cboe financial KPI contract, So my understanding is those are under the securities based regime. So I do not know if Rothera would be launching those right now. But, obviously, you know, Robinhood is able to connect to a wide range of counterparties. We have a brokerage business. We also have our FCM business. And of course, Rothera is you know, a great joint venture that we have with SIG So that does not necessarily mean that we are not gonna make all these products available to customers. I think the products in general are useful.
+
+there is interest. And so we always evaluate opportunities for adding new things to the platform. And then in terms of the flow, what we have shared is, you know, you should expect in the near to medium term you know, more than the majority or a good portion will flow through Rothera. We are still making sure it can scale and after 1 month, it is already doing tremendous volume. But, yeah, you should expect that more and more of it will start to go through there.
+
+Chris Koegel
+All right. Thank you. The next question is from Patrick Moley at Piper Sandler.
+
+Patrick Moley
+Yes. Hi, guys. Thanks for taking the question. Vladimir, I just wanted to follow-up on your earlier answer to James' question on perps. I am just a little confused why you all are not being more aggressive with launching perps in The US. I think a little over a year ago, you submitted a comment letter supporting CFTC allowing perps in The US. They have opened the door now on a number of products. You have a few of your competitors who are either live or they are moving in that direction.
+
+And, you know, what they are really trying to do is become more of a multi asset class platform so that they can compete, you know, more closely with you. So could you just elaborate on what the source of hesitation is with perps in The US? Are you worried about leverage? Is this, you know, are you worried about cannibalization of other products, or is this a deliberate choice to let others take a regulatory first mover risk? Thanks.
+
+Vladimir Tenev
+Well, no. I do not think it is any of those things. I think we are in some ways, in the fortunate position of having lots of great products that we see huge opportunity in. Right? And so the roadmap a couple weeks ago, we launched 13 new products that were in the process of rolling out. And, you know, as Shiv mentioned, we had 2 new businesses just in the past quarter get to 100 million ARR or more and we see a lot more a lot more coming. We have perps live in overseas as well, both through our DeFi offerings and through centralized. So I would not take that to mean that we do not like perps.
+
+In fact, we like them quite a bit and we intend to offer them to our customers. I did not give you a timeline, but I would not take the absence of a timeline at earnings to mean that we do not intend to be aggressive. I just do not like giving timelines and earnings that is what our events are for.
+
+Chris Koegel
+Alright. Next question is from Benjamin Budish at Barclays.
+
+Benjamin Budish
+Hey. Good evening, thanks for taking my question. Shiv, I was wondering if you could unpack the July commentary a little bit more. You said ADV was trending similar to Q2. I guess, on a product by product basis, equities, options, should we assume that is equities similar to Q2, options similar to Q2? And then any color you could share on the take rate? I know particularly for options that 1 bounces around a little bit. Crypto, you did not include in that commentary.
+
+Curious, you know, not to make this a multiparter, but what drove the fee rate improvement in Q2? And then similarly what you are seeing in Q3. So sorry for squeezing a bunch in there, but, yeah, any color there would be helpful.
+
+Shiv Kumar Verma
+Yeah. Happy to, and I will I will try to make sure I hit all of them. First, the way you read it was correct. So for July, the ADVs for equities, options, and predictions markets are all in the similar area of Q2. So those are seeing pretty healthy engagement, all of those. In terms of crypto, it is probably a little bit slower than what we saw in Q2, and so it is early in the month, but, but that is we are seeing to start. And then for take rates, for July, they are in a similar area to what we saw for the q average. So I would I would use that as kinda your starting point.
+
+For what drove the improvement, you know, rates are an output metric. there is a lot of different things that go into them. And so know, for equities and options, it is mix shift. it is volatility. it is the type of contract. For crypto, it is institutional, and it is what tier. So lots of moving pieces, but big picture, July is off to a similar ZIP code for take rates. And then for most of the asset classes to the Q2 average.
+
+
+Chris Koegel
+All right. Thank you, Shiv. The next question is from Edward Engel at Compass Point.
+
+Edward Engel
+Hey, guys. Thanks for taking my question. We know that you are pretty focused on bringing more of the volumes on direct-to-Rothera prediction markets, but we did see some news reports that you are exploring some partnerships with some other exchanges as well. Just kind of high level here, I mean, do you see any opportunity to kind of improve your economics by partnering with different exchanges, or is the focus more to bring more activity just under Rothera?
+
+Vladimir Tenev
+it is both. I think yeah, we are invested in Rothera, and we think that the economics there are great, and we intend to push more flow there. At the same time, we have always been connecting to additional counterparties. You know, we first connected to ForecastEx, which is IBKR's DCM. Then we went to Kalshi, then, of course, Rothera. And so we always are on the lookout for diversifying, making sure our customers have access to multiple options, and we are not reliant on any 1 individual counterparty.
+
+Chris Koegel
+All right. Thank you. The next question is from Andrew Hardy at BTIG.
+
+Andrew Hardy
+Hey, Vlad and Shiv. Thanks for, taking my question. Sorry. I cannot be there in person. My wife's due, next week, so probably congratulations. I am here, but we are looking forward to setting up the Trump account, very soon. You got to do it. Just wanted to follow-up on the top of funnel, question.
+
+Vladimir, you said earlier there is more to come. I would love to just kinda hear areas you are focusing on for customer acquisition strategy and focus areas. Just generally speaking, going forward there? And then just another part of that with the pattern day trading, elimination, or rule elimination, did you see any benefit in the quarter? And is there anything you are doing to try to draw back customers that you might have lost in the past? That would be great. Thanks.
+
+Vladimir Tenev
+Yeah. Maybe I will hit top of funnel You can talk PDT. Mhmm. I think there is a lot of improvements to the product making sure onboarding is really clean. Particularly, you know, as we get more and more products and can sign up for multiple accounts, multiple assets, I think we have been spending a lot of time investing in that. Getting customers to share the product, with other customers, there is always opportunity there. And, of course, we are also looking into you know, as banking is scaling and we are seeing traction there as the card is getting north of a million cardholders, can we make it even easier for folks signing up for brokerage to get the card and turn that into an active driver of growth in the other direction, meaning customers that are getting the card and coming for banking. Can we get them into brokerage and yeah, a lot of those are opportunities that we have not really explored.
+
+Up until now. So we there is just a lot of a lot of things that we have conviction in that remain in front of us.
+
+Shiv Kumar Verma
+In terms of the PDT, as reminder, we are very pleased that the SEC removed the antiquated rule where, small balance customers were penalized for the way they are trading. And so, really excited customers there. It was a nice tailwind in, in June when the rule went through. I think what we are seeing is it is broader across the whole industry, so for regardless of what brokerage. We probably had an outsized benefit relative to our peers given our customers have smaller balances. And what we are seeing from customers is they are still continuing to come back and adopt it. And so, I think it is gonna be something that we will continue to see a tailwind for, not just this quarter, but in coming quarters. And it is too early to tell, you know, what is exactly gonna be, but big picture customers are using it.
+
+They are coming back. And we are already seeing it in NPS surveys and other methods like that where customers who had left are really pleased that they are allowed to trade again.
+
+Chris Koegel
+All right. Thank you. The next question I think, is from Michael Cyprys at Morgan Stanley. Mike? They were just you know, loading and connecting. Oh, sorry. Sorry. I was my mistake.
+
+Kyle Voigt at KBW. Or perhaps not Chris either. Alright. We will try 1-- we will try 1 more. See if we can get into the hall of fame. So going 1 for 3. Next we have Gav from Wolfe Research.
+
+Gav
+Hey, Vladimir and Shiv. Great to see you guys. Hello. what is up, dude? what is going on? My favorites. Doing well. Doing well.
+
+Super excited to be on here. I wanted to talk for just a second about AI agents and agentic trading. This to me is 1 of the most fascinating things that you have rolled out in a long time. I have already hooked it up. I have got Claude in there trading. And I could really see this driving additional volumes as it goes on. Right? People set up strategies.
+
+Now it is with them and not even having to be there. And I am really curious, you know, what milestones that you are looking forward towards, in terms of agentic trading, and if you think that this could truly swell volumes really beyond the human side of trading, and then in a second part of that, I am curious if you are going to give the AI AgenTic trading access to prediction markets.
+
+Vladimir Tenev
+Yeah. I mean, on the product side, the goal is to give it access to all of the tools that you would have as a human trader using Robinhood. So we it is interesting for us because Robinhood has been kind of traditionally pretty closed off. We have been constraining access through our interfaces. Now we are opening it up. So traders and developers will get access to all of the capabilities where it makes sense And, yeah, I will just say that the team has really been cooking on the AgenTex stuff. I mean, we are just yeah. We have we have got lots and lots of things.
+
+You know, we were early to market, but I think there is so much more that can be done. So we look forward to sharing more, including at the active trader event that we have got coming up.
+
+Gav
+Looking forward to it.
+
+Chris Koegel
+All right. I think we can finish strong here. So Vlad, would you like to offer any closing remarks?
+
+Vladimir Tenev
+Well, first off, thank you for all the engagement, both from institutional sell side retail and our content creators. I am really proud of the community here that is coalesced around the company. And you should know, as always, the team's been working incredibly hard. The roadmap is, like, really full, and there is a lot to do. So hopefully, see some of you at the next hood summit in Houston, Texas. Thank you.

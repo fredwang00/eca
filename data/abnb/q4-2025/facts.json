@@ -29,5 +29,23 @@
       "management_tone_shift": "This was our highest growth quarter in more than 2 years... we're encouraged by healthy demand and execution across our growth initiatives... NPS is the strongest it's been since the pandemic by far."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 2778.0,
+    "gross_profit_m": 2291.0,
+    "operating_income_m": 269.0,
+    "net_income_m": 341.0,
+    "eps": 0.56,
+    "total_equity_m": 8199.0,
+    "total_assets_m": 22208.0,
+    "cash_and_equivalents_m": 6560.0,
+    "shares_outstanding_m": 602.0,
+    "free_cash_flow_m": 526.0,
+    "operating_cash_flow_m": 526.0,
+    "capital_expenditure_m": null,
+    "bvps": 13.62
+  },
+  "flags": []
 }

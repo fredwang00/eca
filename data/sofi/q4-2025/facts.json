@@ -29,5 +29,23 @@
       "management_tone_shift": "I've never been more optimistic about our prospects than I am today... I am more excited about what lies ahead than I have ever been at SoFi."
     },
     "extracted_at": "2026-09-05"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1025.1,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": 173.5,
+    "eps": 0.14,
+    "total_equity_m": 10489.5,
+    "total_assets_m": 50660.5,
+    "cash_and_equivalents_m": 4929.5,
+    "shares_outstanding_m": 1270.57,
+    "free_cash_flow_m": -1058.9,
+    "operating_cash_flow_m": -991.2,
+    "capital_expenditure_m": -67.7,
+    "bvps": 8.26
+  },
+  "flags": []
 }

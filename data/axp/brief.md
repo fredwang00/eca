@@ -1,125 +1,138 @@
-# American Express Company (AXP) — Earnings Call Brief
+# American Express Company (AXP) — Consolidated Analyst Brief
 
-**Coverage:** Q2 2023 – Q2 2026 (11 quarters)
+**Coverage Period:** Q2 2023 – Q2 2026 (11 quarters)
 
 ---
 
 ## Candor Trajectory
 
-| Quarter | Composite | Direction |
-|---------|-----------|-----------|
-| Q2 2023 | A (3.65) | Baseline |
-| Q3 2023 | B+ (3.37) | ↓ Inflection |
-| Q4 2023 | A (3.65) | ↑ Recovery |
-| Q1 2024 | B/A (3.50) | ↓ Slight slip |
-| Q2 2024 | B (3.25) | ↓ Decline |
-| Q3 2024 | A (3.65) | ↑ Recovery |
-| Q4 2024 | B+ (3.25) | ↓ Slip |
-| Q1 2025 | A (3.65) | ↑ Recovery |
-| Q2 2025 | B (3.25) | ↓ Slip |
-| Q3 2025 | B+/A (3.40) | → Stable |
-| Q4 2025 | A (3.65) | ↑ Recovery |
-| Q1 2026 | B (3.25) | ↓ Slip |
-| Q2 2026 | B (3.25) | → Stable |
+**Grade progression:** A (3.65) → B+ (3.37) → A (3.65) → B (3.50) → B (3.25) → A (3.65) → B+ (3.25) → A (3.65) → B (3.25) → B (3.25) → B (3.25)
 
-**Direction: Oscillating, not trending.** AXP communication quality cycles between A (3.65) and B (3.25) with no sustained improvement or deterioration. The pattern is structural: Capital Stewardship earns A in every quarter; Stakeholder Balance earns B in every quarter; FOG earns B in every quarter. The composite moves based almost entirely on whether Strategic Clarity and Vision score A or B. The recurrent inflection to B occurs when prepared remarks rely on ecosystem narrative without falsifiable milestones; the recovery to A occurs when prior commitments are revisited explicitly and results are benchmarked against stated targets. The CFO transition (Q3 2023, Le Caillec's first full quarter) produced the earliest visible dip and then stabilized — Le Caillec's financial precision has been consistently strong throughout.
+**Direction: Stagnating, with oscillation.** The series does not trend in either direction — it oscillates between B and A at predictable intervals driven by a single structural pattern: Dimension 1 (Capital Stewardship) consistently earns A across all 11 quarters, while Dimensions 2–5 fluctuate between B and A depending on prepared-remarks discipline and whether the Q&A contains meaningful problem disclosure. No quarter has scored below B on the composite; none has exceeded 3.65. The A quarters (Q2 2023, Q4 2023, Q3 2024, Q1 2025, Q4 2025) share a common feature: strong Q&A accountability and at least one dimension outside Capital Stewardship scoring A. The B quarters share the inverse: Squeri's prepared remarks carry excess FOG and strategic commitments remain at the ecosystem-narrative level.
+
+**Named inflection points:**
+- **Q3 2023 (first inflection, downward):** CFO transition from Campbell to Le Caillec introduced a baseline reset and a mild asymmetric attribution pattern (external blame for softness, internal credit for strength) that dropped the composite to 3.37.
+- **Q4 2023 (recovery):** Le Caillec's first full quarter demonstrated retained financial disclosure quality; the two-year growth plan accountability exercise pushed the composite back to 3.65.
+- **Q2 2024 (second inflection, downward):** Digital banking described as "a journey" with no milestones; strategic clarity dropped to B for the first time. This pattern has not since fully reversed.
+- **Q1 2026 / Q2 2026 (stagnation confirmed):** Three consecutive B composites (Q4 2024, Q1 2026, Q2 2026) despite materially strong financial results — the gap between financial performance and communication specificity on strategy has widened, not narrowed.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-- **Hilton partnership:** 10-year extension, named counterparty, disclosed in Q2 2023. Multi-decade scope, exclusive co-brand.
-- **Delta co-brand:** Named counterparty, multi-year. Confirmed in Q3 2023 as "in lockstep." Delta portfolio spending up ~20% YoY as of Q3 2023.
-- **Formula 1 sponsorship:** Named, described as "top tier" multi-year, first new sports vertical in 10+ years. Disclosed Q3 2023.
-- **Accertify sale:** Completed, after-tax gain of $479M ($0.66 EPS), disclosed Q2 2024 with explicit isolation from core results.
-- **Center acquisition:** Closed prior to Q1 2025 call. Integration into Kabbage platform committed for "probably by midyear" 2026.
-- **TheFork acquisition:** Named, pending regulatory close as of Q2 2026. 50,000 restaurants across 11 European countries. No purchase price disclosed.
-- **Swiss JV acquisition:** Completed prior to Q1 2026, generated an unquantified gain treated as P&L tailwind.
-- **GBT equity stake sale:** Expected H2 2026 close. Explicitly excluded from 2026 guidance.
-- **Amazon/Lowe's co-brand portfolio exit:** Quantified headwind — ~1pp to spend growth, ~2.5pp to NII, ~1pp to total revenue beginning Q2 2026.
+- **Hilton 10-year extension** (Q2 2023, Q4 2023): Named counterparty, multi-year duration disclosed; described as "signed" with scope confirmed.
+- **Delta co-brand partnership** (multiple quarters): Named counterparty, ongoing commercial relationship with explicit mutual economics disclosed. Delta card spending cited at "up almost 20% year-over-year" (Q3 2023); described as "going strong" (Q4 2023, Q1 2024).
+- **Accertify sale** (Q2 2024): After-tax gain of $479M ($0.66 EPS) disclosed with explicit segregation from core earnings. Proceeds explicitly retained in bottom line rather than reinvested.
+- **Center acquisition** (Q1 2025, closed the day before the call): Named target, acquisition confirmed closed; integration timeline deferred ("I don't have an exact time on that").
+- **Resy, Tock, Rooam acquisitions** (Q3 2024, Q2 2025): Named acquisitions, described with user metrics (50M+ Resy registered users, 350M diners seated in 12 months).
+- **TheFork acquisition** (Q2 2026): Named target (50,000 restaurants across 11 European countries), pending regulatory approval at time of call. No purchase price disclosed.
+- **Swiss joint venture acquisition gain** (Q1 2026): Gain disclosed as one of two unexpected Q1 P&L tailwinds; no dollar amount provided.
+- **Co-brand portfolio exits — Amazon and Lowe's** (Q1–Q2 2026): Named counterparties, quantified impact: ~1pp spend growth, ~2.5pp NII growth headwind, ~1pp total revenue headwind. Disclosed as already incorporated in prior guidance.
+- **Coinbase partnership** (Q2 2025): Named, with described mechanics (off-ramp functionality, digital currency rewards).
+- **NFL, Fanatics, NBA, Accor, Formula 1, MetLife, Mercedes-Benz sponsorships** (Q4 2025, Q2 2026): Named partnerships; primarily described as marketing relationships, not disclosed with contract values.
 
 ### Aspirational
-- "Annual revenue growth in excess of 10% and mid-teens EPS growth in 2024 and beyond in a steady-state macro environment" — stated January 2022, revisited multiple quarters; no named external party, no binding terms.
-- SME organic spend recovery — Squeri has described it as "when they're ready," "hopefully behind us," and "green shoots" across six consecutive quarters without committing to a timeline or threshold.
-- International coverage expansion to "75% live coverage" — cited in Q3 2025 without a current-state baseline or target date.
-- Agentic commerce as competitive advantage — described as "pre-season" and "not even in the early innings" across Q1 and Q2 2026; no milestones, no revenue attribution.
-- Center/commercial suite as transformative SME platform — described as "the most significant 1-year commercial product expansion in company history" in Q1 2026 with no adoption metrics or revenue contribution.
-- High-yield savings product growth — "less than 10% penetration" cited as opportunity with no target penetration rate or timeline.
+- **"Annual revenue growth in excess of 10% and mid-teens EPS growth in 2024 and beyond in a steady-state macro environment"** — Introduced January 2022, repeated across all 11 quarters as a reference framework. The qualifier "steady-state macro environment" is load-bearing; no specific conditions are defined that would qualify or disqualify the environment as steady-state.
+- **SME recovery** — Framed as a "when, not if" return ("we'll be ready when they're ready"; "organic lift will come back"), with no named timeline, counterparty, or binding recovery mechanism. Described as soft for every quarter in the coverage period.
+- **Digital banking initiative** — Described as "a journey" (Q2 2024) with "more to come." No milestone disclosed in any subsequent quarter.
+- **Agentic commerce opportunity** — Framed across Q1–Q2 2026 as a structural advantage ("we're not even in the early innings, we're in pre-season"). No named counterparty, revenue target, or launch milestone.
+- **International expansion** — "Average of 6% spend share across top five countries" cited as an opportunity. No country-level targets, coverage milestones, or timeline disclosed.
+- **Center integration into Kabbage platform** — Committed to "probably by midyear" (Q4 2025/Q1 2026). No milestone confirmed in subsequent calls.
+- **Commercial product expansion** — Eight "newer or enhanced products" committed to in 2026 (Q1 2026). Progress update not quantified in Q2 2026.
+- **Card fee growth "high teens" exit rate for 2026** — Stated in Q2 2026 as a specific, falsifiable directional commitment. Closest item to a signed forward target.
 
 ---
 
 ## Capital Figures
 
-| Quarter | Revenue | CapEx | Free Cash Flow | Cash & Equivalents | Total Equity |
-|---------|---------|-------|----------------|-------------------|--------------|
-| Q2 2025 | $17,856M | -$619M | $3,745M | $57,830M | $32,311M |
-| Q3 2025 | $18,426M | -$655M | $5,578M | $53,468M | $32,417M |
-| Q4 2025 | $18,981M | -$721M | $2,346M | $47,708M | $33,474M |
-| Q1 2026 | $18,908M | -$1,149M | $2,655M | $53,647M | $33,995M |
-| Q2 2026 | $19,637M | -$898M | $4,473M | $45,166M | $34,280M |
+All figures attributed to the quarter in which they were reported. Narrative-only numbers are excluded.
 
-**Narrative figures (from management, not ground truth):**
-- Full-year 2023: $60.5B revenue, +15% FX-adjusted. EPS $11.33 (midpoint of $11.00–$11.40 guidance).
-- Full-year 2024: Revenue +10% (within 9–11% guidance). EPS range $13.75–$14.05 (raised from $12.65–$13.15).
-- Full-year 2025: $72B revenue, +10%. EPS $15.38 excluding Certified sale gain. Net card fees hit $10B record.
-- Capital returned: $5.3B in 2023; $7.6B in 2024; $7.9B in 2025. CET1 consistently 10.5–10.8% against 10–11% target.
-- Marketing spend: ~$5.5B in 2023; ~$6B in 2024 (+16%); guided mid-single digits growth in 2025 but Q2 2025 OpEx ran 9% above expectation.
-- CapEx directionally accelerating: from -$619M (Q2 2025) to -$1,149M (Q1 2026), with Q2 2026 pulling back to -$898M.
-- Cash declining sequentially from $57.8B (Q2 2025) to $45.2B (Q2 2026) — partially buyback-driven.
+| Quarter | Revenue | Capex | Free Cash Flow | Cash & Equivalents | Total Equity |
+|---|---|---|---|---|---|
+| Q2 2023 | $15,100M | — | — | — | — |
+| Q3 2023 | $15,400M | — | — | — | — |
+| Q4 2023 | $60,500M (FY) | — | — | — | — |
+| Q1 2024 | $15,800M | — | — | — | — |
+| Q2 2024 | $16,300M | — | — | — | — |
+| Q3 2024 | $16,600M | — | — | — | — |
+| Q4 2024 | — | — | — | — | — |
+| Q1 2025 | $17,000M | — | — | — | — |
+| Q2 2025 | $17,856M | ($619M) | $3,745M | $57,830M | $32,311M |
+| Q3 2025 | $18,426M | ($655M) | $5,578M | $53,468M | $32,417M |
+| Q4 2025 | $18,981M | ($721M) | $2,346M | $47,708M | $33,474M |
+| Q1 2026 | $18,908M | ($1,149M) | $2,655M | $53,647M | $33,995M |
+| Q2 2026 | $19,637M | ($898M) | $4,473M | $45,166M | $34,280M |
+
+**Selected disclosed capital metrics (from management commentary):**
+- CET1 ratio: Maintained within 10%–11% target range across all periods; ranged 10.5%–10.8%
+- Capital returned to shareholders: $5.3B (FY2023), $7.9B (FY2024), $7.6B (FY2025), $2.9B (Q2 2026 alone)
+- Full-year marketing spend: ~$5.5B (2023), ~$6B (2024), guidance mid-single-digit growth (2025), "up ~10% H2" (2026)
+- Net card fees: Crossed $2B quarterly in Q2 2024; reached "$10B record" for FY2025; 32 consecutive quarters of double-digit growth as of Q2 2026
+- Write-off rate: Q4 2023: 2.0% (pre-pandemic: 2.2%); Q3 2024: 1.9%; described as "at the limit" of improvement in Q4 2025
+- Accertify after-tax gain: $479M ($0.66 EPS, Q2 2024)
+- ROE: 35% (Q1 2026), 36% (Q2 2026)
+- Capex: Accelerating from ($619M) in Q2 2025 to ($1,149M) in Q1 2026, partially reverting to ($898M) in Q2 2026
+
+**Notable:** Cash and equivalents declined from $57,830M (Q2 2025) to $45,166M (Q2 2026), a $12.7B reduction over four quarters, coinciding with accelerating buybacks and the Center acquisition. Total equity has grown modestly ($32.3B to $34.3B), while FCF is volatile quarter-to-quarter ($2.3B in Q4 2025 vs. $5.6B in Q3 2025), consistent with lumpy capital deployment.
 
 ---
 
 ## FOG Patterns
 
-**Structural pattern:** FOG is consistently front-loaded in Squeri's prepared remarks and largely absent from Le Caillec's financial commentary and Q&A. The divide is stable across all 11 quarters and represents the primary reason Dimension 4 earns B rather than A in every period.
+**Recurring phrases across 11 quarters (with frequency assessment):**
 
-**Recurring phrases across quarters (verbatim or near-verbatim):**
-- "We feel really good about it" / "I feel good about our performance" — Q2 2023 through Q2 2026; functions as a verbal tic closing off analytical engagement.
-- "Best-in-class credit performance" / "best-in-class" — unanchored superlative, no peer name, appears in 8+ quarters.
-- "Talented colleagues" / "world-class colleagues" — pure boilerplate in every quarter; zero specificity.
-- "Well positioned" — appears in every prepared remarks section, never followed by the evidence that would make it substantive.
-- "Strong momentum" — used without definition or quantification repeatedly from Q3 2023 onward.
-- "Our proven strategy" / "proven playbook" — circular self-endorsement accelerating in frequency from Q4 2024 onward.
-- "Virtuous cycle" — reappears in Q3 2025 and Q2 2026 as the primary mechanism description for the ecosystem, without attached metrics.
+- **"We feel really good about it" / "feel good about where we are"** — Present in Q2 2023, Q4 2023, Q1 2024, Q3 2024. Functions as a verbal placeholder that closes analytical engagement rather than opening it. Frequency declined slightly in 2025–2026.
+- **"Talented/world-class colleagues"** — Present in every quarter without exception. Zero specificity across 11 calls; no named individuals, teams, or concrete contributions in any quarter.
+- **"Well-positioned"** — Appears in Q3 2023, Q4 2024, Q1 2025, Q1 2026, Q2 2026 as a freestanding assertion without evidence in the immediate surrounding text.
+- **"Best-in-class credit"** — Appears Q1 2024, Q2 2024, Q3 2024; partially supported in some quarters with CCAR data, unsupported in others.
+- **"Virtuous cycle" / "flywheel"** — Introduced Q3 2025, dominant in Q4 2025 and Q2 2026. Describes a real mechanism but without attached measurable milestones in any instance.
+- **"We are operating from a position of strength"** — Q4 2025, Q1 2026; self-asserted without marginal evidentiary content at the moment of use.
+- **"Proven playbook"** — Q1 2026, Q2 2026; circular (the playbook is proven because it is the playbook being executed).
+- **"Most sought-after"** / **"unmatched in the industry"** / **"world-class brands"** — Dense in Q3 2025 and Q2 2026 prepared remarks; all unsupported superlatives.
 
-**Linguistic precision: mildly degrading.** From Q2 2023 through Q4 2024, FOG was scattered and counterbalanced by specific Q&A content. From Q1 2025 onward, Squeri's prepared remarks increasingly rely on ecosystem metaphors ("closed-loop within a closed-loop," "pre-season," "warming up in the bullpen") that substitute strategic brand language for competitive evidence. The CFO's precision has not degraded. The CEO's prepared remarks have become marginally more reliant on narrative framing.
+**Linguistic precision assessment: Stagnating, with structural bifurcation.** The CFO's language (Le Caillec) has consistently maintained high precision across all quarters — his financial commentary, Q&A responses, and investor education passages are largely FOG-free. Squeri's prepared remarks and strategic Q&A have not improved over the period; if anything, the introduction of ecosystem/flywheel language in 2025–2026 represents a modest precision regression. The FOG index grade has never risen above B and shows no upward trend despite stable A-level financial disclosure immediately adjacent to it.
 
 ---
 
 ## Flags & Risks
 
-**Financial data quality:**
-- Total equity is growing modestly ($32.3B to $34.3B across the five quarters with data) despite aggressive buybacks, consistent with strong earnings generation. No equity decline flag.
-- Free cash flow is volatile quarter-to-quarter ($2.3B in Q4 2025 vs. $5.6B in Q3 2025) — this appears seasonal and buyback-timing related rather than structural. No flag, but worth monitoring.
-- CapEx spiked to -$1,149M in Q1 2026, nearly double the prior quarter run-rate. Management attributed this to technology investment acceleration; no breakdown provided. This is an unresolved disclosure gap.
-- Cash declining from $57.8B to $45.2B over five quarters — primarily buyback-driven, consistent with stated capital return program and 10–11% CET1 target.
+**Data quality flags:**
+- Structured financial metrics are absent for Q2 2023 through Q1 2025 (seven quarters); only management-cited figures are available for those periods. The Q2 2025–Q2 2026 structured metrics are internally consistent with management commentary.
+- Total equity is essentially flat from Q2 2025 ($32.3B) to Q2 2026 ($34.3B) despite reported ROE of 35–36% and claimed "record" earnings — consistent with high capital return rates (buybacks and dividends consuming the majority of earnings generation).
+- Free cash flow is volatile: $5,578M (Q3 2025) vs. $2,346M (Q4 2025) vs. $4,473M (Q2 2026). No management explanation for FCF variability has been offered on any call.
+- Capex accelerated sharply to ($1,149M) in Q1 2026, the highest disclosed figure in the series. This was not explicitly discussed in the Q1 2026 call beyond general "technology investment" references.
 
 **Communication-level risks (aggregated across quarters):**
-- **Asymmetric attribution** (flagged Q3 2023, Q1 2024, Q2 2024): favorable results attributed to strategy; unfavorable results attributed to macro. SME softness was consistently externalized across eight consecutive quarters.
-- **SME perishable goal** (flagged Q2 2024 through Q2 2026): organic spend decline framed each quarter in relative terms ("less negative") without an absolute recovery target. The Amazon/Lowe's exit now partially obscures the organic trend.
-- **Digital banking opacity** (Q2 2024): stated as an Investor Day priority; never received a measurable milestone. Now largely absent from transcripts.
-- **TheFork disclosure gap** (Q2 2026): acquisition named, no purchase price, no integration cost estimate, no revenue impact range.
-- **Agentic commerce expectation risk** (Q1–Q2 2026): described as a future competitive moat across two consecutive calls with no measurable milestones. If this framing continues without specifics into Q3 2026, it warrants a pattern flag.
-- **"Best-in-class credit" without peer benchmarking**: cited by both executives across 11 quarters; peer comparisons named only obliquely in Q&A. Central to the investment thesis but rests on assertion.
-- **Fintech dismissal** (Q4 2024, Q1 2026): Squeri stated "no inroads at all" on consumer side; claim is presented as self-evident. If consumer competitive dynamics shift, this framing will look promotional in retrospect.
+
+1. **Asymmetric attribution — persistent, unresolved.** Favorable results are attributed to strategy; unfavorable results (SME softness, airline deceleration, higher-than-expected VCE) are attributed to external forces or timing mechanics. Present in Q3 2023 and every subsequent quarter. No quarter in the series contains a voluntary "here is what we got wrong" disclosure.
+
+2. **"Perishable goal" pattern on SME.** SME organic billings have been described as soft in every quarter across three-plus years. The explanatory framework has shifted from "inventory restocking lapping effect" (Q4 2023) to "funding cost pressure" (Q1 2024) to "macro headwinds" (Q2–Q3 2024) to "hopefully behind us" (Q3 2025) to portfolio exits creating reported headwinds (Q1–Q2 2026). No absolute recovery target has been named in any quarter.
+
+3. **Digital banking / agentic commerce as recurring aspirational framing.** Two consecutive multi-year priorities — digital banking (Q2 2024 onward) and agentic commerce (Q4 2025 onward) — have been described in ecosystem language without measurable milestones in any quarter. If Center integration, TheFork, and agentic commerce follow the digital banking pattern, they will rotate out of prominence without accountability.
+
+4. **The "best-in-class credit" assertion under normalization.** Write-off rates are described as "at the limit" of improvement (Q4 2025 CFO). If credit normalizes above 2019 levels, the multi-year "best-in-class" language will have been promotional rather than informative.
+
+5. **Capex acceleration without narrative explanation.** Capex jumped 76% from Q2 2025 to Q1 2026 with no attributed explanation in management commentary. This is either a technology investment acceleration (consistent with AI/GenAI discussion) or a capital deployment pattern investors cannot currently model.
+
+6. **TheFork disclosure is sub-threshold.** A named acquisition with no disclosed purchase price, integration cost estimate, or expected financial impact, described only as "will require investment in H2." Q3 2026 must provide specifics.
 
 ---
 
 ## Verify Next Quarter
 
-**From the Q2 2026 tracking commitments — verify in Q3 2026:**
+*From the Q2 2026 call, tracking the following in Q3 2026:*
 
-1. **Card fee growth acceleration.** Le Caillec guided card fees to "accelerate in Q3 and to exit the year in the high teens." Q2 2026 was 15.4%. Q3 must show sequential acceleration; failure requires explicit explanation.
+1. **Card fee growth acceleration.** Management committed to card fees accelerating in Q3 and exiting 2026 "in the high teens." Q2 reported 15.4% — Q3 must show sequential acceleration above this level. A miss requires explicit management explanation.
 
-2. **Amazon co-brand portfolio transfer.** Expected in Q3 2026. The 2.5pp NII headwind and 1pp total revenue headwind should appear in reported metrics. Verify management explicitly revisits this headwind rather than treating deceleration as unexplained.
+2. **TheFork transaction close and cost disclosure.** Pending regulatory approval at Q2 call. If closed in Q3, the purchase price, integration expense, and expected impact on NII and OpEx must be disclosed. Further deferral without a close is a negative signal.
 
-3. **TheFork close and cost disclosure.** Transaction was pending regulatory approval as of Q2 2026. Q3 should disclose: purchase price, integration cost estimate, expected expense impact in H2. Continued vagueness is a negative accountability signal.
+3. **Second co-brand portfolio transfer (Amazon).** Guided to occur in Q3 with ~2.5pp NII headwind and ~1pp total revenue headwind. Verify that Q3 NII growth decelerates in line with this guidance, and that management revisits this headwind explicitly rather than allowing the deceleration to appear unexplained.
 
-4. **Marketing expense up ~10% YoY in H2.** This is a specific, falsifiable commitment. Q3 reported marketing should show material step-up from Q2 levels.
+4. **Marketing expense in H2.** Committed to "up by around 10% year-over-year in the second half." Q3 marketing spend must reflect this directional commitment.
 
-5. **GBT equity stake sale.** Expected H2 2026 close. Track whether gain is disclosed with specificity or introduced as a surprise positive without pre-announcement of magnitude.
+5. **Global Business Travel equity stake sale.** Expected to close H2 2026, explicitly excluded from current guidance. Verify whether it closes in Q3 or Q4, and track whether the gain treatment is as transparent as the Accertify gain was in Q2 2024.
 
-6. **SME segment billings — organic vs. portfolio exit.** The co-brand exits create a known headwind; management should explicitly disaggregate organic SME spend trend from portfolio roll-off effect. If they do not, that is a disclosure gap.
+6. **SME billings trajectory post-portfolio-exits.** The Amazon/Lowe's exits create a reported headwind; the question is whether organic SME spend is recovering independently. Management should disaggregate portfolio exit impact from organic SMB growth in Q3 commentary.
 
-7. **CapEx explanation.** Q1 2026 CapEx spiked to -$1,149M. Q3 should either continue at elevated levels with an explanation or revert with a retrospective account. The Q1 spike was not addressed in management commentary.
+7. **Center integration road map.** Committed in Q4 2025 to sharing a road map "over the next couple of months"; the Q1 2026 call contained no update. Q3 2026 is the last reasonable quarter to receive this without it becoming a tracking failure.

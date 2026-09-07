@@ -1,0 +1,51 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q1 2026",
+  "company": "Robinhood Markets, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1067.0,
+    "gross_profit_m": 860.0,
+    "operating_income_m": 411.0,
+    "net_income_m": 350.0,
+    "eps": 0.39,
+    "total_equity_m": 9319.0,
+    "total_assets_m": 45474.0,
+    "cash_and_equivalents_m": 5012.0,
+    "shares_outstanding_m": 901.22,
+    "free_cash_flow_m": 2020.0,
+    "operating_cash_flow_m": 2038.0,
+    "capital_expenditure_m": -18.0,
+    "bvps": 10.34
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C",
+    "dim5_grade": "B-",
+    "composite_score": 2.575,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Trading volumes for equities and options are on track to be our highest month of the year and actually our second highest month in history. Net deposits, they're already approximately $5 billion month-to-date.",
+      "capex_direction": "We are raising our full year 2026 outlook for adjusted OpEx and SBC by equivalent of $100 million... we are increasing our focus on top-of-funnel customer growth... we're leaning into investments in AI.",
+      "pricing_power": "On crypto, it's about 7 basis points lower and on options, it's about $0.03 [lower take rate]. However, we're starting to see that rebound in the pickup of April.",
+      "management_tone_shift": "Q2 is off to a good start in April... retirement assets just crossed $30 billion... our customers remain resilient."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

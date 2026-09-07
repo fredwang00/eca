@@ -1,0 +1,309 @@
+July 30th, 2026
+Summary
+Earnings Call Date:
+Jul 30, 2026
+Change Since:
++46.10%
+Next Earnings Date:
+Nov 4, 2026
+Earnings Call Sentiment
+Positive
+The call emphasized multiple record operating metrics (originations, fundings, total and net investment income), strong liquidity and reduced leverage, robust portfolio capital raises, and recurring contributions from the Adviser business. Credit metrics showed modest deterioration (small increase in lower-grade loans, one additional non-accrual) and expenses rose due to variable compensation and taxes, but these negatives are limited in magnitude relative to the positive operational momentum. Management reiterated disciplined underwriting and conservative balance sheet posture while possessing the liquidity and platform scale to capitalize on market opportunities.
+
+Company Guidance
+Hercules guided to Q3 core yields of 11.8%–12% and prepayments normalizing to $200–$300 million (vs. $572.1M in Q2), with originations expected to be seasonally lower and back‑end weighted; interest expense is expected to be broadly stable or up slightly vs. Q2 (Q2 interest expense $31.1M, WAC of debt 5.2%). Management expects gross SG&A of $25M–$26M with an RIA expense allocation of ~$4.7M and a quarterly RIA dividend of roughly $2.0–2.5M, noted that 98% of the debt portfolio is floating with ~75% of prime‑based loans at contractual floors (muting rate sensitivity), and emphasized strong liquidity (BDC available liquidity $652.9M, platform >$1B) and recent issuance of $325M of 6.3% notes due 2031 to repay debt and fund originations.
+
+
+Highlights
+
+Lowlights
+Record Originations and Fundings
+First half 2026 originations of $2.74B, up 35.6% year-over-year; record fundings of $1.35B, up 8.5% year-over-year. Q2 new commitments were over $927M and gross fundings were over $647M, funding 39 companies (9 new borrowers).
+
+Record Investment Income and Net Investment Income
+Total investment income in Q2 was a record $149.1M (+5.4% QoQ, +8.5% YoY). Core investment income was $134.4M (roughly flat QoQ, +7.8% YoY). Net investment income (NII) was a record $92.9M or $0.50 per share (+5.5% QoQ, +4.7% YoY).
+
+Strong Coverage of Distributions
+Q2 NII covered the base shareholder distribution by 125% and the full distribution (including $0.07 supplemental) by 106%. This marks the 24th consecutive quarter with a supplemental distribution.
+
+AUM Growth and Platform Scale
+Platform now manages approximately $6.1B of assets, up 14.4% year-over-year. Hercules Adviser manages nearly $2B of committed capital and the Adviser has contributed recurring cash benefits (RIA dividend $2.1M + expense reimbursement $4.9M = $7M to BDC this quarter), a 26% increase from a year ago.
+
+Improved Liquidity and Reduced Leverage
+BDC ended the quarter with $652.9M of available liquidity and the platform had >$1B available including RIA funds. GAAP leverage decreased to 103.9% from 115.4% QoQ; regulatory leverage decreased to 88.5% from 99.7% QoQ. Subsequent issuance of $325M of 6.3% institutional unsecured notes strengthened liquidity post-quarter.
+
+NAV Appreciation and Realized Gains
+NAV per share increased $0.25 to $12.15, up 2.1% QoQ. Net unrealized appreciation of $29.6M in Q2 and net realized gains of $7.7M contributed to the NAV uplift.
+
+Portfolio Capital-Raising Momentum
+29 portfolio companies raised ~$5.7B in Q2; year-to-date portfolio companies have raised $9.3B, surpassing all of 2025. Venture capital activity in H1 2026 totaled $412.7B (nearly 30% higher than 2025 full year).
+
+High Prepayment Activity Signaling Portfolio Strength
+Early loan repayments totaled $572.1M in Q2, above guidance; ~60% of those repayments were from M&A or balance-sheet cash (largely companies that raised equity and retired debt), a sign of portfolio health. Management expects Q3 prepayments to normalize to $200M–$300M.
+
+Declining PIK and Cash Collections
+PIK as a percentage of total revenue declined to ~8.3% from 9.1% in Q1. Collected approximately $12M in cash payments on accrued PIK in Q2 and an additional $12.6M post-quarter; YTD through July 27 collected $39.9M.
+
+Stable Credit Metrics and Low Non-Accruals
+Debt investments spread across 136 companies with combined fair value ~$4.4B. 98% of debt investments are floating-rate with floors; 75% of prime-based loans at contractual floor. Non-accruals increased by one to two loans representing ~$16M cost and ~$5.5M fair value (~0.3% cost, ~0.1% value); 100% of accrual loans were current on scheduled payments.
+
+Operator
+Good afternoon. My name is Leo, and I will be your conference operator today. At this time, I would like to welcome everyone to the Hercules Capital Second Quarter 2026 Financial Results Conference Call. All participant lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. If you would like to ask a question at that time, please press star one on your telephone keypad. Please be advised that today's conference may be recorded. Lastly, if you should require operator assistance, please press star zero.
+
+I will now turn the call over to Michael Hara, Managing Director of Investor Relations. Please go ahead.
+
+Michael Hara
+Thank you, Leo. Good afternoon, everyone, and welcome to the Hercules conference call for the second quarter of 2026. With us on the call today from Hercules are Scott Bluestein, CEO and Chief Investment Officer, Seth Meyer, President, and Andrew Olson, CFO. Hercules financial results were released just after today's market close and can be accessed from the Hercules Investor Relations section at investor.htgc.com. An archive webcast replay will be available on the investor relations webpage following the conference call. During this call, we may make forward-looking statements based on our own assumptions and current expectations. These forward-looking statements are not guarantees of future performance and should not be relied upon in making any investment decision. Actual financial results may differ from the forward-looking statements made during this call for a number of reasons, including but not limited to, the risks identified in our annual report on Form 10-K and other filings that are publicly available on the SEC's website.
+
+Any forward-looking statements made during this call are made only as of today's date, and Hercules assumes no obligation to update any such statements in the future. With that, I'll turn the call over to Scott.
+
+Scott Bluestein
+Thank you, Michael, and thank you all for joining the Hercules Capital Q2 2026 earnings call. In the second quarter of 2026, Hercules delivered another strong quarter of record operating performance, strong originations, and stable credit. During the quarter, we continued to navigate through a period of general volatility, although the broader market backdrop improved relative to Q1. The three themes that guided us in Q1, disciplined and conservative new underwriting, maintaining a strong and flexible balance sheet, and being proactive in terms of managing credit, continued to be our focus in Q2. As of the end of Q2, our balance sheet and liquidity position is strong, our portfolio credit performance remains stable, and our investment portfolio continued to generate net investment income in Q2 that comfortably covered our base shareholder distribution by 125%. Coming off a record-breaking Q1 for originations, our platform continued to see robust deal flow in Q2. For the first half of 2026, we delivered record originations of $2.74 billion, an increase of 35.6% year-over-year, and record fundings of $1.35 billion, an increase of 8.5% year-over-year. The combined business activity in the first half helped to deliver new records for total investment income and net investment income for the first six months of the year and in the second quarter.
+
+Driven by the continued growth of both the public BDC and our private capital is now managing approximately $6.1 billion of assets, an increase of 14.4% from a year ago. We are continuing to manage the business and balance sheet conservatively while maintaining the flexibility to take advantage of market opportunities as they arise. This includes continuing to enhance our liquidity position as needed, remaining disciplined on new underwritings, staying focused on asset diversification, and maintaining our higher than normal first lien exposure, which was approximately 87% in Q2. Let me now recap some of the key highlights of our performance for Q2. In Q2, we originated total new debt and equity commitments of over $927 million and gross fundings of over $647 million. The focus of our origination efforts in Q2 was on maintaining a disciplined approach to capital deployment while emphasizing diversification across the asset base. Our Q2 new commitment activity was weighted slightly towards life sciences companies, while our fundings were weighted more towards our tech portfolio. In Q2, approximately 59% of our commitments and 45% of our fundings were to life sciences companies, while approximately 41% of our commitments and 55% of our fundings were to tech companies.
+
+We funded debt capital to 39 different companies in Q2, of which nine were new borrower relationships. During the quarter, we were able to opportunistically increase our commitments and fundings to several portfolio companies that have continued to demonstrate strong performance. Being able to support our portfolio companies as they scale and expand their businesses is an important part of our model and a key differentiator of our expanded platform capabilities. Our available unfunded commitments increased slightly to $408.2 million from $397.4 million in Q1, still maintaining a more defensive positioning of the portfolio. Early loan repayments in Q2 were $572.1 million, which exceeded the upper range of our guidance for the quarter. Approximately 60% of the repayments during the quarter came from M&A or balance sheet cash, which we believe speaks to the continued strength of our broader investment portfolio. The increased level of prepayments in Q2 positions us well to be able to redeploy this capital in what we expect to continue to be a more favorable originations environment. For Q3 2026, we expect prepayments to normalize and be in the range of $200 million-$300 million, although this could change as we progress in the quarter.
+
+Consistent with our prior history, we expect originations to be seasonally lower in Q3 and be more back-end weighted. Since the close of Q2, and as of July 27, 2026, our investment team has closed $149.3 million of new commitments and funded $112.5 million. We have pending commitments of an additional $70 million in signed non-binding term sheets, and we expect this number to continue to grow as we progress in Q3. Across our existing portfolio, we are continuing to see an abundance of attractive opportunities to provide new capital to existing exceeding expectations. We expect this to again be a driver of our Q3 investment activity. Recently, we have also observed that a handful of lenders, both bank and non-bank, are being very aggressive in terms of deal structures for new opportunities. This is something that we will monitor, but our decision will be to stay disciplined and not chase the market in cases where we do not believe it makes sense for our shareholders and stakeholders. Let me now provide an update on our portfolio and credit performance for Q2.
+
+Our asset base remains intentionally diversified with approximately 50% of our assets in our life sciences vertical and approximately 50% of our assets in our technology vertical. No single sub-sector makes up more than 25% of our total investment portfolio. Our debt investments are spread across 136 different companies with a combined fair value of $4.4 billion in the BDC. In addition, we have warrants in 117 companies and equity investments in 73 companies. Combined, our warrant and equity investments make up approximately 4.5% of our investment portfolio. 98% of our debt investments are floating rate investments with a floor, and as of the end of Q2, 75% of our prime based loans are already at their contractual rate floor. Consistent with our historical experience as of the end of Q2, the average loan duration across our debt portfolio was approximately 21 months. In Q2, PIK continued to decline as a percentage of total revenue, falling to approximately 8.3% from 9.1% in Q1.
+
+Approximately 87% of our Q2 PIK income came from PIK that was part of the original underwriting, or as we refer to it, PIK by design. More than 93% of our Q2 PIK income came from loans that were rated 1, 2, or 3. Excluding a single convertible loan, every loan with a PIK component on accrual status is also paying cash interest. We collected approximately $12 million in cash payments on accrued PIK during Q2. That same trend has continued subsequent to quarter end, where we have collected an additional $12.6 million in cash payments on accrued PIK as of July 27, 2026. Year to date through July 27, 2026, we have now collected $39.9 million in cash payments on accrued PIK income. Credit quality of the debt investment portfolio was stable quarter-over-quarter. Our weighted average internal credit rating of 2.17 slightly increased compared to the 2.11 rating in Q1 and remains well within our normal historical range.
+
+Our grade 1 and 2 credits decreased to 65.4% compared to 70.5% in Q1. Grade 3 credits increased to 32.7% in Q2 versus 28.6% in Q1. Our rated 4 credits increased to 1.8% from 0.8% in Q1, and our rated 5 credits were at 0.1% for both quarters. Our rated 4 and 5 credits continue to make up less than 2% of the portfolio fair value. In Q2, the number of companies with loans on non-accrual increased by one to two loans on non-accrual with an investment cost and fair value of approximately $16 million and $5.5 million respectively, or 0.3% and 0.1% as a percentage of our total investment portfolio at cost and value, respectively. As of the most recent reporting that we have, 100% of our debt investments that are on accrual are current with respect to the payment of scheduled principal and interest. After quarter end, our teams successfully completed new non-accrual loan in Q2. The result was a cash recovery that was approximately $1 million in excess of our Q2 fair value mark, and a positive realized IRR on the investment.
+
+With respect to our broader credit book and outlook, we generally remain pleased by what we are seeing on a portfolio level. Our portfolio monitoring remains enhanced given the continued volatility we are seeing in the markets. While the exit activity that we saw in our portfolio remained strong during the quarter and through the first half of the year, we are continuing to note that in certain parts of the market, M&A valuations and process timing are less certain. This is something that we will continue to monitor over the coming quarters. Year to date, as of today, we've had 12 M&A events and two IPOs in our portfolio. Based on current market conditions, we continue to expect M&A exit activity to continue at these levels in the second half of 2026. After quarter end, and as of July 27, 2026, we have already had three M&A events close. Venture capital investment activity in Q2 continued to demonstrate robust levels of investing.
+
+Investment activity came in at $143.9 billion for the second quarter, according to data gathered by PitchBook NVCA. The VC market in the first half of 2026 reached unprecedented levels, with $412.7 billion deployed, already exceeding the entire 2025 full year figure by nearly 30%. AI defines the venture landscape, capturing nearly 86% of all first half 2026 deal value. Fundraising for the first half of 2026 totaled $72.4 billion, nearly matching total 2025 levels at $74.9 billion. Capital was heavily concentrated among a few established managers. First half 2026 M&A exit activity remained strong, with exit value at $375.4 billion, compared to $140.8 billion for all of 2025. Consistent with the aggregate data for the ecosystem, during Q2, capital raising across our portfolio reached another all-time high, with 29 companies raising approximately $5.7 billion in new capital during the second quarter. Year to date, as of Q2 2026, our portfolio companies have raised a total of $9.3 billion in new capital, surpassing all of 2025 by a wide margin.
+
+Despite the market volatility year to date, we have not observed a pullback in capital raising across our portfolio. After quarter end, and as of July 27, 2026, we have had another 11 of our portfolio companies raise in excess of $550 million in new capital. We remain confident in the strength and stability of the Hercules platform and our ability to continue to generate strong operating results irrespective. Our Q2 net investment income covered our base distribution by 125%, and our full distribution, including our $0.07 supplemental distribution by 106%. This is our 24th consecutive quarter of being able to provide our shareholders with a supplemental distribution in addition to our regular quarterly base distribution. With the expansion of our platform capabilities over the last several years and our expectation for continued market volatility, we continue to expect a robust new business environment for Hercules in the second half of 2026. Our platform scale, balance sheet, and liquidity allow us to play offense during periods of volatility, which should position us to see a robust pipeline of high-quality companies throughout the remainder of the year. I will now turn the call over to Seth.
+
+
+Seth Meyer
+Thank you, Scott. As Scott just highlighted, Q2 was another strong quarter for Hercules, where we continued to benefit from the scale and diversification of our platform. During the quarter, we expanded our leadership team with the appointment of Andrew as CFO and my transition to the role of President. These changes were designed to best position the company for continued success and growth. I would like to highlight a few specific areas of note that we believe are going to continue to be key drivers of our business over the coming quarters. First, the managed growth and efficient scaling of our business. Hercules Capital currently has approximately 120 full-time employees. We have nearly 60 dedicated employees on our investment team, where the average industry experience across the senior level is over 18 years.
+
+Our investment team is split based on sector and domain expertise, which allows us to operate in two differentiated and complementary verticals, life science and technology. Since inception over 21 years ago, the Hercules platform has now committed more than $28 billion of capital to over 700 different companies, and we have had over 290 M&A and IPO events across our portfolio. The vast majority of our originations are true proprietary originations that our investment teams source and originate through our deep and longstanding industry relationships. These relationships allow us to provide flexible capital to leading-edge companies and take advantage of market disruption when others experience structural headwinds. As of June 30th, 2026, the Hercules platform manages $6.1 billion of AUM at an annualized operating cost ratio of approximately 2%, which compares exceptionally well to our externally managed BDC peer group, who charge management and incentive fees. We expect this ratio to continue to improve as we scale our Adviser business and leverage the existing platform efficiencies. We have seen more than a 70-basis-point reduction in our OpEx cost ratio since Q1 2021, when we launched Hercules Adviser, relative to the platform growth of AUM of 134%, or 18% annualized over the roughly five-year period. The efficiencies the Hercules team has accomplished have been mainly driven by leveraging the existing central teams of operations, finance, and legal to scale the business, while also improving efficiency, automation, and access to real-time data by upgrading our technology and tools used to source, evaluate, close, and manage our investments.
+
+We've recently made several technology-related investments that we believe will allow us to continue to efficiently scale our business. These include enhancements and upgrades to our CRM tools, pipeline management, portfolio management, and loan servicing systems. Second is our deliberate and disciplined approach to AI across the organization. Building on the technology investments I just described, we've been putting AI to work in targeted ways for some time. As those use cases have grown, we formalize the oversight around them. Hercules Capital has an internal AI governance committee responsible for firm policy on how AI is used, guidance to employees on permitted use cases, and ongoing review of our applications and the tools that support them. Protecting the data of our platform, our borrowers, and our partners is central to that work. Where we have deployed AI, it is sharpening how our teams analyze information and produce work product across the portfolio and the organization, with a person reviewing every output.
+
+It is worth noting what it does not do. It does not underwrite our investments. It does not make our decisions of whether to invest. That judgment is ours and it remains ours. Many of our portfolio companies are pursuing the same opportunity. We're pleased to be capturing it with the same discipline we bring to everything else on this platform. As a final point to share today, I would like to highlight certain aspects of our wholly owned private credit fund business and the benefit that it continues to bring to HTGC. Hercules Adviser has been instrumental in our recent success and ability to continue scaling the platform.
+
+As mentioned previously, our investment adviser subsidiary manages exclusive funds with predetermined long-term or evergreen investment periods. No retail investors, no non-traded BDCs, no near-term redemption risk. Hercules Adviser is now managing multiple private funds with nearly $2 billion in committed debt and equity capital. To date, Hercules Adviser has provided over $78.6 million in cumulative cash flows to the public BDC in the form of expense-sharing reimbursement and dividends. In 2025 alone, Hercules Adviser provided over $23.4 million in direct benefit to the BDC. Through the first half of 2026, the number was $13.7 million. This provides HTGC with a consistent and reoccurring stream of income that is unrelated to the net investment income that we generate on our BDC investments. We believe that Hercules Adviser will continue to be a key differentiator to our business and a key contributor to our operating performance.
+
+I will now turn over the call to Andrew, who will share the key financial information.
+
+Andrew Olson
+Thank you, Seth. Good afternoon, ladies and gentlemen. Q2 was another exceptional quarter for Hercules Capital, building on the record-setting momentum established over the past several quarters and establishing new high water marks to begin the first half of the year. We delivered record total investment income and record debt investment income during the quarter, driven in part by year-to-date net debt investment portfolio growth of $127.8 million, and elevated revenue on unscheduled early principal repayments of $572.1 million during the quarter. Robust portfolio originations and elevated portfolio prepayment activity in Q2 provided for strong top-line financial results while maintaining a prudent leverage profile, conservative balance sheet, and ample liquidity. After quarter end, we further strengthened our liquidity position by issuing $325 million of institutional 6.3% unsecured notes, which will be used to repay upcoming secured and unsecured indebtedness, fund originations, and other general corporate purposes. Lastly, solid contributions from both the BDC and our wholly owned RIA managed private credit fund business continues to provide us with significant capital flexibility and investment capacity. Hercules Adviser delivered another quarterly dividend of $2.1 million to HTGC, which when combined with the expense reimbursement of $4.9 million, resulted in $7 million in NII contribution to the BDC for the quarter, a 26% increase from a year ago.
+
+All in all, it was another exceptional quarter for the Hercules platform. With that as a backdrop, let me take you through the results in greater detail across four key areas. The income statement, changes in net asset value, leverage and liquidity, and finally, our financial outlook. Beginning with the income statement, total investment income in Q2 was a record $149.1 million, an increase of 5.4% quarter-over-quarter and 8.5% year-over-year, supported by first half net portfolio growth and elevated prepayment-related revenue. Core investment income, a non-GAAP measure which excludes the benefit of accelerated prepayment revenue, was $134.4 million, generally consistent with the record $134.9 million in Q1, but up 7.8% on a year-over-year basis. Net investment income was a record $92.9 million or $0.50 per share in Q2, an increase of 5.5% quarter-over-quarter and 4.7% year-over-year, resulting in 125% coverage of our quarterly base shareholder distribution. Our effective and core yields were 13.4% and 12% respectively, compared to 12.8% and 12.2% in the prior quarter. The increase in effective yield was driven by the elevated level of prepayment-related revenue during the quarter.
+
+Core yields for the quarter were in line with expectations and are anticipated to normalize as the portfolio rebalances the record net originations and payoff activity. As of quarter end, approximately 75% of our prime-based loans were at the contractual floor, and thus the impact of any future rate reductions will continue to be muted. Second quarter gross operating expenses were $61.1 million, compared to $58.1 million in the prior quarter. Net of cost recharges to the RIA, our net operating expenses were $56.2 million. The increase in operating expenses were largely driven by increased variable compensation tied to record originations, as well as higher excise tax reserves on increased investment income. Interest expense and fees were relatively stable at $31.1 million, compared to $30.8 million in Q1. Our weighted average cost of debt increased modestly to 5.2% on the growth of the investment portfolio year to date. SG&A increased to $30 million, aligned with continued growth of the business, with increases predominantly tied to variable originator compensation and excise tax expense.
+
+Net of cost to SG&A expenses were $25.1 million. Our ROAE or NII over average assets or average equity was 16.8% for the second quarter compared to 16.9% in Q1. Our ROAA or NII over average total assets increased to 8.3% compared to 8.1% in Q1. Now switching to focus on net asset value, unrealized and realized activity. During the quarter, our NAV per share increased by $0.25 to $12.15 per share, or up 2.1% quarter-over-quarter on net realized and unrealized appreciation of investments. This reflecting a reversal or normalization of the broad-based market volatility we experienced in the first quarter. Our $29.6 million of net unrealized appreciation during the quarter was driven by approximately $16.3 million of appreciation on publicly and privately held equity and investment funds, $13.4 million on debt investments, and $10.7 million on warrants. That was partially offset by approximately $10.8 million of reversals due to realizations and FX activity.
+
+Hercules had net realized gains of $7.7 million in Q2, comprised of gross realized gains of $8.8 million on equity investments. Partially offset by $1.1 million of losses on legacy warrant and equity investments. Moving on to leverage and liquidity. While delivering on record new originations, we maintained a conservative and liquid balance sheet. GAAP and regulatory leverage decreased to 103.9% and 88.5%, respectively, compared to 115.4% and 99.7% in the prior quarter. Netting out leverage with cash on balance sheet, our GAAP and regulatory leverage were 101.8% and 86.4%, respectively. We ended the quarter with $652.9 million of available liquidity in the BDC. Inclusive of capital raised by funds managed by our RIA, the Hercules platform had more than $1 billion of available liquidity as of quarter end.
+
+As previously mentioned, subsequent to quarter close, Hercules Capital issued $325 million of five-year institutional unsecured notes due in 2031. We did not utilize the ATM during the quarter, consistent with the reduced need for record level of prepayment activity and the resulting improvement in our leverage position. Our intent is to remain disciplined and thoughtful about how and when we use the ATM, given our long-term focus on maximizing shareholder value and the numerous non-dilutive capital sources that we have access to. Overall, the current market volatility has created a very favorable capital deployment environment for Hercules, and we want to ensure that we are well-positioned to opportunistically take advantage of that for the long-term benefit of our shareholders and stakeholders. We will continue to maintain a nimble capital structure, allowing us to compete aggressively on quality transactions, which we believe is prudent in the current environment. Finally, let's address our outlook. For the third quarter, we expect our core yield to be in the range of 11.8%-12%, reflecting the continued but increasingly muted impact of the 2025 rate reductions and the current portfolio turnover. As a reminder, 98% of our debt portfolio is floating with a floor, and today, approximately 75% of our prime-based loans is at the contractual floor.
+
+Although very difficult to predict, following the record $572 million of prepayment activity in the second quarter, we expect prepayment activity to normalize to a range of $200 million-$300 million in the third quarter. We expect our third quarter interest expense to be broadly stable or up slightly compared to the second quarter, reflecting the benefit of our reduced leverage following the record level of prepayment activity, partially offset by any incremental funding of new originations. For the third quarter, we expect gross SG&A expenses of $25 million-$26 million and the RIA expense allocation of approximately $4.7 million. Finally, we expect a quarterly dividend from the RIA of approximately two to two and a half million per quarter. In closing, Hercules delivered another strong quarter in Q2 2026, marked by record total investment income and net investment income alongside meaningful reduction in leverage driven by portfolio repayment activity. Our balance sheet, liquidity position, and credit discipline continues to position us well, scale our platform, and capitalize on opportunities throughout the remainder of the year. I will now turn the call over to the operator to begin the Q&A part of the call. Leo, over to you.
+
+
+Operator
+We will take our first question from Crispin Love with Piper Sandler. Please go ahead. Your line is now open.
+
+Crispin Love
+Thank you. Good afternoon, everyone. First, can you discuss the deployment backdrop? Appetite for venture debt seems to be very strong, based on your comments. Just curious on the outlook going forward there. Then just relatedly, looking at the third quarter, would you expect a seasonal slowdown in the third quarter for deployment, especially in August, just given the seasonal factors?
+
+Seth Meyer
+Yeah. Thanks, Crispin. I would just reiterate what I said in the prepared remarks. We do expect Q3, as it typically is, to be seasonally lower than our other quarters in terms of capital deployment. Having said that, we still expect a pretty robust Q3 in terms of new originations. We have just seen over 21 years that Q3 is typically sort of the low point on a quarterly basis, and we expect that to generally be consistent this year. From a broader perspective, the market right now is very robust. Our team is evaluating, looking at screening a record number of companies
+
+
+Scott Bluestein
+Our pipeline is as strong as I can recall seeing it. I would say that there's a mixture, however, of quality within the pipeline, and our teams are laser-focused right now on making sure we are funding only the deals that we think meet the quality that we're looking for from a new business perspective.
+
+Crispin Love
+All right, great. Thank you. I appreciate the added color there. Just on the prepayments in the quarter, you called out M&A, which makes sense. On the balance sheet cash as driver, was that cash from recent equity rounds or just idle cash on the balance sheet? Just curious on the reasoning from the borrower's perspective to pay down some of those loans.
+
+Scott Bluestein
+Sure. Of all of our prepayments in Q2 came from a combination of either M&A or balance sheet cash. The vast majority of the ones that came from balance sheet cash were directly attributable to companies that raised new rounds of equity financing and just chose to retire the debt as a result of those capital raises.
+
+Crispin Love
+Great. Thank you. That's helpful. That's it for me.
+
+Operator
+Thank you. We'll now move on to Finian O'Shea with Wells Fargo Securities. Please go ahead.
+
+Finian O'Shea
+Hey, everyone. Good afternoon. I'm seeing if you could expand on the next phase for growth, the growth plans, how it will look, I guess, for one, versus your historical pace, but also the nature of it. Will it be more like you spend more to build out origination into new parts of the field, or is it more growing the RIA and keep building on the SG&A ratio that Seth mentioned?
+
+Scott Bluestein
+Sure. Then Seth can jump in to the extent that he has some perspective as well. I think the growth from Hercules will come from both the BDC and our private credit funds business. As everyone on the call knows, from 2004 through 2020, the totality of our business was done out of HTGC. In 2021, we launched Hercules Adviser. As we made reference to in the prepared remarks, Hercules Adviser is now managing approximately $2 billion of committed equity and debt capital. That is actually growing right now at a faster pace than the public BDC. Our expectation is that we will continue to be able to grow both of those legs of the stool to the overall Hercules platform.
+
+The other, I think, key thing in terms of how we're thinking about growth is we're not going to have strategy drift. We know what we're good at, and we're going to stick to what we're good at. We do think that there's a lot of growth opportunity for us within the part of the market that we have specialized in for the last 21, 22 years. Our teams are looking aggressively at some new product initiatives. We are looking aggressively at some new geographies that we think are interesting. The expanded platform capabilities that we have now allow us to stay with these companies for longer periods of time. 10 years ago, prior to us having Hercules Adviser, when these companies got to a certain point from a scale, from a maturity perspective, they would generally refinance us out with larger structured facilities. We now have the capabilities to stay with these companies longer, which is why you're seeing more of our commitments, more of our fundings go to our portfolio companies, which we think is a key differentiator of our business.
+
+Seth.
+
+Seth Meyer
+Yeah, I think you covered the growth very well, Scott, I'll leave that as is. I would say that our objective is to really do that while continuing to utilize the resources that we already have by being more efficient in the use of those resources, by adding more tools and technology to that equation, making sure that that scaling continues up.
+
+Finian O'Shea
+All right. Thanks. Appreciate that. For follow-up on the portfolio grades, a little bit of a bump in the Grade 3. I think you measure that on the sort of equity funding liquidity timeline. Can you hit on how maybe stressful that is, perhaps, and private equity sponsor versus VC is found in that category?
+
+Scott Bluestein
+Sure. Really not any material movement in either direction. If you look quarter-over-quarter, the Rated 3 bucket went up about $130 million, pretty immaterial on a $4.5 billion investment portfolio. We generally move loans down to a Rated 3 category if one of two conditions exist. First, if we start to see some underperformance relative to original expectations, not material underperformance. Secondly, company could be performing in line with expectations, if they are in the market or approaching an equity capital raise, we proactively downgrade it to a 3. The majority of the downgrades in Q2 were the latter category. Companies that we know are now in the market looking to raise equity capital, we proactively move them down, and then once the capital raises are complete, we would expect those companies, barring performance continues to remain solid, to move back up into the Rated 2 category.
+
+I think the key thing that we always speak to with respect to weighted average credit rating is the percentage of the portfolio in the Rated 4 and Rated 5 bucket. Historically, that number has been somewhere between 1% and 5%. As of the end of Q2, it's less than 2% of the portfolio, which is consistent with where it was for the entirety of 2025, including Q4 of 2025. It's up slightly from where it was in Q1, as I referenced in my prepared remarks, the one new loan that went on non-accrual last quarter, which was part of that four or five bucket, was resolved at the end of the quarter. The result of that was a positive IRR on the investment realized, and about a million-dollar recovery above and beyond our Q2 fair value mark.
+
+Finian O'Shea
+Awesome. Very helpful. Thank you.
+
+Scott Bluestein
+Thanks, Ben.
+
+Operator
+Thank you. We'll move on now to Chris Muller with Citizens JMP Securities. Please go ahead. Your line is now open.
+
+Chris Muller
+Hey, guys. Nice to be on with you today, and congrats on a really strong quarter here. I just wanted to ask a high-level question. AI has been the hot area of tech recently, and at 86% of deal flow, I think you guys said that explains why. You guys have a unique insight into a broad swath of emerging tech here. I guess, is there anything outside of AI that maybe has gone a little bit under the radar that you guys are interested or looking at going forward?
+
+Scott Bluestein
+Yeah. The answer is absolutely yes. We tend not to speak to those things in the public forum because obviously we don't want others to follow us from an industry and sector perspective. What I would say, though, is maybe a couple of high-level comments. The venture capital investment activity numbers for the first half of this year are incredibly impressive. Right? $412 billion of VC investment activity through the first two quarters of the year. We did note that 86% of that is going into AI-specific investments.
+
+Having said that, if you look at the 14% that's not going into AI, that number is still incredibly healthy and incredibly robust relative to historical periods. We look at the aggregate data, which is strong. We obviously are somewhat concentrated in AI, but we are also very excited about the fact that the non-AI investments are also approaching record levels, which gives us confidence and conviction. I think if you look at our SOI, you will see some very specific targeted sector activity on both the life sciences side and on the technology side, which will give you an indication of where we're seeing some very attractive opportunities that are benefiting from what's happening in the ecosystem from an AI perspective, but don't have the same risk with a pure play AI investment. I would just conclude, Chris, that the key for us from an asset perspective is diversification. We do not want to have a portfolio on the asset side that is highly concentrated in any particular area. We're currently managing the business to be equally focused with 50/50 target allocation between tech and life sciences. Within each of those two verticals, there's significant sector level or sub-sector level diversification as well.
+
+
+Chris Muller
+Got it. That's very helpful, definitely not asking you guys to give away the secret sauce here. I guess quick follow-up is your comments on the quality of the pipeline. Is that maybe choppiness, if that's the right word? Is that concentrated in AI or is that more broadly across the board?
+
+Scott Bluestein
+No, look, the pipeline is very robust. Our teams have never been busier in terms of the number of deals we're looking at and screening and evaluating. I think our observation is that there's just a larger number of companies right now that are in the market that are looking to raise debt capital that we don't think meet the type of quality new underwritings that we're looking for. The pipeline is robust, it's strong. The number of companies we're screening are at record levels, there's definitely an increased level of companies that we think are going to have trouble raising debt capital.
+
+Chris Muller
+Got it. Very helpful, thanks for the questions again.
+
+Scott Bluestein
+Sure.
+
+Operator
+Thank you. We'll move on now to Point. Your line is now open.
+
+Speaker 8
+Hi. Thank you. Question on core yields. If you could give us some color on incremental core yields on incremental originations and whether that is an output or a function of your view or your disciplined approach, or is it perhaps related to other factors, market factors?
+
+Scott Bluestein
+Sure. I'll touch on it and then Andrew can add some color if he has some perspective on it. Core yields in Q2 were 12%. That was largely consistent with our public guidance from the Q1 call. The vast majority of that degradation between Q1 and Q2, where it went from 12.2% to 12%, just came from the first full quarter impact from the December rate cut. We did give some guidance in Andrew's prepared remarks that we expect core yields to be in the range of 11.8%-12% in Q3. Nearly 100% of that is just coming from the portfolio mix shifting. The payoffs that we experienced in Q2, which was $550 million+, were largely at higher yielding vintages.
+
+There's been no change in terms of underwriting and onboarding yields, but you're just replacing some higher yielding legacy assets with some newer assets that are in our target range.
+
+Andrew Olson
+Yeah. The only thing I would add is a lot of it is just the portfolio churn. We've had record originations, record prepayments. I think the good thing to note there is generally, when we originate an asset, we're starting at the interest rate floor. We maintain upside on the investments with some downside protection as we're originating new assets. We generally think yields have been in line with expectations, and we kind of expect them to moderate. We do think that there's potential upside as we look on a go-forward basis.
+
+Speaker 8
+Okay. Thank you. It's helpful. One more on prepayment activity. The 60%, I think we've touched on already. The 40%, I'm assuming that's refinanced away. Maybe could you talk about it just a second, historically, how has that mix looked? Maybe as we think about the second half of this year, is that a consistent mix going forward as we're trying to think about prepayment activity?
+
+
+Scott Bluestein
+Yeah. The 60% that came from M&A and balance sheet cash is actually high. Typically, the majority of our refinancings in a particular quarter will come from either bank or non-bank refinancings. In this quarter, where the numbers were higher than normal on the prepayment side, the majority came from M&A and balance sheet cash, which for us is a signal of portfolio strength, which is something that obviously gives us confidence. The 40% was actually on a percentage basis lower than we typically see. A nearly even split, to the best of my recollection, between bank and non-bank refinancings, I think nothing particular of note in those numbers that I would highlight otherwise.
+
+Speaker 8
+Okay. Thanks a lot.
+
+Operator
+Thank you. We'll move on now to Christopher Nolan with Ladenburg Thalmann. Your line is now open. Please go ahead.
+
+Christopher Nolan
+Hey, Scott. On comments about increased competition from banks, I would think that the banks have to allocate more capital against loans to ventured companies. Are the banks sort of competing with the cash management business the same way that Silicon Valley Bank used to gain yields?
+
+Scott Bluestein
+Look, I can't speak to what the banks are thinking internally. I'll just tell you that we've definitely observed over the last quarter or so that the banks pretty broadly are being very aggressive in new originations. I think what we would note is that we've seen that in the past, it's not a surprise. What we've always seen is that the banks will come and go. There will be some regulatory pressure, there will be some market or credit issues, then we'll see the banks pull back. Right now, we're just in a little bit of an environment where the banks are across the board being very aggressive. A lot of that could have to do with the fact that a lot of these companies are raising record levels of new equity, and obviously those deposits are meaningful for the banks. There could be some correlation with that.
+
+Our expectation is that that aggressiveness doesn't last long term.
+
+Christopher Nolan
+Great. As a follow-up for Seth, by the way, congrats on the debt to pricing stuff, and congrats, Andrew, again. Your comments on AI, what are you doing to make sure that you're not training the AI model in proprietary Hercules processes or giving away confidential client information? How are you avoiding that?
+
+Seth Meyer
+Yeah, that's a good question. Thanks, Chris. Yeah, we're making sure that we're applying the right governance and control around that, meaning we're very specific on what we allow to go into the AI machine. We're very specific on where we let that data reside. So we have very careful controls. I know that we can't be 1,000% sure of every instance of utilization, which is why we have limits on what we're allowing people to put into there. We're making sure that our proprietary information, that of our borrowers, is not going into an environment that can be used by anyone else, that can be learned by the AI tool. So we have careful controls around that.
+
+
+Christopher Nolan
+Okay. Thank you. That's it for me.
+
+Operator
+Thank you. We'll now move on to John Hecht with Jefferies. Please go ahead. Your line is open.
+
+John Hecht
+Hey, guys. Afternoon. Thanks for taking my questions. First one is, you touched on the competitive environment. Clearly you're continuing to take share, but maybe at the unit level, like loan-to-value and spreads and other terms, how is that trending?
+
+Scott Bluestein
+Yeah. No real change, John, quarter-over-quarter. Still targeting LTVs to be sub 20%, still targeting debt-to-equity ratios to be sub 30%, and spreads largely in line with our previous guidance, and that gives us confidence in that range that Andrew spoke to from a core yield perspective of roughly 11.8%-12% for the portfolio in Q3.
+
+John Hecht
+All right. As you look at your pipeline, any shifts in your focuses on sub-sectors that's, I guess, worthy of calling out?
+
+Scott Bluestein
+The answer is definitely yes. Again, I'm a little bit hesitant to speak to kind of specific focal points or avoidance areas for us in the market. There are definitely a handful of sectors right now that we are very bullish on, and our teams are aggressively trying to deploy capital in those areas. There's a handful of sectors that we think are going to have some headwinds here that we're avoiding. We evaluate our portfolio diversification and our mix on a quarterly basis. We sit down with our teams. We talk through what we're seeing, what we're hearing from our portfolio companies. One of the benefits of having a $6 billion asset base and investments in 136 different companies is that we get a lot of market data and information.
+
+We try to utilize the information we're getting from our CFOs and our CEOs and our chief medical officers and our chief technology officers. We use that sort of in the internal discussions to help us frame where we want to target investment activity. As you would expect us to do, we're doing that on a real-time basis every quarter.
+
+John Hecht
+Perfect. Thanks very much.
+
+Operator
+Thank you. We'll move on now to Melissa Weddle with UBS. Your line is open.
+
+Melissa Weddle
+Good afternoon. Thanks for taking my questions today. I wanted to revisit the point about portfolio companies being able to raise incredible amounts of capital in this environment. Just want to understand that better and how you're thinking about where that strength is coming from and how sustainable it is going forward.
+
+Scott Bluestein
+Sure. What we're seeing is strength both in terms of dollars and the number of companies. We've been tracking for several years the number of companies in our portfolio that raise capital on a quarterly basis, and then the dollars that they raise. What we like to see is strength in terms of both numbers, so it's not overly concentrated in just a small number of large raises. What we also like to see is a mix and a balance between life sciences and tech, and that's exactly what we saw in Q2. In Q2, we had 29 companies, so that's a substantial percentage of our total debt portfolio, raise new capital, and that number was $5.7 billion, which is the strongest quarter we've experienced since we've been tracking that data. That comes on the heels of the same thing that we saw in Q1, where we had 31 companies raise about $3.6 billion of new capital. We saw a healthy mix in Q2 between technology and life sciences.
+
+If you look at the $5.7 billion that was raised, about 60% of that was in technology companies, and about 40% of that was in life sciences companies.
+
+Melissa Weddle
+Appreciate that. Following on that theme, I would think that there is some tension between an environment where additional equity capital can be raised and the opportunity to also originate more debt on top of that. It sounds like that's not a concern for you. You're expecting particularly strong second half with seasonal matter in 3Q. I'm just trying to sort of square the circle on the tension between equity capital and debt capital, particularly in the venture space. Can you help me understand how you think about that? Appreciate it.
+
+Scott Bluestein
+Sure. We actually don't view it as tension, and I think the data supports our view on this. I noted that capital raising across our portfolio in the first half of the year was at record levels, both in terms of the number of companies and the dollars being raised. I would also point you to the fact that we just announced, for the first half of the year, record commitments of $2.74 billion and record fundings of $1.35 billion. In terms of why that's the case, I would sort of speak to the fact that growth stage lending or venture debt is not designed to replace equity capital, it's designed to supplement equity capital. When it's done right and when it's done in a disciplined manner, when we see a lot of equity capital activity, we generally see that correlate with higher funding and commitment activity on the Hercules portfolio side of things.
+
+Melissa Weddle
+I appreciate you taking my questions.
+
+Scott Bluestein
+Sure. Thanks, Melissa.
+
+Operator
+Thank you. We'll move on now to Paul Johnson with KBW. Your line is now open. Please go ahead.
+
+Paul Johnson
+Yeah. Thanks. Good evening. Thanks for taking my questions. Most of them have been asked. I'm just assuming with the more moderated level of prepayment sort of activity that you guided to next quarter, but still it seems like a relatively robust investment environment, that we probably should still expect to see some moderation in the level of prepayment income next quarter. Or is there a lot of sight or anything that would potentially kind of offset some of the declines, normalization in prepayment levels within the portfolio?
+
+Andrew Olson
+Yeah. Thanks, Paul. This is Andrew here. I can take it. I think overall, yeah, we would expect that prepayment income to moderate kind of more to what I would say historical averages as we move into Q3. Q3 will be kind of a quieter period from just given the historical kind of downtrend.
+
+Scott Bluestein
+Our guidance, Paul-
+
+Paul Johnson
+And-
+
+Scott Bluestein
+Our guidance for Q3 prepayments is $200 million-$300 million. That's based on everything that we know as of today, that's roughly half of what it was in Q2.
+
+Paul Johnson
+Got it. In terms of the capital structure, you said you'd like to continue to kind of maintain a nimble capital structure of secured bond offerings this year. Should we expect you guys to continue to just kind of be in the market as you have been here recently or with the most recent issuance here? Do you expect that to potentially take a, I guess, more of a breather into next year as you start to address some of the other near-term maturities?
+
+Andrew Olson
+Yeah, I think you'd expect us to be opportunistic. To the extent we see opportunities where we can find attractive pricing in the market, we would be active. Although we have sufficient liquidity to kind of manage through any shorter or midterm timeframe that we need to. Yeah, we would expect to be in the market when it makes sense and is attractive on a broad basis.
+
+Paul Johnson
+That's it. Thanks. That's all for me.
+
+Operator
+Thank you. I'm showing no further questions. I would now like to turn the call back to Scott Bluestein for any closing remarks.
+
+Scott Bluestein
+Thank you, Leo, and thanks to everyone for joining our call today. We look forward to reporting our progress on our Q3 2026 earnings call. Our scale, institutionalized lending platform, and our ability to capitalize on a rapidly changing competitive and macro environment continues to drive our business forward and our operating performance to record levels. Our continued success is attributable to the tremendous dedication, efforts, and capabilities of our 120 employees and the trust that our venture capital and private equity partners place with us every day. We're thankful to the many companies, management teams, and investors that continue to make Hercules their partner of choice. Thank you, and have a great rest of the day.
+
+Operator
+This does conclude today's Hercules Capital second quarter 2026 financial results conference call. You may now disconnect your line, and have a wonderful day.

@@ -1,0 +1,51 @@
+{
+  "ticker": "AAPL",
+  "quarter": "Q2 2026",
+  "company": "Apple Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 109417.0,
+    "gross_profit_m": 54770.0,
+    "operating_income_m": 35695.0,
+    "net_income_m": 29789.0,
+    "eps": 2.03,
+    "total_equity_m": 107520.0,
+    "total_assets_m": 383266.0,
+    "cash_and_equivalents_m": 39544.0,
+    "shares_outstanding_m": 14687.36,
+    "free_cash_flow_m": 31914.0,
+    "operating_cash_flow_m": 34369.0,
+    "capital_expenditure_m": -2455.0,
+    "bvps": 7.32
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C+",
+    "dim5_grade": "B",
+    "composite_score": 2.74,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "services_demand": "Services revenue reached an all-time high of $31 billion, up 16% year over year... both transacting and paid accounts reached new all-time highs in the quarter.",
+      "capex_direction": "R&D in particular has scaled rather significantly year over year... from the start we have believed AI is a really important investment area for Apple Inc., and we are going to be doing that incrementally on top of what we normally invest in our product roadmap.",
+      "pricing_power": "We will look at a range of options with memory costs increasing... we expect significantly higher memory costs [in June]\u2014neither confirming price increases nor ruling them out, suggesting constrained but not collapsed pricing power.",
+      "management_tone_shift": "The first half of this year was very strong, growing double digits year over year... we set March revenue records and grew double digits in every geographic segment\u2014tone consistent with prior quarters, no incremental alarm or retreat."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

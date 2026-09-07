@@ -30,5 +30,23 @@
       "management_tone_shift": "We now expect adjusted net revenue of approximately $3.375 billion, above our prior guidance of $3.235 billion to $3.310 billion... we remain even more confident in the aggregate outlook of 25% or more compounded annual revenue growth."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 854.9,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": 97.3,
+    "eps": 0.09,
+    "total_equity_m": 6860.6,
+    "total_assets_m": 41112.2,
+    "cash_and_equivalents_m": 2122.5,
+    "shares_outstanding_m": 1113.44,
+    "free_cash_flow_m": -1532.9,
+    "operating_cash_flow_m": -1466.9,
+    "capital_expenditure_m": -66.0,
+    "bvps": 6.16
+  },
+  "flags": []
 }

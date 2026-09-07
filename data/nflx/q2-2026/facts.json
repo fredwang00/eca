@@ -1,0 +1,51 @@
+{
+  "ticker": "NFLX",
+  "quarter": "Q2 2026",
+  "company": "Netflix, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 12559.9,
+    "gross_profit_m": 6523.0,
+    "operating_income_m": 4192.6,
+    "net_income_m": 3401.4,
+    "eps": 0.81,
+    "total_equity_m": 30152.1,
+    "total_assets_m": 58450.4,
+    "cash_and_equivalents_m": 9099.2,
+    "shares_outstanding_m": 4163.94,
+    "free_cash_flow_m": 1525.2,
+    "operating_cash_flow_m": 1743.8,
+    "capital_expenditure_m": -218.6,
+    "bvps": 7.24
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "A-",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A-",
+    "composite_score": 3.12,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "services_demand": "View hours grew 2% in the first half of 26, an incremental 1.5 billion hours relative to the same period last year, a slight acceleration compared to 1.5% growth in 2025.",
+      "capex_direction": "Forecasting content expense up about 10% this year, a little higher than the 8% we averaged over the last 5 years, within a roughly $20 billion cash content framework.",
+      "pricing_power": "Our first half price changes in markets like US, Mexico, Spain have gone well. The results are consistent with prior price changes. We are not seeing any real changes in that performance.",
+      "management_tone_shift": "We are tracking to our financial plan for 2026. We expect to deliver another strong year with 13 to 14% top line growth for the full year \u2014 consistent with guidance provided last quarter."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

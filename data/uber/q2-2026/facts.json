@@ -1,0 +1,51 @@
+{
+  "ticker": "UBER",
+  "quarter": "Q2 2026",
+  "company": "Uber Technologies, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 14191.0,
+    "gross_profit_m": 6376.0,
+    "operating_income_m": 1890.0,
+    "net_income_m": 2394.0,
+    "eps": 1.18,
+    "total_equity_m": 27316.0,
+    "total_assets_m": 65801.0,
+    "cash_and_equivalents_m": 4870.0,
+    "shares_outstanding_m": 2039.99,
+    "free_cash_flow_m": 2792.0,
+    "operating_cash_flow_m": 2862.0,
+    "capital_expenditure_m": -70.0,
+    "bvps": 13.39
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B+",
+    "dim3_grade": "B-",
+    "dim4_grade": "B",
+    "dim5_grade": "B+",
+    "composite_score": 3.075,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Gross bookings grew 22% year-over-year to more than $58 billion, above the high end of our guidance and marking our fourth consecutive quarter above 20% growth.",
+      "capex_direction": "We talked about 120,000 vehicle commitments that we are looking to deliver over the next few years... we are looking at up to $10 billion of multiyear AV investment.",
+      "pricing_power": "There are deliberate investments... largely a function of some investments in our lower-cost offerings; mobility operating income margin remains very strong at 7.6%.",
+      "management_tone_shift": "We continue to hold our expectation for the remainder of the year [for U.S. mobility acceleration]; trailing 12-month free cash flow exceeding $10 billion for the first time in our history."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

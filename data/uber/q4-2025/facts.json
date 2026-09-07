@@ -29,5 +29,23 @@
       "management_tone_shift": "We started 2026 with a ton of momentum... we can do both. We can invest appropriately as it relates to growth. And then at the same time, we are going to continue reducing the share count because ultimately, all of us are shareholders, and we think right now the opportunity to buy back shares is pretty awesome."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 14366.0,
+    "gross_profit_m": 5685.0,
+    "operating_income_m": 1774.0,
+    "net_income_m": 296.0,
+    "eps": 0.14,
+    "total_equity_m": 27041.0,
+    "total_assets_m": 61802.0,
+    "cash_and_equivalents_m": 7105.0,
+    "shares_outstanding_m": 2067.91,
+    "free_cash_flow_m": 2808.0,
+    "operating_cash_flow_m": 2883.0,
+    "capital_expenditure_m": -75.0,
+    "bvps": 13.08
+  },
+  "flags": []
 }

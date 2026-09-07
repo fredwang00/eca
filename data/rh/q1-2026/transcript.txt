@@ -1,0 +1,386 @@
+June 11th, 2026
+Summary
+Earnings Call Date:
+Jun 11, 2026
+Change Since:
+-7.11%
+Next Earnings Date:
+Sep 10, 2026
+Earnings Call Sentiment
+Neutral
+The call mixed a clear operating beat and an upgraded FY26 outlook with an ambitious strategic push (RH Estates and major European galleries) and a concrete plan to convert backorders and drive H2 acceleration. However, material near-term margin headwinds from international preopening/start-up costs (hundreds of basis points), elevated backorders (~$75M), post‑COVID capital cost inflation, and macro weakness temper the optimism. Management emphasized long-term upside (IP, unique product assortment, trade program, and deleveraging actions) while acknowledging short-term execution and cost pressures.
+
+Company Guidance
+RH reported Q1 FY26 revenue of $800.3 million and adjusted EBITDA margin of 7.1% (above the high end of expectations) and raised its FY26 outlook to revenue growth of +4.5%–8%, adjusted EBITDA margin of 14.2%–16% and adjusted free cash flow of $300–$400 million (the full‑year outlook includes an estimated -270 basis‑point EBITDA drag from international pre‑opening/start‑up costs). Q2 guidance is revenue growth of +0.5%–2.5% and adjusted EBITDA margin of 11.5%–13% (including an approximate -380 bps pre‑opening/start‑up impact). Management noted backorder/special‑order balances are roughly $75 million higher year over year, expects a 4.5‑percentage‑point H2 benefit from backlog reduction plus 2.5 ppts from new‑store growth and 5 ppts from RH Estates (supporting a move from roughly flat H1 to +12% in H2), guidance does not assume any further tariff refunds, and the company targets ~$200–$250 million of asset sales per year and a goal of being debt‑free by 2029.
+
+
+Highlights
+
+Lowlights
+Q1 Revenue and EBITDA Beat
+Reported first quarter revenue of $800.3 million and adjusted EBITDA margin of 7.1%, both exceeding the high end of company expectations.
+
+Raised Fiscal Year 2026 Outlook
+Management raised FY26 guidance to revenue growth of 4.5%–8.0%, adjusted EBITDA margin of 14.2%–16.0%, and adjusted free cash flow of $300M–$400M (note: guidance includes estimated headwind from international preopening/start-up costs).
+
+RH Estates Launch and International Expansion
+Announced RH Estates (bespoke furniture and RH Couture upholstery) and openings in Madrid and Milan with London upcoming; management expects Estates to contribute ~500 basis points (~$100M) to the back half of the year and to materially expand addressable luxury market share.
+
+Concrete Bridge to Second-Half Acceleration
+Management outlined a three-part plan to accelerate from flat H1 to ~+12% H2: backlog reduction (~4.5 percentage points), new store growth (~2.5 points), and new-concept (Estates) growth (~5 points).
+
+Intellectual Property and Exclusive Assortment
+Company disclosed patent pendings and claimed 65%–80% of the Estates book is protected; acquisitions (e.g., Dmitriy & Co., Joseph Jeup) and exclusive sourcing position RH with unique high-end assortments not broadly available at retail.
+
+Balance Sheet and Deleveraging Plan
+Management reiterated priority to reduce debt (targeting being debt-free by 2029), plans for asset monetization with expected asset sales roughly $200M–$250M per year over next two years, and completed transactions gaining 100% control of 8 Aspen properties to accelerate monetization.
+
+Operator
+Hello and welcome to the RH First Quarter Fiscal 26 Earnings Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question and answer session. If you would like to ask a question during this time, please press star then the number 1 on your telephone keypad. I would now like to turn the conference over to Allison Malkin of ICR. Alison, please go ahead.
+
+Allison Malkin
+Thank you. Good afternoon, everyone. Thank you for joining us for our first quarter fiscal 26 earnings call. Joining me today are Gary G. Friedman, Chairman and Chief Executive Officer and Jack Preston, Chief Financial Officer. Before we start, I would like to remind you of our legal disclaimer. That we will make certain statements today that are forward looking within the meaning of the federal securities laws including statements about our outlook for the business and other matters referenced in our press release issued today. These forward looking statements involve a number of risks, and uncertainties that could cause actual results to differ materially.
+
+Please refer to our SEC filings as well as our press release issued today. For a more detailed description of the risk factors that may affect our results. Please also note that these forward looking statements reflect our opinion only as of the date of this call. And we undertake no obligation to revise or publicly release results of any revision to these forward looking statements in light of new information or future events. Also, during this call, we may discuss non GAAP financial measures, which adjust our GAAP results to eliminate the impact of certain items. you will find additional information regarding these non GAAP financial measures and a reconciliation of these non-GAAP to GAAP measures in today's financial results press release. A live webcast of this call is also available on the Investor Relations section of our website at ir.rh.com. And now I would like to turn the call over to Gary.
+
+
+Gary G. Friedman
+Thank you, Allison. Hello, everyone. Let me start with a reading of our letter. To our people, partners, and shareholders. First quarter revenues of $800.3 million and adjusted EBITDA of 7.1% exceeded the high end of our expectations in the first quarter despite backorder and special order balances approximately $75 million higher than a year ago. Primarily due to tariff related resourcing. As a result of our better than expected first quarter results, we are raising our outlook for fiscal year 26 and providing the following outlook for the second quarter. Fiscal year 26 outlook.
+
+Revenue growth, of 4.5 to 8% adjusted EBITDA margin of 14.2 to 16%, adjusted free cash flow of $300 million to $400 million The above outlook includes an approximate negative 270-basis-point adjusted EBITDA margin impact from preopening and start up costs to support our international expansion. Second quarter 26 outlook. Revenue growth of 0.5% to 2.5%, adjusted EBITDA margin of 11.5% to 13%, The above outlook includes an approximate negative 380-basis-point adjusted EBITDA margin impact from preopening and start up costs to support our international expansion. The bridge from here to there, How many may ask? In an economic environment like the 1 we are navigating through, do you get from your half 1 numbers to your half 2 numbers necessary to make the year? There are 3 parts that form the proverbial bridge to the other side. Supporting the case for our business to accelerate from flat in half 1 to up 12% in half 2 as we have done many times before. We have listed them below.
+
+We plan a backlog reduction, that is worth 4.5 percentage-points in the second half. New store growth of 2.5 percentage-points, and new concept growth of 5 points for our RH Estates. Building the foundation for a global luxury brand similar to structures that stand the test of time. Those rewarded with historical recognition and reverence Luxury brands are designed and built in the same fashion on incredibly strong foundations. Both endeavors are considered hard and, in many cases, impossible. They always require more time and capital and are generally built by unrelenting and unrelatable individuals and teams. you have heard us talk over the years about climbing the luxury mountain. How it is not for the faint of heart.
+
+As the higher you climb, the air gets thin, and the odds become slim. We believe the work we are about to unveil is akin to those difficult last steps and gasping to those vital breaths. We believe the openings of RH Madrid, Milan, and London arguably the 3 most immersive and inspiring brand experiences anywhere in the world. Will form the foundation necessary to earn the respect and recognition of not only the European and UK customer, but a global 1. They communicate a sense of permanence, a brand that has been dedicated to crafting their skills over decades. The last foundational piece, are each escapes. Mister Gorbachev, tear down this wall. Ronald Reagan.
+
+We believe that there are those with taste and no scale and those with scale and no taste. The global design market has spent the last half century comfortable with that division. It is an industry defined by exclusion versus inclusion. For decades, the highest echelon of home design the masterfully tailored upholstery of Dmitriy & Co., the uncompromising bespoke casework of Joseph Jeup, the classical grandeur of Dennis & Leen, the meticulous reproductions of formations, the artisanal fixtures of waterworks, and the iconic designs of Michael Taylor, whom Architectural Digest named 1 of the greatest interior designers of all time. Has been hidden trapped behind the metaphorical iron curtain. This curtain is the closed door trade only showroom network. Unless you hold a professional license or hire a gatekeeper, you are forbidden from seeing, experiencing, or purchasing the finest expressions of human craftsmanship. The public is left outside.
+
+While some of the very best design and quality remains hidden inside. Nearly 40 years ago, standing at the Brandenburg Gate, a former American president looked out at a divided world and issued a defiant historic decree. Mister Gorbachev, tear down this wall. Today, we look at the luxury home industry and ask the same. With the launch of RH Estates, we are removing the barriers that have segregated taste from scale. We are amplifying the work of the world's most elite designers, artisans, and manufacturers on our global platform. This is not a compromise of quality. It is a liberation of mastery.
+
+By unique by uniting these legendary ateliers, and elevating their work in architecturally significant spaces, We are providing access to some of the most beautifully designed highest quality, classic contemporary and modern furniture in the world. Pieces that not only furnish a home, but those that define it But tearing down the walls means more than just opening the doors. It means eliminating the creative limitations that have historically forced designers to choose between our scale and the uncompromising specificity of trade only showrooms. To empower the design community, we are introducing RH bespoke furniture and RH Couture upholstery. With RH bespoke, we are offering a level of customization never seen before at scale. Designers and architects can now specify dimensions for dressers, dining tables, sideboards, and cabinets. To fit the exact proportions of their architectural canvas. Simultaneously, RH Couture Upholstery will redefine the boundaries by integrating custom sizing with COM Customer's Own Material, into the RH ecosystem.
+
+We are giving designers the creative freedom to specify custom sizes and fabrics for sofas, sectionals, chairs, ottomans, and beds. you source the fabric from anywhere in the world, We provide the atelier level construction and craftsmanship. The scale of taste our critics will argue that true luxury cannot be scaled. They are wrong. They fail to understand the ability to scale pace creates higher quality and value for both the customer and the designer. It has the ability, as other innovations have, to create a larger market enhance the way we live, and elevate humanity. By moving past the antiquated model where each piece is built in isolation, we are building these elite designs in highly disciplined batches. Scale gives us unprecedented leverage.
+
+Allowing for vastly superior sourcing of raw materials. Rigorous quality control, and significant manufacturing and transportation efficiencies. Make no mistake. We are not mechanizing art The intricate hand carvings and finishes are still executed individually by the world's finest artisans. Because of this human touch, every single piece remains a 1-of-a-kind masterpiece in its own right. However, by integrating the fragmented supply chain, and presenting these products on an equally unrivaled inspiring architectural platform, consumers now have the access to a level of design and quality previously only available to a select few. A new covenant with the trade, We recognize the ultimate expression of our products requires the vision of incredible talent. To honor the design community, we are redefining how we partner with professionals.
+
+We are introducing an exclusive program for interior designers architects, and trade members. The program ensures that professionals are compensated for the tremendous value and aesthetic clarity they create for consumers. We want to incentivize the world's best talent to build their canvases using our platform. creating a symbiotic ecosystem where design is both accessible and rewarded at every level. The separation between taste and scale is over. The curtain has fallen. it is time to tear down that wall. Carpe diem, Gary.
+
+Operator, we will now open the call to questions.
+
+Operator
+At this time, if you would like to ask a question, please press star then the number 1 on your telephone keypad. To withdraw your question, simply press star 1 again. We kindly ask that you limit your questions to 1 and 1 follow-up and return to the queue for any additional. We will pause for just a moment to compile the Q and A roster. Your first question comes from the line of Steven Forbes with Guggenheim. Please go ahead.
+
+Steven Forbes
+Good afternoon, Gary Jack. Gary, given the commentary around customization, within the shareholder letter that you just went through, curious if you can maybe give us a high level view on what you think this really means for the brand's reach and addressable TAM, especially once you layer in that new trade program. Like, how much of the market really gets opened up I do not know if there is a way to contextualize it for us on how you are thinking about it today.
+
+Gary G. Friedman
+It will it really opens up on multiple levels. So 1 is, as I mentioned, on the video last quarter, the traditional classic market represents about 60% of the luxury home market And today, we are just vastly under penetrated in that market. And if you look back, if you looked at an RH course book from you know, 2014, I think it was 704 pages, and it was all classic. All traditionally based. And if you look at our business today, because of the evolution and the expansion of modern then the evolution into contemporary as the trends hit. our brand, like many brands, and, you know, many of us grew up in the fashion industry. you know, I grew up at the Gap. And so you know, learning to build a specialty brand, you are generally keeping it in a very focused kind of limited point of view so it will break through the market.
+
+And I think 1 of the things that I failed to kind of recognize you know, if you think about the bigger picture of the home industry, is the trends kind of you know, kind of lift kind of aesthetics during cycles, but they but the but the other things do not really stop selling. They just sell kind of less. you know, because the architecture is really the driving force in the market. So you know, as we went back and just kind of studied, you know, our history, and said, look. We are we are the smartest things we have done. That are the things we, you know, think we missed? That we could have done better? you know, our view is that we could build, as I again, as I outlined in the video, build our business around the 3 major aesthetic kind of aesthetic pieces, and that is traditional contemporary and modern.
+
+And, you know, we will refer to it as estates interiors in modern. So you know, this is, I would say, I do not know. there is maybe a chance that we might have given away over the last 12 year you know, 10, 12 years. $1 billion. you know, maybe more. you know, as we assess the market and try to go back and just do the math and try to extrapolate things, So that is 1 piece. And then I say, you know, every time you do something new, I mean, not a-- it is not 100% incremental. you know, there is gonna be some level of cannibalization as you expand you know, a market, whether it is your expanding product or expanding physically, you know, in penetration, you know, there is gonna generally be some level of incrementality, and there is gonna be a level of cannibalization.
+
+Our view here is this is 1 of the most incremental things I think we have ever done. Yeah. Modern was very incremental, but it was a very small market. you know, when we launched RH Modern. you know, the amount of modern architecture in the world while it was trending, and the world was moving in that direction, still, it is a fragment of the size of this market. So that is how I think of that about the first piece. The second piece is looking at it not just from an aesthetic point of view, but really a market point of view, a design and quality point of view. RH Estates is from our view, that first step up to the top of the luxury mountain if you use that metaphor.
+
+It is the highest level of quality and design that exists you know, in the world unless you are really buying rare antiques. you know? But if you think about the brands with it that we have aggregated over the last 5 years, and what we have learned over that time you know, and what we are bringing to market with the states, which you guys have only seen just a little teaser. I mean, that is such a little teaser. it is this is just a level of design and quality that is not available to the consumer. you know, we own these showrooms. So and, yeah, 1 of our very best ones, there are 2 of them, the door is not open to the public. there is a doorbell.
+
+Yeah. So even if you are a consumer and you are walking down the street and you wanna go in, you can ring a doorbell. And you may not be able to get in if you do not have an appointment. And if you are not you know, you are not a member of the trade or, you know, and you do not have an appointment. So, so the design and quality, and then you have got the accessibility when whenever we develop any product, we always do searches on the products. We will do all kinds of visual searches across all platforms. Right, to see who might have something like this. you know?
+
+Because, you know, the world is looking at different things and seeing different things and understanding different trends and then trying to scale things. And I could tell you, I mean, we have never had such a low hit rate. Versus what we are bringing in the market. Now you can take a negative view and go, well, maybe nobody wants that. that is why you are not seeing it. No. you are not seeing it because nobody I do not believe anybody else can really sell it. Because they do not have the platform, and they do not have the brand.
+
+And they do not have the ability to source it, at a at a value equation, that we can. I have you know, I have I have been lucky. And this 1, this is-- I mean, I say lucky, not so lucky. I joke with the team. This is the first trend that, you know, I am old enough that I was the customer of you know, when you think about the next thing that is coming, the age of the eclecticism and the California look with Michael Taylor, you know, there are a few different kind of names they gave it, and they all come through somewhat differently, but you know, the foundational elements of these giant trends that come through this is 1 of the biggest ones ever. This 1 was bigger and longer than modern or any trend we have addressed in my history at RH. Right? But I was the customer.
+
+I joined RH. As I was moving into my house in Belvedere, which is the first house I ever lived in my life. you know? The only house I built in my life. And you know, my, you know, my first wife was a luxury interior designer, you know, and I was her client for a condominium in San Francisco. I had the round Michael Taylor dining table in that house. I had reproduction of the Coco Chanel sofa. you know, I had a lot of these different kind of products that are trends.
+
+Now I probably should not say this, you know, Some of this stuff, I gotta be careful because all of my competitors are on these calls. And they are, you know, gonna wait for me to slip up and let them let them hear or see something. But you know, this I lived through this trend. And so you know, it in at my house in Belvedere, How many things do I have from formations? That I bought? you said 6 or 7. 6 or 7 items from formations that I bought years ago. I have the Michael Taylor reptile rectangle dining table.
+
+In my house. So, you know, I bought 2 of them. Had the round 1 and in the condo, the first job we did together, and then the rectangle 1. I know how much I paid for those 27, 26, 27 years ago. And I know what the been selling for recently, you know, because we own those businesses. And the value equation, the quality we are gonna bring to the and the value equation we are gonna bring to market has never been seen before. you know? And I do not say that lightly.
+
+I usually never you know, go out on a limb like this, but never been seen before. And you try to do a visual search, online, it is not out there unless you want to go on first dibs and buy an antique which is fine. We cannot stop you from buying an antique. I had to read everybody what we have on the back of our catalog. Right? Because if anybody tries to come after any of these goods, it is gonna be a bad day. Yeah. Because we own the intellectual property, on the vast majority of what we are bringing to the market.
+
+I mean, we could you know, we have patent pendings on what, would we say, what percent of this book 80? Yeah. Okay. 75. 65% to 80% of the book, should go down. it is then we should go back and just actually add it all up. So there is there is just so many things we are doing we have never done before. And the way we are addressing the market and the way we are sourcing these goods, mean, the you know, the people that are making these goods grew up making these goods.
+
+The manufacturers that are making these at the end of the day, they were part of this that industry, you know, making for the highest end showrooms. Before we met them and started to scale with them. And they are also excited to be able to make this quality again. you know, because they are you know, the market is so fragmented. But it you know, so this the design and quality, you know, aspect of this is huge. And then the next piece you have is we are, you know, we are gonna open the market up to what do we call them? Super buyers, the furniture. I mean, we have a very big trade business.
+
+We provide excellent service to the trade and to high end interior designers and design firms. you know, our teams act as a back office. We will do designs and renderings and presentations for them. you know? We will support them in any way we can in many times in delivery and installation. And but at the same time, you know, there is an aspect of just recognition and compensation that you know, we have not done. And the team jokes around yeah, because every time I go to High Point, you know, someone comes up to me and says, you know, like, I love your brand. Oh my god.
+
+And, you know, please know, help us make money. know,, let us make money on your brand. And, you know, we have not offered and incentivized the design trade. And I and I look back and I think you know, when because I came from a you know, family situation that had interior designer, and I had-- I have the insight of looking at, you know, just how complex and difficult that was you know? And it was also you know, it was, you know, know, not only was it not transparent. you know, it is just not accessible. you could not get and see it. you could not buy it.
+
+you know? And I just thought, you know, over time, just making high quality goods available would you know, that the consumers would drive designers to our brand, and I think they have. you know? But at the same time, you know, there is really great interior designers that, you know, they are running a different model. And you know, even, you know, the mother of my girls, you know, who is here consulting with us what, 10 days ago, 2 weeks ago. just to give us the insight of a, you know, high end designer. She runs a design firm. She said, you know, she said, listen.
+
+you know, do I buy RH? Of course, I buy RH. Do I wanna expect that first? No. you know, a lot of times, you know, my clients will say, hey. look. Okay. Do your designs.
+
+you know, in the in the primary living room, in the primary bedroom, in the primary dining room, But like, do RH for the family room and the media room and all the rest of the bedrooms. And she was standing, like, just finally, okay. I will. And, you know, she said, but I am thinking to myself, I cannot make any money. you know? Like, they are you know, interior designers have a markup model. Right? and an hourly model.
+
+But you know, they kinda need both to make the business work. And I think we have know, we just have not we have not been an open platform like that. And I think that I think we are just overlooking kind of a super customer. I mean, they buy furniture all day long. that is what they do for a living. So it kind of does not make sense that we are not doing it when you really look at it critically. I think it really makes sense here too, you know, the timing of this, because you know, not only are we gonna have this design and quality that is at the very highest level of the market, we are gonna also empower the designers and consumers you know, for that matter, and all of our designers with ability to customize. And the ability to do, COM and Customer's Own, you know, material and the ability to do all the things that they need or want to do, to do truly custom work at the highest end.
+
+I would say this is just the beginning. Right? it is not and it is not the only thing we will do. Yeah. If someone asked me the other day, hey. you know, are your prices gonna be higher? Well, yeah, they are gonna be higher. I mean, the quality is massively, you know, higher.
+
+But it is such a tremendous value. And the price should be higher. This is not just you know, kind of smooth wood with this sprayed on finish or, you know, a contemporary piece with curved edges. This is hand patinaed, hand carved, you know, hand distressed, so many details to get it right. And every piece is a 1 of a kind. you because of the handwork and how it is made. And you know, so yeah. But somebody said, oh, well, how do you know you are not gonna make a mistake?
+
+Like contemporary? Well, contemporary did not have the handwork, did not have that level of detail, did not have those things. And we just you know, we were a bit arrogant at that point in time. So but because, you know, we are out here with a unique product also, you know, I think that we are we are offering such an incredible value you know? But I think that there is also an opportunity because of how long we have been thinking about this, working on it. I mean, think it is most intelligent, deep thinking, launch of a brand we have done. you know, we have really started investing in this in 2000. you know?
+
+So here we are, you know, in 2026. Now we acquired Dmitriy & Co. and Joseph Jeup in 2020. 2020. Not 2000. Yeah. Thank you. Yes.
+
+2020. Yeah. Thank you. Not that long ago. but, you know, it is been a long term investment. So this you know, and so many levels, you know, think about the opening of the high end design market on this and yeah, there is nothing that we are doing to value engineer the product. I mean, you know, we are making I would say, identical quality. you know, the diamond table is made with the identical molds of Michael Taylor.
+
+you know, the, you know, the tops and everything are the same quality. The that finishes, you know, that we are offering. The array of finishes is at a whole different level. you are gonna see when you see this book, is being sent home, next week. Where we stand? End of next week, early following week? Early following. Yeah.
+
+Okay. Early following week. We kept tweaking it and tweaking it, and we had a lot of last minute ideas to kinda make it better as we are working on it. But know, but it was also a you know, taking us a little longer because it required a, you know, different little level of thought and discipline and you know, compositions and presentation. To do it at the level that it deserves to be presented at. And so, you know, the few weeks late to us you know, it is it is not the big deal. you know? I know I have read a couple of analysts reports.
+
+I go, oh my god. it is late. Like, I do not know. Like, was Tesla ever on time? you know? It changed the whole car industry. So, you know, it is not about, like, hey. I am I am rushing to mediocrity here.
+
+you know, we are trying to make big moves that are that are industry redefining And I think this is 1 of them. I think this is you know, this is the biggest move we have ever made. It is fundamentally you know, different on so many levels and opens up so many dimensions of a market, but it also opens up the learning right, that can be applied to modern and to interiors and so on and so forth and thinking about how big is our market. you know? Like, when you think about what I just said about you know, my daughter's mother, and she said, yeah. Customers will say, okay. Do the primary rooms, and then, you know, use RH for these other rooms. Well, what is really interesting about that our whole focus with this initial lens, the key part of the lens, was we knew that, by the way.
+
+So we said, let's win the primary rooms. Let's make sure we get the primary bedroom. If we get the primary bedroom, have the assortment to get the other rooms. Let's get the primary dining room. When you see some of the dining tables we have, you would go on first divs and started $250 thousand with the expense dining table. And go all the way through it down to the prices we have it at. you will not find anything of our quality. you know, or design.
+
+Yeah. We went through all of it. you know? We know every dining table on first dibs. you know, at every you know, competitor at the highest end, to, you know, down. We spent a lot of time studying this market. you know? So, you know, the goal is, you know, the dining room the primary living room, the primary bedroom, But these goods can also eclectically be presented you know, in, you know, very cool way.
+
+The thing you will see it when it is when it is all presented, it is it looks it looks different than RH today, but it does look like RH today. But I think you will see a very big move. you know, you are just gonna see, like, woah. I mean, I think the design community is gonna go, woah. I did not know they had this in them. So I know that is a long ramble, but, you know, like, I am so excited. you guys want to talk for the next 5 hours about estate, yeah, you are gonna have my attention. Thanks, Gary.
+
+
+Steven Forbes
+And maybe a very quick follow-up for Jack. Given the tariff refund commentary in the queue. Maybe just help us or confirm whether or not any refunds are within the guidance?
+
+Jack Preston
+No. No further refunds. I mean, the refund started coming, but there is no they you know, they have been kind of paused. you might be following some of that activity as far as the DOJ and the and, you know, how those are playing out in the courts. So, but as far as the guidance reflects does not reflect free cash flow specifically does not reflect any further, tariff refunds.
+
+Steven Forbes
+Thank you both.
+
+Operator
+Your next question comes from the line of Michael Lasser with UBS. Please go ahead.
+
+Michael Lasser
+Good evening. Thank you so much for taking my question. Wanted to dig in on the 500-basis-points of contribution that you were expecting from RH Estates in the back half of the year. So just under $100 million. What is the basis for that expectation? And you have already alluded to the need to evolve some of the elements of the model or the way you interact with core customers like the trade? Do you think you need to make further changes to your customer acquisition engine beyond the legacy model of just simply mailing out a book and then expecting that the consumer will show up in this age where you are competitors are going hard after social media and other forms of manners that are they are reaching the consumer. Thank you.
+
+
+Gary G. Friedman
+I do not know. They have been doing that for the last 3 years, and we have outperformed all of them. So you know, I think, you know, when you say, you know, we are we are mailing a book and expecting people to come, we have built the best-- the greatest physical platform on the planet Earth for our kind of products. Right? So do not overlook the physical platform. you know? And if you Michael, if you look at that video I did last quarter, I outlined that, you know, furniture is the least digitized business. you know?
+
+80% is done in stores. it is 20% done online. At the luxury level, it is 95%. So you know, this is a business you need to see, touch, feel it, you know, comfort, scale, all those kind of things. So I mean, the book is just you know, it is the small way. We use it to integrate the whole thing. you know, people look forward to getting our books you know, it is a it is a physical thing. it is still we have a digital book too.
+
+But we just do not I am just not a believer in following the trends of a lot of people that are following other people. you know, we just think it is massively unauthentic to pay some stranger to you know, some influencer to go talk about our goods, and they do not know anything about us. They know nothing about the product. They are not an expert in the in the field. And, you know, I think I think that is a lot of noise. You know? Maybe it is good for, you know, building beauty brands to teenagers or, you know, other stuff like that. It does not affect what I buy.
+
+you know? And I have a lot of homes. And so I do not think it affects our customer, or we would not be the biggest brand of our kind. We would not have outperformed everybody you know? I mean, and then if you look at this last quarter we have, I mean, you look at look at us at over a 2-year basis or 3-year basis, over a 2-year basis, only West Elm has performed as well as us. On a 3-year basis, we are better than everybody. you know? And you know, and West Elm just had, a great quarter.
+
+you know, I think they are doing a great job. And you know, but you know, if you look at anybody buying furniture, you know, it is you know, I tell people, when you go out there, bang pots and pans and try to get attention, doing inauthentic things, you are just creating noise. you are creating your own noise. know,, and you wind up you know, chasing things and thinking that they are relevant. When they are not. you know? And I you know, we have tried and tested different things, and we have a lot of data behind what we have done and, you know, and why we are doing what we do and you know, nobody thought we were smart to build the stores we did and the galleries we did and those turned out pretty well. And everybody stopped mailing books, and we are still mailing books.
+
+Yeah, the only difference is, like, right now at a point in time, you know, you can put our model against anybody. you know, put it against today's very best customer. back out our investments in international expansion, you know, back out our investment in building estates, you know, which is not like some little introduction, you know, of a you know, 80-page book, you know, that you know, that you know, 5 or 7 years later, you wind up with 1 store. Yeah. This is you know, we are making serious investments to build a platform unlike anybody else. you know? And so in a down market like this, are is our model not gonna look as good? Yeah.
+
+Okay. you know? But you are looking at people that are not even investing. They are not building anything. They are trying to be great cost controllers. you know? So yeah, just wait till the other side of this cycle for us. And, you know, and I think we are gonna have a cash generation machine that this industry has never seen.
+
+Understood.
+
+Michael Lasser
+My follow-up question is about the margin profile. Of RH Estates. Is it sufficiently higher than the legacy business? In order to fund the investments that you are doing provide the incentives to the trade community as well as anything else you might have on the horizon. And still drive the margin expansion that you have embedded in the back half, or do you see other building blocks to arrive at the margin expansion that you are expecting? Thank you very much.
+
+Gary G. Friedman
+If it is based on its margin profile, best based on the quality and exclusivity and desirability of those goods. Right? If you know, if you have got a level of design and quality and scarcity you know, and build desire you know, who knows what the margins will be? I think we determine our margins based on a competitive nature. And you know, if there is others selling something in the market, okay. you know, is there a quality differentiation? How big is it? How different is the design?
+
+So on and so forth. That access do they have to the market, you know? Do they have a big enough platform to matter? you know, all kinds of things. Like, not really doing margin building to pay for something like you know, incentive for the trade. The incentive for the trade, it is a simple model. Like, we give x, and we need an x and we need a list of y. And it is so minor you know, on a model like ours because we have such leverage and flow through.
+
+you know? I mean, just you have to think about our models. Like, you know, even think about estates. On a you know, our whole business has a different model than everything else just because kind of the price points of our product, right, versus most people selling furniture. So we have significantly more leverage know, just handling goods, shipping goods, delivering goods, so on and so forth. And we have tremendous leverage in our interior design business because, you know, we are selling you know, high average orders. you know? And, yes, there is an investment to do that work, but, you know, we have such leverage on the incremental sales.
+
+And, again, it is it is a little masked today because of the investments we are making you know, in international and you know, in things like estates and so on and so forth. But yeah, I you know, we have got plenty of margin to cover what we are doing We will have plenty of margin growth going forward. you know, like I said, we are, you know, we are we are we are looking at our you know, what we believe you know, the cash generation model of this business is gonna look like. Because we think that is the most important metric. And I think as we move past the peak investment cycle, you know, this year, and our you know, we believe our you know, our top line is gonna inflect up. Kind of irrelevant of what the external market does unless it really you know, look. If we get into a war that is massively impacts you know, the economy, the inflation, you know, so on and so forth, yeah, it is gonna, you know, it is gonna put pressure on everyone. We are know, those things happen, but we do not need a big move in the housing market to grow.
+
+We do not even need a move in the housing market. I am not counting on the, you know, the guidance we just gave everyone. I am not counting on the market. Getting any better. The market could get worse, and I you know, I would be surprised if we do not beat those numbers. So a 5% incremental move on a on Estates is really conservative. Thank you very much, and good luck.
+
+Analyst
+Thank you.
+
+Operator
+Your next question comes from the line of Simeon Gutman with Morgan Stanley. Please go ahead.
+
+Simeon Gutman
+Hi, Gary. Hey, Jack. I wanna follow-up on 2 items. First, estates and top line trajectory, and then my follow-up will be on the balance sheet. So first on the states, can you give us a sense of sequencing how much of the collection is being launched? I assume it will be continuous. That percentage of items on floors and galleries will be estates? When should we expect that fully ramped?
+
+And then should we be seeing the customer deposit line pick up a bit not just from these back orders, but from states? And then I will I will I will wait for the follow-up.
+
+Gary G. Friedman
+How many questions did you just ask her? She's on track. That was good. I mean, I just saw you in Milan. I thought you asked me all the questions you might have had. you probably have a-- yeah. Maybe everybody on the phone ask you questions about estates. you are 1 of the few people that saw it.
+
+know,, set up in Milan. But okay. So the sequencing of the products coming in the stores, we will be kind of terracing in stores. When do we get to like, 60% of the sales, 65%? That was that? September. End of September? So by the end of September, we will be in the galleries that represent you know, roughly 60 to 65% of business, you know, roughly 2 thirds of the business, and then what is the next wave that hits?
+
+it is Pretty much every month. And Every month? So every month, we December. We will kind of have-- by December? So December will be all galleries? Yes. Our second mailing of the states will be early part of November. So and that will be a pretty meaningful expansion of the assortment.
+
+So you will you will see us building this assortment over the next couple of years. And then the custom oh, yeah. Yeah. They got this selected. Should we expect deposits to tick up I mean, they follow our business. So as-- Yeah. As revenues grow, demand grew up, which is driven, customer deposits tick up. Yeah.
+
+
+Simeon Gutman
+So then I will put the follow-up it is this part 2 parts in the follow-up. Should the deposits already be ticking up, if as these backorders exist or no, that was already on deposits? And then just thinking about balance sheet, like, business improves and inflects. As you said, Gary, there is a lot of leverage in it. The balance sheet cash flow stuff should resolve itself. But can you remind us this path to getting debt free by 2029? Is there an update? What other steps are you taking to get to that?
+
+How much of a priority is it versus just letting the business now let the estate collection speak for itself and then drive the natural deleverage of the business?
+
+Gary G. Friedman
+I think we are pretty clear. it is a big priority and, you know, we outlined asset sales of what, $200 million to $250 million a year over the next 2 years. We just completed a transaction, inside our Aspen Real Estate. We are you know, we sold some properties to our partner and you know, sold the property to us and we now have more independent control of the process, you know, a lot of properties that we can monetize more quickly than less quickly. How many properties did we take control of? 8 in total. 8 in total. We have 100% control now.
+
+So you know, we do not have to work through, you know, JV and a partnership to kinda monetize things and you know, David G. Stanchak is back and David knows how to get deals done, you know, buying or selling. And so, yeah. And, you know, we were you know, holding also some real estate outside of the JV, And, you know, so you know, there is that, and there is you know, the business performance. there is the spending you know, inflection down, you know, deflection, I guess, call it, or you know, so this multi check. I know any point jump in with anything, but you know, it is really the you know, spending comes down. The sales are going to go up. The we will have asset sales.
+
+And free cash flow will build, yeah, through that time period.
+
+Jack Preston
+So, again, I think it is just to reiterate what Gary said, which is it remains a priority. you know, the exact timing of, you know, being debt free, I mean, again, it is it is it is our it is our target. it is our goal. And but, but I think, importantly, just that making progress on those initiatives. that is what we are focused on.
+
+Gary G. Friedman
+Yeah. And I think, look, we have a history of you know, being relatively creative with capital markets. you know, we have had a lot of good timing, you know, before this, you know, 4-year downturn of the housing market. So you know, our buyback was not as well timed as maybe our other buybacks, and in our, you know, capital approach to it. you know, I wish we would have locked it in, but we did not. And you know, many you know, big banks that you guys worked for told us, oh, no. do not lock it in. You know, it is you know, interest rates are not going up.
+
+Oh, no. there is still 1 little move. And I will send had the fastest rise of interest rates in history. Of our lifetimes. you know? So you do not always get these things right. But I mean, you know, when our stock gets to the right levels, would we exercise you know, convertible options to take down debt and move debt. Like, do we have so many ways to work the balance sheet to do things.
+
+you know? you know, you do not want to do any convertible debt, you know, at this level. But, you know, we do not think our stock's gonna be at this level very long, and we think it is gonna move yeah, with our business. And as we execute and, you know, again, we are kind of on the other side of the cycle. you know, we just we are in our most prolific spending period of all time, and you know, unfortunately, it was, you know, post COVID, and we are building of the most important things we have ever built, and it all cost, you know, a hell of a lot more than you know, we would have built it pre COVID. So yep, unfortunate timing, but nonetheless, all kind of short term things to navigate around. I mean, it, you know, once you spend the money, the money's behind you. Right?
+
+And you know, I look at it and I say, yeah. I mean, there is some people that wanna focus on operating margin, you know, and we are gonna carry a, you know, a lot more depreciation, but you know, for investors who wanna focus on that line, Alright? know,, focus on that line. Maybe some people are gonna be a few hundred basis points better than us. We are gonna be focused on EBITDA and cash flow. And I think the smartest investors are going to be focused on that line. And, you know, and that is where we are gonna be able to create I think, the best returns in this industry. Thanks, guys.
+
+
+Simeon Gutman
+Product looks great. Good luck.
+
+Gary G. Friedman
+Great. Thanks, Simeon.
+
+Operator
+Your next question comes from the line of Max Rakhlenko with TD Cowen. Please go ahead.
+
+Max Rakhlenko
+Great. Thanks a lot for taking my question, Max. Appreciate it. Thanks for taking my question. So as a follow-up, as you guys exit the investment cycle, following the opening of London and the rollout of states, how should we think about what that margin inflection could look like over the medium term you have obviously provided a second half outlook. How should we think about the medium term margin power as you do start to benefit from the investments that you have made over the past few years?
+
+Gary G. Friedman
+I mean, think we gave you a longer term outlook in you know, we believe that is you know, the right outlook and the right Do refer to the video. Timeline. Refer to the video. Yeah. We have kinda laid all that out. Yeah. So you know, that we believe there is again, we believe there is meaningful margin expansion as whether or not the housing market gets any better. you know, just because of the cycle and you know, coming around and the growth that we expect from these investments and yeah, I mean, if we do not I mean, we yeah.
+
+Europe is in you know, The UK is an even worse shape than The US. Right? And it is even getting hit more than The US from the war and stuff like that. But you know, you are talking about you know, we are not we did not exactly open at the most optimal time. Yeah. And from a housing point of view, and from an economic point of view. But the good news is I have I have never seen an economy that stayed down forever. Now I used to say I never saw you know, housing market that stayed down over you know, stayed down longer than 18 months.
+
+In my career. But you know, now we are going into yeah. We will we will definitely probably yeah. I do not think it is gonna recover this year. you know? So we will see 48 months you know? Will it go into a fifth year? It may.
+
+you know, it all depends on inflation and interest rates. So you know? But we have know, we have I think we are gonna see a lot of leverage in this model when you know, either way. I mean, we are we are just really excited. We can it is 1 thing that talk about and conceptualize the states and you know, work on it and work on it and work on it and tweak it and tweak it. And then when you it all comes together and, you know, you go through this accelerated learning at the end of its development, you know, of a new business like this. And, you know, it is just I do not think any of us have ever worked harder you know, and because we are doing you know, some of the most important galleries and opening the most important markets in the world and doing some of our best work for the platform and physical point of view and we are doing our, you know, best work from a product point of view and presentation point of view. And so and it is but I do not think there is ever been a higher level of excitement here for, you know, we have a lot of people here that have been here a long time, you know, 10 to 20 years.
+
+And man, like, I think I do not think I think everybody sees it very clearly just how unique the product is, just how unique the positioning of the brand is, And so you know, we are excited to you know, see our efforts and work you know, pay off and monetize, you know, for you know, for our shareholders. And we are, you know, we are all shareholders here. Right? Everybody is Mhmm. Got skin in the game, and everybody's got upside you know, in this effort. So you know, Got it.
+
+Max Rakhlenko
+that is helpful. And then, Gary, as you guys scale and begin open galleries in The US with the new prototype, how do you think about the unit economics there? Do you think that you can generate, similar revenues as the boxes that you have opened over the past decade? And then should we assume that the new galleries, because they are going to cost less, should get you higher unit, margins as well. Thank you.
+
+Gary G. Friedman
+We do. Yeah. We will have a know, I think we are gonna have a like, a great return on investment. you know, we laid out for you guys in the video the compound and the logic behind the compound. Right? it is kinda yeah. it is aggregating. Yeah.
+
+The you know, that multilevel, 3 level gallery and saying, you know, what can you take out? you know, what do not you need? you know, you do not need in a compound, you do not you do not need elevators. you do not need a grand staircase. you do not need exit stairwells. you know? I do not think a lot of people know in all these big buildings. there is 2 exit stairwells.
+
+They are all concrete. you know? Going up. there is a giant grand staircase. there is generally 2 elevators. there is you know, all kinds of levels. there is you know, when you are building a you know, there is a restaurant on a rooftop, you know, that takes extra steel and bigger foundations to carry the load and takes you know, complex mechanical systems to operate a building like that. And, you know, we spent several years here dissecting that We started seeing post COVID, the, you know, the cost became meaningfully more, you know, 2 to 2.5 times at you know, 2.5 times more in some cases.
+
+And so, you know, we you know, we broke it down and said, hey. How can we have an experience that is no less inspiring and beautiful and we came up with a compound. And I think it is gonna be I think it is I think people are gonna think it is the newest, great physical experience out there. And it is I in some ways, it is gonna look to people like we may have spent more money. Right? Because they have never seen anything like it. it is gonna look like beautiful gardens you are walking through, and you know but all that area does not need to be air conditioned. know,, you have got minimal lighting, garden lighting, and stuff like that.
+
+you know? you know, we are aggregating all the bathrooms and toilets in 1 place. We you know? Like, you know, you we are building up a lot of these buildings you know, they have electric in it. Small pipe with sprinkler, you know, sprinkler heads. And you know, it is not it is like imagine building a house without bedrooms and with bathrooms and kitchens and all the things that are really expensive, and you just aggregate everything in you know, the center where the restaurant is you know, I think we have it is there. I think these things are really smart, and I think it would be really exciting. So we are we are excited to you know, unveil them.
+
+And then I think our you know, secondary market you know, salaries, I think, you know, it is I we expect everything to be as productive if not more productive. And I would think all the new things we are gonna open are gonna be more productive because we have gotta bigger assortment, and we have got estates, and we have if you think about know, how we have grown, you know, we have grown through product expansion, primarily in the early years because we had no capital, and then platform expansion when we presented those goods, at a physical level and we, you know, the kind of lift that we have talked about historically So, yeah, I think the yeah. All of that, we are so excited about. Like, we cannot talk about going post peak. you know? From a spending point of view, the things that we are going under construction on, we still have a couple of, you know, leftover ones that are you know, some cleanup that are a little bit more than you know, that we wanna spend just you know, and we could not redesign them. But yeah, I think the whole model's gonna look different. The return on invested capital is gonna you know, get back, I think, to the levels we were at in our peak.
+
+And I think we were what? We hit, like, 75% Yeah. you know, it is external invested capital. Yeah. And I think we will know, be at that kind of level and yeah. So yeah. The good news is we have, you know, you know, we are just so much smarter and have so much more experience and, you know, you will you will that will all be reflected in the and the economics and but we got a little stuck. We are building some expensive places and expensive cities that yeah, it is not like we could unwind those things to go, whoops.
+
+you know? Let's not build in the most expensive cities in the world you know, with some of the most complex projects. At exactly the most expensive time. Yeah. I mean but the good news is what does not kill you makes you stronger. Right? So we are still here. that is great.
+
+Appreciate all the color, and certainly look forward to London.
+
+Max Rakhlenko
+Great. look forward to seeing you, Max.
+
+Operator
+Your next question comes from the line of Brian Nagel with Oppenheimer. Please go ahead.
+
+Brian Nagel
+Hi. Good evening. I appreciate you taking my question. I will keep it short. I guess the question I wanna ask is just on the guidance. And you have already discussed this a bit. But the ramp in sales growth is expected in the second half of this year. Now we have talked a lot about Estates.
+
+I guess the way I want to frame the question is, as you look at the business today, you know, when, you know, the piece of business today, I mean, how much how much of a ramp do have to have in that existing business in order to achieve, with the components you talked about with these new pieces to achieve that guidance for the second half of the year.
+
+Gary G. Friedman
+Yeah. Well, if you really look at that at the build of the back orders and special orders, right, Our business is better than kinda reflected in the revenue. Right? Like, we have got pretty big you know, pretty big balances. So you know, those balances are being created now. you know? But we are not shipping those revenues you know? Or those that we are not shipping that demand yet because of yeah.
+
+We still have transitional things and impacts from, you know, major resourcing. And, you know, a lot of our people in all categories are The people are still catching up and you know, so know, we will just see that I mean, you have to kinda look at it and say, okay. That look like? Where are we really what is it building to? you know? And you have to think about that flop that is kind of kinda coming across And you know, a lot of that you know, when you think about that, Brian, you know, there is a pretty big number that we do not have to drive demand to hit it. it is we have already driven that demand. Right?
+
+And you have got a big chunk of business that is gonna just flop over to the second half. Makes sense?
+
+Brian Nagel
+No. It makes-- yeah. It conceptually, it makes sense. So I apologize. But have you quantified that piece with well, I will use your term, Gary. The piece of business will flop over to the second half. that is already that is already there. Can you can you quantify that?
+
+
+Jack Preston
+Yeah. it is in the little table. Yeah. In the letter. it is just it is the $75 million or 4.5%. Okay.
+
+Brian Nagel
+So that is that is in the demand now. Okay. Yeah.
+
+Gary G. Friedman
+No. No. that is yeah. that is in the demand now. We are not reporting demand, you know, but you know, we are reporting revenues. But, yeah, all that you know, that is $75 million and is you know, is on our books and we will ship Again, that is back orders and special orders over and above a normal rate.
+
+Jack Preston
+I mean, always have back orders special orders in our business. But this is So this is elevated because of unnatural things happening between re you know, or things that are taking more effort, like resourcing. Transportation impacts, whatnot. So that piece, that elevated piece over sort of normal quote unquote is what Gary and I are talking about for the second half. that is 4 and a half cents.
+
+Brian Nagel
+Okay. that is helpful. I appreciate that. Thank you.
+
+Gary G. Friedman
+Yeah. Thank you, Brian.
+
+Operator
+Your next question comes from the line of Steven Zaccone with Wells Fargo. Please go ahead. Zach, are you on the line? Zach, your line is open.
+
+Zach
+Hey. Yes. Sorry about that. Good afternoon. So first question on the initial response from Milan. And your expectations for year 1 in the market. And now that you have galleries open in both Milan and Madrid with London around the corner, Any revised thoughts on sales trajectory from the 3? And if you think New York is a good benchmark for what those markets could look like?
+
+
+Gary G. Friedman
+Yeah. I mean, look. It I think they will all be great markets over time. you know? And we have gotta build the brand. And, you know, build the customer base, build our design business, you know, continue to build the pipeline, and you know, I think I have used before, you know, with the ramp you know, the first you know, you know, first 1 was RH England, and that is been open the longest. And you know, what that is ramped to, you know, yeah. On a not a great economy for the home business.
+
+In The UK, but, you know, in a store that is 2 hours outside of London with not a lot of people around. So you know, it gives us high hopes. And, you know, we have greater brand awareness in London for 2 reasons. there is a lot more expats. there is a lot more people that have lived in New York and gone back and forth. there is a lot more people that know the brand. They you know, everybody speaks the same language. So on and so forth.
+
+So we have, you know, meaningfully higher brand awareness, and we have been open out in the you know, in the Cotswolds, the English countryside. Yeah, for 3 years. So, And then we kinda just getting started in Madrid, and we are you know, just kind of opened in Milan, and we like what we see. We like the responses that we are seeing. And, you know, the key for us is build the design books and you know, get the ramps and you know, so I think we are gonna you know, as these as these mature and grow, I think we are gonna like the outcome. But I think London I was just talking to the team about this. you know, London is kind of the accelerator for all of it. Right?
+
+Because everybody goes to London. it is it is the financial hub and, you know, just you know, if you were gonna be in 1 place, you would be in London. And if you were gonna be 2, you would, you know, be in London and Madrid or London and Milan. They are pretty close you know? But for, yeah, for a slightly different reason. you know, Milan is the center of the universe for the you know, the home design business because of Salone and Design Week and you know, and the eyeballs you can get, you know, that is not just from designers and you know, but from true customers that come that fly in with their architects and their interior designers and you know, they are shopping from all the brands at the shows. So you know, I think it is look. I think these 3 are the core of the platform.
+
+These are the 3 key things This is the foundation of building a global brand outside of The United States Of America. Right? And, like, I think I would say, you know, someone told me once they heard Fernando Arnaud was asked the question, how do you build the brand of China? And apparently, his response is you build great stores in Paris, London, New York. And so we have just done it backwards, and we threw Milan in there because it is so important for our industry. Right? And so yeah, this is it is really, once we get London going, I think the whole thing is, like, game on. I think London will create the biggest echo, you know, the biggest you know, it is where we are known the most.
+
+it is where we should ramp the fastest. Do the most volume. And it you know, because everybody travels into London for so many different reasons, you have got a huge Middle East, you know, customer there that you know, lives between London and, you know, in The Middle East and The US for that matter that I think knows our brand and is gonna respond to our brand. And I just think the echo of London is gonna amplify Milan and Madrid and every other gallery that we have opened. Thanks for that, Gary.
+
+Zach
+And just quick 1 for Jack. I think the opening cost in Q1, you said, would be about 24 basis points. Did that end up being the case. And for Q2, you are guiding, I think, 380 basis points for London. Could you just help us out on what which of those costs should we consider transitory and come out in the second half of the year versus costs there that are that are now in the base and will persist.
+
+Jack Preston
+Q1 ended up being 450. So right there with the 420. you know, we are not guiding specifically the quarters. you know, So you got the year of February. I guess you can back into some math as to Madrid and Milan and how they average out to a February on the year. It would be 1 way to approach it. And that delta being you know, transitory, being, you know, what you know? But if let's call it mid 1 hundreds, in the back half and, you know, the delta between that and, you know, the numbers for Q1 and Q2 are the transitory sort of preopening driven related to the openings.
+
+Got it.
+
+Zach
+Thanks for the time. Got it.
+
+Operator
+Your next question comes from the line of Jonathan Matuszewski with Jefferies. Please go ahead.
+
+Jonathan Matuszewski
+Just 1 question here. Gary, could you share some context on why now is the right time to pursue a loyalty program, that compensates your trade clients. Presumably, you have maybe considered this pivot in the past. What makes now the right time to roll this out? And if you could discuss maybe just the overall growth trend in your trade business in recent years relative to the end consumer business, that would be helpful. Whether trade has been outperforming consumer and this is the playbook to supercharge it, or has trade been underperforming and this is the way to improve the trend? Thanks so much.
+
+Gary G. Friedman
+you know, for those competitors that report trade, I think we have been overperforming the last 3 years. So, you know, we have got a very strong trade business. We have great leadership. great teams, you know, very high quality people. They are you know, live and breathe our values that have built great organizations and yeah, this-- yeah. It becomes a supercharge. look. I am the guy that we used to have a trade incentive program, and I took it out.
+
+Against you know, a lot of people's debate. And so-- but when we were making the move to membership, you know, and I just you know, I you know, was it the right call or not? I do not know. Probably not now that I, you know, reflect on it with you know, the wisdom I have today. versus, you know, what I saw, felt in what was that, 2016? Right? Yeah. 10 years ago?
+
+Yeah. I just do not think I was thinking about it correctly. And why is now the right time? Is because of Estates. Because estates opens up the very top of the market for this brand. No other brand has goods at this level of design and quality. No 1 at the retail level. They may tell you they do, Like, they have probably never been into these businesses that we bought.
+
+So And so, you know? And we have you know, we taken what we do really well and amplified those assortments. So, like, you are gonna see things you have never seen before. And, you know, dimensionalized it in a way and presented in a way just does not exist. So and why would not you wanna open up the best interior designers in the world to what we are doing today. I mean, like, we are we are just smarter. Honestly. you know?
+
+Like, I look back, and if I said today, if I knew what I know today, would I have made the same decisions? No. I would not have made the same decision. So I am smarter. Today. I know more today. I have more knowledge And it is funny because I was you know, I was married to an interior designer. you know?
+
+Kendall and I were together for 11 years. it is So, you know, and I knew our business well. It helped me conceptualize what to do with RH, quite frankly. you know? it is like that helped me see the opportunity. But I do not think I really I do not think I really understood the market and correctly. And it is changed too. you know, that I mean, there is more and more people that you know, you know, you have growth and wealth.
+
+Right? There are more and more people that have the financial ability to use interior designers. Yeah. there is more use. People are more exposed to design and quality. More people are you know, better houses and better design everywhere. So anyway but, yeah, we are happy to, be advocates for and partners and you know, open up our platform and know, and support them in a greater way. And I and I think, look.
+
+We today, it is it is a big part of our business today. Our trade business is a big part of our business, so it is not a little part. But we think it could be meaningfully bigger And, you know, when people say, oh, you are you are gonna send a file, you know, the lift that we have to get is very small on incremental business. And we have we have massive flow through on this model. Thanks, and best of luck.
+
+Analyst
+Thank you.
+
+Operator
+That concludes our question and answer session. We will now turn the call back to Gary G. Friedman for closing remarks.
+
+Gary G. Friedman
+Great. That you, everyone, for your time and your questions, and you know, for the conversation today. And, you know, I just wanna say to you know, our team, you know, teams across the country, across the world, across our campus here. you know, I think everybody knows what we are working on. Everybody knows what we are we are aspiring to do. I think this is 1 of the most important times in the history at RH. And you know, I could not be more proud of the work everyone's doing, you know, and the organization that is been built here, you know, based on our values and beliefs and you know, our work is going to a new level. I think our performance is gonna go to a new level, and, you know, it is all because of the team members you know, who have built this thing over the last 25 years that I have been here.
+
+So I just wanna thank everyone you know, everybody's effort is important and it contributes to this cause, and I think we are gonna feel very proud here very soon, even prouder than we have ever felt. So I cannot wait to share it with you. Thank you.
+
+Operator
+Ladies and gentlemen, this concludes today's call. Thank you all for joining. you may now disconnect.

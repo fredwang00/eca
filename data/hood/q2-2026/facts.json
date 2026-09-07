@@ -1,0 +1,51 @@
+{
+  "ticker": "HOOD",
+  "quarter": "Q2 2026",
+  "company": "Robinhood Markets, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1308.0,
+    "gross_profit_m": 1072.0,
+    "operating_income_m": 574.0,
+    "net_income_m": 561.0,
+    "eps": 0.62,
+    "total_equity_m": 9480.0,
+    "total_assets_m": 56550.0,
+    "cash_and_equivalents_m": 5362.0,
+    "shares_outstanding_m": 899.0,
+    "free_cash_flow_m": 696.0,
+    "operating_cash_flow_m": 720.0,
+    "capital_expenditure_m": -24.0,
+    "bvps": 10.55
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "stable",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "Record net deposits of $22 billion, a 28% growth rate... added nearly 1 million funded customers in the quarter... Gold subscribers reached an all time high of 4.8 million.",
+      "capex_direction": "We are lowering and tightening our 2026 outlook for adjusted OpEx and SBC to a range of 2.675 billion to 2.775 billion... able to self-fund Rothera and Wonderfy costs but also remove additional costs from the system.",
+      "pricing_power": "Take rates... for most of the asset classes to the Q2 average... rates are an output metric, there is a lot of different things that go into them.",
+      "management_tone_shift": "I have no doubt Robinhood will be a trillion dollar company... we have 13 businesses at 100 million ARR... July ADVs compared to a record Q2 are in a similar area."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

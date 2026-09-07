@@ -1,0 +1,50 @@
+{
+  "ticker": "TSM",
+  "quarter": "Q2 2026",
+  "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1270380.2,
+    "gross_profit_m": 860310.7,
+    "operating_income_m": 766568.2,
+    "net_income_m": 706561.9,
+    "eps": 136.25,
+    "total_equity_m": 6432518.3,
+    "total_assets_m": 9375654.7,
+    "cash_and_equivalents_m": 3134218.2,
+    "shares_outstanding_m": 25932.37,
+    "free_cash_flow_m": 274969.9,
+    "operating_cash_flow_m": 783365.0,
+    "capital_expenditure_m": -508395.1,
+    "bvps": 248.05
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "A",
+    "dim3_grade": "B",
+    "dim4_grade": "A",
+    "dim5_grade": "A",
+    "composite_score": 3.85,
+    "composite_grade": "A"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "We have decided to raise our full year 2026 capital budget to be between $60 billion and $64 billion... The CapEx in the next three years will be even more significantly higher than the past three years.",
+      "pricing_power": "Demand for our leading-edge technologies is very strong... advanced technology, defined as 7 nm and below, accounted for 77% of wafer revenue [with gross margin at 67.7%].",
+      "management_tone_shift": "Our conviction in the multi-year AI megatrend remains very high... we now expect our full year 2026 revenue growth to be slightly above 40% year-over-year in U.S. dollar terms."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

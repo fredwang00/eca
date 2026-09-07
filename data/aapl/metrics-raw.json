@@ -1,7 +1,7 @@
 {
   "source": "yfinance",
   "ticker": "AAPL",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-09-07",
   "quarters": {
     "Q4 2025": {
       "revenue_m": 143756.0,
@@ -77,6 +77,36 @@
       "operating_cash_flow_m": 29935.0,
       "capital_expenditure_m": -2940.0,
       "bvps": 4.44
+    },
+    "Q2 2026": {
+      "revenue_m": 109417.0,
+      "gross_profit_m": 54770.0,
+      "operating_income_m": 35695.0,
+      "net_income_m": 29789.0,
+      "eps": 2.03,
+      "total_equity_m": 107520.0,
+      "total_assets_m": 383266.0,
+      "cash_and_equivalents_m": 39544.0,
+      "shares_outstanding_m": 14687.36,
+      "free_cash_flow_m": 31914.0,
+      "operating_cash_flow_m": 34369.0,
+      "capital_expenditure_m": -2455.0,
+      "bvps": 7.32
+    },
+    "Q1 2026": {
+      "revenue_m": 111184.0,
+      "gross_profit_m": 54781.0,
+      "operating_income_m": 35885.0,
+      "net_income_m": 29578.0,
+      "eps": 2.02,
+      "total_equity_m": 106491.0,
+      "total_assets_m": 371082.0,
+      "cash_and_equivalents_m": 45572.0,
+      "shares_outstanding_m": 14667.69,
+      "free_cash_flow_m": 26731.0,
+      "operating_cash_flow_m": 28702.0,
+      "capital_expenditure_m": -1971.0,
+      "bvps": 7.26
     }
   }
 }

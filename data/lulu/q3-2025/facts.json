@@ -28,5 +28,23 @@
       "management_tone_shift": "I also want to acknowledge we have seen trends slow a bit since Thanksgiving, which we've taken into account in our Q4 guidance."
     },
     "extracted_at": "2026-04-05"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 2525.2,
+    "gross_profit_m": 1477.2,
+    "operating_income_m": 523.8,
+    "net_income_m": 370.9,
+    "eps": 3.1,
+    "total_equity_m": 4387.3,
+    "total_assets_m": 7523.4,
+    "cash_and_equivalents_m": 1155.8,
+    "shares_outstanding_m": 118.94,
+    "free_cash_flow_m": 150.8,
+    "operating_cash_flow_m": 328.7,
+    "capital_expenditure_m": -177.9,
+    "bvps": 36.89
+  },
+  "flags": []
 }

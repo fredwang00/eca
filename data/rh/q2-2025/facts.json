@@ -29,5 +29,23 @@
       "management_tone_shift": "The clouds will break as Warren Buffett said and the sun will come out again, and when it does, we'll be there \u2014 paired with explicit confidence that RH will benefit from tariff-driven industry consolidation."
     },
     "extracted_at": "2026-04-05"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 814.0,
+    "gross_profit_m": 355.3,
+    "operating_income_m": 55.9,
+    "net_income_m": 8.0,
+    "eps": 0.43,
+    "total_equity_m": -110.8,
+    "total_assets_m": 4650.3,
+    "cash_and_equivalents_m": 46.1,
+    "shares_outstanding_m": 18.73,
+    "free_cash_flow_m": 31.3,
+    "operating_cash_flow_m": 86.6,
+    "capital_expenditure_m": -55.3,
+    "bvps": -5.92
+  },
+  "flags": []
 }

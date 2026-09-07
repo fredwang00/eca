@@ -29,5 +29,23 @@
       "management_tone_shift": "We realize we underestimated what we could do in one year, not to mention ten years... 2026 is shaping up to be much bigger."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 1283.0,
+    "gross_profit_m": 982.0,
+    "operating_income_m": 650.0,
+    "net_income_m": 605.0,
+    "eps": 0.67,
+    "total_equity_m": 9140.0,
+    "total_assets_m": 38137.0,
+    "cash_and_equivalents_m": 4261.0,
+    "shares_outstanding_m": 901.33,
+    "free_cash_flow_m": -950.0,
+    "operating_cash_flow_m": -937.0,
+    "capital_expenditure_m": -13.0,
+    "bvps": 10.14
+  },
+  "flags": []
 }

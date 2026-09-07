@@ -1,0 +1,51 @@
+{
+  "ticker": "LULU",
+  "quarter": "Q2 2026",
+  "company": "Lululemon Athletica Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 2471.6,
+    "gross_profit_m": 1338.8,
+    "operating_income_m": 276.9,
+    "net_income_m": 195.0,
+    "eps": 1.69,
+    "total_equity_m": 4825.6,
+    "total_assets_m": 8531.4,
+    "cash_and_equivalents_m": 1514.7,
+    "shares_outstanding_m": 119.55,
+    "free_cash_flow_m": 87.1,
+    "operating_cash_flow_m": 214.4,
+    "capital_expenditure_m": -127.4,
+    "bvps": 40.36
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C+",
+    "dim5_grade": "C+",
+    "composite_score": 2.635,
+    "composite_grade": "C+"
+  },
+  "signals": {
+    "consumer_stress_tier": "trade_down",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "decelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "consumer_stress_tier": "Guests are looking for away-from-body silhouettes... leggings trends so far this year have been below our expectations, with sales declining approximately 20% in Q2.",
+      "capex_direction": "Capital expenditures were approximately $150 million for the quarter compared to approximately $178 million in the second quarter last year... we now expect capital expenditures to be approximately $680 million to $700 million [full year].",
+      "pricing_power": "We are not joining in with promotional events... markdowns increased 70 basis points [in Q2], with a 60 basis point increase expected in Q3.",
+      "management_tone_shift": "As we move into Q3, while we are seeing good guest reaction to our activations and some of our newer styles, the overall response to our product launches remains inconsistent... August has gotten off to a bit of a slow start."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

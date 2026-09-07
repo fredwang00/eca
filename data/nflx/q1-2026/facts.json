@@ -1,0 +1,51 @@
+{
+  "ticker": "NFLX",
+  "quarter": "Q1 2026",
+  "company": "Netflix, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 12249.8,
+    "gross_profit_m": 6361.5,
+    "operating_income_m": 3957.0,
+    "net_income_m": 5282.8,
+    "eps": 1.25,
+    "total_equity_m": 31126.4,
+    "total_assets_m": 61015.9,
+    "cash_and_equivalents_m": 12259.8,
+    "shares_outstanding_m": 4212.79,
+    "free_cash_flow_m": 5094.1,
+    "operating_cash_flow_m": 5290.2,
+    "capital_expenditure_m": -196.1,
+    "bvps": 7.39
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.8,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "In Q1, view hours were up at a similar rate of growth to what we saw in 2025, despite having the Winter Olympics\u201417 days of robust streaming competition\u2014land in Q1 as well.",
+      "capex_direction": "We will continue to ramp our investment\u2014still small relative to overall content spend\u2014based on demonstrated performance and growing returns... [plus Interpositive acquisition and accelerated M&A-related costs pulled forward into 2026].",
+      "pricing_power": "Netflix subscribers are paying the least per hour of viewing compared to other SVOD offerings\u2014in some cases, you would have to pay two times per hour to get a competitive service.",
+      "management_tone_shift": "We have seen really good progress so far in this first quarter that builds on the solid momentum and results from 2025... we are maintaining our guidance and strong outlook."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

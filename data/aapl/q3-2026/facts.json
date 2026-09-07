@@ -1,0 +1,33 @@
+{
+  "ticker": "AAPL",
+  "quarter": "Q3 2026",
+  "company": "Apple Inc.",
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 3.05,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "services_demand": "Services revenue reached an all-time high of $31 billion, up 16% year over year...all-time records in both developed and emerging markets.",
+      "capex_direction": "R&D in particular has scaled rather significantly year over year...from the start we have believed AI is a really important investment area and we are going to be doing that incrementally on top of what we normally invest in our product roadmap.",
+      "pricing_power": "We will look at a range of options with memory costs increasing...beyond the June quarter, we believe memory costs will drive an increasing impact on our business.",
+      "management_tone_shift": "Our revenue of $111.2 billion was up 17% year over year...we expect our June total company revenue to grow by 14% to 17% year over year."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}

@@ -4,12 +4,14 @@
 
 ## Candor Trajectory
 
-| Quarter | Composite Score | Grade |
-|---------|----------------|-------|
+**Grade progression across nine quarters:**
+
+| Quarter | Score | Grade |
+|---------|-------|-------|
 | Q3 FY2023 | 2.65 | B |
 | Q4 FY2023 | 3.15 | B+ |
 | Q1 FY2024 | 2.54 | B- |
-| Q2 FY2024 | 3.075 | B+ |
+| Q2 FY2024 | 3.08 | B+ |
 | Q3 FY2024 | 2.80 | B- |
 | Q4 FY2024 | 3.40 | B |
 | Q1 FY2025 | 2.65 | B |
@@ -19,116 +21,131 @@
 | Q1 FY2026 | 3.15 | B |
 | Q2 FY2026 | 3.13 | B+ |
 
-**Direction: Oscillating within a narrow B-range band.** No sustained improvement trajectory exists. The pattern is consistent volatility between 2.54 and 3.40, with no quarter breaking into A territory and no quarter falling to C. Three named inflection points:
+**Direction:** Oscillating within a narrow B-to-B+ corridor. No sustained breakout above B+ and no prolonged decline below B-. The high-water mark was Q4 FY2024 (3.40), driven by A-grades in Strategic Clarity and Vision. The low point was Q1 FY2024 (2.54), where investor-forum deferrals and CEO FOG converged.
 
-- **Q1 FY2024 (trough, 2.54):** Investor forum deferral pattern dominated; Affirm Card economics withheld across multiple Q&A redirects. Communication quality was most degraded relative to surrounding quarters.
-- **Q4 FY2024 (peak, 3.40):** Strategic Clarity and Vision each graded A, driven by explicit RLTC boundary logic, proactive securitization benefit disclosure, and falsifiable card targets. Best single-quarter communication in the dataset.
-- **Q4 FY2025 (2.75):** Capital Stewardship fell to C — the only such grade in the dataset — because financial results were referenced entirely without structured prepared-form presentation. The no-prepared-remarks format reached its most extreme expression here.
+**Named inflection points:**
+- *Q4 FY2023 → Q1 FY2024 (decline):* Three consecutive strategic deferrals to an investor forum collapsed the Strategic Clarity and FOG grades simultaneously.
+- *Q1 FY2024 → Q2 FY2024 (recovery):* Eliminating prepared remarks entirely and Linford's RLTC/ABS specificity restored the B+ level.
+- *Q3 FY2024 → Q4 FY2024 (peak):* Proactive negative disclosure on the $30M securitization benefit and A-grades on both strategic dimensions produced the highest composite score.
+- *Q4 FY2025 (dip):* Capital Stewardship fell to C—the only C on Dimension 1 across the entire history—driven by near-total absence of prepared financial disclosure. This is the structural floor risk.
 
-The structural ceiling on candor grades is the persistent absence of proactive prepared-remarks financial disclosure. Linford/O'Hare consistently carry quantitative substance in Q&A; Levchin's openings rarely contain a single metric.
+The trajectory is **stagnating** in the B band. Communication quality has not compounded upward despite improving financial results.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-- **Amazon:** 5-year renewal through January 2031, announced via 8-K (Q1 FY2026).
-- **Shopify:** Partnership renewal through 2028, named counterparty, term disclosed (Q3 FY2025). Shopify GMV grew "twice the speed of overall Affirm GMV growth" for four consecutive quarters as of Q2 FY2024.
-- **Sixth Street:** Named capital markets partner, described as ramping "carefully over the course of next year" (Q2 FY2025).
-- **Alternative Airlines (UK):** Named as Affirm's UK launch partner with initial transaction data (Q1 FY2025).
-- **Fiserv/FIS bank partnerships:** Live, described as generating "excellent interest" (Q2 FY2026).
-- **Intuit/QuickBooks:** Named integration, described as early-stage (Q2 FY2026).
-- **ABS execution:** Most recent deal priced "under 100 basis points spread, weighted average yield below 4.6%," explicitly benchmarked to 2021 (Q2 FY2026).
+- **Amazon:** 5-year extension announced via 8-K, counterparty named, term specific: through January 2031. Disclosed Q1 FY2026.
+- **Shopify:** Partnership renewal through 2028, counterparty named, cited Q3 FY2025.
+- **Sixth Street:** Named forward-flow capital partner, described as ramping "carefully over the course of next year" as of Q2 FY2025. No dollar value disclosed.
+- **ABS execution (Q2 FY2026):** Spread under 100 basis points, weighted average yield below 4.6%—benchmarked against 2021 as the last comparable print. Counterparty not named but terms are verifiable.
+- **Shopify UK integration:** Described as live and "scaling" as of Q2 FY2026. No GMV figure disclosed.
+- **Alternative Airlines (UK):** Named as initial UK launch partner, Q1 FY2025.
 
 ### Aspirational
-- Pipeline of PSP default payment method relationships: "live with one" PSP as of Q2 FY2026, no counterparty named, no volume disclosed.
-- "Every single merchant will benefit from 0% programs" — no timeline, no penetration milestone.
-- Affirm Card vision: 10 million active cardholders at $7,500 annual spend. Current status: "just under 1/3 of the way" on cards, "1/3 to 1/2 of the way" on spend (Q1 FY2026). No timeline.
-- International expansion beyond UK: "Europe next" — no counterparty, no timeline, no volume target.
-- Boost AI merchant adoption: Levchin admitted he "was trying to sneak into the letter exactly how few merchants have adopted" it (Q2 FY2026). No adoption count disclosed.
-- AdaptAI: "Average 5% increase in GMV" described as an "early result" with more expected. No merchant count, no confidence interval (Q4 FY2025).
-- Bank charter: Application in process; "timeline is certainly years," no approval guaranteed (Q2 FY2026).
-- Consumer segmentation disclosure: "We will at some point start talking a little bit more about the customer segmentation" — no date (Q2 FY2026).
-- Medium-term financial framework update: Committed to May 12, 2026 investor forum.
+- "10 million active cards at $7,500 annual spend" — no timeline, no fiscal year target attached. Cited as a goal across Q4 FY2024 through Q1 FY2026.
+- Merchant 0% funding penetration growing from "7% of total merchant base" — directional only, no target or timeline as of Q3 FY2025.
+- Fiserv/FIS bank partnerships — "excellent interest" cited Q2 FY2026, no counterparty names, no GMV.
+- Intuit/QuickBooks — named but "a little bit early to talk to the unit economics" as of Q2 FY2026.
+- ServiceTitan, automotive repair, elective medical verticals — described as infrastructure capability markers, no milestones.
+- PSP default payment method progress — "live with one" PSP confirmed Q2 FY2026, partner unnamed.
+- International expansion beyond UK — referenced as multi-year pipeline without quantitative benchmarks.
+- "Big Nothing Day / 0% Days" results — promised "full view" at Q2 FY2026 call after event occurred in Q1 FY2026.
+- Medium-term financial framework update — deferred to May 12, 2026 investor forum.
 
 ---
 
 ## Capital Figures
 
-All figures from structured financial data in analyses, attributed to quarter reported.
+All figures from structured financial disclosures as reported across quarters.
 
-| Quarter | Key Disclosed Metrics |
-|---------|----------------------|
-| Q3 FY2023 | Cash and securities >$2B; ABS "3x oversubscribed"; RLTC "a little over the midpoint of 3%–4% range" |
-| Q4 FY2023 | GMV floor of $24B for FY2024; RLTC framework "similar to FY23" (3%–4%) |
-| Q1 FY2024 | Non-transaction OpEx reduced $50M YoY; full-year AOP margin raised to "closer to 5%"; GMV +28% |
-| Q2 FY2024 | ABS priced 100bps tighter than December deal; RLTC 3%–4% corridor maintained |
-| Q3 FY2024 | Q4 adjusted operating margin guided 15%–17%; GMV growth 36% in Q3, implied ~25% midpoint in Q4 guide |
-| Q4 FY2024 | $30M non-recurring securitization benefit disclosed; RLTC ex-benefit ~3.5%–3.8%; 200bps AOI margin expansion committed for FY2025; card TTM spend ~$3,000/cardholder |
-| Q1 FY2025 | RLTC margin Q2 guide: 3.8%; rate sensitivity: 40bps per 100bps Fed move, 12–18 month lag |
-| Q2 FY2025 | $60M securitization/loan sale benefit; $50B GMV long-term target cited; $3,500 TTM card spend per cardholder |
-| Q3 FY2025 | GMV $100M/day; high-end Q4 guide implies 34% YoY growth vs. 36% in Q3; 0% APR mix elevated but unquantified |
-| Q4 FY2025 | Card TTM GMV/cardholder $4,700 (up from ~$3,500); 7% of merchant base running 0% funded programs; RLTC within 3%–4% |
-| Q1 FY2026 | RLTC 4.2%; FY2026 RLTC target ~4%; GMV growth 40% YoY; card GMV/cardholder "1/3–1/2 toward $7,500"; 10M card target "just under 1/3 achieved" |
-| Q2 FY2026 | RLTC guided "slightly above 4%" for Q3 and Q4; card GMV +160% YoY; active cardholders +121%; 0% deals on card +190% YoY; ABS yield below 4.6%, spread under 100bps |
+| Quarter | Key Metric | Value |
+|---------|-----------|-------|
+| Q3 FY2023 | Cash and securities available for sale | >$2 billion |
+| Q3 FY2023 | RLTC as % of GMV | Slightly above 3.5% (midpoint of 3–4% range) |
+| Q3 FY2023 | ABS transaction oversubscription | 3x |
+| Q4 FY2023 | GMV guidance floor (FY2024) | $24 billion |
+| Q4 FY2023 | RLTC long-term framework | 3–4% of GMV |
+| Q1 FY2024 | Non-transaction OpEx reduction YoY | $50 million |
+| Q1 FY2024 | Full-year adjusted operating income outlook | ~5% of revenue |
+| Q2 FY2024 | ABS spread improvement vs. December deal | 100 basis points tighter |
+| Q4 FY2024 | Non-recurring securitization benefit | $30 million |
+| Q4 FY2024 | RLTC target for FY2025 | +10 basis points expansion |
+| Q4 FY2024 | AOI margin expansion commitment (FY2025) | 200 basis points |
+| Q4 FY2024 | Affirm Card TTM spend per active cardholder | ~$3,000 |
+| Q1 FY2025 | RLTC guidance (Q2 FY2025) | ~3.8% of GMV |
+| Q1 FY2025 | Rate sensitivity rule | 40 bps per 100 bps move, 12–18 month lag |
+| Q3 FY2025 | GMV run rate | ~$100 million per day |
+| Q3 FY2025 | Q4 FY2025 GMV growth guidance (high end) | ~34% YoY |
+| Q4 FY2025 | Affirm Card TTM spend per active cardholder | $4,700 |
+| Q4 FY2025 | Merchant 0% funding penetration | 7% of total merchant base |
+| Q4 FY2025 | AdaptAI early GMV lift | ~5% |
+| Q1 FY2026 | RLTC (Q1 actuals) | 4.2% of GMV |
+| Q1 FY2026 | RLTC guidance (FY2026 target) | ~4.0% |
+| Q1 FY2026 | Fashion/beauty vertical growth | 30% |
+| Q1 FY2026 | FY2026 GMV growth (40% YoY cited in context) | ~40% |
+| Q2 FY2026 | ABS weighted average yield | <4.6% |
+| Q2 FY2026 | Affirm Card GMV growth YoY | ~160% |
+| Q2 FY2026 | Active cardholders growth YoY | 121% |
+| Q2 FY2026 | 0% deals on card growth YoY | 190% |
+| Q2 FY2026 | RLTC guidance (Q3–Q4 FY2026) | Slightly above 4.0% |
 
 ---
 
 ## FOG Patterns
 
-**Persistent phrases across the dataset:**
+**Recurring phrases across quarters (with frequency signal):**
 
-1. **"Killer quarter" / "excellent quarter" / "another record"** — present in prepared remarks for at least seven consecutive quarters, always unanchored to metrics in the opening statement. Highest FOG concentration in the dataset.
-2. **"Firing all pistons"** — Q1 FY2025 prepared remarks; Q4 FY2025 prepared remarks. A mechanical cliché deployed in lieu of results summary.
-3. **"Credit is job #1 through #5"** — Q3 FY2023 and recurs as a ritual phrase. Flagged in Q3 FY2023 as calcifying from signal to noise. Still appearing.
-4. **"Surgical / tactical"** — Q4 FY2023, used without operational specificity.
-5. **"The tone and tenor of conversations with capital partners is very constructive"** — Q4 FY2023; similar formulations in Q1 FY2025 ("capital markets, still extremely constructive") and Q2 FY2026 ("market is still very constructive"). The phrase travels across CFO transitions.
-6. **"Early days / still very early"** — appears six times within Q2 FY2026 alone across different initiatives. Has become a systematic expectation-management hedge.
-7. **"Lots of goodness to come"** — Q1 FY2025; a phrase with zero informational content.
+1. **"[Another] killer/excellent quarter"** — appears in prepared remarks across Q4 FY2024, Q1 FY2025, Q4 FY2025, Q2 FY2026. The prepared remarks have become progressively shorter, making this phrase an increasing share of management's structured disclosure. Q4 FY2025 opened: "The results, which I do think are exceptionally strong, is all the explaining we need to do." That is the entire prepared remarks section.
 
-**Direction: Degrading in prepared remarks, stable in Q&A.** Levchin's opening statements have become shorter and less substantive over time (from five sentences with some context in Q3 FY2023 to sub-200-word openings with no metrics by Q4 FY2025 and Q2 FY2026), concentrating FOG in the only scripted section of the call. Q&A FOG is lower, largely because CFO answers (Linford through Q4 FY2025, O'Hare thereafter) maintain precision. The CFO transition from Linford to O'Hare in Q4 FY2024 has not materially changed Q&A quality.
+2. **"Firing on all pistons"** — Q1 FY2025 ("firing all pistons"), Q4 FY2025 ("firing on all pistons"). Mechanical cliché with zero informational content, used in the highest-visibility slot.
 
-**One improvement noted:** Levchin developed a habit of self-correcting on vague language ("I hate the term secret sauce," "I don't want to perjure myself") in FY2025–2026 calls. This is a positive micro-signal inside an otherwise flat-to-declining language precision trend.
+3. **"Credit is always job number 1, probably through number 5"** — cited Q3 FY2023, reiterated in substance across every subsequent quarter. First flagged as a "ritual phrase" risk in Q3 FY2023; it has calcified precisely as predicted.
+
+4. **"Lots of goodness to come"** / **"a lot more things coming"** — appears in variant forms Q1 FY2024 (holiday promotions), Q2 FY2024 (card roadmap), Q3 FY2024 (card features), Q1 FY2025. A rolling aspirational container that never closes.
+
+5. **"Early days"** / **"still very early"** — Q2 FY2024 (Affirm account), Q3 FY2024 (card maturity), Q1 FY2025 (UK), Q2 FY2026 (rent test, Boost AI, Fiserv, Intuit). Used approximately six times in Q2 FY2026 alone, flagged explicitly as a "systematic hedge" pattern.
+
+6. **"Very constructive" (capital markets)**— Q4 FY2023 ("tone and tenor of conversations with Capital Partners today is very constructive"), Q2 FY2024 (forward flow), Q1 FY2025, Q2 FY2026 ("market is still very constructive"). Unvarying across rate environments.
+
+7. **Investor forum deferrals** — Strategic deferral to future events is a structural FOG mechanism, not just episodic. Q1 FY2024: four deferrals to an investor forum one week later. Q4 FY2025: medium-term framework deferred to the May investor forum. Q2 FY2026: consumer segmentation and initiative materiality deferred to the May 12 investor forum.
+
+**Linguistic precision over time:** Not improving. The FOG is concentrated in prepared remarks, which have gotten shorter but not more precise. Linford and O'Hare's Q&A contributions remain consistently lower-FOG; Levchin's prepared remarks have become structurally vestigial while his Q&A quality holds. The net effect is that FOG is being condensed rather than eliminated.
 
 ---
 
 ## Flags & Risks
 
-**Data Quality Flags:**
-- No equity decline, debt covenant breach, or missing metric flags appear in structured data across any quarter.
-- Top-5 merchant concentration metric was redefined in Q2 FY2026 (different composition than prior year due to departing partner), making YoY comparisons unreliable without explicit adjustment.
-- Non-GAAP RLTC is the primary operating metric throughout; GAAP reconciliation is consistently relegated to supplements, not the call.
+**Structural disclosure risks:**
+- **Prepared remarks as information desert.** The format trend is clear: Q3 FY2023 (brief), Q4 FY2023 (almost none), Q1 FY2024 (five sentences), Q2 FY2024 (one sentence), culminating in Q4 FY2025's opening line serving as the entirety of structured management disclosure. Investors who do not pre-read the shareholder letter receive no financial context from management. This is not a candor positive—it is an analyst-dependence risk. The call Q2 FY2026 opened with approximately 90 words.
 
-**Communication-Level Risks (synthesized):**
+- **Capital Stewardship Dimension 1 scored C in Q4 FY2025** — the only C across all twelve quarters on this dimension. This is a data-quality flag: if the trend holds into Q1 FY2026 territory, the format is suppressing rather than reflecting financial transparency.
 
-- **Structural disclosure dependency on analyst sophistication.** With near-zero prepared financial remarks, what gets disclosed is determined by which questions analysts ask. This has been flagged explicitly in Q3 FY2025, Q4 FY2025, and Q2 FY2026. The format has not been tested in a bad-results quarter — all calls in the dataset cover strong-results quarters.
+- **Partner concentration opacity.** Amazon was implicitly a renewal risk that resolved (5-year extension, Q1 FY2026). An unnamed large enterprise merchant departed entirely (referenced Q4 FY2025, Q2 FY2026). The top-five merchant concentration metric was redefined in Q2 FY2026 because the cohort changed. These three events together reveal that partner concentration risk is real, material, and consistently under-disclosed until it resolves or forces disclosure.
 
-- **Serial deferral pattern.** First flagged in Q3 FY2023. As of Q2 FY2026, the following remain unquantified across multiple quarters: zero APR mix's RLTC impact, partner economics for Apple Pay/Shopify/Amazon, Boost AI merchant adoption count, UK volume metrics, and consumer segmentation breakdown. Individual deferrals are defensible; the aggregate creates a systematic information gap.
+- **No "What Went Wrong" disclosure across the entire history.** The credit bureau reporting discussion in Q3 FY2025 and the Levchin competitive pricing discipline story in Q1 FY2024 are the closest the call record comes to voluntary adverse disclosure. The departing enterprise merchant in Q4 FY2025 and Q2 FY2026 is handled as a modeling footnote without strategic explanation.
 
-- **"Perishable goal" risk on Affirm Card.** The card has appeared as a future-dominant catalyst since Q4 FY2023 without a timeline. The $7,500/10M target was introduced in Q4 FY2024; progress metrics appeared in Q1 FY2026. The target exists but has no deadline — "probably not [FY2025]" was the only bounding statement.
+- **Unfalsifiable confidence claims.** Q1 FY2025: "Every time Affirm team decides to do something, it is rarely overnight, but it is never not successful." This was flagged at the time as a credibility liability when the first initiative underperforms. It has not been retracted or qualified in subsequent quarters.
 
-- **Departing enterprise merchant opacity.** A material partner is exiting; zero volume assumed for Q1 FY2026. The partner is unnamed across all calls, the reason is unstated, and no merchant retention risk framework was offered. This is the most significant unacknowledged negative event in the dataset.
-
-- **Unfalsifiable confidence claims.** "Every time Affirm team decides to do something, it is rarely overnight, but it is never not successful" (Q1 FY2025). This claim cannot survive contact with a genuine initiative failure and sets a credibility trap.
-
-- **Initiative proliferation without financial tethering.** Q2 FY2026 introduced or updated eight distinct initiatives with no connection to GMV or revenue guidance. Materiality cannot be independently assessed.
+- **Zero APR RLTC contribution — persistent non-disclosure.** The question was asked in multiple forms across Q3 FY2025, Q4 FY2025, and Q2 FY2026. Management's consistent answer: "we haven't given precision around that." This is the single most-requested piece of financial data on the calls and the most consistently withheld.
 
 ---
 
 ## Verify Next Quarter
 
-The following commitments were generated in Q2 FY2026 (most recent call) and should be checked when Q3 FY2026 results drop:
+From Q2 FY2026 tracking commitments, verify at Q3 FY2026 (approximately May 2026) or the May 12, 2026 investor forum:
 
-1. **May 12, 2026 investor forum.** Management committed explicitly to delivering a "medium-term financial framework" update. Verify: Were quantitative milestones disclosed (GMV targets, margin range updates, card milestones)? Or did the forum remain qualitative? This is the single highest-priority accountability check — a deferred numerical commitment explicitly dated.
+1. **Medium-term financial framework.** Explicitly deferred to the May 12 investor forum. Verify whether quantitative milestones are disclosed—not just qualitative themes. The absence of falsifiable targets at that event would be the most significant accountability failure in the call record.
 
-2. **0% / "Big Nothing" promotional event results.** Levchin committed at Q1 FY2026 to packaging results with "a full view" at Q2 FY2026. That disclosure did not materialize in quantitative form. As of Q2 FY2026, card 0% deals grew 190% YoY but RLTC contribution remained undisclosed. Track whether Q3 provides: GMV generated, merchant participation, RLTC impact, or consumer acquisition metrics from this event.
+2. **"Big Nothing Day" results.** Levchin promised a "full view" of the promotional event at Q2 FY2026. Verify whether specific metrics were disclosed (GMV generated, merchant count, consumer acquisition cost, FICO profile of participants) or whether "full view" remained qualitative.
 
-3. **UK/Shopify scaling.** Described as "scaling" but "not at peak run rate." Wayfair UK in "beta/pre-beta." Verify: Is UK GMV disclosed with a number? Is Wayfair UK live? Is Shopify UK at run-rate contribution?
+3. **Boost AI merchant adoption.** Levchin acknowledged trying to "sneak into the letter exactly how few merchants have adopted Boost AI." Track whether merchant count and GMV contribution are disclosed at the investor forum or Q3.
 
-4. **Boost AI merchant adoption.** Levchin admitted low adoption count was "sneaked" out of the shareholder letter. Verify: Is adoption count now disclosed? Is there any measurable GMV contribution? Continued non-disclosure after two quarters is itself a signal.
+4. **UK/Shopify scaling + Wayfair UK beta.** UK described as "scaling nicely" with Wayfair in "beta/pre-beta." Verify whether UK GMV receives a quantitative benchmark, and whether the Wayfair UK integration has crossed any disclosed threshold.
 
-5. **PSP default payment method expansion.** "Live with one" as of Q2 FY2026. Verify: Were additional PSPs named or announced? Did any PSP relationship generate discernible GMV uplift?
+5. **PSP default payment method expansion.** One PSP confirmed as live (unnamed). Watch for additional PSP announcements and any disclosed GMV impact.
 
-6. **RLTC guidance execution.** O'Hare guided "slightly above 4%" for Q3 and Q4 FY2026. Verify actual Q3 RLTC against this guidance, and note whether any non-recurring items (securitization benefits) are disclosed proactively as they were in Q4 FY2024 — that voluntary disclosure remains the standard for this dimension.
+6. **Affirm Card milestones.** As of Q1 FY2026: "just under 1/3 of the way to 10 million active cards" and "1/3 to 1/2 of the way to $7,500 annual spend." These are benchmarked and falsifiable—verify explicit progress reporting against these stated positions.
 
-7. **Affirm Card trajectory.** Current: "just under 1/3" of 10M active card target, "1/3–1/2" toward $7,500 annual spend. Verify whether these fractions advance, stall, or the metric framing changes. Any shift away from this specific progress-reporting language would be a negative accountability signal.
+7. **Zero APR RLTC contribution.** If the question is asked again and the answer remains "we haven't given precision around that," flag this as an eleven-quarter pattern of systematic non-disclosure on the most analytically consequential unquantified variable in the model.

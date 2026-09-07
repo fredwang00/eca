@@ -1,0 +1,82 @@
+{
+  "source": "yfinance",
+  "ticker": "UBER",
+  "fetched_at": "2026-09-07",
+  "quarters": {
+    "Q2 2026": {
+      "revenue_m": 14191.0,
+      "gross_profit_m": 6376.0,
+      "operating_income_m": 1890.0,
+      "net_income_m": 2394.0,
+      "eps": 1.18,
+      "total_equity_m": 27316.0,
+      "total_assets_m": 65801.0,
+      "cash_and_equivalents_m": 4870.0,
+      "shares_outstanding_m": 2039.99,
+      "free_cash_flow_m": 2792.0,
+      "operating_cash_flow_m": 2862.0,
+      "capital_expenditure_m": -70.0,
+      "bvps": 13.39
+    },
+    "Q1 2026": {
+      "revenue_m": 13203.0,
+      "gross_profit_m": 5945.0,
+      "operating_income_m": 1923.0,
+      "net_income_m": 263.0,
+      "eps": 0.13,
+      "total_equity_m": 24751.0,
+      "total_assets_m": 59885.0,
+      "cash_and_equivalents_m": 5558.0,
+      "shares_outstanding_m": 2036.42,
+      "free_cash_flow_m": 2286.0,
+      "operating_cash_flow_m": 2351.0,
+      "capital_expenditure_m": -65.0,
+      "bvps": 12.15
+    },
+    "Q4 2025": {
+      "revenue_m": 14366.0,
+      "gross_profit_m": 5685.0,
+      "operating_income_m": 1774.0,
+      "net_income_m": 296.0,
+      "eps": 0.14,
+      "total_equity_m": 27041.0,
+      "total_assets_m": 61802.0,
+      "cash_and_equivalents_m": 7105.0,
+      "shares_outstanding_m": 2067.91,
+      "free_cash_flow_m": 2808.0,
+      "operating_cash_flow_m": 2883.0,
+      "capital_expenditure_m": -75.0,
+      "bvps": 13.08
+    },
+    "Q3 2025": {
+      "revenue_m": 13467.0,
+      "gross_profit_m": 5358.0,
+      "operating_income_m": 1113.0,
+      "net_income_m": 6626.0,
+      "eps": 3.18,
+      "total_equity_m": 28134.0,
+      "total_assets_m": 63344.0,
+      "cash_and_equivalents_m": 8432.0,
+      "shares_outstanding_m": 2079.77,
+      "free_cash_flow_m": 2230.0,
+      "operating_cash_flow_m": 2328.0,
+      "capital_expenditure_m": -98.0,
+      "bvps": 13.53
+    },
+    "Q2 2025": {
+      "revenue_m": 12651.0,
+      "gross_profit_m": 5040.0,
+      "operating_income_m": 1450.0,
+      "net_income_m": 1355.0,
+      "eps": 0.65,
+      "total_equity_m": 22598.0,
+      "total_assets_m": 55982.0,
+      "cash_and_equivalents_m": 6438.0,
+      "shares_outstanding_m": 2086.77,
+      "free_cash_flow_m": 2475.0,
+      "operating_cash_flow_m": 2564.0,
+      "capital_expenditure_m": -89.0,
+      "bvps": 10.83
+    }
+  }
+}

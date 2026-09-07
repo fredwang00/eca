@@ -29,5 +29,18 @@
       "management_tone_shift": "Unlike where the business was back in 2022... the new focus on being the best platform for active traders has made us more resilient in times like these... we have multiple mechanisms for these active traders to engage no matter what the market environment is."
     },
     "extracted_at": "2026-03-31"
-  }
+  },
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": null,
+    "gross_profit_m": null,
+    "operating_income_m": null,
+    "net_income_m": null,
+    "eps": null,
+    "free_cash_flow_m": null,
+    "operating_cash_flow_m": null,
+    "capital_expenditure_m": null
+  },
+  "flags": []
 }

@@ -1,0 +1,52 @@
+{
+  "ticker": "ABNB",
+  "quarter": "Q1 2026",
+  "company": "Airbnb, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-07",
+    "revenue_m": 2678.0,
+    "gross_profit_m": 2097.0,
+    "operating_income_m": 86.0,
+    "net_income_m": 160.0,
+    "eps": 0.27,
+    "total_equity_m": 7636.0,
+    "total_assets_m": 26828.0,
+    "cash_and_equivalents_m": 7037.0,
+    "shares_outstanding_m": 594.94,
+    "free_cash_flow_m": 1708.0,
+    "operating_cash_flow_m": 1708.0,
+    "capital_expenditure_m": null,
+    "bvps": 12.83
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-07",
+    "skill_version": "base",
+    "dim1_grade": "A",
+    "dim2_grade": "B",
+    "dim3_grade": "B",
+    "dim4_grade": "B",
+    "dim5_grade": "A",
+    "composite_score": 3.4,
+    "composite_grade": "B+"
+  },
+  "signals": {
+    "consumer_stress_tier": "neutral",
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "consumer_stress_tier": "We have millions of homes everywhere in the world at nearly every price point... when tariff uncertainty led to fewer people traveling to the U.S. last year, they came to Airbnb and found somewhere else to go.",
+      "services_demand": "Almost 1/4 of new guests who booked an experience go on to book a stay or a service. And about one in three people who book an experience book a stay within 90 days.",
+      "capex_direction": "We are obviously ramping up our use of AI internally... I would anticipate that that is an expense that will ramp over the course of the year.",
+      "pricing_power": "ADR increased 9% year-over-year... with noticeable strength in North America.",
+      "management_tone_shift": "We're raising our guidance for 2026 and now expect year-over-year revenue growth to accelerate to low to mid-teens, and we anticipate our adjusted EBITDA margin to be at least 35%."
+    },
+    "extracted_at": "2026-09-07"
+  }
+}
