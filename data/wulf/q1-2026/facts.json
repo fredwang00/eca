@@ -1,0 +1,50 @@
+{
+  "ticker": "WULF",
+  "quarter": "Q1 2026",
+  "company": "TeraWulf Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-09",
+    "revenue_m": 34.0,
+    "gross_profit_m": 31.7,
+    "operating_income_m": -136.4,
+    "net_income_m": -427.6,
+    "eps": -1.01,
+    "total_equity_m": -78.8,
+    "total_assets_m": 7008.8,
+    "cash_and_equivalents_m": 2630.0,
+    "shares_outstanding_m": 425.05,
+    "free_cash_flow_m": -540.5,
+    "operating_cash_flow_m": -17.6,
+    "capital_expenditure_m": -523.0,
+    "bvps": -0.19
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-09",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "B",
+    "dim3_grade": "C",
+    "dim4_grade": "C",
+    "dim5_grade": "B",
+    "composite_score": 2.65,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "capex_direction": "We are targeting 480 megawatts online in the second half of 2027... a portion of the approximately $1.2 billion of equity raised year-to-date will fund TeraWulf's equity contribution to the Kentucky project.",
+      "pricing_power": "The result of a very competitive process are some terms that we're excited about that we think you will find competitive in the market today... we need to continue to ensure that we provide low-cost energy... customers are pushing hard to get more prompt power, but they're willing to contract for longer periods of time.",
+      "management_tone_shift": "I have said that we expect to have a customer in place in the second quarter, and I remain highly confident... we are locked and loaded. From here, it is about execution."
+    },
+    "extracted_at": "2026-09-09"
+  }
+}

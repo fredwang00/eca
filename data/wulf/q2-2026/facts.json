@@ -1,0 +1,52 @@
+{
+  "ticker": "WULF",
+  "quarter": "Q2 2026",
+  "company": "TeraWulf Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-09",
+    "revenue_m": 44.8,
+    "gross_profit_m": 32.4,
+    "operating_income_m": -140.1,
+    "net_income_m": -939.9,
+    "eps": -1.94,
+    "total_equity_m": 147.3,
+    "total_assets_m": 8048.4,
+    "cash_and_equivalents_m": 2619.2,
+    "shares_outstanding_m": 498.93,
+    "free_cash_flow_m": -992.3,
+    "operating_cash_flow_m": -136.7,
+    "capital_expenditure_m": -855.6,
+    "bvps": 0.3
+  },
+  "flags": [
+    "equity_declining_yoy"
+  ],
+  "candor": {
+    "analyzed_at": "2026-09-09",
+    "skill_version": "base",
+    "dim1_grade": "B+",
+    "dim2_grade": "A-",
+    "dim3_grade": "C+",
+    "dim4_grade": "C",
+    "dim5_grade": "B+",
+    "composite_score": 2.9,
+    "composite_grade": "B"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": null,
+    "capex_direction": "accelerating",
+    "pricing_power": "strong",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "capex_direction": "Approximately $2.3 billion of project capital expenditures have been completed with approximately $1.7 billion remaining... we expect to receive more than $300 million of incremental lease revenue over the initial 10-year lease term... the Anthropic lease... representing approximately $19 billion of contracted revenue over the initial 20-year lease term.",
+      "pricing_power": "The yields that we've been targeting have kind of been in that mid-teens range... we've likely been able to kind of have some pricing benefit on our side with each successive contract as well.",
+      "management_tone_shift": "Based on the strength of the platform and the customer engagement we continue to see, we reaffirm our target of contracting an incremental 250 to 500 megawatts of critical IT capacity annually... we have enough liquidity to do pretty much almost everything that's in our near-term order book today without returning to the equity capital markets."
+    },
+    "extracted_at": "2026-09-09"
+  }
+}

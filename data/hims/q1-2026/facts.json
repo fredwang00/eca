@@ -1,0 +1,51 @@
+{
+  "ticker": "HIMS",
+  "quarter": "Q1 2026",
+  "company": "Hims & Hers Health, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-09",
+    "revenue_m": 608.1,
+    "gross_profit_m": 396.8,
+    "operating_income_m": -78.3,
+    "net_income_m": -92.1,
+    "eps": -0.4,
+    "total_equity_m": 446.2,
+    "total_assets_m": 2267.0,
+    "cash_and_equivalents_m": 222.3,
+    "shares_outstanding_m": 230.7,
+    "free_cash_flow_m": 53.0,
+    "operating_cash_flow_m": 89.4,
+    "capital_expenditure_m": -36.3,
+    "bvps": 1.93
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-09",
+    "skill_version": "base",
+    "dim1_grade": "C+",
+    "dim2_grade": "C",
+    "dim3_grade": "C+",
+    "dim4_grade": "D",
+    "dim5_grade": "C+",
+    "composite_score": 1.965,
+    "composite_grade": "C"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_cautious",
+    "signal_evidence": {
+      "services_demand": "Within weeks of this launch, we are on track to add north of 100,000 new subscribers per month within our weight loss specialty.",
+      "capex_direction": "We will continue investing in our facilities to expand both capabilities and operating efficiency... international expansion is the area where we expect to make the heaviest investment in the coming quarters.",
+      "pricing_power": "Our customers are excited about the Wegovy pill in particular. We have seen them respond extremely well to the affordable price point, impressive efficacy and strong safety profile.",
+      "management_tone_shift": "We do expect to see, over the coming quarters, a couple of points of degradation on gross margins... we expect some volatility in GAAP financial margins as we continue to lean into the opportunity."
+    },
+    "extracted_at": "2026-09-09"
+  }
+}

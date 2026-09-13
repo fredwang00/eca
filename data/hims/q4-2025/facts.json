@@ -1,0 +1,51 @@
+{
+  "ticker": "HIMS",
+  "quarter": "Q4 2025",
+  "company": "Hims & Hers Health, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-09",
+    "revenue_m": 617.8,
+    "gross_profit_m": 444.4,
+    "operating_income_m": 9.2,
+    "net_income_m": 20.6,
+    "eps": 0.09,
+    "total_equity_m": 540.9,
+    "total_assets_m": 2154.7,
+    "cash_and_equivalents_m": 228.6,
+    "shares_outstanding_m": 227.25,
+    "free_cash_flow_m": -2.6,
+    "operating_cash_flow_m": 61.3,
+    "capital_expenditure_m": -63.9,
+    "bvps": 2.38
+  },
+  "flags": [],
+  "candor": {
+    "analyzed_at": "2026-09-09",
+    "skill_version": "base",
+    "dim1_grade": "B",
+    "dim2_grade": "C+",
+    "dim3_grade": "C+",
+    "dim4_grade": "C+",
+    "dim5_grade": "B-",
+    "composite_score": 2.535,
+    "composite_grade": "B-"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "consistent",
+    "signal_evidence": {
+      "services_demand": "Demand for weight loss remains strong with subscribers growing more than 70% year-over-year in the fourth quarter.",
+      "capex_direction": "We invested over $225 million into our operations through discretionary CapEx... we entered into agreements to deploy over $330 million in purchase price consideration towards acquisitions.",
+      "pricing_power": "U.S. prices for injectable GLP-1s falling more than 80% reflect a broader disruption... we are making high-touch personalized care accessible to millions of people.",
+      "management_tone_shift": "Since the end of 2023, we've added almost 1 million net new subscribers to our platform... we left 2025 with a great deal of momentum."
+    },
+    "extracted_at": "2026-09-09"
+  }
+}

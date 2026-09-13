@@ -1,133 +1,112 @@
-# IREN Limited (IREN) — Earnings Call Brief
+# IREN Limited — Earnings Call Brief
+## Q3 2023 through Q4 2026 (9 Quarters)
 
 ---
 
 ## Candor Trajectory
 
-**Grade progression:** B- (Q3 2023) → B (Q2 2024) → B (Q3 2024) → C+ (Q4 2024) → B (Q1 2025) → B (Q2 2025) → B (Q3 2025) → B+ (Q1 2026) → C+ (Q3 2026) → B (Q4 2026)
+**Grade progression:** B- (2.635) → B (2.65) → B (2.65) → C+ (2.575) → B (2.65) → B (2.65) → B+ (3.015) → C+ (2.52) → B (2.80)
 
-**Direction:** Oscillating with a modest upward trend, punctuated by two notable inflection points.
+**Direction:** Stagnating, with one notable inflection in each direction.
 
-**Q4 2024 decline:** The FY2024 full-year call (August 2024) dropped to C+ as AI pipeline language became uniformly aspirational—"everything's always on the table," zero signed AI contracts, Poolside departure reframed without revenue impact acknowledgment, and $823M in ATM dilution disclosed but not defended with a cost-of-capital framework.
-
-**Q1 2026 peak:** The November 2025 call reached B+ anchored by the $9.7B Microsoft contract, the single most specific disclosure in the series: named counterparty, term, annual revenue, project EBITDA margin, CapEx breakdown, prepayment structure, and multi-scenario IRR analysis. Dimensions 1 and 5 both improved materially.
-
-**Q3 2026 regression:** The May 2026 call fell back to C+ as the capital stewardship dimension degraded—the NVIDIA "investment" is a contingent equity option vesting only upon deploying 600,000 GPUs (requiring billions in prior capital raises), presented alongside the signed Microsoft contract without distinguishing the two. Simultaneous Mirantis and Nostrum acquisitions were announced without purchase price, revenue contribution, or integration risk disclosure.
-
-**Q4 2026 recovery:** The August 2026 call returned to B on the strength of genuine financing specificity (named counterparties, interest rates, gearing ratios) and voluntary impairment disclosure, though reflexive capital risk remained structurally unacknowledged.
-
-The CFO (Belinda Nucifora, later Anthony Lewis) has consistently been the highest-candor speaker on every call. CEO Daniel Roberts oscillates between genuine investor education in Q&A and promotional framing in prepared remarks—a persistent asymmetry across the entire series.
+The baseline grade established in Q3 2023 (B-) improved marginally and held near B for six consecutive quarters — a flat trajectory suggesting communication habits are entrenched, not evolving. The single upward inflection occurred in Q1 2026 (B+, 3.015), driven by the named Microsoft contract disclosure with counterparty, term, prepayment structure, CapEx, and multi-scenario IRR — genuinely exemplary capital stewardship that lifted two dimensions simultaneously. The single downward inflection occurred in Q3 2026 (C+, 2.52), where the NVIDIA investment's conditional, vesting-contingent structure was disclosed with the same confidence register as the signed Microsoft agreement, and the reflexive capital strategy was presented as a solved engineering problem. The Q4 2026 partial recovery to B (2.80) reflects improved stakeholder balance and financing specificity, but the FOG dimension held at C across every quarter without exception.
 
 ---
 
 ## Key Commitments
 
-**Signed:**
-- **Microsoft / Childress (Horizon 1):** $9.7B total contract, $1.94B annual revenue, 5-year term, 85% project EBITDA margin, $5.8B GPU CapEx, $1.9B in customer prepayments, $2.5B targeted secured financing. Disclosed Q1 FY2026 (November 2025). Delivery confirmed Q3 FY2026.
-- **NVIDIA AI Cloud Contract:** $3.54B, 5-year term, ~$700M ARR associated with 60MW Childress deployment. Disclosed Q3 FY2026 (May 2026).
-- **GPU Financing Facilities:** $3.6B delayed draw term loan (Goldman Sachs and JPMorgan), sub-6% interest rate ceiling, asset-secured against GPUs and contracted Microsoft cash flows (Q4 FY2026). Additional $2.4B at 9% fixed rate from Blue Owl, PIMCO, and others.
-- **Interconnection Agreements:** 2.3 GW of signed interconnection agreements disclosed Q1 FY2025; expanded to 4.5 GW by Q2 FY2026. Per Kent Draper: "without signed interconnection agreements, the quantum of megawatts, timing and cost is highly uncertain."
-- **Poolside AI GPU Deployment:** Named counterparty, 248 GPUs, disclosed Q2 FY2024. Customer departed by Q4 FY2024.
-- **Bitmain Option (T21/S21 Pro):** 9 EH call option at $14/TH, contracted when Bitcoin was ~$30,000. Successfully amended from T21 to S21 Pro without deployment timeline impact (confirmed Q3 FY2024).
-- **$4B+ ARR Under Contract** as of Q4 FY2026, with CFO disclosure that December-quarter capacity will not appear in revenue until the March quarter—a meaningful sequencing disclosure.
+### Signed
+- **Microsoft / Childress (Horizon 1):** $9.7 billion total contract value, $1.94 billion annual revenue, 5-year term, $1.9 billion in customer prepayments, 85% project EBITDA margin, $5.8 billion GPU CapEx. Counterparty named. Disclosed Q1 2026, confirmed delivered Q4 2026.
+- **IREN AI Cloud — Poolside AI:** Named counterparty, 248 GPUs deployed, terms undisclosed. Disclosed Q2 2024. Poolside subsequently departed; capacity redeployed.
+- **GPU financing — Goldman Sachs / JPMorgan:** $3.6 billion delayed-draw term loan, <6% interest rate ceiling, amortizing, asset-secured against GPUs and contracted Microsoft cash flows. Disclosed Q2 2026.
+- **GPU financing — Blue Owl / PIMCO:** $2.4 billion at 9% fixed rate (non-investment-grade tranche). Disclosed Q4 2026.
+- **Named AI cloud customers (Q4 2026):** Cohere, Prometheus, Perplexity, Figure AI, Fal AI, Higgsfield AI cited as contracted customers; contract values and terms not disclosed.
+- **Bitmain T21→S21 Pro option:** Call option for 9 EH at $14/TH, exercised and amended without timeline impact. Disclosed Q3 2024.
+- **Contracted ARR (Q4 2026):** ">$4 billion of ARR by end of December quarter, already under contract." Revenue effect deferred predominantly to March quarter.
 
-**Aspirational:**
-- **$3.4B → $3.7B ARR target by end of calendar 2026:** Approximately $1B of this (40,000 GPUs in Canada) had no purchased GPUs and incomplete customer contracts as of Q1 FY2026. Management did not clearly separate this from the signed Microsoft component.
-- **Sweetwater 1 energization (April 2026):** Referenced as "on track" across Q3 2025, Q1 2026, and Q2 2026 calls; no anchor tenant signed as of Q3 FY2026. Language has cycled through "advanced stages," "highly confident of contracting ahead of commissioning," and "strong levels of interest" without resolution.
-- **NVIDIA $2.1B equity investment:** Vests only upon deployment of 600,000 GPUs—a milestone requiring IREN to independently finance GPU deployment at enormous scale first. Presented alongside the signed $3.54B contract without distinguishing the contingent nature.
-- **Horizon 1 customer pipeline (non-Microsoft):** "Site visits, diligence, commercial discussions, documentation ongoing" — language unchanged across Q3 FY2025, Q4 FY2025, and Q1 FY2026.
-- **"Late-stage discussions" for 2027 capacity:** Repeated without counterparty names, capacity ranges, or signing timelines in Q4 FY2026.
-- **Unnamed "leading frontier AI lab" contract:** Referenced in Q4 FY2026 as not yet disclosable.
-- **Morgan Stanley West Texas process:** Active for multiple quarters; terminated by IREN in Q2 FY2025 ("we terminated Morgan Stanley—they didn't step out") without replacement transaction announced.
-- **Investor distributions (calendar 2025):** Flagged in Q1 FY2025, deferred in Q2 FY2025 in favor of reinvestment, not revisited subsequently.
+### Aspirational
+- **NVIDIA $2.1 billion "investment":** Vests upon deployment of 600,000 GPUs — a milestone requiring IREN to independently finance and deploy those GPUs first. Presented alongside signed contracts without clear distinction. Disclosed Q3 2026.
+- **$3.4–$3.7 billion ARR targets:** Repeatedly cited across Q1–Q4 2026. The ~$1 billion component from 40,000 Canadian GPUs had no signed customers and GPUs unpurchased as of Q1 2026. The Q3 2026 "$3.7B by year-end" target includes capacity not yet online.
+- **Sweetwater site monetization:** Referenced in every call from Q3 2024 onward. "Active conversations," "advanced negotiations," "Morgan Stanley process" (subsequently terminated Q2 2025). No signed counterparty, no binding term sheet disclosed across six quarters.
+- **West Texas 1.4 GW land:** $5–$12/watt valuation cited from Morgan Stanley; IREN simultaneously disclaimed ability to assess fair value. No transaction announced.
+- **"Leading frontier AI lab" contract:** Referenced Q4 2026 as undisclosed due to confidentiality. No counterparty named, no value disclosed.
+- **$25–$30 billion FY2027 CapEx guidance:** Stated with specific deliverable categories but conditioned on "a range of factors." No committed financing disclosed for the full amount.
+- **Horizon 1 anchor customer (Childress liquid-cooled):** Management expressed "high confidence" of contracting ahead of commissioning across Q3–Q4 2025. Contract confirmed only with Microsoft at Q1 2026.
 
 ---
 
 ## Capital Figures
 
-*Attributed to specific quarters from structured financial data and CFO disclosures. Numbers not inferred from narrative.*
+| Quarter | Revenue | CapEx | FCF | Operating Income | Cash | Total Equity |
+|---------|---------|-------|-----|-----------------|------|-------------|
+| Q3 2023 | — | — | — | — | $68.9M | — |
+| Q2 2024 | — | — | — | — | ~$146M | — |
+| Q3 2024 | — | — | — | — | $322M | — |
+| Q4 2024 | $116.1M | -$187.6M | -$134.0M | $18.0M | $427.3M | $1,286.3M |
+| Q1 2025 | $144.8M | -$443.8M | -$654.7M | $27.9M | $184.3M | $1,425.6M |
+| Q2 2025 | $187.3M | -$357.9M | $49.2M | $16.8M | $564.5M | $1,817.5M |
+| Q3 2025 | $240.3M | -$280.6M | -$138.3M | -$60.1M | $1,032.3M | $2,876.2M |
+| Q4 2025 | $184.7M | -$836.9M | -$765.2M | -$84.7M | $3,260.6M | $2,511.2M |
+| Q1 2026 | $144.8M | -$1,355.2M | -$1,279.9M | -$93.3M | $2,213.3M | $2,664.5M |
+| Q2 2026 | $137.2M | -$1,978.2M | -$167.1M | -$140.6M | $5,895.6M | $4,185.6M |
+| Q3 2026 | $144.8M | — | — | — | — | — |
+| Q4 2026 (FY26) | — | — | — | -$684M net loss | $7.6B (of which $1.7B restricted) | — |
 
-| Quarter | Revenue | CapEx | FCF | Cash | Total Equity |
-|---|---|---|---|---|---|
-| Q3 FY2023 | — | — | — | $68.9M | — |
-| Q2 FY2024 | — | — | — | ~$146M | — |
-| Q3 FY2024 | — | — | — | $322M (Apr 30) | — |
-| Q4 FY2024 | — | — | — | $404.6M | — |
-| Q1 FY2025 | — | — | — | $98.6M | — |
-| Q2 FY2025 | $187.3M | -$357.9M | $49.2M | $564.5M | $1,817.5M |
-| Q3 FY2025 | $240.3M | -$280.6M | -$138.3M | $1,032.3M | $2,876.2M |
-| Q4 FY2025 | $184.7M | -$836.9M | -$765.2M | $3,260.6M | $2,511.2M |
-| Q1 FY2026 | $144.8M | -$1,355.2M | -$1,279.9M | $2,213.3M | $2,664.5M |
-| Q2 FY2026 | $137.2M | -$1,978.2M | -$167.1M | $5,895.6M | $4,185.6M |
-
-**Key operating metrics (from CFO disclosures):**
-- **All-in Bitcoin cost per coin:** $11,000 (FY2023) → $13,900 (H1 FY2024) → $18,100 (FY2024) → $29,000 (Q1 FY2025) → $41,000 (Q3 FY2025) → $36,000 (Q4 FY2025)
-- **Adjusted EBITDA:** -$6.4M (H1 FY2024) → $54.7M (FY2024) → $92M (Q3 FY2025) → $59.5M (Q1 FY2026)
-- **Net power cost (Childress):** $0.014/kWh (FY2023 inception average) → $0.033–0.036/kWh (Q3 FY2025) → $0.035/kWh (Q4 FY2025)
-- **ATM issuance:** $168M (through Q2 FY2024); $823M gross from 121M shares through FY2024; year-to-date capital raises of $9.2B itemized by source (Q2 FY2026)
-- **FY2027 CapEx guidance:** $25B–$30B (Q4 FY2026)
+Additional disclosed figures: Adjusted EBITDA of $54.7M (FY2024), $2.6M (Q1 FY2025), $62.6M (Q2 FY2025), $83.3M (Q3 FY2025), $59.5M (Q3 FY2026), $92M (Q1 FY2026). ATM issuance: 121 million shares raising $823M through FY2024. Total capital raises year-to-date Q2 2026: $9.2 billion itemized by source. Mining hardware impairment: $450.4M noncash (Q4 2026). Total equity declined from $2,876.2M (Q3 2025) to $2,511.2M (Q4 2025) — a negative equity trajectory flag.
 
 ---
 
 ## FOG Patterns
 
-**Persistent phrases across the full series:**
+The FOG Index graded C in every single quarter across nine quarters. This is the most consistent finding in the dataset. No improvement, no degradation — a structural communication habit.
 
-1. **"We're excited / super excited / really excited"** — Roberts uses variants of "excited" or "super pumped" as a default transition filler. By Q2 FY2024, the phrase appeared at minimum eight times per call, drained of signal value. Never resolved across subsequent quarters.
+**Recurring phrases across multiple quarters:**
+- "Really excited" / "super excited" / "super pumped" — present from Q3 2023 through Q4 2026, appearing in some form in every transcript
+- "Uniquely positioned" — appears in Q4 2025, Q1 2026, Q2 2026, Q4 2026; never accompanied by a competitive benchmark
+- "Strong demand" / "very strong demand" — used by multiple speakers across every AI-related discussion from Q3 2024 onward; never quantified with conversion rates, pipeline dollar values, or customer counts
+- "Active/advanced conversations/discussions" — Sweetwater and AI pipeline language, unchanged across six quarters
+- "We are not the constraint" / "demand is not the constraint" — deployed to preempt structural pipeline questions beginning Q1 2025, recurring through Q4 2026
+- "It's dynamic" / "it's nuanced" — Roberts' reflexive qualifier when declining to provide deal-specific financial guidance
+- "This is only the beginning" / "what lies ahead" — aspirational closers present in Q3 2023 and Q4 2026
 
-2. **"Uniquely positioned"** — Appears in Q2 FY2024, Q3 FY2024, Q4 FY2024, Q1 FY2025, Q2 FY2025, Q3 FY2025, Q4 FY2025, Q1 FY2026, Q2 FY2026, and Q3 FY2026. Never once substantiated with a competitive benchmark. Q4 FY2026 upgrades to "really, really unique position."
+**The one discernible FOG improvement:** The Q1 2026 call graded B- on FOG (vs. C elsewhere) due to the Microsoft contract's specificity pulling the prepared remarks toward substance. The Q&A in that call also contained Roberts' most precise financial language under pressure (IRR sensitivities, leverage assumptions, colocation charge methodology). This improvement did not persist — Q3 2026 returned to C+.
 
-3. **"Strong / very strong / extremely strong demand"** — Universal demand characterization applied to every site and every product across every quarter. Statistically improbable uniformity. No conversion rates, pipeline dollar values, or customer counts provided to substantiate any instance.
-
-4. **"Pipeline remains strong / active conversations / late-stage discussions"** — The Sweetwater pipeline has been described with this language for at least six consecutive quarters without a signed anchor tenant. The phrase "late-stage discussions" appears in Q4 FY2026 for 2027 capacity with zero counterparty specificity.
-
-5. **"It's an exciting time for us and for the industry"** — Ritual opener or transition across Q3 FY2024, Q1 FY2025, Q3 FY2025. No informational content.
-
-6. **"The sporting analogy" (ones and zeros / get the signature)** — Roberts deploys this device to answer questions about AI deal timing across at least Q1 FY2025 and Q2 FY2025. Becomes a prepared deflection pattern rather than an organic illustration by third use.
-
-**Linguistic trajectory:** FOG has not improved across the series despite company maturation. The Q1 FY2026 call (B+) showed measurable improvement—the Microsoft disclosure discipline temporarily elevated precision—but the Q3 FY2026 call immediately reverted. The prepared-remarks-versus-Q&A asymmetry is structural: Roberts is consistently more specific and direct under analyst pressure than in scripted segments.
-
-**One genuine improvement:** The signed/aspirational distinction improved after Q2 FY2025. Kent Draper's explicit statement that IREN only reports signed interconnection agreements, distinguishing them from "made-up pipeline of megawatts," became a recurring disclosure standard that peers do not match.
+**Pattern that worsened:** Roberts' use of historical analogies (railways, telecoms, real estate) as substitutes for direct engagement with structural risk questions increased in frequency and prominence from Q3 2025 onward, peaking in Q4 2026.
 
 ---
 
 ## Flags & Risks
 
-**Equity and balance sheet:**
-- Total equity declined from $2,876.2M (Q3 FY2025) to $2,511.2M (Q4 FY2025) while cash increased from $1,032.3M to $3,260.6M — equity contraction driven by $684M net loss and $450.4M noncash mining hardware impairments.
-- Equity partially recovered to $4,185.6M by Q2 FY2026 via capital raises.
-- ATM dilution: 121M shares / $823M in FY2024 alone. Never defended with explicit cost-of-capital framework or per-share accretion analysis beyond Roberts' stated preference for dilution-adjusted EBITDA per share.
+**Data quality flags:**
+- Total equity declined from $2,876.2M (Q3 2025) to $2,511.2M (Q4 2025) — negative equity trajectory in a single quarter despite ongoing capital raises
+- Q4 2026 net loss of $684 million including $450.4 million noncash mining hardware impairments — disclosed clearly but without CEO-level ownership or lesson-drawing
+- Q2 2025 convertible note maturity date stated as "June 15, 2023" (past date) — transcription error uncorrected on the call
+- Q1 2026 convertible note issuance stated as "$1 million" — almost certainly a 1,000x magnitude error; not corrected on the call
+- CapEx accelerating from -$187.6M (Q4 2024) to -$1,978.2M (Q2 2026) while revenue grew from $116.1M to $187.3M — sustained negative FCF across all but one quarter (Q2 2025: +$49.2M)
 
 **Communication-level risks:**
-
-1. **Reflexive capital strategy, structurally unacknowledged:** IREN's flywheel requires sustained elevated stock price for equity/convertible issuance, GPU financing market liquidity, and customer prepayment rates of 45–55%. Roberts describes this as "arguably little equity over time" and analogizes to real estate mortgage finance. The NVIDIA "investment" vests only upon deploying 600,000 GPUs—a condition requiring prior independent capital raises. This circularity has been absent from every call's risk discussion.
-
-2. **Perishable goal replacement:** Morgan Stanley West Texas process ran for multiple quarters, then was terminated with no replacement deal. Sweetwater has been "in advanced discussions" for six-plus quarters. The 40,000 additional Canadian GPUs ($1B ARR) had no purchase orders or customer contracts at announcement. Pattern: named initiatives generate narrative attention; when they don't close, they are quietly superseded by newer initiatives without retrospective accounting.
-
-3. **Contracted ARR vs. operating ARR conflation:** "More than $4 billion of ARR under contract" (Q4 FY2026) while quarterly revenue was $137.2M (implying ~$550M annualized). The CFO disclosed the timing gap but the sequencing of prepared remarks creates an impression mismatch that sophisticated investors must manually correct.
-
-4. **Convertible note typo uncorrected:** Q1 FY2026 call stated "$1 million in 0 coupon convertible notes" — almost certainly $1 billion. Not corrected on the call. For a company describing $9.7B contracts, a 1,000x magnitude error uncaught in a live investor event is a process control flag.
-
-5. **No "what went wrong" disclosure at CEO level:** The $105.2M impairment (FY2023), the $7M hedge exit cost (FY2024), the Poolside departure, the Horizon 1 design reconfiguration — each is disclosed by the CFO or acknowledged briefly, then immediately reframed as a strategic advantage or managed transition. Roberts has never used an earnings call to explain a judgment error, governance change, or lesson learned.
-
-6. **Will Roberts entirely absent from calls:** The co-CEO is referenced but has not spoken on any analyzed call. In a founder-led business where co-founder alignment is cited as a structural advantage, this absence is a governance observation worth monitoring.
+- **Reflexive capital strategy unacknowledged:** The NVIDIA $2.1B investment vests only upon 600,000 GPU deployment — a milestone requiring prior independent capital raises. The "funding flywheel" (prepayments + GPU financing + narrative premium) is presented as a solved problem, not an ongoing structural dependency on market conditions
+- **Aspirational-to-signed conflation:** The $3.4–$3.7B ARR target has been cited across five consecutive quarters; the ~$1B Canadian component had no signed customers or purchased GPUs as of Q1 2026. The contracted/aspirational distinction, while sometimes made explicitly (Sweetwater 2 grid agreement acknowledgment in Q2 2025 is the best example), is not applied consistently
+- **Perishable goal replacement:** Sweetwater monetization language has recycled across six quarters with updated adjectives ("advanced," "late-stage," "robust") but no signed transaction. The Morgan Stanley engagement was terminated and disclosed only in response to a Twitter question
+- **No structured prior-quarter accountability:** No call in the dataset opens with "we said X last quarter; here is what happened." This absence is consistent and systematic
+- **Problem disclosure asymmetry:** The mining hardware impairments and cost disclosures are handled at the CFO level with specificity. No CEO-level "what went wrong" discussion appears in any quarter. Poolside's departure was reframed as opportunity without acknowledging the revenue gap timing risk
 
 ---
 
 ## Verify Next Quarter
 
-From the Q4 FY2026 call (August 27, 2026), the following commitments require verification at the Q1 FY2027 earnings call:
+From the Q4 2026 tracking commitments:
 
-1. **"More than $4 billion of ARR by end of December quarter" — confirm delivery.** CFO disclosed that December-quarter capacity comes online late in the quarter; revenue effect shows in March quarter. Verify whether Horizons 2, 3, and 4 were commissioned on schedule. Any slippage requires explicit root cause, not reframing.
+1. **">$4 billion of ARR by end of December quarter."** Already contracted as of the call. Verify whether Horizons 2, 3, and 4 were delivered on schedule. Any slippage should be acknowledged with root cause. Watch for ARR metric redefinition if delivery delays occur.
 
-2. **Mining operations "effectively decommissioned by end of December 2026."** Binary and verifiable. If any mining revenue appears in Q1 FY2027, this commitment was not met.
+2. **Mining operations "effectively decommissioned by end of December 2026."** Binary and verifiable. If mining revenue appears in Q1 FY2027 results, this commitment was not met.
 
-3. **"~$8 billion of additional GPU financing and prepayments" targeting.** Progress should be disclosed with the same specificity as this call: counterparty names, interest rates, structure. Vague references to "continued strong financing market conditions" without closed transactions are a negative accountability signal.
+3. **"~$8 billion of additional GPU financing and prepayments" target.** Progress should be disclosed with counterparty names, rates, and structure — the same specificity provided in Q4 2026. Vague references to "favorable financing markets" without closed transactions are a negative signal.
 
-4. **Unnamed "leading frontier AI lab" contract.** Roberts said it would be disclosable "soon." If still anonymous after one more quarter, the persistent non-disclosure requires explanation.
+4. **The unnamed "leading frontier AI lab" contract.** Roberts indicated disclosure was forthcoming. If still anonymous in Q1 FY2027, flag persistent anonymity for a major anchor contract.
 
-5. **Q1 FY2027 SG&A guidance of "$40M–$50M sequential increase."** Specific, verifiable. Confirm whether actual SG&A was within range and whether the associated revenue ramp materialized.
+5. **Q1 FY2027 cash SG&A increase of "$40–$50 million sequentially."** Specific and verifiable. Check whether actual SG&A tracked to guidance and whether the associated revenue ramp materialized.
 
-6. **Prepayment rate stability.** Currently "45%–55% of GPU CapEx." If this ratio compresses materially, the funding flywheel model changes and management's characterization of it as a "solved engineering problem" requires reassessment.
+6. **Prepayment rate (currently "45%–55% of GPU CapEx"):** If this ratio compresses in Q1 FY2027, the funding flywheel analysis changes materially. Management's framing of any compression will be a primary candor test.
 
-7. **Sweetwater 1 energization (April 2026 target) — confirmed or revised?** This milestone was "on track" as of the August 2026 call. The December call should either confirm delivery or explain delay. Watch for whether language reverts to "advanced discussions" with 2027 framing.
+7. **Nostrum and Mirantis integration:** Both acquisitions announced Q3 2026 without purchase prices or revenue contributions. Q1 FY2027 should disclose: consideration paid, integration timeline, and first commercial contribution evidence.

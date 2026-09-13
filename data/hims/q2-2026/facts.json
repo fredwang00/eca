@@ -1,0 +1,53 @@
+{
+  "ticker": "HIMS",
+  "quarter": "Q2 2026",
+  "company": "Hims & Hers Health, Inc.",
+  "metrics": {
+    "source": "yfinance",
+    "ingested_at": "2026-09-09",
+    "revenue_m": 753.2,
+    "gross_profit_m": 480.8,
+    "operating_income_m": -97.2,
+    "net_income_m": -86.3,
+    "eps": -0.37,
+    "total_equity_m": 324.1,
+    "total_assets_m": 3628.8,
+    "cash_and_equivalents_m": 609.8,
+    "shares_outstanding_m": 233.3,
+    "free_cash_flow_m": -68.2,
+    "operating_cash_flow_m": -35.9,
+    "capital_expenditure_m": -32.3,
+    "bvps": 1.39
+  },
+  "flags": [
+    "equity_declining_yoy"
+  ],
+  "candor": {
+    "analyzed_at": "2026-09-09",
+    "skill_version": "base",
+    "dim1_grade": "B-",
+    "dim2_grade": "C+",
+    "dim3_grade": "C+",
+    "dim4_grade": "D",
+    "dim5_grade": "C+",
+    "composite_score": 2.14,
+    "composite_grade": "C"
+  },
+  "signals": {
+    "consumer_stress_tier": null,
+    "credit_quality_trend": null,
+    "auto_credit_trend": null,
+    "housing_demand": null,
+    "services_demand": "expanding",
+    "capex_direction": "accelerating",
+    "pricing_power": "moderate",
+    "management_tone_shift": "more_confident",
+    "signal_evidence": {
+      "services_demand": "In the second quarter, we welcomed more than 300,000 subscribers, bringing our global subscriber base to nearly 3 million people.",
+      "capex_direction": "We are accelerating investment in our technology and AI capabilities... we plan to add new AI talent to the team... open an AI R&D lab in Menlo Park... invest aggressively in these [international] markets.",
+      "pricing_power": "We see opportunities as we gain more efficiencies to make price points more affordable... our expectation is that we will unlock more value for our weight loss subscribers by the end of the year in the form of lower prices and/or additional tools.",
+      "management_tone_shift": "We are in one of the most exciting stages in our history... we're playing offense, and we have the balance sheet and cost structure to sustain it in a way others cannot."
+    },
+    "extracted_at": "2026-09-09"
+  }
+}

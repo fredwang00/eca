@@ -1,157 +1,133 @@
-# Cipher Digital (CIFR) — Synthesis Brief
-**Q1 2023 through Q2 2026 | 11 Quarters**
+# Cipher Mining / Cipher Digital (CIFR) — Consolidated Brief
 
 ---
 
 ## Candor Trajectory
 
-**Scores by quarter:**
+**Grade progression:** B (2.85) → B (2.85) → B (2.85) → B (2.65) → B+ (3.43) → B (2.60) → B (2.65) → B (2.40) → C+ (2.53) → B- (2.76) → B+ (3.05) → B (2.35) → B (2.80) → B (3.00)
 
-| Quarter | Score | Grade |
-|---------|-------|-------|
-| Q1 2023 | 2.85 | B |
-| Q2 2023 | 2.85 | B |
-| Q3 2023 | 2.85 | B |
-| Q4 2023 | 2.65 | B |
-| Q1 2024 | 3.43 | B+ |
-| Q2 2024 | 2.60 | B |
-| Q3 2024 | 2.65 | B |
-| Q4 2024 | 2.40 | B– |
-| Q1 2025 | 2.53 | C+ |
-| Q2 2025 | 2.76 | B– |
-| Q3 2025 | 3.05 | B+ |
-| Q4 2025 | 2.35 | C |
-| Q1 2026 | 2.80 | B |
-| Q2 2026 | 3.00 | B |
+The trajectory is not linear. Three distinct phases are visible:
 
-**Inflection points:**
+**Stable baseline (Q1–Q3 2023, 2.85 flat):** Consistent B across three quarters. Tyler Page's authentic voice, site-level cost specificity, and honest Q&A were genuine differentiators from sector peers, but structural weaknesses — no prior-guidance accountability, "best-in-class" without comparators, C-level stakeholder breadth — held the ceiling.
 
-- **Q1 2024 (peak, 3.43):** Post-halving clarity, unusually specific Q&A from Page on hash economics, and strong CFO financial disclosure combined to produce the highest composite score in the history. This is the quality ceiling.
+**First inflection: Q1 2024 (B+, 3.43).** Peak score in the history. Driven by unusually specific capital requirement disclosure (the $420M Black Pearl arithmetic), honest post-halving framing, and A-level CFO financial remarks. The company was communicating from a position of operational clarity.
 
-- **Q4 2024–Q1 2025 (trough, 2.35–2.53):** The HPC pivot announcement without any signed contracts, the SoftBank exclusivity lapse disclosed only under analyst questioning, and saturated promotional language in prepared remarks drove the sharpest decline. This is the accountability floor.
+**Decline phase (Q2 2024–Q4 2024, 2.60 → 2.65 → 2.40):** The HPC pivot introduced aspirational language at exactly the moment when contractual specificity mattered most. The CFO's Q2 2024 arithmetic error, the Q3 2024 FOG concentration in HPC deal language ("pretty advanced," "expressed interest," "half dozen folks"), and the Q4 2024 drop to 2.40 — driven by a C on both Strategic Clarity and FOG — mark this as the disclosure low. The CEO's prepared remarks became promotional as the strategic narrative outran the signed contracts.
 
-- **Q3 2025 (recovery, 3.05):** Named counterparties (AWS, Google/Fluidstack), contracted values, and specific delivery timelines produced the second-highest composite. Ed Farrell's farewell tribute also marked a cultural authenticity peak.
+**Second inflection: Q3 2025 (B+, 3.05).** Named counterparties (Google, AWS), quantified deal terms ($5.5B over 15 years, August 2026 rent commencement), and honest hedging ("ink is still drying") restored credibility. This is the post-signing recovery.
 
-- **Q4 2025 (relapse, 2.35):** The "business update" format with near-zero financial data dropped Dimension 1 to D—the only sub-2.0 dimension grade in the record—dragging the composite below C math despite solid strategic communication.
+**Current regression: Q4 2025 (2.35, effectively C).** Near-total absence of financial data dragged Dimension 1 to D. Q1 2026 partially recovers (2.80) but Q2 2026 (3.00) holds at B with a structural omission: gross profit of -$32.6M against $24.8M revenue is never discussed.
 
-**Direction:** Stagnating at B, with high variance driven by CFO discipline vs. CEO promotional language split and the HPC pivot cycle (aspiration → contract announcement → opacity on financing).
+**Direction: declining from the Q3 2025 peak.** The pattern is a company where CFO financial specificity is consistently the floor and CEO promotional language is consistently the ceiling depressant.
 
 ---
 
 ## Key Commitments
 
 ### Signed
-- **AWS / Black Pearl Phase 1 & 2:** 300 gross MW; $5.5B contracted revenue over 15-year term; Phase 1 rent commencement October 2026 (stated Q2 2026 call); Phase 2 by Q4 2026. Named counterparty, disclosed value, specific term.
-- **Fluidstack / Barber Lake:** $3.0B over 10 years; Google backstopping $1.4B of Fluidstack obligations; Google received warrants representing ~5.4% pro forma equity. Named counterparties, disclosed values.
-- **Stingray bond:** $810M at 6% coupon, 8x oversubscribed, non-recourse project financing. Q2 2026.
-- **Bitmain rig contract (Q1 2024 era):** 45%/45% payment structure tied to Q2 2025 delivery; disclosed in Q1 2024 as $220M rig component of $420M Black Pearl total.
-- **Canaan rig option (Q4 2024):** Black Pearl Phase 2 Canaan option described as exercisable; ~$260M Phase 2 cost disclosed in Q4 2024 Q&A.
-- **$1.3B convertible offering:** 0% coupon, 37.5% premium, effective dilution floor ~$23.32/share; net proceeds $1.2B. Q3 2025.
-- **Apollo site financing:** Submitted as studied load; bond structure referenced in Q2 2026 without coupon specifics.
+- **Fluidstack/Google (Barber Lake):** 168 gross MW; Google backstopping $1.4B of Fluidstack's obligations plus warrants representing ~5.4% pro forma equity; $3B contract value over 10 years; rent commencement expected October 2026. Disclosed Q3 2025.
+- **Amazon Web Services (Black Pearl Phase 2):** 300 gross MW; $5.5B over 15-year initial term; Phase 1 delivery by July 2026, Phase 2 by Q4 2026; rent commencement August 2026. Disclosed Q3 2025. Black Pearl Phase 1 delivered ahead of schedule per Q2 2026.
+- **Stingray project bond:** $810M at 6% coupon, 8x oversubscribed; project financed non-recourse. Q2 2026.
+- **Apollo/Milsing site:** Submitted as studied load to ERCOT; ~2.1 GW expected energization 2030+. Q2 2026.
+- **Bitmain rig contract (Black Pearl):** 45%/45% payment structure tied to Q2 2025 delivery; $14/TH contracted vs. $16/TH market at time of signing. Q1 2024.
+- **Canaan (Canon) S21 rigs:** One-third Q1 2024, two-thirds Q2 2024 delivery schedule. Q3 2023.
+- **Odessa PPA (Luminant):** Fixed price ~$0.027/kWh; expires July 2027. Disclosed and tracked across all quarters.
 
 ### Aspirational
-- **Reveille and Ulysses leases:** "I expect all those available megawatts will end up leased." No counterparty named, no value disclosed, no term. Repeated across Q3 2025, Q4 2025, Q1 2026, Q2 2026.
-- **Odessa HPC conversion:** "Early-stage discussions with multiple prospective tenants" as of Q2 2026. No counterparty, no value, July 2027 PPA expiration creates real deadline.
-- **ERCOT Batch Zero inclusions (Colchis, Mikeska, McLennan, Apollo):** Page expressed "strong conviction" but these are regulatory outcomes. ~2 GW of pipeline contingent on approval timing that Cipher does not control.
-- **"$793M average annualized NOI" (2026–2036):** Presented as a projection in Q2 2026 without distinguishing contracted from aspirational components. No probability weighting disclosed.
-- **1.7 GW → 4.4 GW pipeline progression:** Pipeline figures have grown every quarter since Q2 2024 without a consistent breakdown of signed vs. LOI vs. options vs. applications.
-- **Behind-the-meter generation:** "Too early to give exact forecasts" as of Q2 2026; Page describes it as larger than the rest of the portfolio. No counterparty, no capital commitment, no timeline.
-- **Barber Lake 56 MW optionality:** "I'm highly confident we will have some sort of deal there pretty soon" — Q1 2025, Q2 2025, Q1 2026. Still unresolved as of last transcript.
+- **$793M average annualized net operating income (2026–2036).** No explicit probability weighting, no breakdown between contracted and uncontracted sites. Q2 2026.
+- **4.4 GW total pipeline / 5.3 GW across 11 sites.** Includes sites awaiting ERCOT Batch Zero approval (Colchis, Mikeska, McLennan) and sites in "early-stage discussions." Q2 2026.
+- **Reveille (70 MW, Q2 2027) and Ulysses (~200 MW, 2027) lease execution.** "Multiple interested parties," "engaged in HPC hosting lease discussions." No named tenant, no signed agreement. Q2 2026.
+- **Odessa HPC conversion.** "Early-stage discussions with multiple prospective tenants." PPA expires July 2027. Q1 2026, Q2 2026.
+- **Behind-the-meter / collocated generation.** "Best resources dedicated to investigating it now," "personally very bullish." No named counterparty, no engineering milestone. Q4 2025, Q1 2026.
+- **Barber Lake 56 MW optionality.** "Highly confident we will have some sort of deal there pretty soon." Q4 2024, Q1 2025; unresolved as of Q2 2026.
+- **3M sites (Mikeska, Milsing, McLennan) interconnect approval.** "Expect results finalized this year" as of Q3 2024; still pending as of Q2 2026 Batch Zero process.
+- **"Several ongoing reviews" of M&A opportunities.** First stated Q1 2024; no transaction announced through Q2 2026.
 
 ---
 
 ## Capital Figures
 
-*From structured financial data where available; narrative figures from specific transcripts otherwise noted.*
+All figures from structured financial data where available; call-disclosed figures noted separately.
 
-| Quarter | Revenue | CapEx | FCF | Op. Income | Cash | Total Equity |
-|---------|---------|-------|-----|------------|------|--------------|
-| Q1 2023 | $21.9M* | — | — | — | — | — |
-| Q2 2023 | $31.2M* | — | — | — | — | — |
-| Q3 2023 | $30.3M* | — | — | — | — | — |
-| Q4 2023 | $43.4M* | — | — | — | — | — |
-| Q1 2024 | $48.1M* | — | — | — | — | — |
-| Q2 2024 | $37.0M* | — | — | — | — | — |
-| Q3 2024 | $24.0M* | — | — | — | — | — |
-| Q4 2024 | $42.0M* | — | — | — | — | — |
-| Q1 2025 | $49.0M* | — | — | — | $23M* | — |
+| Quarter | Revenue | Capex | FCF | Operating Income | Cash | Total Equity |
+|---------|---------|-------|-----|-----------------|------|-------------|
+| Q1 2023 | $21.9M (call) | — | — | — | — | — |
+| Q2 2023 | $31.2M (call) | — | — | — | — | — |
+| Q3 2023 | $30.3M (call) | — | — | — | — | — |
+| Q4 2023 | $43.4M (call) | — | — | — | — | — |
+| Q1 2024 | $48.1M (call) | — | — | — | — | — |
+| Q2 2024 | $37.0M (call) | — | — | — | — | — |
+| Q3 2024 | $24.0M (call) | — | — | — | — | — |
+| Q4 2024 | $42.0M (call) | — | — | — | — | — |
+| Q1 2025 | $49.0M | -$100.0M | -$147.3M | -$32.1M | $23.2M | $734.8M |
 | Q2 2025 | $43.6M | -$119.0M | -$175.2M | -$28.1M | $62.7M | $748.9M |
 | Q3 2025 | $71.7M | -$45.1M | -$95.2M | -$34.8M | $1,207.4M | $783.2M |
 | Q4 2025 | $59.7M | -$230.1M | -$284.6M | -$228.9M | $628.3M | $805.5M |
 | Q1 2026 | $34.8M | -$554.0M | -$462.5M | -$64.3M | $715.2M | $714.2M |
 | Q2 2026 | $24.8M | -$410.3M | -$653.8M | -$72.6M | $831.8M | $562.1M |
 
-*\*From transcript narrative, not structured data.*
+**Additional call-disclosed capital figures:**
+- Total project debt as of Q2 2026: "just over $6.0B"
+- Restricted cash (construction + DSRA/IDC): $3.7B
+- $1.3B convertible note issued Q3 2025, 0% coupon, effective conversion price ~$23.32/share
+- $50M SoftBank PIPE, Q1 2025
+- Black Pearl Phase 1 remaining spend at Q4 2024 call: ~$200M ($50M infrastructure + $150M rigs)
+- Stingray bond: $810M at 6% coupon, Q2 2026
 
-**Notable capital items:**
-- $6B+ aggregate project debt as of Q2 2026 (three non-recourse bonds); total assets ~$7.5B implies thin equity cushion ($562.1M) at Q2 2026.
-- $3.7B in restricted project cash ($3.2B construction + $526M DSRA/IDC) at Q2 2026—not accessible liquidity.
-- Black Pearl total cost disclosed Q1 2024 as $420M ($200M infrastructure + $220M rigs); ~$30M spent at that time; ~$200M remaining at Q4 2024.
-- Odessa PPA derivative asset: grew from $72M (Q1 2023) → $101M (Q1 2024) → declined in later quarters as forward curves shifted.
-- ATM equity issuance: ~978K shares at $2.78/share ($2.7M net) disclosed Q2 2023.
-- $50M SoftBank PIPE disclosed Q1 2025, partially explaining cash recovery from $6M to $23M that quarter.
-- Q2 2026: Revenue $24.8M against gross profit of **negative $32.6M** — not discussed on the call.
+**Flags:** equity_declining_yoy active Q1 2026 and Q2 2026. Total equity declined from $805.5M (Q4 2025) to $562.1M (Q2 2026), a 30% decline in two quarters. FCF outflow accelerating: -$653.8M in Q2 2026 versus -$462.5M in Q1 2026.
 
 ---
 
 ## FOG Patterns
 
-**Recurring phrases across multiple quarters (6+ quarters each):**
+**Persistent phrases across multiple quarters:**
 
-- **"Best-in-class unit economics"** — Q1 2023 through Q4 2024. Asserted without named peer comparisons or defined metrics. Appeared 5 times in Q1 2023 alone. Faded after Bitcoin mining economics became unambiguous post-halving.
+1. **"Best-in-class unit economics"** — documented in Q1 2023, Q2 2023, Q3 2023, Q4 2023, Q1 2024, Q4 2024. No named peer comparison in any instance. The supporting data (all-in electricity cost per Bitcoin by site) is present and specific; the superlative label is consistently unearned.
 
-- **"Best-in-class team / operational excellence"** — Q3 2025 through Q2 2026. Replaced "best-in-class unit economics" as the signature unsupported superlative after the strategic pivot.
+2. **"We are very excited / never been more excited"** — Q2 2023, Q3 2024, Q4 2024. Applied to the Rob Flatley appointment, HPC deal momentum, and the Barber Lake announcement respectively. Peaks at Q4 2024: "we have never been more excited about the commercial potential at the site" — said of a site with zero signed leases.
 
-- **"[we/I am] very excited / extremely excited"** — Every quarter. Appears in 12 of 14 transcripts, almost always preceding aspirational pipeline language rather than contracted commitments.
+3. **"Multiple data rooms" / "several ongoing reviews" / "advanced discussions"** — Q1 2023 (expansion pipeline), Q1 2024 (M&A), Q2 2024 (HPC tenants), Q3 2024 ("pretty advanced"), Q4 2024, Q1 2025, Q2 2025, Q2 2026 (Reveille/Ulysses). The formulation recycles across contexts. When the same linguistic structure describes M&A that never happened (2024) and HPC leases that eventually happened (2025), the phrase loses informational value.
 
-- **"Multiple data rooms / discussions with multiple prospective tenants / multiple interested parties"** — Uninterrupted from Q1 2023 through Q2 2026. The word "multiple" recurs as a quantifier that adds the appearance of breadth without disclosing actual count or quality. As of Q2 2026, Odessa and Reveille/Ulysses are still in "early-stage discussions with multiple prospective tenants."
+4. **"Expressed interest" / "inbound interest" / "off the charts demand"** — Q3 2024, Q2 2025 Q3 2025. "Every potential tenant who has seen it thus far has expressed interest" (Q3 2024) is the most egregious instance — "expressed interest" conflating polite engagement with deal proximity.
 
-- **"Expressed interest"** — Q3 2024 peak: "Every potential tenant who has seen it thus far has expressed interest given its optimal setup." Used as deal progress language when no binding expression exists.
+5. **"Truly transformative" / "groundbreaking" / "most exciting in our company's history"** — Q3 2025, Q1 2026. The pattern of front-loaded superlatives before evidence is a structural degradation: Q3 2025 prepared remarks open with "truly transformative," "huge strides," "officially arrived as a leader in the HPC revolution" before naming the contracts.
 
-- **"Pretty advanced / reasonably far along / forthcoming before too long"** — Q3 2024 through Q2 2026. Applied to HPC deals that have taken 4+ quarters to materialize (or not). Barber Lake 56 MW labeled "pretty soon" across three separate calls.
-
-- **"Tremendous pipeline"** — Q2 2025 onward. Never defined by quality tier. Pipeline megawatt count has grown every quarter (1.7 GW → 5.3 GW) without consistent disclosure of what share is under executed LOI vs. application stage.
-
-**Linguistic precision trend:** Degraded from Q1 2024 (peak specificity) through Q4 2024–Q1 2025 (trough), then improved in Q3 2025 when signed contracts provided genuine specificity to anchor. Q2 2026 shows partial recovery in Q&A but continued FOG in prepared remarks. The CEO's Q&A has consistently outperformed his prepared remarks throughout the entire period — the single most durable pattern in the transcript history.
+**Linguistic precision trend: degrading from Q1 2024 through Q4 2024, recovering partially in Q3 2025 (named contracts), but re-degrading in Q4 2025 (financial blackout) and Q2 2026 (gross profit never mentioned). CFO remarks have been consistently lower-FOG than CEO prepared remarks throughout the history; this gap is the most stable pattern in the data.**
 
 ---
 
 ## Flags & Risks
 
-**Data quality flags (from structured metrics):**
-- **Equity declining YoY:** Flagged at Q2 2026 ($562.1M vs. $805.5M at Q4 2025, $748.9M at Q2 2025). Total equity has declined 30% from its Q4 2025 peak in two quarters.
-- **Missing financial metrics:** Q1 2023–Q1 2025 have no structured capex, FCF, or operating income data available in this record.
-- **Gross profit negative at Q2 2026:** Revenue $24.8M vs. implied gross loss of $32.6M — a $57M+ swing from revenue to gross loss line, undiscussed on the call.
-- **FCF deteriorating:** -$175.2M (Q2 2025) → -$95.2M (Q3 2025) → -$284.6M (Q4 2025) → -$462.5M (Q1 2026) → -$653.8M (Q2 2026). Accelerating cash consumption trajectory.
+**Data quality flags:**
+- `equity_declining_yoy` active Q1 2026 and Q2 2026. Equity fell $243M in two quarters despite $1.3B convertible raise in Q3 2025. Primary driver: $268M GAAP net loss in Q2 2026 driven partly by $150.5M noncash warrant remeasurement, plus capital deployment.
+- Q4 2025 call: near-total absence of financial metrics — no revenue, no cash flow, no CapEx. Dimension 1 graded D. "Business update" framing does not excuse the gap for a company with $6B+ in debt and active construction.
+- Q2 2024: CFO arithmetic error — net loss described simultaneously as "138% sequential decrease" and "16% decrease from prior quarter" for a move from -$13M to -$15M. Unresolved and unremarked.
+- Q3 2023: CFO unable to provide JV EBITDA during live Q&A for a segment mining 457 BTC year-to-date: "I don't have in front of me at this point in time the exact data."
 
-**Communication-level risks (aggregated):**
-
-1. **Reflexive capital structure undisclosed.** The company's 4.4 GW aspirational pipeline requires continued equity market access. This dependency — stock price → equity issuance capacity → pipeline execution → narrative → stock price — has never been acknowledged in any transcript. The CFO's Q2 2026 "no additional equity expected" statement applies only to currently financed projects.
-
-2. **HPC aspiration-to-commitment lag.** Management has described Barber Lake 56 MW as "pretty soon" or equivalent across Q1 2025, Q2 2025, Q1 2026, and Q2 2026 — four quarters without resolution. Reveille and Ulysses have been in "discussions" since Q3 2024. The Odessa conversion ("early-stage discussions") faces a hard July 2027 PPA expiration with no signed tenant.
-
-3. **SoftBank exclusivity pattern.** The lapse of SoftBank exclusivity on Barber Lake was disclosed only under analyst questioning (Q1 2025), not in prepared remarks. Similarly, construction financing terms for both major HPC deals were explicitly deferred across multiple calls ("not prepared to give specifics"). Material financing opacity is a recurring pattern.
-
-4. **CFO prepared remarks quality variance.** Ed Farrell's prepared remarks were consistently the strongest financial communication in the record (Q1 2023–Q1 2025). His departure (Q3 2025) introduced Greg Mumford, whose first calls have leaned on boilerplate. The quality of CFO prepared remarks is an independent variable worth monitoring.
-
-5. **"Business update" format (Q4 2025):** One quarter produced zero financial data in the transcript, earning a D in Capital Stewardship. If this format recurs, it should be treated as a disclosure regression, not a formatting choice.
-
-6. **No "what went wrong" disclosure in any quarter.** Across 14 transcripts, no management team member has voluntarily disclosed an execution failure, a mispriced risk, a missed timeline they owned, or a decision they would make differently. The Q3 2023 heat curtailment was framed as a success story. The Alborz impairment (Q1 2025) received zero CEO commentary.
+**Communication-level risks:**
+- **Reflexive capital structure unacknowledged.** The company's pipeline beyond currently financed projects requires continued equity market access. The CFO's "no additional equity expected" statement in Q2 2026 is narrowly worded ("based on current forecasts"), immediately qualified, but the stock-price sensitivity of this assessment is never surfaced. If equity markets close, the 4.4 GW pipeline is a spreadsheet.
+- **Gross profit omission (Q2 2026).** Revenue $24.8M, gross profit -$32.6M. Never discussed on the call. The $793M annualized NOI aspiration crowds out the current burn structure.
+- **Aspirational-to-contracted conflation.** The $793M NOI projection is presented without explicit breakdown of contracted vs. contingent cash flows. ERCOT Batch Zero exposure — estimated 2+ GW contingent on regulatory outcome — is acknowledged but not quantified as a percentage of the projected income.
+- **SoftBank exclusivity lapsed without proactive disclosure.** Material update emerged only under Q&A pressure in Q1 2025. Pattern suggests a "manage news flow" tendency rather than proactive disclosure.
+- **Perishable goal accumulation.** "Multiple data rooms" (Q1 2023), "Rob Flatley / beyond Bitcoin mining" (Q2 2023, never developed), "several ongoing M&A reviews" (Q1 2024, no transaction), "Barber Lake 56 MW deal pretty soon" (Q4 2024–Q2 2025), "tariff announcement in the next month or so" (Q1 2025). Multiple forward promises that quietly lapsed without explicit acknowledgment of resolution or failure.
+- **No "What Went Wrong" disclosure in any quarter.** Operational misses — heat curtailment framed as success, JV impairment disclosed by CFO but unaddressed by CEO, failed deal negotiations described as "ebbed and flowed" — are present but consistently framed as managed or external. Management has never volunteered a self-assessed failure.
 
 ---
 
 ## Verify Next Quarter
 
-*From Q2 2026 analysis — check at Q3 2026 call:*
+From the Q2 2026 analysis, the following commitments require verification at the next earnings call:
 
-1. **Barber Lake Phase 1 rent commencement in October 2026.** This is the single most verifiable commitment in the record — a binary, revenue-visible event. If October rent does not appear in Q3 revenue figures, require a specific explanation and revised timeline.
+1. **Barber Lake Phase 1 rent commencement, October 2026.** The single most verifiable near-term commitment. Revenue in Q3 should reflect the step-up if October commencement occurs. Slippage without explanation is a significant credibility event.
 
-2. **ERCOT Batch Zero outcome for Colchis, Mikeska, McLennan, Apollo, and Stingray expansion.** Page stated "strong conviction" all three primary sites will be included. The Governor's letter (received day before the Q2 call) introduced uncertainty. Demand the binary result and, if delayed, the revised energization timeline for each site and the dollar value of NOI projection at risk.
+2. **ERCOT Batch Zero outcome for Colchis, Mikeska, McLennan, Apollo, and Stingray expansion.** Page expressed "strong conviction that all 3 sites will be included." The Governor's Abbott letter introduced uncertainty the prior day. Q3 must resolve: which sites received Batch Zero inclusion, and on what timeline? Failure at any of the three primary sites requires explicit acknowledgment.
 
-3. **Reveille and Ulysses lease execution.** Both sites have been in "discussions with multiple interested parties" since Q3 2024 — eight quarters. A signed lease or an honest explanation of why none has been signed is overdue. "Early-stage discussions" in Q3 2026 would complete four consecutive years of aspirational language on these sites.
+3. **Reveille and Ulysses lease execution.** "Multiple interested parties" framing has appeared across multiple quarters. By Q3 2026, either a signed lease or an explicit explanation of why the timeline extended. Continued "discussions with multiple prospective tenants" language without execution is a negative accountability signal.
 
-4. **Odessa HPC conversion.** The July 2027 PPA expiration is now within 12 months of the next call. "Early-stage discussions" is no longer an acceptable status — ask for a signed LOI or a definitive statement that Odessa will cease operations at PPA expiry.
+4. **Odessa HPC conversion path.** PPA expires July 2027. "Early-stage discussions" must either advance to LOI or management must disclose a decision framework for Odessa's post-PPA use. The window is closing.
 
-5. **Gross profit trajectory.** Q2 2026 gross profit was negative $32.6M on $24.8M revenue — a fact undisclosed on the call. When Barber Lake rent commences, gross profit should turn sharply positive. Track whether management discusses gross margin explicitly or continues to anchor presentation on adjusted NOI projections.
+5. **Gross profit dynamics.** Q2 2026 gross profit was -$32.6M. The Q3 call must address whether Barber Lake rent commencement moves gross profit to positive, and on what timeline the company expects unit economics to turn. This figure should be explicitly asked about if not volunteered.
 
-6. **Reflexive capital structure question.** Ask directly: what stock price level or equity market condition would require additional equity issuance beyond the three currently financed projects? What is the funding path for Reveille, Ulysses, Colchis, and the Apollo sites?
+6. **Financing disclosure for AWS/Black Pearl Phase 2 construction.** Repeatedly deferred as of Q2 2026 ("we'll be updating the market in short order"). If construction financing terms remain undisclosed by Q3, this is a multi-quarter pattern of material omission.
+
+7. **Behind-the-meter generation.** "Best resources dedicated to investigating" as of Q4 2025. Q3 should show named counterparties, engineering milestones, or financing conversations — not continued investigation.
