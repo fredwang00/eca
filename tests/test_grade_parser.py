@@ -317,6 +317,107 @@ def test_parse_restated_dimension_grade_takes_last():
     assert result["composite_score"] == 2.785
 
 
+SAMPLE_RESTATED_COMPOSITE_GRADE = """### 1. Capital Stewardship & Financial Candor
+**Grade: B**
+
+### 2. Strategic Clarity & Accountability
+**Grade: C+**
+
+### 3. Stakeholder Balance & Culture Signals
+**Grade: C+**
+
+### 4. FOG Index
+**Grade: C+**
+
+### 5. Vision, Leadership & Long-Term Orientation
+**Grade: B-**
+
+---
+
+### Composite Grade: C+
+
+**Calculation:**
+- Dimension 1 (Capital Stewardship): B = 3.0 × 0.25 = **0.75**
+- Dimension 2 (Strategic Clarity): C+ ≈ 2.3 × 0.25 = **0.575**
+- Dimension 3 (Stakeholder Balance): C+ ≈ 2.3 × 0.15 = **0.345**
+- Dimension 4 (FOG Index): C+ ≈ 2.3 × 0.20 = **0.46**
+- Dimension 5 (Vision & Leadership): B- ≈ 2.7 × 0.15 = **0.405**
+
+**Weighted total: 0.75 + 0.575 + 0.345 + 0.46 + 0.405 = 2.535 → B-**
+
+*Note: Using interpolated scores for +/- grades. Rounding to nearest defined
+threshold: 2.535 falls in the B range. Grade: B- (composite score 2.54).*
+"""
+
+
+def test_parse_restated_composite_grade_takes_note():
+    """Real-world regression (HIMS q4-2025/q1-2026/q2-2026): the '### Composite
+    Grade' heading states a preliminary letter written before the weighted
+    arithmetic, then a trailing '*Note: ... Grade: X (composite score Y).*'
+    restates the grade actually implied by the weighted total. The heading
+    grade and the restated grade differ (C+ vs B- here); the restatement is
+    the LLM's final, arithmetic-checked answer and must win."""
+    result = parse_grades(SAMPLE_RESTATED_COMPOSITE_GRADE)
+    assert result["composite_grade"] == "B-"
+    assert result["composite_score"] == 2.535
+
+
+SAMPLE_INLINE_RECORDED_AS_DIM_GRADE = """### 1. Capital Stewardship & Financial Candor
+**Grade: B**
+
+Some analysis.
+
+### 2. Strategic Clarity & Accountability
+**Grade: A-/B+** → recorded as **B**
+
+Some analysis that never repeats a separate "**Grade:" line.
+
+### 3. Stakeholder Balance & Culture Signals
+**Grade: B**
+
+Some analysis.
+
+### 4. FOG Index
+**Grade: C+** → recorded as **C**
+
+Some analysis that never repeats a separate "**Grade:" line.
+
+### 5. Vision, Leadership & Long-Term Orientation
+**Grade: A**
+
+Some analysis.
+
+---
+
+## Composite Grade: B
+
+**Calculation:**
+- Dimension 1 (Capital Stewardship): B = 3.0 × 0.25 = **0.75**
+- Dimension 2 (Strategic Clarity): B = 3.0 × 0.25 = **0.75**
+- Dimension 3 (Stakeholder Balance): B = 3.0 × 0.15 = **0.45**
+- Dimension 4 (FOG Index): C = 2.0 × 0.20 = **0.40**
+- Dimension 5 (Vision & Leadership): A = 4.0 × 0.15 = **0.60**
+
+**Weighted Score: 0.75 + 0.75 + 0.45 + 0.40 + 0.60 = 2.95 → B**
+"""
+
+
+def test_parse_inline_recorded_as_dim_grade():
+    """Real-world regression (RH q2-2023): a dimension states a split
+    preliminary grade and its final restatement on the SAME line
+    ('**Grade: A-/B+** -> recorded as **B**'), with no separate later
+    '**Grade:' line for the existing restated-dimension-grade fix to catch.
+    The 'recorded as **X**' suffix is the LLM's final answer and must win."""
+    result = parse_grades(SAMPLE_INLINE_RECORDED_AS_DIM_GRADE)
+    assert result["dim2_grade"] == "B"
+    assert result["dim4_grade"] == "C"
+    assert result["dim1_grade"] == "B"
+    assert result["dim3_grade"] == "B"
+    assert result["dim5_grade"] == "A"
+    assert result["composite_grade"] == "B"
+    assert result["composite_score"] == 2.95
+
+
 def test_parse_header_metadata():
     result = parse_grades(SAMPLE_ROOT)
     assert result["company"] == "Root, Inc."

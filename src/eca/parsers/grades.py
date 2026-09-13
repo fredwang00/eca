@@ -26,14 +26,22 @@ def parse_grades(text: str) -> dict:
     # "A-/B+"), then restates a single, more considered grade later in the
     # same section's prose -- take the LAST "Grade:" line in the section,
     # which is what the LLM's own composite calculation actually uses.
+    # Some output instead restates on the SAME line as the preliminary grade
+    # (e.g. "**Grade: A-/B+** -> recorded as **B**") -- that restatement
+    # always wins over the last-"Grade:"-line fallback.
     dim_section_pattern = re.compile(
         r"###\s+(\d)\.\s+.*?(?=\n###\s|\Z)", re.DOTALL
     )
     dim_grade_line = re.compile(r"\*\*Grade:\s*\**([A-F][+-]?)")
+    dim_recorded_as = re.compile(r"recorded as\s*\*\*([A-F][+-]?)\*\*")
     for section in dim_section_pattern.finditer(text):
-        grades = dim_grade_line.findall(section.group())
-        if grades:
-            result[f"dim{section.group(1)}_grade"] = grades[-1]
+        recorded = dim_recorded_as.findall(section.group())
+        if recorded:
+            result[f"dim{section.group(1)}_grade"] = recorded[-1]
+        else:
+            grades = dim_grade_line.findall(section.group())
+            if grades:
+                result[f"dim{section.group(1)}_grade"] = grades[-1]
 
     # Composite grade: "### Composite Grade: X", tolerating markdown bold
     # around the letter (e.g. "### Composite Grade: **B**"). Some LLM output
@@ -53,6 +61,17 @@ def parse_grades(text: str) -> dict:
         )
         if inline_grade:
             result["composite_grade"] = inline_grade.group(1)
+
+    # A later, more-considered restatement sometimes follows the heading and
+    # the weighted-total arithmetic, e.g. "*Note: ... Grade: B- (composite
+    # score 2.54).*" -- the heading letter is written before the calculation
+    # and can be stale; this restatement reflects the LLM's own arithmetic
+    # and always supersedes it.
+    restated_grades = re.findall(
+        r"Grade:\s*\**([A-F][+-]?)\**\s*\(composite score", text
+    )
+    if restated_grades:
+        result["composite_grade"] = restated_grades[-1]
 
     # Composite score extraction — multiple LLM output formats:
     # 1. "Weighted Total: 3.015 → Composite Grade: B"
