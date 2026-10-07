@@ -1,0 +1,16 @@
+{
+  "source_provider": "fixture-curated",
+  "source_url": "https://example.invalid/nvda-q2-2027",
+  "retrieved_at": "2026-10-07T00:00:00Z",
+  "sha256_raw": "cf63650fbe41678fa462d5d5359f485ba50274f6d3d634f8014f86483c09cda9",
+  "sha256_normalized": "ed8a3e091667ec825b2e6f1c602cc1812e1257cada9aea734c4ae61e7a93d98f",
+  "document_date": "2026-08-26",
+  "call_date": "2026-08-26",
+  "fiscal_year": 2027,
+  "fiscal_quarter": 2,
+  "period_start": "2026-05-01",
+  "period_end": "2026-07-31",
+  "normalization_warnings": [
+    "removed_provider_summary_blocks: 1"
+  ]
+}

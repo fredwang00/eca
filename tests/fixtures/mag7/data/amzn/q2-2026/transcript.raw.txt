@@ -1,0 +1,13 @@
+----- BEGIN PROVIDER SUMMARY -----
+Earnings Call Date: 2026-07-30
+Earnings Call Sentiment
+Positive
+The call conveyed strong momentum in AI-driven infrastructure investment.
+----- END PROVIDER SUMMARY -----
+Operator: Welcome to the Amazon.com Second Quarter 2026 Earnings Conference Call.
+Brian Olsavsky — Chief Financial Officer
+Now turning to our cash CapEx, which is $53.1 billion in Q2. This primarily relates to AWS and generative AI as we invest to support strong customer demand.
+Andy Jassy — Chief Executive Officer
+We now believe we will spend approximately $220 billion in cash CapEx in 2026. The higher cost of memory pushing this number up from our prior estimate of about $200 billion. Even at that amount, we will still not have enough capacity to meet all the demand we have in 2026, and I believe this dynamic will also be true in 2027, too.
+There are two major parts of the investment, the data centers and the servers and networking equipment that go into them. These have different capital cycles. Data center capital is spent starting two years before we can put servers into them to start monetizing. For servers and networking equipment, on average, it takes a little less than three years to break even on that investment.
+The servers currently have a useful life of at least five to six years, and most of our AI capacity these days is being contracted for at least five-year terms. That means that we're driving significant free cash flow on the servers and networking equipment in the two to three years after we break even. For our data centers, which have 30-plus-year useful lives, we should get at least five to six generations of server economics.

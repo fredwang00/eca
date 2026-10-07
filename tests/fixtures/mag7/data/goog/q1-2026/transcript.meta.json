@@ -1,0 +1,16 @@
+{
+  "source_provider": "fixture-curated",
+  "source_url": "https://example.invalid/goog-q1-2026",
+  "retrieved_at": "2026-10-07T00:00:00Z",
+  "sha256_raw": "6660585324e069373cb795fe6aafad4daf3d4ac43c6c18291719fdfe58fefba9",
+  "sha256_normalized": "1802d246eb9482e956cfd17104708ba5f67fa92091e24ec161147a9ffb1eae6e",
+  "document_date": "2026-04-29",
+  "call_date": "2026-04-29",
+  "fiscal_year": 2026,
+  "fiscal_quarter": 1,
+  "period_start": "2026-01-01",
+  "period_end": "2026-03-31",
+  "normalization_warnings": [
+    "removed_provider_summary_blocks: 1"
+  ]
+}

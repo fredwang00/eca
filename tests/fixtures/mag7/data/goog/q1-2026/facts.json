@@ -1,0 +1,31 @@
+{
+  "ticker": "GOOG",
+  "quarter": "Q1 2026",
+  "claims": [
+    {
+      "id": "GOOG-2026Q1-capex-CY2026-001",
+      "topic": "capex",
+      "metric": "capital_expenditure",
+      "claim_type": "management_guidance",
+      "period": "CY2026",
+      "value_low_m": 180000,
+      "value_high_m": 190000,
+      "currency": "USD",
+      "unit": "USD_millions",
+      "capex_definition": "company_defined_capex",
+      "duration_low_months": null,
+      "duration_high_months": null,
+      "direction": null,
+      "speaker": "Anat Ashkenazi",
+      "source_document": "q1-2026 earnings call",
+      "source_path": "data/goog/q1-2026/transcript.txt",
+      "source_section": "prepared_remarks",
+      "line_start": 3,
+      "line_end": 3,
+      "quote": "We are updating our full year 2026 CapEx guidance range to $180 billion to $190 billion, up from our previous estimate of $175 billion to $185 billion to now include investment related to the acquisition of Intersect, which closed in March.",
+      "as_of": "2026-04-29",
+      "supersedes_id": null,
+      "notes": "Prior $175-185B estimate predates this milestone and is not curated."
+    }
+  ]
+}

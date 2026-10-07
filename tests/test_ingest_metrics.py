@@ -106,3 +106,21 @@ def test_ingest_metrics_adds_equity_declining_flag(tmp_path, monkeypatch):
     CliRunner().invoke(cli, ["ingest-metrics", "root"])
     facts = json.loads((qdir / "facts.json").read_text())
     assert "equity_declining_yoy" in facts.get("flags", [])
+
+
+def test_capex_spend_m_is_positive_magnitude(tmp_path, monkeypatch):
+    """The cash-flow sign is preserved in capital_expenditure_m while
+    capex_spend_m stores the positive spend magnitude used by claims."""
+    quarters = {"Q3 2024": {"capital_expenditure_m": -44924.0}}
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+    monkeypatch.setattr(
+        "eca.processors.ingest_metrics.fetch_quarterly_metrics",
+        lambda ticker: quarters,
+    )
+    qdir = tmp_path / "data" / "root" / "q3-2024"
+    qdir.mkdir(parents=True)
+    (qdir / "facts.json").write_text(json.dumps({"ticker": "ROOT", "quarter": "Q3 2024"}))
+    CliRunner().invoke(cli, ["ingest-metrics", "root"])
+    facts = json.loads((qdir / "facts.json").read_text())
+    assert facts["metrics"]["capital_expenditure_m"] == -44924.0
+    assert facts["metrics"]["capex_spend_m"] == 44924.0

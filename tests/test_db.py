@@ -3,6 +3,8 @@ import shutil
 import sqlite3
 from pathlib import Path
 
+import pytest
+
 from eca.db import rebuild_index, connect_db, query_sector_financials, query_grade_trajectory, query_flag_frequency
 
 
@@ -156,3 +158,121 @@ def test_rebuild_inserts_signals(tmp_path, monkeypatch):
     ).fetchone()
     conn.close()
     assert row == ("trade_down", "moderate", "2026-03-30")
+
+
+# --- Claims indexing (mag7 evidence spec) ------------------------------------
+
+def _claim(claim_id, source_rel="data/goog/q2-2026/transcript.txt", **overrides):
+    from tests.test_claims import base_claim  # reuse canonical shape
+    claim = base_claim(source_rel)
+    claim["id"] = claim_id
+    claim.update(overrides)
+    return claim
+
+
+def _make_transcript(tmp_path, ticker, quarter, lines):
+    d = tmp_path / "data" / ticker.lower() / quarter
+    d.mkdir(parents=True, exist_ok=True)
+    (d / "transcript.txt").write_text("\n".join(lines) + "\n")
+    return d
+
+
+def _make_claim_facts(tmp_path, ticker, quarter, claims, lines=None):
+    d = _make_transcript(tmp_path, ticker, quarter, lines or [
+        "Operator: welcome.",
+        "We are updating our full year 2026 CapEx guidance.",
+    ])
+    (d / "facts.json").write_text(json.dumps({
+        "ticker": ticker, "quarter": "Q2 2026", "claims": claims,
+    }))
+    return d
+
+
+def _rebuild(tmp_path, monkeypatch):
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+    db_path = tmp_path / "data" / "eca.db"
+    rebuild_index(db_path)
+    return db_path
+
+
+def test_rebuild_indexes_claims(tmp_path, monkeypatch):
+    claim = _claim("GOOG-2026Q2-capex-CY2026-001")
+    _make_claim_facts(tmp_path, "GOOG", "q2-2026", [claim])
+    db_path = _rebuild(tmp_path, monkeypatch)
+    conn = sqlite3.connect(db_path)
+    row = conn.execute("SELECT * FROM claims WHERE id=?", (claim["id"],)).fetchone()
+    cols = [c[0] for c in conn.execute("SELECT * FROM claims LIMIT 1").description]
+    conn.close()
+    d = dict(zip(cols, row))
+    assert d["ticker"] == "GOOG"
+    assert d["quarter"] == "q2-2026"
+    assert d["topic"] == "capex"
+    assert d["value_low_m"] == 195000
+    assert d["quote"].startswith("We are updating")
+    assert d["facts_path"].endswith("facts.json")
+
+
+def test_claims_indexes_exist(tmp_path, monkeypatch):
+    claim = _claim("GOOG-2026Q2-capex-CY2026-001")
+    _make_claim_facts(tmp_path, "GOOG", "q2-2026", [claim])
+    db_path = _rebuild(tmp_path, monkeypatch)
+    conn = sqlite3.connect(db_path)
+    indexes = {r[0] for r in conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='index'").fetchall()}
+    conn.close()
+    assert {"idx_claims_topic_period_ticker",
+            "idx_claims_metric_type_asof",
+            "idx_claims_supersedes"} <= indexes
+
+
+def test_malformed_claim_fails_rebuild_with_path(tmp_path, monkeypatch):
+    claim = _claim("GOOG-2026Q2-capex-CY2026-001")
+    claim["period"] = "whenever"
+    facts_dir = _make_claim_facts(tmp_path, "GOOG", "q2-2026", [claim])
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+    db_path = tmp_path / "data" / "eca.db"
+    from eca.claims import ClaimValidationError
+    with pytest.raises(ClaimValidationError) as excinfo:
+        rebuild_index(db_path)
+    assert str(facts_dir / "facts.json") in str(excinfo.value)
+    # nothing was indexed
+    assert not db_path.exists() or sqlite3.connect(db_path).execute(
+        "SELECT COUNT(*) FROM claims").fetchone()[0] == 0
+
+
+def test_duplicate_claim_ids_across_tree_fail_rebuild(tmp_path, monkeypatch):
+    claim = _claim("GOOG-2026Q2-capex-CY2026-001")
+    _make_claim_facts(tmp_path, "GOOG", "q1-2026", [claim])
+    _make_claim_facts(tmp_path, "GOOG", "q2-2026", [claim])
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+    from eca.claims import ClaimValidationError
+    with pytest.raises(ClaimValidationError, match="duplicate claim id"):
+        rebuild_index(tmp_path / "data" / "eca.db")
+
+
+def test_missing_transcript_prevents_indexing(tmp_path, monkeypatch):
+    claim = _claim("GOOG-2026Q2-capex-CY2026-001")
+    d = tmp_path / "data" / "goog" / "q2-2026"
+    d.mkdir(parents=True)
+    (d / "facts.json").write_text(json.dumps({"ticker": "GOOG", "claims": [claim]}))
+    monkeypatch.setattr("eca.config.project_root", lambda: tmp_path)
+    from eca.claims import ClaimValidationError
+    with pytest.raises(ClaimValidationError, match="source transcript missing"):
+        rebuild_index(tmp_path / "data" / "eca.db")
+
+
+def test_supersession_chain_indexed(tmp_path, monkeypatch):
+    older = _claim("GOOG-2026Q1-capex-CY2026-001", value_low_m=180000, value_high_m=190000,
+                   as_of="2026-04-29", source_path="data/goog/q1-2026/transcript.txt")
+    _make_claim_facts(tmp_path, "GOOG", "q1-2026", [older])
+    newer = _claim("GOOG-2026Q2-capex-CY2026-001", supersedes_id=older["id"])
+    _make_claim_facts(tmp_path, "GOOG", "q2-2026", [newer])
+    db_path = _rebuild(tmp_path, monkeypatch)
+    conn = sqlite3.connect(db_path)
+    sup = conn.execute(
+        "SELECT ticker, id FROM claims WHERE supersedes_id IS NOT NULL").fetchall()
+    target = conn.execute(
+        "SELECT id FROM claims WHERE id = ?", (older["id"],)).fetchone()
+    conn.close()
+    assert sup == [("GOOG", newer["id"])]
+    assert target == (older["id"],)

@@ -1,4 +1,10 @@
-"""SQLite index — derived from facts.json for fast aggregation queries."""
+"""SQLite index — derived from facts.json for fast aggregation queries.
+
+The database is disposable: it is fully rebuilt from the canonical facts.json
+files. Claim rows are validated before any rebuild happens, so malformed
+claims abort the rebuild with the exact artifact path instead of being
+silently dropped.
+"""
 
 from __future__ import annotations
 
@@ -21,7 +27,7 @@ CREATE TABLE IF NOT EXISTS quarter_facts (
     revenue_m REAL, gross_profit_m REAL, operating_income_m REAL,
     net_income_m REAL, eps REAL,
     free_cash_flow_m REAL, operating_cash_flow_m REAL,
-    capital_expenditure_m REAL,
+    capital_expenditure_m REAL, capex_spend_m REAL,
     cash_and_equivalents_m REAL, total_assets_m REAL,
     total_equity_m REAL, shares_outstanding_m REAL,
     bvps REAL, roe_pct REAL,
@@ -47,6 +53,40 @@ CREATE TABLE IF NOT EXISTS sector_map (
     sector TEXT NOT NULL,
     PRIMARY KEY (ticker, sector)
 );
+
+CREATE TABLE IF NOT EXISTS claims (
+    id TEXT PRIMARY KEY,
+    ticker TEXT NOT NULL,
+    quarter TEXT NOT NULL,
+    topic TEXT NOT NULL,
+    metric TEXT NOT NULL,
+    claim_type TEXT NOT NULL,
+    period TEXT NOT NULL,
+    value_low_m INTEGER,
+    value_high_m INTEGER,
+    currency TEXT,
+    unit TEXT,
+    capex_definition TEXT,
+    duration_low_months INTEGER,
+    duration_high_months INTEGER,
+    direction TEXT,
+    speaker TEXT,
+    source_document TEXT,
+    source_path TEXT NOT NULL,
+    source_section TEXT NOT NULL,
+    line_start INTEGER NOT NULL,
+    line_end INTEGER NOT NULL,
+    quote TEXT NOT NULL,
+    as_of TEXT NOT NULL,
+    supersedes_id TEXT,
+    notes TEXT,
+    facts_path TEXT NOT NULL,
+    FOREIGN KEY (ticker, quarter) REFERENCES quarter_facts(ticker, quarter)
+);
+
+CREATE INDEX IF NOT EXISTS idx_claims_topic_period_ticker ON claims (topic, period, ticker);
+CREATE INDEX IF NOT EXISTS idx_claims_metric_type_asof ON claims (metric, claim_type, as_of);
+CREATE INDEX IF NOT EXISTS idx_claims_supersedes ON claims (supersedes_id);
 """
 
 _CANDOR_FIELDS = [
@@ -57,6 +97,7 @@ _CANDOR_FIELDS = [
 _METRIC_FIELDS = [
     "revenue_m", "gross_profit_m", "operating_income_m", "net_income_m", "eps",
     "free_cash_flow_m", "operating_cash_flow_m", "capital_expenditure_m",
+    "capex_spend_m",
     "cash_and_equivalents_m", "total_assets_m", "total_equity_m",
     "shares_outstanding_m", "bvps", "roe_pct",
     "combined_ratio_pct", "loss_ratio_pct", "expense_ratio_pct",
@@ -78,31 +119,52 @@ def connect_db(db_path: Path) -> sqlite3.Connection:
 
 
 def rebuild_index(db_path: Path) -> None:
-    """Full rebuild of the SQLite index from facts.json files."""
-    from eca.config import data_dir
+    """Full rebuild of the SQLite index from facts.json files.
+
+    Claims are validated against the schema and their cited sources before
+    any table is touched; malformed claims or duplicate IDs abort the
+    rebuild with the offending artifact path.
+    """
+    from eca.claims import validate_claim_references, validate_claims_in_facts
+    from eca.config import data_dir, project_root
+
+    root = project_root()
+    data = data_dir()
+
+    quarters: list[tuple[str, str, dict, Path]] = []
+    claim_items: list[tuple[dict, Path]] = []
+    if data.exists():
+        for ticker_dir in sorted(data.iterdir()):
+            if not ticker_dir.is_dir() or ticker_dir.name == "synthesis":
+                continue
+            ticker = ticker_dir.name.upper()
+            for quarter_path in sorted(ticker_dir.iterdir()):
+                facts_path = quarter_path / "facts.json"
+                if not quarter_path.is_dir() or not facts_path.exists():
+                    continue
+                facts = load_facts(facts_path)
+                claims = validate_claims_in_facts(
+                    facts, source_root=root, facts_path=facts_path
+                )
+                quarters.append((ticker, quarter_path.name, facts, facts_path))
+                claim_items.extend((claim, facts_path) for claim in claims)
+
+    validate_claim_references(claim_items)
 
     conn = connect_db(db_path)
 
     # Drop and recreate to pick up schema changes
     conn.executescript("""
+        DROP TABLE IF EXISTS claims;
         DROP TABLE IF EXISTS quarter_flags;
         DROP TABLE IF EXISTS quarter_facts;
         DROP TABLE IF EXISTS sector_map;
     """)
     conn.executescript(SCHEMA_SQL)
 
-    data = data_dir()
-    if data.exists():
-        for ticker_dir in sorted(data.iterdir()):
-            if not ticker_dir.is_dir() or ticker_dir.name == "synthesis":
-                continue
-            ticker = ticker_dir.name.upper()
-            for quarter_dir in sorted(ticker_dir.iterdir()):
-                facts_path = quarter_dir / "facts.json"
-                if not quarter_dir.is_dir() or not facts_path.exists():
-                    continue
-                facts = load_facts(facts_path)
-                _insert_quarter(conn, ticker, quarter_dir.name, facts)
+    for ticker, quarter, facts, facts_path in quarters:
+        _insert_quarter(conn, ticker, quarter, facts)
+        _insert_claims(conn, ticker, quarter, facts.get("claims", []), facts_path)
 
     for sector, tickers in WATCHLIST_SECTORS.items():
         for ticker in tickers:
@@ -145,6 +207,61 @@ def _insert_quarter(conn: sqlite3.Connection, ticker: str, quarter: str, facts: 
         conn.execute(
             "INSERT OR IGNORE INTO quarter_flags (ticker, quarter, flag) VALUES (?, ?, ?)",
             (ticker, quarter, flag),
+        )
+
+
+_CLAIM_COLUMNS = [
+    "id", "ticker", "quarter", "topic", "metric", "claim_type", "period",
+    "value_low_m", "value_high_m", "currency", "unit", "capex_definition",
+    "duration_low_months", "duration_high_months", "direction", "speaker",
+    "source_document", "source_path", "source_section", "line_start", "line_end",
+    "quote", "as_of", "supersedes_id", "notes", "facts_path",
+]
+
+
+def _insert_claims(
+    conn: sqlite3.Connection,
+    ticker: str,
+    quarter: str,
+    claims: list[dict],
+    facts_path: Path,
+) -> None:
+    """Insert validated claim rows; the index stores fields for deterministic
+    filtering and citation rendering but owns no claim data."""
+    for claim in claims:
+        row = {
+            "id": claim["id"],
+            "ticker": ticker,
+            "quarter": quarter,
+            "topic": claim["topic"],
+            "metric": claim["metric"],
+            "claim_type": claim["claim_type"],
+            "period": claim["period"],
+            "value_low_m": claim.get("value_low_m"),
+            "value_high_m": claim.get("value_high_m"),
+            "currency": claim.get("currency"),
+            "unit": claim.get("unit"),
+            "capex_definition": claim.get("capex_definition"),
+            "duration_low_months": claim.get("duration_low_months"),
+            "duration_high_months": claim.get("duration_high_months"),
+            "direction": claim.get("direction"),
+            "speaker": claim.get("speaker"),
+            "source_document": claim.get("source_document"),
+            "source_path": claim["source_path"],
+            "source_section": claim["source_section"],
+            "line_start": claim["line_start"],
+            "line_end": claim["line_end"],
+            "quote": claim["quote"],
+            "as_of": claim["as_of"],
+            "supersedes_id": claim.get("supersedes_id"),
+            "notes": claim.get("notes"),
+            "facts_path": str(facts_path),
+        }
+        cols = ", ".join(_CLAIM_COLUMNS)
+        placeholders = ", ".join(["?"] * len(_CLAIM_COLUMNS))
+        conn.execute(
+            f"INSERT INTO claims ({cols}) VALUES ({placeholders})",
+            [row[c] for c in _CLAIM_COLUMNS],
         )
 
 

@@ -12,8 +12,21 @@ def cli():
 @click.argument("ticker")
 @click.argument("quarter")
 @click.argument("source", type=click.Path(exists=True, path_type=Path))
-def ingest_transcript_cmd(ticker: str, quarter: str, source: Path):
-    """Register a transcript and initialize the quarter."""
+@click.option("--source-provider", help="Name of the transcript provider")
+@click.option("--source-url", help="URL the transcript was retrieved from")
+@click.option("--retrieved-at", help="Retrieval timestamp (ISO 8601)")
+@click.option("--document-date", help="Document date (YYYY-MM-DD)")
+@click.option("--call-date", help="Earnings call date (YYYY-MM-DD)")
+@click.option("--fiscal-year", type=int, help="Company fiscal year of the document")
+@click.option("--fiscal-quarter", type=int, help="Company fiscal quarter (1-4)")
+@click.option("--period-start", help="Fiscal period start (YYYY-MM-DD)")
+@click.option("--period-end", help="Fiscal period end (YYYY-MM-DD)")
+def ingest_transcript_cmd(ticker: str, quarter: str, source: Path, source_provider: str | None,
+                          source_url: str | None, retrieved_at: str | None,
+                          document_date: str | None, call_date: str | None,
+                          fiscal_year: int | None, fiscal_quarter: int | None,
+                          period_start: str | None, period_end: str | None):
+    """Register a transcript with provenance (raw + normalized + meta + hashes)."""
     from eca.processors.ingest_transcript import ingest_transcript, validate_quarter_slug
 
     try:
@@ -21,8 +34,25 @@ def ingest_transcript_cmd(ticker: str, quarter: str, source: Path):
     except ValueError as e:
         raise click.UsageError(str(e))
 
-    target = ingest_transcript(ticker, quarter, source)
-    click.echo(f"Ingested transcript -> {target}")
+    meta = {
+        "source_provider": source_provider,
+        "source_url": source_url,
+        "retrieved_at": retrieved_at,
+        "document_date": document_date,
+        "call_date": call_date,
+        "fiscal_year": fiscal_year,
+        "fiscal_quarter": fiscal_quarter,
+        "period_start": period_start,
+        "period_end": period_end,
+    }
+    try:
+        result = ingest_transcript(ticker, quarter, source, meta=meta)
+    except ValueError as e:
+        raise click.UsageError(str(e))
+
+    click.echo(f"Ingested transcript -> {result.target}")
+    for warning in result.meta["normalization_warnings"]:
+        click.echo(f"warning: {warning}", err=True)
 
 
 @cli.command("ingest-metrics")
@@ -122,11 +152,15 @@ def analyze_cmd(ticker: str, quarter: str | None, analyze_all: bool, model: str,
 @cli.command("build-index")
 def build_index_cmd():
     """Rebuild SQLite index from facts.json files."""
+    from eca.claims import ClaimValidationError
     from eca.config import data_dir
     from eca.db import rebuild_index
 
     db_path = data_dir() / "eca.db"
-    rebuild_index(db_path)
+    try:
+        rebuild_index(db_path)
+    except ClaimValidationError as e:
+        raise click.ClickException(f"index build failed: {e}")
     click.echo(f"Index rebuilt -> {db_path}")
 
 
@@ -247,6 +281,132 @@ def query_cmd(query_text: str, ticker: str | None):
     system = "You are a financial data analyst. Answer questions based on the provided earnings call analysis data. Be concise."
     answer = run_analysis(system, f"Data:\n{context}\n\nQuestion: {query_text}")
     click.echo(answer)
+
+
+@cli.command("find")
+@click.argument("query", required=False)
+@click.option("--topic", type=click.Choice(["capex", "funding", "return"]),
+              help="Restrict to a topic")
+@click.option("--tickers", help="Comma-separated tickers (e.g. AAPL,AMZN,GOOG)")
+@click.option("--sector", help="Sector name (e.g. mag7, ai) or 'all'")
+@click.option("--period", help="Described period label (e.g. CY2026, FY2027)")
+@click.option("--claim-type", "claim_types", multiple=True,
+              type=click.Choice([
+                  "reported_actual", "management_guidance", "management_directional",
+                  "vendor_estimate", "agent_extrapolation", "scenario",
+              ]),
+              help="Restrict to claim class (repeatable)")
+@click.option("--definition", help="CapEx definition (e.g. cash_capex)")
+@click.option("--as-of", help="Only claims known on or before this date (YYYY-MM-DD)")
+@click.option("--primary-only", is_flag=True,
+              help="Management statements and reported actuals only")
+@click.option("--current", "current_only", is_flag=True,
+              help="Only the latest non-superseded claim per company and period")
+@click.option("--json", "as_json", is_flag=True, help="Emit complete records as JSON")
+def find_cmd(query: str | None, topic: str | None, tickers: str | None, sector: str | None,
+             period: str | None, claim_types: tuple[str, ...], definition: str | None,
+             as_of: str | None, primary_only: bool, current_only: bool, as_json: bool):
+    """Deterministically find citation-backed claims."""
+    import json
+
+    from eca.config import data_dir
+    from eca.db import connect_db, rebuild_index
+    from eca.retrieval import find_claims, format_claim, resolve_current
+
+    if sector == "all":
+        sector = None
+    ticker_list = [t.strip().upper() for t in tickers.split(",")] if tickers else None
+
+    db_path = data_dir() / "eca.db"
+    rebuild_index(db_path)
+    conn = connect_db(db_path)
+    try:
+        claims = find_claims(
+            conn, text=query, topic=topic, tickers=ticker_list, sector=sector,
+            period=period, claim_types=list(claim_types) or None,
+            definition=definition, as_of=as_of, primary_only=primary_only,
+        )
+        if current_only:
+            resolution = resolve_current(claims, as_of=as_of)
+            claims = resolution["current"]
+    finally:
+        conn.close()
+
+    if as_json:
+        click.echo(json.dumps(claims, indent=2))
+        return
+
+    if not claims:
+        click.echo("No claims found.")
+        return
+    for claim in claims:
+        click.echo(format_claim(claim))
+        click.echo("")
+
+
+@cli.command("ask")
+@click.argument("question")
+@click.option("--topic", "topics", multiple=True,
+              type=click.Choice(["capex", "funding", "return"]),
+              help="Topic to retrieve (repeatable; default capex)")
+@click.option("--period", "periods", multiple=True,
+              help="Described period label (repeatable; default derives from evidence)")
+@click.option("--tickers", help="Comma-separated tickers (e.g. AAPL,AMZN,GOOG)")
+@click.option("--sector", help="Sector name (e.g. mag7)")
+@click.option("--as-of", help="Answer as of this date (YYYY-MM-DD)")
+@click.option("--policy", type=click.Choice(["strict", "broad"]), default="strict",
+              help="Aggregation compatibility policy (default strict)")
+@click.option("--primary-sources-only", is_flag=True,
+              help="Exclude vendor estimates and extrapolations from evidence display")
+@click.option("--json", "as_json", is_flag=True,
+              help="Emit the evidence packet as JSON; performs no LLM call")
+@click.option("--model", default="claude-sonnet-4-6", help="Model for interpretation")
+def ask_cmd(question: str, topics: tuple[str, ...], periods: tuple[str, ...], tickers: str | None,
+            sector: str | None, as_of: str | None, policy: str, primary_sources_only: bool,
+            as_json: bool, model: str):
+    """Answer a question from an evidence packet built before any LLM call."""
+    import json
+
+    from eca.config import data_dir
+    from eca.db import connect_db, rebuild_index
+    from eca.llm import run_analysis
+    from eca.processors.ask import (
+        SYNTHESIS_SYSTEM_PROMPT, build_evidence_packet, render_packet,
+    )
+
+    db_path = data_dir() / "eca.db"
+    rebuild_index(db_path)
+    conn = connect_db(db_path)
+    try:
+        packet = build_evidence_packet(
+            conn, question,
+            topics=list(topics) or ["capex"],
+            periods=list(periods) or None,
+            tickers=[t.strip().upper() for t in tickers.split(",")] if tickers else None,
+            sector=None if sector == "all" else sector,
+            as_of=as_of, policy=policy, primary_only=primary_sources_only,
+        )
+    finally:
+        conn.close()
+
+    if as_json:
+        # Deterministic path: the packet is the answer; no LLM is involved.
+        click.echo(json.dumps(packet, indent=2))
+        return
+
+    click.echo(render_packet(packet))
+
+    try:
+        interpretation = run_analysis(
+            SYNTHESIS_SYSTEM_PROMPT, json.dumps(packet, indent=2), model=model,
+        )
+    except Exception as e:  # LLM failure never destroys the evidence result
+        click.echo(f"Synthesis error (evidence above is unaffected): {e}", err=True)
+        raise SystemExit(1)
+
+    click.echo("## 4. Interpretation")
+    click.echo("")
+    click.echo(interpretation)
 
 
 if __name__ == "__main__":

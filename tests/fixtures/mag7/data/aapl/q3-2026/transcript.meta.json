@@ -1,0 +1,16 @@
+{
+  "source_provider": "fixture-curated",
+  "source_url": "https://example.invalid/aapl-q3-2026",
+  "retrieved_at": "2026-10-07T00:00:00Z",
+  "sha256_raw": "7cb8c5f2c42d2c362bd44b0bb6cf87ccc84795722c793cfeba505f26706ce3dc",
+  "sha256_normalized": "ccf5befd643096836168650c23ef00b18fabbe9750b6b2eaa08f632a4a6b4c7b",
+  "document_date": "2026-04-30",
+  "call_date": "2026-04-30",
+  "fiscal_year": 2026,
+  "fiscal_quarter": 2,
+  "period_start": "2025-12-29",
+  "period_end": "2026-03-28",
+  "normalization_warnings": [
+    "removed_provider_summary_blocks: 1"
+  ]
+}

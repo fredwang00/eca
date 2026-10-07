@@ -1,0 +1,16 @@
+{
+  "source_provider": "fixture-curated",
+  "source_url": "https://example.invalid/amzn-q2-2026",
+  "retrieved_at": "2026-10-07T00:00:00Z",
+  "sha256_raw": "0063ff7e0fee57825bcb65ec20dc6f5f60f732765ea86554231f53e609e9907e",
+  "sha256_normalized": "1d6f2c868a89ad71f596e367f83a9c063cab60c05fdb3f8294916c17194f9954",
+  "document_date": "2026-07-30",
+  "call_date": "2026-07-30",
+  "fiscal_year": 2026,
+  "fiscal_quarter": 2,
+  "period_start": "2026-04-01",
+  "period_end": "2026-06-30",
+  "normalization_warnings": [
+    "removed_provider_summary_blocks: 1"
+  ]
+}

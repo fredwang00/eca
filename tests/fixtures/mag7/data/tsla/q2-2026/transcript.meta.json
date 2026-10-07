@@ -1,0 +1,16 @@
+{
+  "source_provider": "fixture-curated",
+  "source_url": "https://example.invalid/tsla-q2-2026",
+  "retrieved_at": "2026-10-07T00:00:00Z",
+  "sha256_raw": "cd42ff3262ce6906eec219fe02f49c6e86c1f4cc19885fe423882993852b1f56",
+  "sha256_normalized": "73d181e36347779f8af2a91d1a577d50aaea14d156bc31b745368623f82718ad",
+  "document_date": "2026-07-22",
+  "call_date": "2026-07-22",
+  "fiscal_year": 2026,
+  "fiscal_quarter": 2,
+  "period_start": "2026-04-01",
+  "period_end": "2026-06-30",
+  "normalization_warnings": [
+    "removed_provider_summary_blocks: 1"
+  ]
+}
