@@ -78,6 +78,11 @@ def ingest_metrics(ticker: str) -> Path:
             continue
 
         merged_metrics = merged_quarters[q_label]
+        # Preserve both conventions: the cash-flow statement sign as reported
+        # (capital_expenditure_m, may be negative) and the positive spend
+        # magnitude (capex_spend_m) used by claims and aggregation.
+        if merged_metrics.get("capital_expenditure_m") is not None:
+            merged_metrics["capex_spend_m"] = abs(merged_metrics["capital_expenditure_m"])
 
         facts_path = q_dir / "facts.json"
         facts = load_facts(facts_path)

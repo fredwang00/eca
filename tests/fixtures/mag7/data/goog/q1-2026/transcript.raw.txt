@@ -1,0 +1,9 @@
+----- BEGIN PROVIDER SUMMARY -----
+Earnings Call Date: 2026-04-29
+Earnings Call Sentiment
+Positive
+The call conveyed strong momentum in AI-driven infrastructure investment.
+----- END PROVIDER SUMMARY -----
+Operator: Welcome to the Alphabet First Quarter 2026 Earnings Conference Call.
+Anat Ashkenazi — Chief Financial Officer
+We are updating our full year 2026 CapEx guidance range to $180 billion to $190 billion, up from our previous estimate of $175 billion to $185 billion to now include investment related to the acquisition of Intersect, which closed in March. We are seeing unprecedented internal and external demand for AI compute resources.

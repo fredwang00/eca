@@ -119,6 +119,7 @@ COMPANY_NAMES: dict[str, str] = {
 
 
 WATCHLIST_SECTORS: dict[str, list[str]] = {
+    "mag7":     ["AAPL", "AMZN", "GOOG", "META", "MSFT", "NVDA", "TSLA"],
     "ai":       ["NVDA", "MSFT", "GOOG", "META", "AMZN", "AAPL", "TSLA", "PLTR", "TSM", "AVGO", "SPACEX"],
     "infra":    ["IREN", "CIFR", "HUT", "WULF", "NBIS", "CRWV"],
     "crypto":   ["MSTR", "BMNR", "COIN", "GLXY", "CRCL"],

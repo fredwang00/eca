@@ -18,6 +18,7 @@ class QuarterMetrics(TypedDict, total=False):
     free_cash_flow_m: float | None
     operating_cash_flow_m: float | None
     capital_expenditure_m: float | None
+    capex_spend_m: float | None
     cash_and_equivalents_m: float | None
     total_assets_m: float | None
     total_equity_m: float | None

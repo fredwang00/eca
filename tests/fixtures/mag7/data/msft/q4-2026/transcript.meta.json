@@ -1,0 +1,16 @@
+{
+  "source_provider": "fixture-curated",
+  "source_url": "https://example.invalid/msft-q4-2026",
+  "retrieved_at": "2026-10-07T00:00:00Z",
+  "sha256_raw": "9e6a6f045c42b0ccbb0debc9dad4b3d770695b7766155114df434a8fbe4e4b94",
+  "sha256_normalized": "6f830d826caae01225408034612acff97c726c05feb0e1a55603ee138d6d7eae",
+  "document_date": "2026-07-29",
+  "call_date": "2026-07-29",
+  "fiscal_year": 2026,
+  "fiscal_quarter": 4,
+  "period_start": "2026-04-01",
+  "period_end": "2026-06-30",
+  "normalization_warnings": [
+    "removed_provider_summary_blocks: 1"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_provider": "fixture-curated",
+  "source_url": "https://example.invalid/meta-q2-2026",
+  "retrieved_at": "2026-10-07T00:00:00Z",
+  "sha256_raw": "a084f6510124f1e0f94b5d9fa67d8eece5bda6691a773ab5892c01f2955b396b",
+  "sha256_normalized": "e84064a1d2b40d0449172c8bc9c3316a139aecc8e4b97271c5789047a313cb80",
+  "document_date": "2026-07-29",
+  "call_date": "2026-07-29",
+  "fiscal_year": 2026,
+  "fiscal_quarter": 2,
+  "period_start": "2026-04-01",
+  "period_end": "2026-06-30",
+  "normalization_warnings": [
+    "removed_provider_summary_blocks: 1"
+  ]
+}

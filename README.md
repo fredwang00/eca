@@ -55,6 +55,21 @@ eca query "grades GOOG"
 
 # Natural language queries over the full data tree
 eca query "which company improved most between Q1 and Q4 2025?"
+
+# Ingest a transcript with provenance (raw + normalized + meta + hashes)
+eca ingest-transcript GOOG q2-2026 ~/Downloads/goog.txt \
+  --source-provider motley-fool --source-url https://... \
+  --call-date 2026-07-22 --fiscal-year 2026 --fiscal-quarter 2
+
+# Find citation-backed claims (deterministic; --json emits full records)
+eca find capex --sector mag7 --period CY2026 \
+  --claim-type management_guidance --primary-only --current --json
+
+# Ask a question from an evidence packet built before any LLM call
+# (--json performs no LLM call and returns the auditable packet)
+eca ask "How will the Mag 7 fund 2026-2027 CapEx?" \
+  --sector mag7 --topic capex --topic funding \
+  --period CY2026 --period CY2027 --as-of 2026-10-07 --json
 ```
 
 ## Claude Code skill
@@ -82,9 +97,11 @@ data/
   goog/
     brief.md            # per-ticker candor trajectory, FOG patterns, key commitments
     q1-2025/
-      transcript.txt    # raw earnings call text
-      analysis.md       # Rittenhouse framework analysis
-      facts.json        # structured grades, signals, metadata
+      transcript.raw.txt  # ingested bytes, never edited
+      transcript.txt      # normalized primary transcript text
+      transcript.meta.json # provenance: provider, URL, hashes, fiscal metadata
+      analysis.md         # Rittenhouse framework analysis
+      facts.json          # structured grades, signals, and citation-backed claims
     q2-2025/
     annual-letter-2025/ # annual shareholder letters follow the same structure
       transcript.txt
@@ -93,11 +110,11 @@ data/
     metrics-raw.json    # yfinance financial data (ticker-level)
   synthesis/
     consumer-YYYY-MM-DD.md  # sector-level synthesis output
-  eca.db                # SQLite index (rebuilt from facts.json)
+  eca.db                # SQLite index (rebuilt from facts.json; disposable)
   dashboard.md          # latest dashboard render
 ```
 
-`facts.json` captures per-dimension candor grades, composite scores, financial metrics, and consumer health signals in a machine-readable format for cross-quarter queries and dashboard aggregation.
+`facts.json` captures per-dimension candor grades, composite scores, financial metrics, consumer health signals, and — for quarters with curated evidence — a `claims` array of citation-backed claim records (see `CLAUDE.md` and `docs/specs/2026-10-04-mag7-capex-evidence-design.md`). Claims distinguish management guidance from vendor estimates, calendar from fiscal periods, and compatible from incompatible CapEx definitions; `eca find`/`eca ask` retrieve and aggregate them deterministically.
 
 ## Consumer health dashboard
 
